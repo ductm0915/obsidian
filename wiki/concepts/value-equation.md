@@ -23,3 +23,4 @@ Alex Hormozi's formula for quantifying perceived value of any offer:
 ## Sources
 - [[hormozi-100m-offers]]
 - [[hormozi-100m-playbooks]]
+- [[hormozi-no-bs-business-2026]]

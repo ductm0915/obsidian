@@ -1,6 +1,8 @@
 ---
 title: "SPCL Framework"
 type: concept
+created: 2026-04-08
+updated: 2026-04-08
 tags: [persuasion, brand-building, influence]
 ---
 
@@ -12,6 +14,9 @@ A framework for building extreme influence (predictability of compliance to requ
 - **Power:** Based on "say-do correspondence". If someone predicts an outcome, gives a directive, and a positive result occurs, their power increases.
 - **Credibility:** Observable, third-party verified proof of competence or results.
 - **Likeness:** Psychological or physical relatability. The prospect shares values, traits, or history with the individual.
+
+## Topics
+- [[brand-building]]
 
 ## Sources
 - [[hormozi-grow-audience-2026]]

@@ -4,6 +4,7 @@ type: source
 author: "Alex Hormozi"
 category: article
 created: 2026-04-08
+updated: 2026-04-08
 tags: [branding, audience-growth]
 ---
 
@@ -27,6 +28,9 @@ Alex Hormozi breaks down the exact strategies he used to rapidly grow his audien
 - [[branding-vs-advertising]]
 - [[spcl-framework]]
 - [[interest-media]]
+
+## Related Topics
+- [[brand-building]]
 
 ## Original Entities
 - [[alex-hormozi]] (Speaker)

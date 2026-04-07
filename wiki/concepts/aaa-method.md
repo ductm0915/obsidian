@@ -1,6 +1,8 @@
 ---
 title: "AAA Method (3A Reframing)"
 type: concept
+created: 2026-04-08
+updated: 2026-04-08
 tags: ["objection-handling", "sales", "communication", "reframing"]
 ---
 

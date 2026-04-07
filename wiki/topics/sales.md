@@ -1,6 +1,8 @@
 ---
 title: "Sales"
 type: topic
+created: 2026-04-08
+updated: 2026-04-08
 tags: ["business", "revenue", "operations"]
 ---
 
@@ -16,6 +18,7 @@ Sales is the process of helping individuals or organizations make a buying decis
 - [[bamfam]]: Strategy to chain meeting cadences without dropoff.
 - [[grand-slam-offer]]: Engineering offers so good people feel stupid saying no.
 - [[value-equation]]: Value = (Dream Outcome × Likelihood) / (Time Delay × Effort).
+- [[six-horsemen-stagnation]]: Includes underpricing (5+20 rule) and infinite avatars — both directly impact sales effectiveness and pricing strategy.
 
 ## Key Thinkers
 - [[alex-hormozi]]
@@ -31,3 +34,8 @@ Sales is the process of helping individuals or organizations make a buying decis
 - [[hormozi-100m-offers]]
 - [[hormozi-100m-playbooks]]
 - [[miner-nepq-black-book]]
+- [[hormozi-no-bs-business-2026]]
+
+## Related Topics
+- [[operations]]
+- [[brand-building]]

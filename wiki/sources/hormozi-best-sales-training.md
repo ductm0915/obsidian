@@ -4,6 +4,7 @@ type: source
 author: "Alex Hormozi"
 category: video-transcript
 created: 2026-04-08
+updated: 2026-04-08
 tags: [sales, power, influence, decision-making]
 ---
 
@@ -22,6 +23,9 @@ A speech by Alex Hormozi at Coaching Con focusing on understanding and unlocking
 - [[spcl-framework]]
 - [[aaa-method]]
 - [[volume-negates-luck]]
+
+## Related Topics
+- [[sales]]
 
 ## Original Entities
 - [[alex-hormozi]] (Speaker)

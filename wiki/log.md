@@ -2,7 +2,7 @@
 title: "Wiki Log"
 type: log
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-08
 ---
 
 # Wiki Log
@@ -46,3 +46,25 @@ Batch ingested the entire $100M Playbook library and supplementary sales materia
 - Created Concepts: [[value-equation]], [[grand-slam-offer]]
 - Created Entities: [[jeremy-miner]]
 - Updated: [[alex-hormozi]], [[sales]], [[index]], [[overview]], [[log]]
+
+## [2026-04-08] lint | Wiki Health Check
+Ran full lint across 24 pages. Results:
+- **Orphans:** 0 (all pages reachable)
+- **Dead links:** 0 among original pages; forward-reference stubs exist for not-yet-ingested sources
+- **Stale metadata:** Fixed `created`/`updated` frontmatter on 16 pages
+- **Missing cross-refs:** Added ~20 wikilinks (concept→topic hub, source→topic hub, source↔source, entity→topic)
+- **Overview:** Added new sources to frontmatter list, added Key Insight #7 (Offers as Core Leverage), added new Connections
+- **Contradictions:** None found (2 tensions noted: RAG characterization, education-vs-reframing spectrum)
+- Updated: [[hormozi-ultimate-sales-2026]], [[sales-multipliers]], [[volume-negates-luck]], [[bamfam]], [[sales]], [[branding-vs-advertising]], [[spcl-framework]], [[interest-media]], [[brand-building]], [[alex-hormozi]], [[aaa-method]], [[hormozi-grow-audience-2026]], [[hormozi-3a-reframing]], [[hormozi-best-sales-training]], [[index]], [[overview]], [[log]]
+
+## [2026-04-08] ingest | No BS Business Advice to Get Rich in 2026 — Enrichment
+Enriched existing [[hormozi-no-bs-business-2026]] source with new concept pages and cross-references. Created topic hub for Operations. Added three new concept pages for frameworks not yet extracted.
+- Created: [[optimization-framework]], [[flywheel-effect]], [[discretionary-effort]], [[operations]]
+- Updated: [[hormozi-no-bs-business-2026]], [[alex-hormozi]], [[index]], [[overview]], [[sales]], [[value-equation]], [[brand-building]], [[log]]
+
+## [2026-04-08] ingest | No BS Business Advice to Get Rich in 2026
+Ingested Alex Hormozi's comprehensive year-end business review (~1200 lines transcript). Covers 20+ lessons on strategy, operations, culture, branding, content, talent, and personal optimization. Portfolio went from ~$50M to ~$100M EBITDA. Richest single source ingested — touched every existing topic hub and created 10 new pages.
+- Created Sources: [[hormozi-no-bs-business-2026]]
+- Created Concepts: [[six-horsemen-stagnation]], [[problems-vs-missed-opportunities]], [[sawdust-business]], [[kind-not-nice]], [[what-who-when]]
+- Created Entities: [[leila-hormozi]], [[ben-francis]], [[school-platform]]
+- Updated: [[alex-hormozi]], [[brand-building]], [[sales]], [[branding-vs-advertising]], [[operations]], [[scale-framework]], [[index]], [[overview]], [[log]]

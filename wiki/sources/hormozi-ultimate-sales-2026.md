@@ -3,6 +3,8 @@ title: "The Ultimate Sales Training for 2026 Full Course"
 type: source
 author: "Alex Hormozi"
 date: "2026"
+created: 2026-04-08
+updated: 2026-04-08
 tags: ["sales", "training", "objection-handling"]
 ---
 
@@ -26,6 +28,12 @@ A comprehensive, framework-driven masterclass on scaling sales teams, increasing
 
 ## Relevant Entities
 - [[alex-hormozi]]
+
+## Related Topics
+- [[sales]]
+
+## Related Sources
+- [[hormozi-3a-reframing]] — expanded deep-dive on the AAA Method
 
 ## Further Exploration
 - Connect this to basic pipeline conversion practices.

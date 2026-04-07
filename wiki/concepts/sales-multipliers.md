@@ -1,6 +1,8 @@
 ---
 title: "Sales Multipliers"
 type: concept
+created: 2026-04-08
+updated: 2026-04-08
 tags: ["sales", "operations", "efficiency"]
 ---
 
@@ -17,6 +19,12 @@ According to [[alex-hormozi]]:
 
 ## Application
 These multipliers hinge on extreme operational efficiency. The premise is that small logistical edges compound massively over hundreds of leads.
+
+## Related Concepts
+- [[volume-negates-luck]] — complementary principle: volume + efficiency = mastery
+
+## Topics
+- [[sales]]
 
 ## Sources
 - [[hormozi-ultimate-sales-2026]]

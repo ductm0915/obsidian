@@ -2,15 +2,15 @@
 title: "Wiki Index"
 type: index
 created: 2026-04-07
-updated: 2026-04-07
+updated: 2026-04-08
 ---
 
 # Wiki Index
 
 Master catalog of all pages in this wiki. Organized by category. The LLM reads this first when answering queries to find relevant pages.
 
-**Total pages:** 33  
-**Total sources ingested:** 12  
+**Total pages:** 51  
+**Total sources ingested:** 14  
 **Last updated:** 2026-04-08
 
 ---
@@ -30,6 +30,7 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[hormozi-best-sales-training]] — Speech on power, influence, and decision-making in sales.
 - [[hormozi-sell-better-99]] — 4-hour ultimate guide to outselling 99% of people.
 - [[miner-nepq-black-book]] — Jeremy Miner's NEPQ question-based selling methodology.
+- [[hormozi-no-bs-business-2026]] — Comprehensive yearly recap: 20 lessons on strategy, operations, culture, content, and scaling frameworks.
 
 ## Entities
 
@@ -39,6 +40,9 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[qmd]] — Local markdown search engine (BM25/vector hybrid)
 - [[alex-hormozi]] — Entrepreneur, author of $100M series, expert in customer acquisition, sales, offers, and branding.
 - [[jeremy-miner]] — Sales trainer, creator of NEPQ (Neuro-Emotional Persuasion Questioning) methodology.
+- [[leila-hormozi]] — Co-founder Acquisition.com, partner of Alex Hormozi, expert in operations and talent assessment.
+- [[ben-francis]] — Founder of Gymshark, shared branding insights with Hormozi.
+- [[school-platform]] — Community platform; Hormozi's first brand deal, millions of users.
 
 ## Concepts
 
@@ -54,11 +58,21 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[interest-media]] — The shift in algorithms matching content to user interest rather than social graph.
 - [[value-equation]] — Value = (Dream Outcome × Likelihood) / (Time Delay × Effort).
 - [[grand-slam-offer]] — An offer so good people feel stupid saying no.
+- [[scale-framework]] — Start, Compound, Augment, Leverage, Expand — the micro-cycle within every scaling process.
+- [[optimization-framework]] — Question, Delete, Optimize, Pull-up timelines, Automate — delete-first approach to fixing what exists.
+- [[flywheel-effect]] — Jim Collins' self-reinforcing business loop that compounds momentum.
+- [[discretionary-effort]] — Unlockable effort gap above "not getting fired" when incentives are aligned.
+- [[kind-not-nice]] — Cultural principle: kindness (truth-seeking feedback) vs. niceness (approval-seeking avoidance).
+- [[six-horsemen-stagnation]] — Six recurring scenarios that cause businesses to plateau.
+- [[problems-vs-missed-opportunities]] — Problems are finite and listable; missed opportunities are infinite distractions.
+- [[sawdust-business]] — Building businesses from waste byproducts of existing operations.
+- [[what-who-when]] — Execution framework: What → Who owns → How many hours → Pull up timelines.
 
 ## Topics
 
 - [[sales]] — Process of helping individuals make buying decisions through educated context.
 - [[brand-building]] — Strategies for creating targeted associations and influence for audience growth.
+- [[operations]] — Managing teams, processes, and systems to maximize output per unit of resource.
 
 ## Analyses
 

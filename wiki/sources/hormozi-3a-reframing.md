@@ -4,6 +4,7 @@ type: source
 author: "Alex Hormozi"
 category: video-transcript
 created: 2026-04-08
+updated: 2026-04-08
 tags: [sales, objection-handling, reframing]
 ---
 
@@ -29,6 +30,12 @@ Alex Hormozi's deep-dive into **Reframing** — the 1–3 sentences said after a
 ## Related Concepts
 - [[aaa-method]]
 - [[sales-multipliers]]
+
+## Related Topics
+- [[sales]]
+
+## Related Sources
+- [[hormozi-ultimate-sales-2026]] — broader sales masterclass containing intro to AAA
 
 ## Original Entities
 - [[alex-hormozi]] (Speaker)

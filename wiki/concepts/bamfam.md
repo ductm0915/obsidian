@@ -1,6 +1,8 @@
 ---
 title: "BAMFAM"
 type: concept
+created: 2026-04-08
+updated: 2026-04-08
 tags: ["sales", "customer-success", "cadence"]
 ---
 
@@ -13,6 +15,9 @@ BAMFAM is an operational rule stating that every scheduled interaction with a pr
 In contexts designed by [[alex-hormozi]], this completely eliminates "abandoned" leads or dropped handoffs between departments. 
 
 For instance, when Sales transfers a newly closed client to Customer Success, it should not be a "handoff" (where they simply email an intro), but a "handshake"—a seamlessly booked next step. No meeting should adjourn without the calendar for the next touchpoint being explicitly locked in.
+
+## Topics
+- [[sales]]
 
 ## Sources
 - [[hormozi-ultimate-sales-2026]]
