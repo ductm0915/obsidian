@@ -19,3 +19,8 @@ Scaffolded the LLM Wiki system with the following structure:
 - Created: [[index]], [[log]], [[overview]]
 - Created: `SCHEMA.md` (wiki conventions and workflows)
 - Created: Antigravity workflows (`/ingest`, `/query`, `/lint`)
+
+## [2026-04-07] ingest | LLM Wiki — Andrej Karpathy
+Ingested Karpathy's LLM Wiki pattern document. Core idea: LLM builds & maintains a persistent wiki instead of RAG. 3-layer architecture (raw/wiki/schema), 3 operations (ingest/query/lint). Historical connection to Vannevar Bush's Memex (1945).
+- Created: [[llm-wiki-karpathy]], [[andrej-karpathy]], [[vannevar-bush]], [[obsidian]], [[qmd]], [[llm-wiki-pattern]], [[rag]], [[memex]]
+- Updated: [[index]], [[overview]]
