@@ -105,6 +105,13 @@ SRT / Transcript → clean timestamps → clean fillers → format headings → 
 **Ví dụ đã xử lý:**
 - `Build & Sell with Claude Code (10+ Hour Course)` — 10+ tiếng, 30 chapters, SRT 83k dòng → article 10k dòng
 
+## Nguồn nội dung
+
+| Danh mục | Nội dung |
+|---|---|
+| **AI & Tools** | Build & Sell with Claude Code (10+ Hour Course) |
+| **Business & Sales** | Alex Hormozi — $100M Offers, Sales Training, Audience Growth |
+| **Brand & Content** | Caleb Ralston — Brand Building, Content Strategy |
 
 ## Clone về máy
 
