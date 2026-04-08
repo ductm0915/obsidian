@@ -4,16 +4,20 @@ Kho kiến thức cá nhân sử dụng Obsidian + LLM. Mục tiêu: biến tài
 
 ## Cách hoạt động
 
-1. **Nạp tài liệu** — Bỏ file gốc (PDF, transcript, bài viết) vào thư mục `raw/`
-2. **LLM xử lý** — LLM đọc tài liệu, trích xuất ý chính, tạo trang wiki tương ứng
-3. **Wiki tự liên kết** — Các khái niệm, nhân vật, chủ đề được liên kết chéo bằng `[[wikilinks]]` của Obsidian
-4. **Tra cứu** — Hỏi bất kỳ câu hỏi nào, LLM tổng hợp câu trả lời từ toàn bộ wiki
+1. **Xử lý transcript** — Dùng Text Processing pipeline (local) để clean SRT/transcript → markdown có headings
+2. **Nạp tài liệu** — Bỏ file đã xử lý vào thư mục `raw/`
+3. **LLM xử lý** — LLM đọc tài liệu, trích xuất ý chính, tạo trang wiki tương ứng
+4. **Wiki tự liên kết** — Các khái niệm, nhân vật, chủ đề được liên kết chéo bằng `[[wikilinks]]` của Obsidian
+5. **Tra cứu** — Hỏi bất kỳ câu hỏi nào, LLM tổng hợp câu trả lời từ toàn bộ wiki
 
 ## Cấu trúc thư mục
 
 ```
 ├── raw/                         # Tài liệu gốc (không chỉnh sửa)
-│   ├── articles/                # Bài viết, video transcript
+│   ├── articles/
+│   │   ├── AI/                  # Transcript về AI, Claude Code, LLM tools
+│   │   ├── Alex Hormozi/        # Business, sales, marketing
+│   │   └── Caleb Ralston/       # Brand building, content strategy
 │   ├── books/                   # Sách PDF
 │   └── assets/                  # Hình ảnh, file đính kèm
 │
@@ -83,6 +87,31 @@ Hỏi trực tiếp, ví dụ:
 ### Kiểm tra wiki
 
 Yêu cầu: *"Lint wiki"* — LLM sẽ kiểm tra link hỏng, trang thiếu liên kết, mâu thuẫn nội dung.
+
+## Text Processing Pipeline (local)
+
+Pipeline xử lý transcript thô (SRT, markdown) thành article có format, chạy local — không lưu trong repo.
+
+```
+SRT / Transcript → clean timestamps → clean fillers → format headings → format inline → add metadata → output
+```
+
+**Tính năng:**
+- Hỗ trợ SRT format (`00:00:00,000 --> 00:00:01,000`) — xoá sequence number và timestamp tự động
+- Nhận file timestamp để chèn `## heading` đúng vị trí chapter trong video
+- Nối dòng ngắn thành đoạn văn, xoá filler words
+- Thêm metadata (Source, Type) và Key Takeaways tự động
+
+**Ví dụ đã xử lý:**
+- `Build & Sell with Claude Code (10+ Hour Course)` — 10+ tiếng, 30 chapters, SRT 83k dòng → article 10k dòng
+
+## Nguồn nội dung
+
+| Danh mục | Nội dung |
+|---|---|
+| **AI & Tools** | Build & Sell with Claude Code (10+ Hour Course) |
+| **Business & Sales** | Alex Hormozi — $100M Offers, Sales Training, Audience Growth |
+| **Brand & Content** | Caleb Ralston — Brand Building, Content Strategy |
 
 ## Mở bằng Obsidian
 
