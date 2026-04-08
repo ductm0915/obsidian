@@ -4,6 +4,7 @@ type: source
 author: "Alex Hormozi"
 category: playbook-collection
 created: 2026-04-08
+updated: 2026-04-08
 tags: [business-operations, pricing, retention, marketing, hooks, lead-nurture]
 ---
 

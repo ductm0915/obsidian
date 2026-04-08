@@ -13,7 +13,23 @@ Brand Building encompasses the strategies, frameworks, and actions taken to asso
 ## Core Frameworks
 - **[[branding-vs-advertising]]**: Advertising lets people know; branding creates the association.
 - **[[spcl-framework]]**: The formula for maximizing direct influence (Status, Power, Credibility, Likeness).
+- **[[brand-pairing-formula]]**: $Pairing \times Consistency = Association$. Branding is the intentional act of linking oneself to a belief or outcome.
 - **The Six Content Changes**: A strategic shift for educators focusing on education over edutainment, long-form depth over shorts, and niche topics over wide appeal to attract premium audiences.
+
+## Content Operations
+- **[[accordion-method]]**: Expand (high volume) to learn what resonates → Contract (fewer, optimized) to do more of what works. Use quantity to inform quality.
+- **[[eye-of-sauron-method]]**: Focus innovation on one platform at a time; others on maintenance mode. Rotate continuously.
+- **[[brand-journey-framework]]**: 4-question reverse-engineering from desired outcome → today. The "northstar" for every content decision.
+- **3 Growth Stages**: Foundation (0-100K) → Scaling (100K-500K) → Sustaining (500K+). Different strategy per stage.
+
+## Differentiation & Standing Out
+- **[[contrarian-belief]]**: The "80% lever" for differentiation. Stand against the dominant industry trope using the "Two-Column Approach" (Industry trope vs. Personal conviction). Test multiple takes, double down on the one that resonates.
+- **Expert vs. Student**: Experts teach from a **[[credibility-bank]]** (proven wins); students document their journey via an **Interest Bank**.
+
+## Trust Optimization
+- **[[optimize-for-trust]]**: Prioritizing the depth of relationship (customers) over the breadth of reach (followers).
+- **Cold Audience Strategy**: Every piece of content should assume a "cold" viewer and include credentials/qualifiers to earn trust immediately.
+- **The "Stoked" Filter**: Personal branding is unsustainable if you aren't proud of the content you produce. Burnout is often a byproduct of building a brand caricature for the algorithm.
 
 ## The 70/30 Investment Rule
 New Balance's CMO flipped ad spend from 70% bottom-of-funnel / 30% top-of-funnel to **30/70**. Revenue dropped for 18 months, then exploded from month 19. Lesson: brand investment must be measured in years. Corroborates the 3:1 value-to-ask ratio (TV, radio, social feeds). Story via [[ben-francis]].
@@ -28,21 +44,40 @@ For B2B businesses (>50% of all businesses), three paths:
 - The transition of social platforms into **[[interest-media]]**, requiring brands to stay deeply within their domain to attract highly qualified (high RPM) audiences.
 - **Brand + product are interwoven long-term** — product quality reinforces or diminishes brand. Great product means less marketing needed to get the next purchase.
 
+## Creative Team Leadership
+- **[[creative-leadership]]**: Empower and equip, don't control. Bottom-up strategy over top-down directives.
+- **[[we-love-a-good-flop]]**: Celebrate experimentation failures to breed innovation. Fear kills creativity.
+- **Platform Ownership**: One person per platform → owns ideation + strategy + execution.
+
 ## Content Strategy Insights
 - **Back to business:** Wide content (vlogs, meals) attracted fewer absolute business owners. Niche business content restored growth.
 - **Pre-production > post-production** for educational content.
 - **3 P's intro:** Proof, Promise, Plan in the first 30 seconds of every video.
 - **Platform insights:** Email was MVP of the year; Amazon books drive ~15% of traffic indirectly.
+- **Niche-Wide Content**: Stay within your domain but vary width (deep vs. wide). Both must be niche-relevant.
+- **Educational > Entertainment**: Content that solves painful problems builds trust and converts; entertainment content builds followers but not sales.
 
 ## Key Thinkers & Entities
 - [[alex-hormozi]]
+- [[caleb-ralston]]
+- [[trevor-odum]]
 - [[ben-francis]]
 - [[school-platform]]
+- [[rson-select]]
 
 ## Ingested Sources
+- [[ralston-stand-out-brand]]
+- [[ralston-content-strategy-2026]]
+- [[ralston-265k-followers]]
+- [[ralston-build-brand-course]]
+- [[ralston-lead-creative-team]]
+- [[ralston-start-brand-course]]
+- [[ralston-rewire-content]]
+- [[ralston-3-stages-brand]]
 - [[hormozi-grow-audience-2026]]
 - [[hormozi-100m-branding]]
 - [[hormozi-no-bs-business-2026]]
 
 ## Related Topics
 - [[operations]]
+- [[sales]]

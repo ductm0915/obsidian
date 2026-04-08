@@ -68,3 +68,42 @@ Ingested Alex Hormozi's comprehensive year-end business review (~1200 lines tran
 - Created Concepts: [[six-horsemen-stagnation]], [[problems-vs-missed-opportunities]], [[sawdust-business]], [[kind-not-nice]], [[what-who-when]]
 - Created Entities: [[leila-hormozi]], [[ben-francis]], [[school-platform]]
 - Updated: [[alex-hormozi]], [[brand-building]], [[sales]], [[branding-vs-advertising]], [[operations]], [[scale-framework]], [[index]], [[overview]], [[log]]
+
+## [2026-04-08] ingest | Your Personal Brand Changes Once You Know How to Stand Out
+Ingested Caleb Ralston's article on "Trust-based" personal branding. Core shift: optimizing for deep trust with customers over high reach with followers. Leverage points: Contrarian Belief (the 80% lever) and the Credibility Bank (track record).
+- Created: [[ralston-stand-out-brand]], [[caleb-ralston]], [[jony-ive]], [[credibility-bank]], [[contrarian-belief]], [[brand-pairing-formula]], [[optimize-for-trust]]
+- Updated: [[brand-building]], [[index]], [[overview]], [[log]]
+
+## [2026-04-08] ingest | Batch ingest: Caleb Ralston articles (7 sources)
+Batch ingested 7 additional Caleb Ralston sources covering personal branding courses, content strategy, and creative team leadership.
+- Created: [[ralston-265k-followers]], [[ralston-3-stages-brand]], [[ralston-build-brand-course]], [[ralston-content-strategy-2026]], [[ralston-lead-creative-team]], [[ralston-rewire-content]], [[ralston-start-brand-course]]
+- Updated: [[caleb-ralston]], [[index]]
+
+## [2026-04-08] lint | Wiki Health Check #2
+Comprehensive lint across all pages. Total pages after fixes: 69.
+- **Dead links resolved (14):** `[[authority-building]]`, `[[content-strategy]]` (x4), `[[differentiation]]` (x2), `[[focus-as-strategy]]`, `[[jony-ive]]`, `[[leverage]]`, `[[personal-branding]]`, `[[two-column-approach]]` (x2), `[[accordion-method]]`, `[[eye-of-sauron-method]]`, `[[brand-journey-framework]]`, `[[creative-leadership]]`, `[[we-love-a-good-flop]]` — resolved by creating missing pages, replacing with valid links, or inlining text.
+- **Pages created (8):** [[jony-ive]], [[accordion-method]], [[eye-of-sauron-method]], [[brand-journey-framework]], [[two-column-approach]], [[creative-leadership]], [[we-love-a-good-flop]] (concepts), [[jony-ive]] (entity)
+- **Index gaps fixed:** 7 Ralston source pages + 6 concept pages + 2 entity pages were missing from index. Total count corrected from 58 → 69.
+- **Missing cross-refs added:** ~15 new wikilinks across [[credibility-bank]], [[optimize-for-trust]], [[contrarian-belief]], [[brand-pairing-formula]], [[overview]], [[caleb-ralston]].
+- **Orphans:** 0
+- **Contradictions:** None found
+- Updated: [[credibility-bank]], [[contrarian-belief]], [[optimize-for-trust]], [[ralston-stand-out-brand]], [[ralston-content-strategy-2026]], [[ralston-rewire-content]], [[hormozi-no-bs-business-2026]], [[problems-vs-missed-opportunities]], [[brand-building]], [[overview]], [[index]], [[caleb-ralston]], [[log]]
+
+## [2026-04-08] lint | Wiki Health Check #3
+Full lint across all 72 pages. Results:
+- **Dead links in log.md (6):** `authority-building`, `content-strategy` (x4), `differentiation`, `focus-as-strategy`, `leverage`, `personal-branding` — historical references from lint #2, log is append-only so not fixed.
+- **Missing frontmatter fixed (11):** Added `created: 2026-04-08` to [[grand-slam-offer]], [[value-equation]], [[jeremy-miner]]; added `updated: 2026-04-08` to [[hormozi-100m-offers]], [[hormozi-100m-playbooks]], [[hormozi-100m-lost-chapters]], [[hormozi-100m-branding]], [[hormozi-sales-2025]], [[hormozi-9-sales-concepts]], [[hormozi-sell-better-99]], [[miner-nepq-black-book]].
+- **Orphan resolved:** `claude-code-build-sell-course.md` (raw course transcript, no frontmatter, off-topic) moved from `wiki/sources/` → `raw/`.
+- **Missing cross-refs added (4):** [[contrarian-belief]] → [[brand-journey-framework]]; [[optimize-for-trust]] → [[accordion-method]]; [[we-love-a-good-flop]] → [[discretionary-effort]]; [[brand-journey-framework]] → [[contrarian-belief]].
+- **Thin pages (26):** Noted — mostly Hormozi batch-ingested stubs and older entity pages. No fix applied; enrichment deferred to future ingest passes.
+- **Orphans:** 0 (after fix above)
+- **Contradictions:** None found
+- Updated: [[grand-slam-offer]], [[value-equation]], [[jeremy-miner]], [[hormozi-100m-offers]], [[hormozi-100m-playbooks]], [[hormozi-100m-lost-chapters]], [[hormozi-100m-branding]], [[hormozi-sales-2025]], [[hormozi-9-sales-concepts]], [[hormozi-sell-better-99]], [[miner-nepq-black-book]], [[contrarian-belief]], [[optimize-for-trust]], [[we-love-a-good-flop]], [[brand-journey-framework]], [[log]]
+
+## [2026-04-08] ingest | Batch ingest: Caleb Ralston — Full Enrichment (8 sources, ~330K words)
+Deep ingest of all 8 Caleb Ralston sources on personal branding, content strategy, and creative leadership. This is the largest single-author batch ingested. Ralston's system provides the complete operational playbook for brand building, complementing Hormozi's sales/operations frameworks with the "how to actually build and scale a personal brand" implementation layer.
+- Created Sources: [[ralston-content-strategy-2026]], [[ralston-265k-followers]], [[ralston-build-brand-course]], [[ralston-lead-creative-team]], [[ralston-start-brand-course]], [[ralston-rewire-content]], [[ralston-3-stages-brand]]
+- Created Entities: [[trevor-odum]], [[rson-select]]
+- Created Concepts: [[brand-journey-framework]], [[accordion-method]], [[eye-of-sauron-method]], [[creative-leadership]], [[we-love-a-good-flop]]
+- Enriched: [[caleb-ralston]] (full bio + all frameworks), [[contrarian-belief]] (test-and-double-down + new examples), [[optimize-for-trust]] (trust definition + 4-step formula + viral trap), [[credibility-bank]] (new sources), [[brand-pairing-formula]] (new sources)
+- Updated: [[brand-building]] (content ops, creative team leadership, new sources), [[overview]] (new theme synthesis, 3 new insights, 8 new connections), [[index]] (page count 72, all new pages listed), [[log]]

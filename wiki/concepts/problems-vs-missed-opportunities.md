@@ -47,7 +47,7 @@ Starting a business = being rewarded for pursuing a missed opportunity (you were
 
 ## Connection to Focus
 
-This is a subset of the broader [[focus-as-strategy]] principle. Compounding in business happens from doing 1–2 things exceptionally well — not many things mediocre.
+This is a subset of a broader focus-as-strategy principle. Compounding in business happens from doing 1–2 things exceptionally well — not many things mediocre.
 
 ## References
 

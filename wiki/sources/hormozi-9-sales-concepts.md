@@ -4,6 +4,7 @@ type: source
 author: "Alex Hormozi"
 category: video-transcript
 created: 2026-04-08
+updated: 2026-04-08
 tags: [sales, mindset]
 ---
 

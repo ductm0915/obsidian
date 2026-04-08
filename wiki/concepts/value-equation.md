@@ -1,6 +1,8 @@
 ---
 title: "Value Equation"
 type: concept
+created: 2026-04-08
+updated: 2026-04-08
 tags: [pricing, offers, value-creation]
 ---
 

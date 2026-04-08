@@ -4,6 +4,7 @@ type: source
 author: "Jeremy Miner"
 category: book
 created: 2026-04-08
+updated: 2026-04-08
 tags: [sales, questioning, nepq]
 ---
 

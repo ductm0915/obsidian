@@ -1,5 +1,9 @@
 # The Ultimate Sales Training for 2026 (Full Course) - Alex Hormozi
 
+**Source:** Alex Hormozi
+**Type:** Sales Training / Full Course
+**Context:** Hormozi shares his 6-element Ultimate Sales Blueprint from 13 years and 4,000 personally closed sales.
+
 ## Sales Multiplier: Sell 7 Days a Week
 
 over the last 13 years I've personally closed 4,000 sales and these are the six elements of The Ultimate Sales blueprint so let's begin with sales multipliers these things right off the bat will make you more money first sales multiplier sell 7even days per week now the reason this is so important is that a lot of business owners want to make more money in their business a lot of sales people want to close more sales but they only choose to close days a week but the interesting thing is that and depending on the industry sometimes the off hours from like 5:00 p.m. onwards is when the most of your prospects are available so like in Fitness where I came from I closed all my sales from 4: until 8:00 p.m. and so if you're like well I only want to work between 9 to 5: it's like well guess what no one's going to buy during that time and so you can probably close more sales in the back at the day uh and on Saturdays and Sundays than you would during the normal 9 to5 so is especially true in like retail and businesses where you sell to Consumers who work normal jobs and you have to sell basically on the times that they're available so sell during the weekends the other piece of selling seven days a week is like there's actual math behind this and so there's 52 weeks a year and so if you have 52 weeks per year times two days right is 104 days of sales extra per year which is 29% increase over just selling 5 days a week and so if you want to immediately increase your sales by 29% sell on weekends and I know I've tried to sell you on this but I'm going to give you one more really good reason to sell over the weekend if you've ever tried to book sales and skip the weekends so you've got Friday here and then you've got Saturday and then Sunday and then Monday right and so you skip these days and so then this Monday gets stacked right you have all these people who are saying like oh man um I'm going to show up so your sales guys get they're like oh dude Monday looks big but as soon as Monday happens it's no show no show no show no show reschedule and you're like what the hell well you didn't make it available at the time when they wanted to actually come which is Saturday and Sunday that's when they clicked on the ad that's when they actually made the booking and believe it or not from a lot of our portfolio companies we get more people who actually schedule on Saturdays and Sundays for Monday which means that they
@@ -229,3 +233,37 @@ amazing thing for me and I was like well man if I can close a homeless person if
 is obviously one because people talk and then customers won't like if you're changing a sale price between different customers now testing price absolutely you should test your prices but that should be done ahead of time premeditated saying these next time we're going to try this out and see what happens not oh I got to close this guy so I'm going to lower the price to do it all right and so my favorite overcome for hey can I do it can you guys do it for Less is we could do it for more and as silly as that sounds that has never not worked for me and I'm still like I have like a perfect batting average on that one and so the thing is is that it's such a high indication of purchasing intention when someone says can you do it for $500 less can you do it for 30 grand instead of 50 Grand whatever that just saying we could do it for more what it does is it actually re anchors so if you're familiar with anchoring so let's say you say price is this they say well I want to pay 20% off that you then say cool well I'm going to say plus 20% and so basically it re anchors above it counter anchors and then they have a fear of missing out because all of a sudden the one price now becomes even more and they're like no no no no and a lot of times they just say no no I'm good I'll buy I'm I'm fine I'm fine and so uh never change price to close a deal now you can change terms so if you want to change how much they pay today then you have a payment plan if you want to change the uh components of the offer then you have a feature downsell those are very very different than discounts that you give for no reason and so you never negotiate with terrorists because if they see you change your price for them once they'll believe that every price you have is negotiable and then they'll tell everyone it is too so the next one that we'll cover is the idea that people want to buy so think about this when you are perusing on a site you want the thing people usually want the stuff people like buying the only reason that they don't buy is because they have a history of being punished for buying in the past but they want to buy and so our job as sales professionals or entrepreneurs is to help them justify making the decision and so people want an excuse to buy you need to give it to them and so earlier I said closers ask hard questions but my team hit this hit this pretty hard for me uh in terms of it being a big one so I'm GNA I'm going to highlight it with a
 
 little bit more detail so the reason closers ask hard questions uh is because they genuinely care and the reason that's so important is that you want to be kind not nice because nice guys don't want to offend someone kind people want to genuinely help and if you want to genuinely help then you want them to change their behavior just like these things hopefully change your behavior in terms of selling and so that means that you sometimes have to call them on their BS and the tactful way to doing that is that you want to confront those hard questions one before you've asked for money and two through foils of other people like them this is what allows you to stay in the pocket in the sale and continue to ask the questions that genuinely can change this person's life and if you always come from the perspective of human first you will usually maintain Rapport if you don't then what you will get is something we call commission breath which is it sounds like you're not listening to them and you are prioritizing the closeth over the person and that's where you lose them completely because now they feel like your incentives are no longer aligned if you come at it from I want the best thing for you then you will always be on their side of the table your incentives as far as they're concerned will always always be aligned with theirs and you will be able to ask the questions that are actually going to change their lives all right so those are the behaviors that you can change as a salesperson to make more sales
+
+---
+
+## Key Takeaways
+
+1. **Sales Multiplier: Sell 7 Days a Week**
+2. **Respond to Leads in Under 1 Minute**
+3. **Add a "Call Now" Option and Optimize Time Slots**
+4. **Feed the Killers: Give Best Leads to Best Closers**
+5. **The Best Reminder Sequence for Show-Up Rates**
+6. **Sales Training: Daily Huddles, Role Playing, and One-on-Ones**
+7. **Your Best Closer Is Not Your Best Sales Manager**
+8. **Game Tape Review: Record Every Sales Call**
+9. **When You're Hot, Analyze What You're Doing Differently**
+10. **Before the Sale: The Sale Starts at the Click**
+11. **Outbound Scripts and Working Local Leads**
+12. **Opening the Sale: Proof, Promise, Plan**
+13. **Follow the Script: Emphasis, Tone, and Pacing**
+14. **The CLOSER Framework: Clarify, Label, Overview Pain, Sell, Explain, Reinforce**
+15. **The Three-Pillar Pitch and Selling the Vacation**
+16. **Closing and Objection Handling: Expect and Plan for No**
+17. **All-Purpose Closes and the 1-to-10 Close**
+18. **Details Are Death Traps: Never Answer Blind Questions**
+19. **The AAA System: Acknowledge, Associate, Ask**
+20. **The Person Asking Questions Controls the Sale**
+21. **Kill Zombies Early: Handle Objections Before Asking for Money**
+22. **Reinforce the Decision: The Handshake, Not a Handoff**
+23. **Audience FAQs: Real Objection Overcomes**
+24. **Sales Mindset: Care More, Volume Negates Luck**
+25. **Hiring Salespeople: Attitude, Aptitude, and Group Interviews**
+26. **Compensation Attracts but Does Not Retain**
+27. **Sales and Marketing Are One Continuum**
+28. **Don't Be Cute: Master the Fundamentals**
+

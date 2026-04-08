@@ -2,6 +2,8 @@
 title: "Jeremy Miner"
 type: entity
 category: person
+created: 2026-04-08
+updated: 2026-04-08
 tags: [sales, nepq, questioning]
 ---
 

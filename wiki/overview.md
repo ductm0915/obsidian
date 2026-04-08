@@ -18,6 +18,14 @@ sources:
   - "[[hormozi-sell-better-99]]"
   - "[[miner-nepq-black-book]]"
   - "[[hormozi-no-bs-business-2026]]"
+  - "[[ralston-stand-out-brand]]"
+  - "[[ralston-content-strategy-2026]]"
+  - "[[ralston-265k-followers]]"
+  - "[[ralston-build-brand-course]]"
+  - "[[ralston-lead-creative-team]]"
+  - "[[ralston-start-brand-course]]"
+  - "[[ralston-rewire-content]]"
+  - "[[ralston-3-stages-brand]]"
 tags:
   - overview
   - synthesis
@@ -38,7 +46,9 @@ Wiki này hiện tập trung vào pattern sử dụng LLM để xây dựng và 
 The Wiki now integrates actionable sales frameworks from Alex Hormozi. Sales is fundamentally viewed as a continuation of marketing, requiring high output/volume to negate natural disadvantages ("Volume negates luck"). The operations favor strict cadences and fast-feedback mechanisms over ad hoc training.
 
 ### Brand Building & Influence
-Building an audience in the modern era requires a shift toward [[interest-media]] and prioritizing educational long-form content for high-value targets. Influence is deliberately maximized through the [[spcl-framework]] (Status, Power, Credibility, Likeness) rather than superficial metrics.
+Building an audience in the modern era requires a shift toward [[interest-media]] and prioritizing educational long-form content for high-value targets. Influence is deliberately maximized through the [[spcl-framework]] (Status, Power, Credibility, Likeness) and a foundation of **[[optimize-for-trust]]**. Individual differentiation is achieved through **[[contrarian-belief]]** as the primary lever for standing out.
+
+The wiki now includes [[caleb-ralston]]'s comprehensive personal branding system (8 sources, ~330K+ words total). Ralston provides the complete operational playbook for brand building: the **[[brand-journey-framework]]** for strategy, the **[[accordion-method]]** for content optimization, and the **[[eye-of-sauron-method]]** for multi-platform management. His [[creative-leadership]] philosophy — empowerment over control, **[[we-love-a-good-flop]]** over fear — directly complements Hormozi's [[kind-not-nice]] and [[discretionary-effort]] principles.
 
 ### Operations & Scaling
 Operational excellence is built on deletion before addition ([[optimization-framework]]) and self-reinforcing loops ([[flywheel-effect]]). Growth follows the [[scale-framework]] (Start, Compound, Augment, Leverage, Expand). Team performance is unlocked through [[discretionary-effort]] — aligning incentives with output rather than political hierarchies. Culture = the rules governing reinforcement, kept to three values max.
@@ -56,6 +66,12 @@ Operational excellence is built on deletion before addition ([[optimization-fram
 9. **Problems > Missed Opportunities** — [[problems-vs-missed-opportunities]]: Cơ hội thật nằm trong problems hữu hạn chưa giải quyết, không phải infinite shiny objects. Missed opportunities là "gateway drug to mediocrity."
 10. **Talent as Highest Leverage** — Placing key leaders là growth driver #1 trong portfolio. Đầu tư vào tuyển dụng phải tỷ lệ thuận với gross profit mỗi người mang lại. Supply-constrained businesses thực chất là talent businesses.
 11. **Brand Investment = Years, Not Months** — 70/30 top-of-funnel/bottom-of-funnel ratio (New Balance story). 3:1 value-to-ask ratio. Expect 18+ month lag trước khi ROI hiện ra.
+12. **Optimize for Trust over Virality** — For high-ticket owners, the goal is trust. High reach with low trust is "clout chasing"; low reach with high trust is a business.
+13. **Pairing x Consistency = Association** — Branding is the intentional act of pairing yourself with a specific outcome or belief until the audience automatically makes the connection.
+14. **Customer over Follower** — Whoever you optimize for, you get more of. Optimizing for followers gets metrics; optimizing for customers gets revenue. High-ticket conversions happen in private channels (DMs) facilitated by public trust content.
+15. **Content as Fitness Program** — Build a sustainable system you'll stick with for years, not what your favorite creator does. 20-minute daily walks > 6 months of Ronnie Coleman. 73% of creators quit within year 1.
+16. **Use Quantity to Inform Quality** — Quality is audience-defined, not creator-defined. The [[accordion-method]] (expand for data → contract for optimization) is the operational framework. Grade content against your 90-day benchmark.
+17. **Creative Leadership = Empowerment** — Fear, micromanagement, and lack of ownership kill creativity. [[creative-leadership]] breeds innovation through [[we-love-a-good-flop]] culture, platform ownership delegation, and showing teams how their work drives revenue.
 
 ## Open Questions
 
@@ -84,3 +100,15 @@ Operational excellence is built on deletion before addition ([[optimization-fram
 - [[leila-hormozi]] ← co-founder, talent & culture partner → [[alex-hormozi]]
 - [[ben-francis]] ← branding insights (70/30 rule) cho → [[brand-building]]
 - [[school-platform]] ← community/flywheel platform → [[alex-hormozi]]
+- [[caleb-ralston]] ← key thinker for → [[brand-building]]
+- [[contrarian-belief]] ← the 80% lever for → [[brand-building]]
+- [[optimize-for-trust]] ← the foundational strategy for → [[brand-building]]
+- [[jony-ive]] ← canonical example of → [[brand-pairing-formula]]
+- [[brand-pairing-formula]] ← the mechanism for → [[brand-building]]
+- [[accordion-method]] ← content optimization framework cho → [[brand-building]]
+- [[eye-of-sauron-method]] ← multi-platform management cho → [[brand-building]]
+- [[brand-journey-framework]] ← strategic northstar cho → [[brand-building]]
+- [[creative-leadership]] + [[we-love-a-good-flop]] ← team culture cho → [[operations]] + [[brand-building]]
+- [[trevor-odum]] ← key collaborator → [[caleb-ralston]]
+- [[rson-select]] ← consulting firm → [[caleb-ralston]]
+- [[volume-negates-luck]] (Hormozi) ≈ [[accordion-method]] (Ralston) — both advocate high volume to discover what works

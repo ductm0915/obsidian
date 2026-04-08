@@ -45,7 +45,7 @@ The CEO's job is to pick **one** priority that, if solved, makes all other probl
 
 > "A good strategist says: given the resources I currently have, what one thing could I do that would make all of these problems disappear?"
 
-This is [[leverage]] applied to prioritization. The "one thing" is often building a better product or a stronger brand — because those solve multiple downstream problems simultaneously.
+This is leverage applied to prioritization. The "one thing" is often building a better product or a stronger brand — because those solve multiple downstream problems simultaneously.
 
 ### 3. Supply vs Demand Constrained Businesses
 
