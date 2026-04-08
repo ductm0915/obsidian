@@ -113,6 +113,13 @@ SRT / Transcript → clean timestamps → clean fillers → format headings → 
 | **Business & Sales** | Alex Hormozi — $100M Offers, Sales Training, Audience Growth |
 | **Brand & Content** | Caleb Ralston — Brand Building, Content Strategy |
 
+## Clone về máy
+
+```bash
+git clone https://github.com/ductm0915/obsidian.git Antigravity
+cd Antigravity
+```
+
 ## Mở bằng Obsidian
 
 Mở thư mục gốc của repo này bằng Obsidian để xem wiki dưới dạng graph view với các liên kết chéo trực quan.
