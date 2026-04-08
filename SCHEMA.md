@@ -7,10 +7,10 @@ This file defines the conventions, structure, and workflows for maintaining this
 ## Directory Structure
 
 ```
-ductm/
+Antigravity/
 ├── raw/                     # Immutable source documents
-│   ├── articles/            # Web articles, blog posts
-│   ├── books/               # Book chapters, excerpts
+│   ├── articles/            # Web articles, blog posts, transcripts
+│   ├── books/               # Book chapters, excerpts, PDFs
 │   ├── notes/               # Personal notes, journal entries
 │   └── assets/              # Images, PDFs, attachments
 ├── wiki/                    # LLM-generated wiki pages
@@ -22,8 +22,9 @@ ductm/
 │   ├── sources/             # One summary page per ingested source
 │   ├── topics/              # Topic deep-dives, thematic pages
 │   └── analyses/            # Filed query results, comparisons, reports
-├── SCHEMA.md                # This file — wiki conventions & instructions
-└── Welcome.md               # Original Obsidian welcome note
+├── .agents/workflows/       # Workflow SOPs for ingest, query, lint
+├── CLAUDE.md                # Entry point for Claude Code (reads this first)
+└── SCHEMA.md                # This file — wiki conventions & instructions
 ```
 
 ### Rules
