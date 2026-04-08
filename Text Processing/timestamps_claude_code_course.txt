@@ -1,0 +1,30 @@
+0:00 Course Outline
+1:14 Why Learn This
+26:08 Getting Set Up
+41:25 Operations
+50:53 Tokens and Context Windows
+55:10 Claude.md
+58:57 Building Your First Workflow
+1:25:05 Building Second Workflow
+1:50:43 Deploying Automations
+3:05:46 Project Architecture & Commands
+3:17:39 RAG
+3:32:59 Turning n8n Workflow into App
+4:12:42 Website Building Hacks
+4:40:07 3D Animated Websites
+5:00:02 APIs and MCPs
+5:28:16 Google CLI
+5:39:42 Building Your Own Executive Assistant
+6:08:03 Skills
+6:51:30 Sub-agents
+7:11:20 Agent Teams
+7:27:30 Browser Automation
+7:42:30 Permissions & Context Management
+7:50:09 GitHub & Worktrees
+7:56:45 Fun Hacks
+8:25:06 The Selling AI Mindset
+8:39:41 Finding Clients
+8:54:01 First Client in 7 Days
+9:14:56 Pricing AI Workflows
+9:35:36 Delivering AI Projects
+9:58:55 Thank You! Join AIS FREE
