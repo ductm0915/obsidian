@@ -2,9 +2,10 @@
 title: "Matt Gray"
 type: entity
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-11
 sources:
   - "[[gray-profitable-personal-brand]]"
+  - "[[gray-storytelling-addiction]]"
 tags:
   - person
   - entrepreneur
@@ -25,6 +26,16 @@ Entrepreneur, founder-brand builder, and creator of the **Founder OS** system. B
 - Grew X following to 40K+ in months → LinkedIn to 840K+ → expanded to Instagram, YouTube, TikTok
 - Built 4 profitable businesses over 15 years
 
+### Bitmaker Story (Proof of Story-as-Moat)
+
+- Founded Bitmaker (coding bootcamp in Toronto); 7 months in → $200K/month revenue
+- Government raided the business: two agents, triggered by Globe and Mail article; accused of operating an unregistered private career college
+- Faced: 1 year in jail + $1M fine
+- Response: stayed up 48 hours straight, emailed 3,000+ people personally telling the story
+- Result: story went viral → government backed off within 1 week → received the only exemption of its kind in Canada
+- 1 year later: trained 2,000 software engineers; business acquired for a life-changing sum
+- Key lesson: *"That story did more for my credibility than any credential."*
+
 ## Core Philosophy
 
 - **Media-first founder**: Personal brand is the primary business asset — it survives company exits and compounds over time
@@ -42,6 +53,9 @@ Entrepreneur, founder-brand builder, and creator of the **Founder OS** system. B
 - [[newsletter-welcome-series]] — 5 educational + 4 FOMO emails (9-email automation)
 - [[delegation-math]] — ROI calculation for hiring decisions
 - [[media-first-founder]] — the paradigm of building a personal media company
+- [[five-line-story-framework]] — Mirror, Friction, Realization, Shift, Invitation; simplified hero's journey for business
+- [[open-loop-technique]] — Garnic Effect; intrigue drives clicks, tension drives retention
+- [[coupled-cta]] — story opens loop, lead magnet closes it; CTA must be inevitable
 
 ## Programs & Businesses
 
@@ -55,5 +69,7 @@ Entrepreneur, founder-brand builder, and creator of the **Founder OS** system. B
 ## References
 
 - [[gray-profitable-personal-brand]]
+- [[gray-storytelling-addiction]]
 - [[brand-building]]
+- [[storytelling]]
 - [[founder-os]]

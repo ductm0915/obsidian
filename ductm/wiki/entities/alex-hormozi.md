@@ -2,7 +2,7 @@
 title: "Alex Hormozi"
 type: entity
 created: 2026-04-08
-updated: 2026-04-10
+updated: 2026-04-11
 tags: ["entrepreneur", "sales", "go-to-market", "offers", "branding"]
 ---
 
@@ -32,6 +32,7 @@ Alex Hormozi is an entrepreneur and author known for building and scaling busine
 - Published 13-tactic retention system for recurring revenue; churn cohort model in [[retention-framework]].
 - Emphasizes [[value-per-second]] as the right metric for both product design and content strategy.
 - First brand deal: investment in [[skool-platform]].
+- **Storytelling & writing**: Wrote $100M Offers (~1,000 hours); 200K+ copies sold with no publisher, no ads, no pre-existing audience. Key frameworks: [[story-elements-framework]], [[seven-factors-newsworthiness]], [[stakes-and-struggle]], [[hemingway-editing]]. Edits to 3rd grade language; uses [[hemingway-editing]] process (self → 4–8 ideal readers → grammar editor). $100M Leads took 8 full drafts (600 pages → 200 pages).
 - Partner: [[leila-hormozi]] (co-founder Acquisition.com).
 
 ## Topics
@@ -62,3 +63,4 @@ Alex Hormozi is an entrepreneur and author known for building and scaling busine
 - [[hormozi-watch-get-ahead-2026]]
 - [[hormozi-millionaire-blueprint-2024]]
 - [[hormozi-mathematics-business]]
+- [[hormozi-bestseller-writing]]

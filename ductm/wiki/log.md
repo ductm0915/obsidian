@@ -183,3 +183,13 @@ Matt Gray's complete personal brand masterclass. Introduced the Founder Flywheel
 - Created Entities: [[matt-gray]], [[founder-os]]
 - Created Concepts: [[founder-flywheel]], [[content-gps]], [[content-waterfall-system]], [[personal-moat]], [[rented-vs-owned-audience]], [[newsletter-welcome-series]], [[aed-system]], [[delegation-math]], [[media-first-founder]]
 - Updated: [[brand-building]] (added full Matt Gray section), [[index]] (169 pages, 39 sources)
+
+## [2026-04-11] ingest | How to Become a Storytelling Genius — Matt Gray
+Matt Gray's 6-part storytelling addiction framework: open loops, story-as-funnel (Attention→Trust→Belief→Action), story-as-moat, Five-Line Story Framework, and tightly coupled CTA. Personal Bitmaker story (government raid → viral → acquisition) as proof. Also confirmed Content Waterfall team role details.
+- Created: [[gray-storytelling-addiction]], [[five-line-story-framework]], [[open-loop-technique]], [[coupled-cta]]
+- Updated: [[matt-gray]] (Bitmaker story + 3 new frameworks), [[index]] (181 pages, 41 sources)
+
+## [2026-04-11] ingest | How I Wrote A #1 Bestseller with $0 and No Publisher — Alex Hormozi
+Hormozi's deep-dive on storytelling craft and book writing process. $100M Offers: 200K copies, no publisher, no ads, word of mouth only. Covers story anatomy (7 elements + dual journey), what makes stories interesting (7 newsworthiness factors, stakes), show-don't-tell, selective detail, and Hemingway editing (12th→3rd grade; 1,000 hours; 8 drafts).
+- Created: [[hormozi-bestseller-writing]], [[story-elements-framework]], [[seven-factors-newsworthiness]], [[stakes-and-struggle]], [[hemingway-editing]], [[storytelling]] (new topic)
+- Updated: [[alex-hormozi]] (writing process + storytelling frameworks), [[index]]

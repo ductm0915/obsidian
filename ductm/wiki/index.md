@@ -9,9 +9,9 @@ updated: 2026-04-08
 
 Master catalog of all pages in this wiki. Organized by category. The LLM reads this first when answering queries to find relevant pages.
 
-**Total pages:** 169  
-**Total sources ingested:** 39  
-**Last updated:** 2026-04-10
+**Total pages:** 181  
+**Total sources ingested:** 41  
+**Last updated:** 2026-04-11
 
 ---
 
@@ -55,6 +55,8 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[hormozi-mathematics-business]] — 12 rules of business math: close rate pricing ladder, LTV:CAC by model, rule of 100, lead response time, calendar utilization, payback period (2026-04-10).
 - [[skools-5-years-100k]] — 6-season Skool journey: one source rule, high-ticket, content traffic, Synthesizer community, Mr. Beast, Hamza, Aiden partnership (2026-04-10).
 - [[gray-profitable-personal-brand]] — Matt Gray's 64-min masterclass: Founder Flywheel, Content GPS, Content Waterfall, 3 revenue bridges, AED system, media company team building (2026-04-10).
+- [[gray-storytelling-addiction]] — Matt Gray's 6-part storytelling framework: open loops, story-as-funnel, Five-Line Story Framework, Bitmaker government-raid story (2026-04-11).
+- [[hormozi-bestseller-writing]] — Hormozi's full writing process: $100M Offers 200K copies no publisher; story craft, 7 newsworthiness factors, Hemingway editing, 1000 hours/book (2026-04-11).
 
 ## Entities
 
@@ -162,6 +164,13 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[aed-system]] — Automate, Eliminate, Delegate: founder time audit framework for building a personal media company.
 - [[delegation-math]] — ROI formula: (Hourly rate × hours saved) / hire cost = leverage multiplier; justifies every hire.
 - [[media-first-founder]] — Paradigm: personal brand as the primary business asset, outlasting any single company.
+- [[five-line-story-framework]] — Matt Gray's Mirror/Friction/Realization/Shift/Invitation; simplified hero's journey for business storytelling.
+- [[open-loop-technique]] — Garnic Effect; intrigue drives clicks, tension drives retention; stack curiosity gaps throughout content.
+- [[coupled-cta]] — Story opens loop, lead magnet closes it; CTA must be tightly coupled to the story to convert.
+- [[story-elements-framework]] — Hormozi's 7-element story anatomy (Setting/Character/Desire/Struggle/Eureka/Victory/Resolution) + dual external/internal journey.
+- [[seven-factors-newsworthiness]] — 7 dimensions of story interest: Recency, Impact, Prominence, Proximity, Conflict, Unusualness, Updatability.
+- [[stakes-and-struggle]] — Primary driver of interesting stories; what's actually at risk; game shows exist because of this.
+- [[hemingway-editing]] — Simplicity-first editing: 12th grade → 3rd grade language; eliminate adverbs, shorten sentences, simple tenses.
 
 ## Topics
 
@@ -169,6 +178,7 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[brand-building]] — Strategies for creating targeted associations and influence for audience growth.
 - [[operations]] — Managing teams, processes, and systems to maximize output per unit of resource.
 - [[ai-development-tools]] — Ecosystem for building agentic AI systems: Claude Code, WAT, Trigger.dev, VPS.
+- [[storytelling]] — Story-as-funnel, story-as-moat; frameworks from Gray + Hormozi; craft, structure, conversion.
 
 ## Analyses
 
