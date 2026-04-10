@@ -9,8 +9,8 @@ updated: 2026-04-08
 
 Master catalog of all pages in this wiki. Organized by category. The LLM reads this first when answering queries to find relevant pages.
 
-**Total pages:** 185  
-**Total sources ingested:** 42  
+**Total pages:** 193  
+**Total sources ingested:** 43  
 **Last updated:** 2026-04-11
 
 ---
@@ -58,6 +58,7 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[gray-storytelling-addiction]] — Matt Gray's 6-part storytelling framework: open loops, story-as-funnel, Five-Line Story Framework, Bitmaker government-raid story (2026-04-11).
 - [[hormozi-bestseller-writing]] — Hormozi's full writing process: $100M Offers 200K copies no publisher; story craft, 7 newsworthiness factors, Hemingway editing, 1000 hours/book (2026-04-11).
 - [[gray-beautiful-business]] — Matt Gray's 6-phase Beautiful Business model: Traffic → Entry Points → Offer Stack → Content GPS → Math → True Goals (2026-04-11).
+- [[dan-koe-get-ahead-99]] — Dan Koe's 7-video compilation: anti-vision, entropy, flow state, 4-hour workday, deep work, society as pyramid scheme (2026-04-11).
 
 ## Entities
 
@@ -85,6 +86,7 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[ship-30-for-30]] — Writing program and AI education ecosystem founded by Nicholas Cole and Dicky Bush.
 - [[matt-gray]] — Entrepreneur, media-first founder; 3.2M personal brand, 81M organic impressions/month; creator of Founder OS and Content GPS system.
 - [[founder-os]] — Matt Gray's paid community for founders: 180+ systems, custom AI agent, founder retreats, 50+ live sessions/month.
+- [[dan-koe]] — Writer, entrepreneur, philosopher; "one-person business" model; attention management + flow + integral philosophy.
 
 ## Concepts
 
@@ -175,6 +177,12 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[seven-factors-newsworthiness]] — 7 dimensions of story interest: Recency, Impact, Prominence, Proximity, Conflict, Unusualness, Updatability.
 - [[stakes-and-struggle]] — Primary driver of interesting stories; what's actually at risk; game shows exist because of this.
 - [[hemingway-editing]] — Simplicity-first editing: 12th grade → 3rd grade language; eliminate adverbs, shorten sentences, simple tenses.
+- [[anti-vision]] — Clarity tool: write the negative future you're running from; transmute negative emotion into drive.
+- [[entropy-principle]] — Disorder is the default; without active order-creation, life declines into chaos (Dan Koe).
+- [[flow-state]] — Optimal attention absorption; no self-consciousness; the state produced by life-as-video-game structure.
+- [[four-hour-workday]] — 4 hours as a forcing constraint; drives productization and leverage over time-for-money.
+- [[ideal-future-now]] — Start your ideal future habits at tiny scale today; don't wait for the right conditions.
+- [[life-as-video-game]] — Reverse-engineer game mechanics (hierarchy, feedback, challenge) into real life to produce flow.
 
 ## Topics
 

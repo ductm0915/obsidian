@@ -198,3 +198,8 @@ Hormozi's deep-dive on storytelling craft and book writing process. $100M Offers
 Matt Gray's complete 6-phase "Beautiful Business" model: Traffic (organic + rented→owned), Entry Points (newsletter/workshop/apply), Products (3-tier offer stack + 4 levers), Content GPS (20/10 cadence + application router), Math (sample $1.3M/month), and True Goals (peaceful, simple, longevity). New concepts: offer stack model, signal vs. noise content, application router.
 - Created: [[gray-beautiful-business]], [[offer-stack-model]], [[signal-vs-noise-content]], [[application-router]]
 - Updated: [[matt-gray]] (stats + new frameworks), [[founder-os]] (offer stack detail + scale metrics), [[founder-flywheel]] (expanded operational loop), [[content-gps]] (20/10 CTA cadence + team routes), [[brand-building]] (Beautiful Business section), [[index]]
+
+## [2026-04-11] ingest | How To Get Ahead Of 99% Of People — Dan Koe
+First Dan Koe source ingested. 7-video compilation covering: anti-vision + entropy as life architecture tools, flow state as optimal attention absorption, life-as-video-game mechanics, 4-hour workday as leverage constraint, bring-ideal-future-into-now habit philosophy, deep work routine, and society-as-pyramid-scheme social critique. Koe's frame: philosophical entrepreneurship at the intersection of consciousness studies (Ken Wilber, Alan Watts) and practical one-person business building.
+- Created: [[dan-koe-get-ahead-99]], [[dan-koe]], [[anti-vision]], [[entropy-principle]], [[flow-state]], [[four-hour-workday]], [[ideal-future-now]], [[life-as-video-game]]
+- Updated: [[frustration-tolerance]] (added Koe's "mastery over misery" + entropy connection), [[index]]

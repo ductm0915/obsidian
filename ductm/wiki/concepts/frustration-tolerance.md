@@ -2,9 +2,10 @@
 title: "Frustration Tolerance"
 type: concept
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-11
 sources:
   - "[[hormozi-watch-get-ahead-2026]]"
+  - "[[dan-koe-get-ahead-99]]"
 tags: ["discipline", "mindset", "entrepreneurship", "persistence"]
 ---
 
@@ -37,11 +38,25 @@ Like any skill, frustration tolerance builds through reps:
 ## The Rule of 100 Connection
 The [[rule-of-100]] is frustration tolerance operationalized: commit to 100 actions × 100 days regardless of results. The point is to build the tolerance capacity as much as it is to get the result.
 
+## Dan Koe: Mastery Over Misery
+
+[[dan-koe]] reinforces this concept through the frame of **"mastery over misery"** — the idea that boring fundamentals are only boring from the outside. From the inside, they are stages in mastery-building that unlock deeper competence and enjoyment.
+
+> "It's mastery over misery. It's like how sushi chefs take years to perfect the preparation of rice. And it comes in stages — like a tennis player, you first learn how to hold the racket, then how to angle it... you practice these things over and over until it becomes effortless or unconscious."
+> — [[dan-koe]]
+
+Koe's framing extends this: mastery = the process of converting conscious, effortful action into unconscious competence. Each boring repetition is literal neural pathway formation. Once the fundamental is automatic, it "frees up mental energy to move on to the next thing" — making the apparent misery of the early stage a down payment on future capability.
+
+This also connects to the [[entropy-principle]]: stopping the boring fundamentals is not "neutral" — it is allowing entropy to reclaim the hard-won order.
+
 ## Related Concepts
 - [[volume-negates-luck]] — Volume requires frustration tolerance to sustain
 - [[rule-of-100]] — The structured mechanism for building this tolerance
 - [[learning-intelligence-confidence]] — Intelligence is rate of behavioral change; frustration tolerance enables the change
 - [[one-source-rule]] — Staying with one source through the "Valley of Despair" is a frustration tolerance exercise
+- [[entropy-principle]] — Stopping the boring fundamentals = entropy taking hold (Dan Koe)
+- [[ideal-future-now]] — Building new habits requires tolerating the boring early period
 
 ## Sources
 - [[hormozi-watch-get-ahead-2026]]
+- [[dan-koe-get-ahead-99]]
