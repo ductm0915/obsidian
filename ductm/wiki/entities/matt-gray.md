@@ -6,6 +6,7 @@ updated: 2026-04-11
 sources:
   - "[[gray-profitable-personal-brand]]"
   - "[[gray-storytelling-addiction]]"
+  - "[[gray-beautiful-business]]"
 tags:
   - person
   - entrepreneur
@@ -24,7 +25,9 @@ Entrepreneur, founder-brand builder, and creator of the **Founder OS** system. B
 - Began his career building company brands; shifted to personal brand around age 30
 - Pivoted from entrepreneur behind the scenes → "portfolio manager" mindset running multiple businesses under a personal brand umbrella
 - Grew X following to 40K+ in months → LinkedIn to 840K+ → expanded to Instagram, YouTube, TikTok
-- Built 4 profitable businesses over 15 years
+- Built 4 profitable businesses over 16 years
+- Platform stats: YouTube 200K subs, X 300K+, LinkedIn 850K+, Instagram 950K+
+- Newsletter: 225,000+ subscribers (Founder OS); has helped 13,000+ founders
 
 ### Bitmaker Story (Proof of Story-as-Moat)
 
@@ -56,6 +59,9 @@ Entrepreneur, founder-brand builder, and creator of the **Founder OS** system. B
 - [[five-line-story-framework]] — Mirror, Friction, Realization, Shift, Invitation; simplified hero's journey for business
 - [[open-loop-technique]] — Garnic Effect; intrigue drives clicks, tension drives retention
 - [[coupled-cta]] — story opens loop, lead magnet closes it; CTA must be inevitable
+- [[offer-stack-model]] — 3-tier offer architecture (Entry $29-$300 / Core $7.8K-$36K / High-ticket $100K-$250K) with 4 levers
+- [[signal-vs-noise-content]] — interview dream customers to find content that converts, not just goes viral
+- [[application-router]] — smart routing of applicants to the right offer tier
 
 ## Programs & Businesses
 
@@ -70,6 +76,7 @@ Entrepreneur, founder-brand builder, and creator of the **Founder OS** system. B
 
 - [[gray-profitable-personal-brand]]
 - [[gray-storytelling-addiction]]
+- [[gray-beautiful-business]]
 - [[brand-building]]
 - [[storytelling]]
 - [[founder-os]]

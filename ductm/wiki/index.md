@@ -9,8 +9,8 @@ updated: 2026-04-08
 
 Master catalog of all pages in this wiki. Organized by category. The LLM reads this first when answering queries to find relevant pages.
 
-**Total pages:** 181  
-**Total sources ingested:** 41  
+**Total pages:** 185  
+**Total sources ingested:** 42  
 **Last updated:** 2026-04-11
 
 ---
@@ -57,6 +57,7 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[gray-profitable-personal-brand]] — Matt Gray's 64-min masterclass: Founder Flywheel, Content GPS, Content Waterfall, 3 revenue bridges, AED system, media company team building (2026-04-10).
 - [[gray-storytelling-addiction]] — Matt Gray's 6-part storytelling framework: open loops, story-as-funnel, Five-Line Story Framework, Bitmaker government-raid story (2026-04-11).
 - [[hormozi-bestseller-writing]] — Hormozi's full writing process: $100M Offers 200K copies no publisher; story craft, 7 newsworthiness factors, Hemingway editing, 1000 hours/book (2026-04-11).
+- [[gray-beautiful-business]] — Matt Gray's 6-phase Beautiful Business model: Traffic → Entry Points → Offer Stack → Content GPS → Math → True Goals (2026-04-11).
 
 ## Entities
 
@@ -165,6 +166,9 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[delegation-math]] — ROI formula: (Hourly rate × hours saved) / hire cost = leverage multiplier; justifies every hire.
 - [[media-first-founder]] — Paradigm: personal brand as the primary business asset, outlasting any single company.
 - [[five-line-story-framework]] — Matt Gray's Mirror/Friction/Realization/Shift/Invitation; simplified hero's journey for business storytelling.
+- [[offer-stack-model]] — 3-tier offer architecture (Entry/Core/High-Ticket) with 4 levers (Education, Support, Proximity, Community); upsell mechanic via problem-solution cascade.
+- [[signal-vs-noise-content]] — Content that converts dream customers vs. viral noise; use customer interviews (heaven/hell/magic wand) to generate signal.
+- [[application-router]] — Smart funnel logic that routes prospects to the right offer tier based on their business stage.
 - [[open-loop-technique]] — Garnic Effect; intrigue drives clicks, tension drives retention; stack curiosity gaps throughout content.
 - [[coupled-cta]] — Story opens loop, lead magnet closes it; CTA must be tightly coupled to the story to convert.
 - [[story-elements-framework]] — Hormozi's 7-element story anatomy (Setting/Character/Desire/Struggle/Eureka/Victory/Resolution) + dual external/internal journey.

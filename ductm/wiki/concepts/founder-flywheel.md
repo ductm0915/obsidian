@@ -5,6 +5,7 @@ created: 2026-04-10
 updated: 2026-04-10
 sources:
   - "[[gray-profitable-personal-brand]]"
+  - "[[gray-beautiful-business]]"
 tags:
   - personal-brand
   - content-strategy
@@ -64,13 +65,36 @@ Not a 6-month growth hack. Matt Gray frames this as a 5-decade asset: "While I m
 
 The general [[flywheel-effect]] (Jim Collins) describes momentum in any self-reinforcing system. The Founder Flywheel is a specific brand-centric implementation: it treats the personal brand as the central asset that generates compounding business value, with audience → trust → revenue as the mechanism.
 
+## Expanded Operational Loop (Beautiful Business Model)
+
+From [[gray-beautiful-business]], the flywheel is operationalized across 6 phases:
+
+```
+Organic Content (social platforms)
+        ↓
+Rented Audience (YouTube / LinkedIn / X / Instagram)
+        ↓  [20 days → newsletter CTA | 10 days → workshop CTA]
+Owned Audience (newsletter + monthly workshops)
+        ↓
+Application Router → Sales Call → Onboarding
+        ↓
+Offer Stack (Entry / Core / High-Ticket)
+        ↓
+Delivery → Reviews → Referrals → Upsells
+        ↓
+Cash Flow → Reinvest in Content
+```
+
+Entry points that convert traffic: newsletter page, workshop/masterclass, apply page — NOT the homepage.
+
 ## Implementation
 
 1. Build [[personal-moat]] (who you are + what you talk about)
 2. Execute [[content-gps]] (create, multiply, distribute)
 3. Convert via [[rented-vs-owned-audience]] migration
-4. Monetize through 3 revenue bridges
-5. Reinvest cash into content production
+4. Monetize through [[offer-stack-model]] (3 tiers + 4 levers)
+5. Route leads via [[application-router]]
+6. Reinvest cash into content production
 
 ## References
 

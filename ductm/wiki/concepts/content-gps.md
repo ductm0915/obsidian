@@ -5,6 +5,7 @@ created: 2026-04-10
 updated: 2026-04-10
 sources:
   - "[[gray-profitable-personal-brand]]"
+  - "[[gray-beautiful-business]]"
 tags:
   - content-strategy
   - system
@@ -95,12 +96,29 @@ Monthly Performance Audit → Refine
 
 ---
 
+## CTA Cadence (from Beautiful Business)
+
+From [[gray-beautiful-business]]: in any given month, the CTA rotation looks like:
+- **20 days** → drive content to newsletter signup
+- **10 days** → drive content to workshop/masterclass
+
+This ensures constant owned-audience growth while periodically creating conversion events.
+
+## Team Architecture
+
+Two routes for building a content team:
+- **Writing-first**: writer + newsletter writer + social media manager → X + LinkedIn
+- **Video-first**: video editor + social manager + thumbnail designer → YouTube + Instagram + TikTok
+
 ## References
 
 - [[gray-profitable-personal-brand]]
+- [[gray-beautiful-business]]
 - [[content-waterfall-system]]
 - [[founder-flywheel]]
 - [[brand-building]]
 - [[accordion-method]]
 - [[interest-media]]
+- [[signal-vs-noise-content]]
+- [[application-router]]
 - [[matt-gray]]

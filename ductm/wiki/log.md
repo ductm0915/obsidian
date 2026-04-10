@@ -193,3 +193,8 @@ Matt Gray's 6-part storytelling addiction framework: open loops, story-as-funnel
 Hormozi's deep-dive on storytelling craft and book writing process. $100M Offers: 200K copies, no publisher, no ads, word of mouth only. Covers story anatomy (7 elements + dual journey), what makes stories interesting (7 newsworthiness factors, stakes), show-don't-tell, selective detail, and Hemingway editing (12th→3rd grade; 1,000 hours; 8 drafts).
 - Created: [[hormozi-bestseller-writing]], [[story-elements-framework]], [[seven-factors-newsworthiness]], [[stakes-and-struggle]], [[hemingway-editing]], [[storytelling]] (new topic)
 - Updated: [[alex-hormozi]] (writing process + storytelling frameworks), [[index]]
+
+## [2026-04-11] ingest | Business Is Hard Until You Design It Like This — Matt Gray
+Matt Gray's complete 6-phase "Beautiful Business" model: Traffic (organic + rented→owned), Entry Points (newsletter/workshop/apply), Products (3-tier offer stack + 4 levers), Content GPS (20/10 cadence + application router), Math (sample $1.3M/month), and True Goals (peaceful, simple, longevity). New concepts: offer stack model, signal vs. noise content, application router.
+- Created: [[gray-beautiful-business]], [[offer-stack-model]], [[signal-vs-noise-content]], [[application-router]]
+- Updated: [[matt-gray]] (stats + new frameworks), [[founder-os]] (offer stack detail + scale metrics), [[founder-flywheel]] (expanded operational loop), [[content-gps]] (20/10 CTA cadence + team routes), [[brand-building]] (Beautiful Business section), [[index]]

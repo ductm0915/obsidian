@@ -89,6 +89,18 @@ For B2B businesses (>50% of all businesses), three paths:
 - [[ralston-select]]
 - [[founder-os]]
 
+## Beautiful Business Model (Matt Gray)
+
+From [[gray-beautiful-business]], the complete 6-phase operating model for a freedom-generating founder business:
+1. **Traffic** — Organic content → rented → owned audience; [[signal-vs-noise-content]] for content strategy
+2. **Entry Points** — Newsletter page + Workshop + Apply page (not homepage); 20/10 CTA cadence
+3. **Products** — [[offer-stack-model]]: 3 tiers × 4 levers (Education, Support, Proximity, Community)
+4. **Content GPS** — Cold → owned → [[application-router]] → sales call → delivery
+5. **Math** — Tiered pricing model enabling $1M+/month at scale
+6. **True Goals** — Peaceful, Fun, Endless reviews, Insane simplicity, Easy to sell (organic trust > paid skepticism), Longevity, Purpose
+
+Key insight: organic leads arrive after months of content consumption — they trust you already; the sales call is routing, not persuading.
+
 ## Ingested Sources
 - [[ralston-stand-out-brand]]
 - [[ralston-content-strategy-2026]]
@@ -103,6 +115,7 @@ For B2B businesses (>50% of all businesses), three paths:
 - [[hormozi-no-bs-business-2026]]
 - [[hormozi-13-years-marketing]]
 - [[gray-profitable-personal-brand]]
+- [[gray-beautiful-business]]
 
 ## Related Topics
 - [[operations]]
