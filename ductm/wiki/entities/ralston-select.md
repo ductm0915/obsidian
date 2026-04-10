@@ -12,7 +12,7 @@ tags:
   - agency
 ---
 
-# Rson Select
+# Ralston Select
 
 Rson Select (also referred to as Rston Consulting) is [[caleb-ralston]]'s consulting firm focused on helping entrepreneurs and brands scale through personal branding, content strategy, and media team optimization.
 

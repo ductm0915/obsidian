@@ -2,7 +2,7 @@
 title: "Alex Hormozi"
 type: entity
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-10
 tags: ["entrepreneur", "sales", "go-to-market", "offers", "branding"]
 ---
 
@@ -26,7 +26,12 @@ Alex Hormozi is an entrepreneur and author known for building and scaling busine
 - Created [[what-who-when]] execution framework and [[kind-not-nice]] cultural philosophy.
 - Coined [[sawdust-business]] concept — building value from excess capacity/waste.
 - Took Acquisition.com portfolio from ~$50M EBITDA to ~$100M; bought acq.com for $480K; launched ACQ Ventures for SaaS and tech-enabled services.
-- First brand deal: investment in [[school-platform]].
+- Defines operational marketing stages via the [[more-better-new]] framework and measures marketing leverage exclusively via the [[ltv-to-cac]] ratio.
+- Codified modern advertising actions into the [[four-ways-to-advertise]] matrix and established the [[kaleidoscope-process]] for squeezing creative winners.
+- Advocates [[five-levels-of-awareness]] (Eugene Schwartz) as the lens for matching message to market readiness.
+- Published 13-tactic retention system for recurring revenue; churn cohort model in [[retention-framework]].
+- Emphasizes [[value-per-second]] as the right metric for both product design and content strategy.
+- First brand deal: investment in [[skool-platform]].
 - Partner: [[leila-hormozi]] (co-founder Acquisition.com).
 
 ## Topics
@@ -47,3 +52,13 @@ Alex Hormozi is an entrepreneur and author known for building and scaling busine
 - [[hormozi-best-sales-training]]
 - [[hormozi-sell-better-99]]
 - [[hormozi-no-bs-business-2026]]
+- [[hormozi-13-years-marketing]]
+- [[hormozi-customer-retention]]
+- [[hormozi-3hrs-money-making]]
+- [[hormozi-make-progress-faster]]
+- [[hormozi-6-levels-making-money]]
+- [[hormozi-how-to-win]]
+- [[hormozi-best-year-2026]]
+- [[hormozi-watch-get-ahead-2026]]
+- [[hormozi-millionaire-blueprint-2024]]
+- [[hormozi-mathematics-business]]

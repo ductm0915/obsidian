@@ -236,7 +236,7 @@ Acquisition.com example: unused office space + portfolio team with spare bandwid
 - [[alex-hormozi]]
 - [[leila-hormozi]]
 - [[ben-francis]]
-- [[school-platform]]
+- [[skool-platform]]
 - [[scale-framework]]
 - [[six-horsemen-stagnation]]
 - [[problems-vs-missed-opportunities]]

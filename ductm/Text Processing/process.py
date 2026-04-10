@@ -44,6 +44,166 @@ add_metadata         = import_module("05_add_metadata").add_metadata
 add_takeaways        = import_module("06_add_takeaways").add_takeaways
 
 
+# ── Content Integrity Validation ─────────────────────────────────────
+
+import re as _re
+
+# Regex to strip markdown formatting syntax (bold, italic, headings, etc.)
+_MD_SYNTAX_RE = _re.compile(
+    r'(\*\*|\*|__|_|`{1,3}|#{1,6}\s|>\s|---\s*$|\d+\.\s|-\s|→)',
+    _re.MULTILINE,
+)
+
+
+def _extract_words(text: str) -> list[str]:
+    """Trích xuất danh sách từ (words) từ text, loại bỏ markdown syntax."""
+    cleaned = _MD_SYNTAX_RE.sub(' ', text)
+    return cleaned.split()
+
+
+def _detect_language_block(text: str) -> str:
+    """Phát hiện ngôn ngữ chính của text dựa trên tỷ lệ ký tự Unicode.
+
+    Returns:
+        'vi' nếu có nhiều ký tự tiếng Việt (dấu)
+        'en' nếu chủ yếu là ASCII
+        'mixed' nếu hỗn hợp
+    """
+    if not text.strip():
+        return 'unknown'
+
+    # Đếm ký tự có dấu tiếng Việt (combining marks hoặc precomposed)
+    viet_chars = 0
+    ascii_alpha = 0
+    for ch in text:
+        if ch.isalpha():
+            if ord(ch) < 128:
+                ascii_alpha += 1
+            else:
+                # Ký tự non-ASCII alphabetic → likely Vietnamese/accented
+                viet_chars += 1
+
+    total = viet_chars + ascii_alpha
+    if total == 0:
+        return 'unknown'
+
+    viet_ratio = viet_chars / total
+    if viet_ratio > 0.15:
+        return 'vi'
+    elif viet_ratio < 0.02:
+        return 'en'
+    return 'mixed'
+
+
+def validate_content_integrity(
+    original: str,
+    result: str,
+    step_name: str,
+    max_word_change_pct: float = 0.15,
+) -> str:
+    """Kiểm tra tính toàn vẹn nội dung sau khi LLM xử lý.
+
+    Checks:
+      1. Word count: không được thay đổi quá max_word_change_pct (mặc định 15%)
+      2. Language: ngôn ngữ output phải giống ngôn ngữ input
+
+    Args:
+        original: Text trước khi LLM xử lý.
+        result: Text sau khi LLM xử lý.
+        step_name: Tên bước (để hiển thị warning).
+        max_word_change_pct: Ngưỡng thay đổi word count cho phép.
+
+    Returns:
+        result nếu pass validation, original nếu fail (kèm warning).
+    """
+    orig_words = _extract_words(original)
+    result_words = _extract_words(result)
+
+    orig_count = len(orig_words)
+    result_count = len(result_words)
+
+    # ── Check 1: Word count ──
+    if orig_count > 0:
+        change_pct = abs(result_count - orig_count) / orig_count
+        if change_pct > max_word_change_pct:
+            diff = result_count - orig_count
+            direction = "THÊM" if diff > 0 else "XOÁ"
+            print(f"  ⚠️  [{step_name}] CẢNH BÁO: LLM đã {direction} {abs(diff)} từ ({change_pct:.0%} thay đổi)!")
+            print(f"       Gốc: {orig_count} từ → Kết quả: {result_count} từ")
+            print(f"       → Giữ nguyên bản gốc để bảo toàn nội dung.")
+            return original
+
+    # ── Check 2: Language consistency ──
+    orig_lang = _detect_language_block(original)
+    result_lang = _detect_language_block(result)
+
+    if orig_lang != 'unknown' and result_lang != 'unknown' and orig_lang != result_lang:
+        print(f"  ⚠️  [{step_name}] CẢNH BÁO: Ngôn ngữ bị thay đổi! ({orig_lang} → {result_lang})")
+        print(f"       LLM có thể đã dịch nội dung. Giữ nguyên bản gốc.")
+        return original
+
+    return result
+
+
+def create_validated_llm_func(llm_func, step_name: str, max_word_change_pct: float = 0.15):
+    """Bọc llm_func với validation tự động + early-stop.
+
+    Sau mỗi lần gọi LLM, tự động kiểm tra:
+    - Word count không thay đổi quá max_word_change_pct
+    - Ngôn ngữ không bị thay đổi
+
+    Early-stop: nếu validation fail 3 lần liên tiếp → bỏ qua LLM calls còn lại,
+    trả về text gốc ngay lập tức (tiết kiệm ~30s/call).
+
+    Args:
+        max_word_change_pct: Ngưỡng thay đổi word count cho phép.
+            - format_headings: 0.15 (chỉ chèn dòng heading, nội dung không đổi)
+            - format_inline: 0.35 (cho phép chuyển prose → bullet list, loại bỏ từ nối)
+    """
+    consecutive_failures = [0]  # mutable container để closure có thể modify
+    MAX_CONSECUTIVE_FAILURES = 3
+
+    def _validated_call(prompt: str) -> str:
+        # Trích xuất text gốc từ prompt
+        # Prompt format: "...instruction...\nText:\n---\n{content}\n---"
+        # Content có thể chứa --- (horizontal rules), nên phải tìm đúng boundaries
+        start_marker = "\n---\n"
+        end_marker = "\n---"
+
+        start_idx = prompt.find(start_marker)
+        end_idx = prompt.rfind(end_marker)  # rfind = tìm từ cuối
+
+        if start_idx != -1 and end_idx != -1 and end_idx > start_idx:
+            original_text = prompt[start_idx + len(start_marker):end_idx].strip()
+        else:
+            original_text = prompt
+
+        # Early-stop: nếu đã fail quá nhiều lần liên tiếp → skip LLM
+        if consecutive_failures[0] >= MAX_CONSECUTIVE_FAILURES:
+            print(f"  ⏭️  [{step_name}] Bỏ qua LLM (đã fail {consecutive_failures[0]} lần liên tiếp). Giữ nguyên bản gốc.")
+            return original_text
+
+        result = llm_func(prompt)
+        validated = validate_content_integrity(original_text, result, step_name, max_word_change_pct)
+
+        # Track consecutive failures
+        if validated == original_text and result != original_text:
+            consecutive_failures[0] += 1
+        else:
+            consecutive_failures[0] = 0  # Reset khi thành công
+
+        return validated
+
+    # Expose reset function để reset giữa các file
+    def _reset():
+        consecutive_failures[0] = 0
+
+    _validated_call.reset_failures = _reset
+    return _validated_call
+
+
+
+
 def _ts_str_to_seconds(ts: str) -> int:
     """'H:MM:SS' hoặc 'MM:SS' → tổng số giây."""
     parts = ts.split(":")
@@ -52,7 +212,6 @@ def _ts_str_to_seconds(ts: str) -> int:
     return int(parts[0]) * 60 + int(parts[1])
 
 
-import re as _re
 _SENT_END = _re.compile(r'[.!?]["\u201d\u2019)]*$')
 
 
@@ -93,22 +252,99 @@ def _merge_broken_paragraphs(text: str) -> str:
 
 MD_EXTENSIONS = {".md", ".txt", ".markdown"}
 
-# ── LLM via Claude Code CLI ─────────────────────────────────────────
+# ── LLM via Claude Code CLI (OAuth) ─────────────────────────────────
 
-def create_llm_func():
-    """Tạo llm_func(prompt) → response qua Claude Code CLI.
+import shutil
+import time
+import glob
 
-    Yêu cầu: claude CLI đã cài và đăng nhập sẵn.
+
+def _find_claude_binary() -> str:
+    """Tìm đường dẫn tới Claude Code CLI binary.
+
+    Thứ tự ưu tiên:
+      1. `claude` có sẵn trong PATH
+      2. Claude Code app bundle (macOS)
+      3. Claude Code VM binary
     """
+    # 1. Kiểm tra PATH trước
+    path = shutil.which("claude")
+    if path:
+        return path
+
+    # 2. Claude Code app bundle (macOS) — tìm version mới nhất
+    app_pattern = str(
+        Path.home()
+        / "Library/Application Support/Claude/claude-code/*/claude.app/Contents/MacOS/claude"
+    )
+    app_matches = sorted(glob.glob(app_pattern), reverse=True)
+    if app_matches:
+        return app_matches[0]
+
+    # 3. Claude Code VM binary — tìm version mới nhất
+    vm_pattern = str(
+        Path.home()
+        / "Library/Application Support/Claude/claude-code-vm/*/claude"
+    )
+    vm_matches = sorted(glob.glob(vm_pattern), reverse=True)
+    if vm_matches:
+        return vm_matches[0]
+
+    raise SystemExit(
+        "❌ Không tìm thấy Claude Code CLI.\n"
+        "   Hãy đảm bảo Claude Code Extension đã được cài đặt trong IDE.\n"
+        "   Hoặc thêm `claude` vào PATH."
+    )
+
+
+def create_llm_func(max_retries: int = 10, base_wait: float = 20.0):
+    """Tạo llm_func(prompt) → response qua Claude Code CLI (OAuth).
+
+    Features:
+      - Tự động tìm claude binary (không cần thêm vào PATH)
+      - Retry tự động khi bị rate-limit (tối đa max_retries lần)
+      - Exponential backoff giữa các lần retry
+    """
+    claude_bin = _find_claude_binary()
+    print(f"  🤖 Claude CLI: {claude_bin}")
+
     def _call(prompt: str) -> str:
-        result = subprocess.run(
-            ["claude", "--print", "-p", prompt],
-            capture_output=True,
-            text=True,
+        for attempt in range(1, max_retries + 1):
+            result = subprocess.run(
+                [claude_bin, "--print"],
+                input=prompt,
+                capture_output=True,
+                text=True,
+            )
+
+            output = result.stdout.strip()
+            stderr = result.stderr.strip()
+
+            # Thành công
+            if result.returncode == 0 and output:
+                return output
+
+            # Rate limit — retry với backoff
+            combined = (output + " " + stderr).lower()
+            if "limit" in combined or "rate" in combined or "reset" in combined:
+                wait_time = base_wait * (2 ** (attempt - 1))  # 10s, 20s, 40s, 80s, 160s
+                print(f"  ⏳ Rate limit (lần {attempt}/{max_retries}). Chờ {wait_time:.0f}s...")
+                time.sleep(wait_time)
+                continue
+
+            # Lỗi khác — dừng ngay
+            error_msg = stderr or output or "(không có output)"
+            raise SystemExit(
+                f"❌ Claude CLI lỗi (exit code {result.returncode}):\n"
+                f"   {error_msg}\n"
+                f"   Hãy kiểm tra OAuth session trong Claude Code Extension."
+            )
+
+        raise SystemExit(
+            f"❌ Đã thử {max_retries} lần nhưng vẫn bị rate-limited.\n"
+            f"   Hãy đợi một lúc rồi chạy lại."
         )
-        if result.returncode != 0:
-            raise SystemExit(f"Claude CLI lỗi: {result.stderr.strip()}")
-        return result.stdout.strip()
+
     return _call
 
 
@@ -127,6 +363,8 @@ def run_pipeline(
     remove_openers: bool = False,
     timestamp_file: Path | None = None,
     llm_func: object = None,
+    llm_headings: object = None,
+    llm_inline: object = None,
     number_sections: bool = True,
     add_separators: bool = True,
     max_sentences: int = 3,
@@ -162,18 +400,22 @@ def run_pipeline(
         text = clean_fillers(text, remove_openers=remove_openers)
 
     # ── FORMAT ──
+    # Sử dụng validated LLM func nếu có, fallback về llm_func gốc
+    _llm_headings = llm_headings or llm_func
+    _llm_inline = llm_inline or llm_func
+
     if do_format_headings:
         text = format_headings(
             text,
             timestamp_file=ts_file_for_format,
-            llm_func=llm_func,
+            llm_func=_llm_headings,
             number_sections=number_sections,
             add_separators=add_separators,
             title=title or None,
         )
 
     if do_format_inline:
-        text = format_inline(text, max_sentences=max_sentences, llm_func=llm_func)
+        text = format_inline(text, max_sentences=max_sentences, llm_func=_llm_inline)
 
     # ── METADATA & TAKEAWAYS ──
     if do_add_metadata:
@@ -200,6 +442,12 @@ def process_file(
     **pipeline_kwargs,
 ) -> None:
     """Xử lý một file."""
+    # Reset validation failure counters cho mỗi file mới
+    for key in ('llm_headings', 'llm_inline'):
+        func = pipeline_kwargs.get(key)
+        if func and hasattr(func, 'reset_failures'):
+            func.reset_failures()
+
     text = src.read_text(encoding="utf-8", errors="ignore")
     result = run_pipeline(text, **pipeline_kwargs)
 
@@ -232,7 +480,8 @@ def main():
 
     # LLM options
     llm_group = parser.add_argument_group("LLM options")
-    llm_group.add_argument("--no-llm", action="store_true", help="Tắt LLM, chỉ dùng regex")
+    # --no-llm removed as per user requirement, MUST USE LLM
+
 
     # Format options
     fmt_group = parser.add_argument_group("Format options")
@@ -257,13 +506,27 @@ def main():
     if timestamp_file and not timestamp_file.exists():
         raise SystemExit(f"Không tìm thấy file timestamps: {timestamp_file}")
 
-    llm_func = None if args.no_llm else create_llm_func()
+    # Khởi tạo LLM connector bắt buộc
+    raw_llm_func = create_llm_func()
+
+    # Bọc LLM func với validation (tùy bước sẽ set step_name khác)
+    # Validation sẽ được áp dụng trong từng module khi gọi llm_func
+    llm_func = raw_llm_func
+
+    # Tạo validated versions cho từng bước (ngưỡng khác nhau)
+    # headings: 25% — LLM thêm heading nhưng cũng cleanup nhẹ filler words
+    # inline:   35% — cho phép chuyển prose → bullet/list (từ nối bị loại bỏ hợp lệ)
+    llm_headings = create_validated_llm_func(raw_llm_func, "format_headings", max_word_change_pct=0.25)
+    llm_inline   = create_validated_llm_func(raw_llm_func, "format_inline",   max_word_change_pct=0.35)
+
 
     pipeline_kwargs = {
         "lines_per_para": args.lines_per_para,
         "remove_openers": args.remove_openers,
         "timestamp_file": timestamp_file,
         "llm_func": llm_func,
+        "llm_headings": llm_headings,
+        "llm_inline": llm_inline,
         "number_sections": not args.no_number,
         "add_separators": not args.no_separators,
         "max_sentences": args.max_sentences,

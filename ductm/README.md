@@ -77,13 +77,6 @@ Chứa hướng dẫn chi tiết cho 3 quy trình chính:
 2. Yêu cầu LLM: *"Ingest file này"*
 3. LLM tự động tạo/cập nhật các trang wiki tương ứng
 
-### Tra cứu kiến thức
-
-Hỏi trực tiếp, ví dụ:
-- *"Tóm tắt framework SCALE của Hormozi"*
-- *"So sánh phương pháp bán hàng của Hormozi và Jeremy Miner"*
-- *"Liệt kê tất cả concepts liên quan đến sales"*
-
 ### Kiểm tra wiki
 
 Yêu cầu: *"Lint wiki"* — LLM sẽ kiểm tra link hỏng, trang thiếu liên kết, mâu thuẫn nội dung.
@@ -104,14 +97,6 @@ SRT / Transcript → clean timestamps → clean fillers → format headings → 
 
 **Ví dụ đã xử lý:**
 - `Build & Sell with Claude Code (10+ Hour Course)` — 10+ tiếng, 30 chapters, SRT 83k dòng → article 10k dòng
-
-## Nguồn nội dung
-
-| Danh mục | Nội dung |
-|---|---|
-| **AI & Tools** | Build & Sell with Claude Code (10+ Hour Course) |
-| **Business & Sales** | Alex Hormozi — $100M Offers, Sales Training, Audience Growth |
-| **Brand & Content** | Caleb Ralston — Brand Building, Content Strategy |
 
 ## Clone về máy
 

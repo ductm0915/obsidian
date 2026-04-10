@@ -1,5 +1,5 @@
 ---
-title: "School (Platform)"
+title: Skool (Platform)
 type: entity
 created: 2026-04-08
 updated: 2026-04-08
@@ -11,7 +11,7 @@ tags:
   - saas
 ---
 
-# School (Platform)
+# Skool (Platform)
 
 ## Overview
 

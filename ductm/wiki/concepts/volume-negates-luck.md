@@ -22,3 +22,4 @@ Rather than looking to score the perfect lead, an practitioner of this concept w
 
 ## Sources
 - [[hormozi-ultimate-sales-2026]]
+- [[hormozi-13-years-marketing]]

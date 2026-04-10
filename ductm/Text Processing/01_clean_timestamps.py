@@ -18,6 +18,10 @@ STANDALONE_TIME_RE = re.compile(r"^\+?\d{1,2}:\d{2}(:\d{2})?:?\s*$")
 SRT_TIMESTAMP_RE = re.compile(r"^(\d{2}):(\d{2}):(\d{2}),\d+ --> \d{2}:\d{2}:\d{2},\d+\s*$")
 # SRT sequence number: a line with just a number
 SRT_SEQ_RE = re.compile(r"^\d+\s*$")
+# Vietnamese YouTube timestamps: "2 giây", "1 phút", "1 phút, 30 giây"
+VI_TIME_UNIT = r"(?:phút(?:,\s*\d+\s+giây)?|giây)"
+VI_STANDALONE_TIME_RE = re.compile(rf"^\d+\s+{VI_TIME_UNIT}\s*$")
+VI_INLINE_TIME_RE = re.compile(rf"\d+\s+{VI_TIME_UNIT}\s+")
 SENTENCE_END_RE = re.compile(r"[.!?][\"'\u201d\u2019)]*$")
 
 DEFAULT_LINES_PER_PARA = 8
@@ -54,6 +58,10 @@ def clean_timestamps(
 
         # Bỏ qua dòng chỉ chứa timestamp đơn giản (0:00, 1:23:45)
         if STANDALONE_TIME_RE.match(stripped):
+            continue
+
+        # Bỏ qua dòng chỉ chứa timestamp tiếng Việt ("2 giây", "1 phút, 30 giây")
+        if VI_STANDALONE_TIME_RE.match(stripped):
             continue
 
         # Xử lý SRT timestamp (00:26:08,000 --> ...)
@@ -144,4 +152,10 @@ def clean_timestamps(
         if not changed:
             break
 
-    return "\n\n".join(paragraphs)
+    result = "\n\n".join(paragraphs)
+    # Bước 4: Xoá VI timestamp còn sót lại inline trong đoạn văn
+    result = VI_INLINE_TIME_RE.sub("", result)
+    # Dọn khoảng trắng thừa phát sinh
+    result = re.sub(r"  +", " ", result)
+    result = re.sub(r"^ ", "", result, flags=re.MULTILINE)
+    return result

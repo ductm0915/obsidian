@@ -28,10 +28,12 @@ def _ts_to_seconds(ts: str) -> int:
 HEADINGS_PROMPT = """Bạn là chuyên gia biên tập nội dung. Hãy đọc transcript dưới đây và chèn heading (## Tiêu đề) vào đúng chỗ để chia thành các sections rõ ràng.
 
 Quy tắc:
-- Dùng ## cho section chính, ### cho sub-section
-- Heading phải ngắn gọn, tóm tắt nội dung section (3-8 từ)
-- Giữ nguyên 100% nội dung gốc, CHỈ thêm heading
-- Trả về TOÀN BỘ text với heading đã chèn, không giải thích gì thêm
+- Dùng ## cho section chính, ### cho sub-section.
+- Heading ngắn gọn, tóm tắt nội dung section (3-8 từ).
+- Heading phải viết cùng ngôn ngữ với transcript. Nếu transcript tiếng Anh thì heading tiếng Anh.
+- Giữ nguyên 100% nội dung gốc và ngôn ngữ gốc. Chỉ chèn thêm dòng heading, không sửa bất kỳ từ nào.
+- Không dịch, không tóm tắt, không diễn giải lại.
+- Trả về toàn bộ text với heading đã chèn, không giải thích gì thêm.
 
 Transcript:
 ---
@@ -125,10 +127,45 @@ def insert_headings_from_timestamps(text: str, headings: dict[str, str], toleran
 
 # ── Chèn heading bằng LLM ─────────────────────────────────────────
 
+_CHUNK_WORDS = 1500  # ~6-8 đoạn văn, vừa đủ context cho LLM
+
+
+def _split_into_chunks(text: str, max_words: int = _CHUNK_WORDS) -> list[str]:
+    """Tách text thành các chunks theo số từ, tách tại ranh giới đoạn văn."""
+    paragraphs = text.split("\n\n")
+    chunks: list[str] = []
+    current: list[str] = []
+    current_words = 0
+
+    for para in paragraphs:
+        word_count = len(para.split())
+        if current_words + word_count > max_words and current:
+            chunks.append("\n\n".join(current))
+            current = [para]
+            current_words = word_count
+        else:
+            current.append(para)
+            current_words += word_count
+
+    if current:
+        chunks.append("\n\n".join(current))
+
+    return chunks
+
+
 def insert_headings_with_llm(text: str, llm_func: Callable[[str], str]) -> str:
-    """Dùng LLM phát hiện sections và chèn heading."""
-    prompt = HEADINGS_PROMPT.format(text=text)
-    return llm_func(prompt)
+    """Dùng LLM phát hiện sections và chèn heading, tách chunk để tránh quá context."""
+    chunks = _split_into_chunks(text)
+
+    if len(chunks) == 1:
+        return llm_func(HEADINGS_PROMPT.format(text=text))
+
+    formatted: list[str] = []
+    for chunk in chunks:
+        result = llm_func(HEADINGS_PROMPT.format(text=chunk.strip()))
+        formatted.append(result)
+
+    return "\n\n".join(formatted)
 
 
 # ── Đánh số + separator ────────────────────────────────────────────
@@ -225,18 +262,20 @@ def format_headings(
     """Xử lý heading theo thứ tự ưu tiên:
 
     1. Có file timestamp → chèn từ file
-    2. Không có file, có LLM → LLM tự phát hiện sections
-    3. Không có gì → chỉ đánh số heading có sẵn
-    4. Chèn H1 title + metadata block nếu được cung cấp
+    2. Không có file timestamp → bắt buộc dùng LLM phát hiện sections
+    3. Chèn H1 title + metadata block nếu được cung cấp
     """
     if timestamp_file:
         headings = parse_timestamp_file(timestamp_file)
         if headings:
             text = insert_headings_from_timestamps(text, headings)
-    elif llm_func:
+    else:
+        if not llm_func:
+            raise ValueError("Lỗi: Không có timestamp file và không có LLM. Bắt buộc phải dùng AI để phát hiện sections.")
         text = insert_headings_with_llm(text, llm_func)
 
     text = number_and_separate(text, number_sections, add_separators)
     text = insert_title_and_metadata(text, title, source, content_type, context)
 
     return text
+

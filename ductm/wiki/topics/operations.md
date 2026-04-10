@@ -2,7 +2,7 @@
 title: "Operations"
 type: topic
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-09
 tags: [business, management, scaling]
 ---
 
@@ -30,11 +30,28 @@ Operations is the discipline of managing teams, processes, and systems to maximi
 - **Daily huddle model:** Game tape review, skill correction, priority alignment — run like a sales floor.
 - **Fire during good times:** Prune bloat when growth masks it, not when decline amplifies the pain.
 
+## AI-Assisted Operations
+
+[[ai-development-tools]] mở rộng operations domain: [[wat-framework]] là operational system cho AI-assisted work — workflows, agent, tools = SOPs cho automation. [[agentic-workflow]] xây nhanh, deploy deterministic.
+
 ## Key Thinkers
 - [[alex-hormozi]]
 - [[leila-hormozi]]
+
+## Business Mathematics
+- [[close-rate-pricing-ladder]] — Pricing diagnostics from close rate data.
+- [[ltv-to-cac]] — Extended with model-type benchmarks (3:1/6:1/9:1/12:1).
+- [[payback-period]] — 30-day CAC recovery target for self-funding growth.
+- [[rule-of-100]] — Volume discipline: 100 actions × 100 days.
+- [[one-avatar-product-channel]] — Simplest formula to $1M; no premature complexity.
+- [[hungry-crowd]] — Market selection as the dominant variable.
+- [[six-levels-compensation]] — Risk-based compensation structures for operators and deal-makers.
 
 ## Ingested Sources
 - [[hormozi-no-bs-business-2026]]
 - [[hormozi-ultimate-sales-2026]]
 - [[hormozi-100m-playbooks]]
+- [[hormozi-mathematics-business]]
+- [[hormozi-millionaire-blueprint-2024]]
+- [[hormozi-watch-get-ahead-2026]]
+- [[skools-5-years-100k]]

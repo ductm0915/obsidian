@@ -1,40 +1,24 @@
 {
   "main": {
-    "id": "3e98c6174079ffa9",
+    "id": "16ff5306297631a5",
     "type": "split",
     "children": [
       {
-        "id": "16aa29f9af19e8ab",
+        "id": "bd3b434212ac546c",
         "type": "tabs",
         "children": [
           {
-            "id": "65998fa1c66444d4",
+            "id": "c77c06758b044271",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "wiki/topics/brand-building.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "05ed6d66ec0698bc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6d6282a75e57b94e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "brand-building"
             }
           }
         ]
@@ -43,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1e3c66eb669e90e2",
+    "id": "790a0843dfc05149",
     "type": "split",
     "children": [
       {
-        "id": "9a99da5f4651552f",
+        "id": "6874ee12502c20da",
         "type": "tabs",
         "children": [
           {
-            "id": "10100609c6a85676",
+            "id": "2744f8311d9d3398",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,12 +48,12 @@
             }
           },
           {
-            "id": "3a9208e676fe656e",
+            "id": "640aa39e82111e50",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "llm wiki",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +65,7 @@
             }
           },
           {
-            "id": "344814bc75a936c8",
+            "id": "a0993f635496b6db",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 337.5
   },
   "right": {
-    "id": "cab1701fcd653765",
+    "id": "c4b082e2a2620c23",
     "type": "split",
     "children": [
       {
-        "id": "ec56d705c9bc5ced",
+        "id": "f08f10f2f760fb5a",
         "type": "tabs",
         "children": [
           {
-            "id": "02f77ad0e23a939a",
+            "id": "ab9244b901af5af1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "wiki/entities/caleb-ralston.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for caleb-ralston"
             }
           },
           {
-            "id": "942c30e9c6b429fa",
+            "id": "c40f700ffaaa9254",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "wiki/entities/caleb-ralston.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from caleb-ralston"
             }
           },
           {
-            "id": "92573a1ddf387c20",
+            "id": "1ecec549f1e79a01",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,7 +137,7 @@
             }
           },
           {
-            "id": "9b30d29f1dac09e9",
+            "id": "a1025bc76a727f25",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -167,18 +151,18 @@
             }
           },
           {
-            "id": "ce5779d29622f9e0",
+            "id": "1724f6daaf6b58cf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "wiki/entities/caleb-ralston.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of caleb-ralston"
             }
           }
         ]
@@ -199,8 +183,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "65998fa1c66444d4",
+  "active": "c77c06758b044271",
   "lastOpenFiles": [
-    "Welcome.md"
+    "wiki/concepts/five-levels-of-awareness.md",
+    "wiki/concepts/flywheel-effect.md",
+    "wiki/concepts/founder-flywheel.md",
+    "raw/articles/Matt Gray/how to build a profitable personal brand (in just 64 minutes).md",
+    "wiki/concepts/delegation-math.md",
+    "wiki/concepts/media-first-founder.md",
+    "wiki/concepts/newsletter-welcome-series.md",
+    "wiki/concepts/rented-vs-owned-audience.md",
+    "wiki/concepts/personal-moat.md",
+    "wiki/concepts/aed-system.md",
+    "wiki/concepts/content-gps.md",
+    "wiki/concepts/content-waterfall-system.md",
+    "wiki/entities/founder-os.md",
+    "wiki/entities/matt-gray.md",
+    "wiki/sources/gray-profitable-personal-brand.md",
+    "wiki/concepts/brand-journey-framework.md",
+    "raw/articles/Matt Gray",
+    "wiki/concepts/conviction-framework.md",
+    "wiki/concepts/contrarian-belief.md",
+    "wiki/concepts/context-rot.md",
+    "wiki/concepts/do-framework.md",
+    "wiki/entities/claude-code.md",
+    "wiki/concepts/payback-period.md",
+    "wiki/sources/ship30-cowork-bootcamp-s1.md",
+    "wiki/concepts/declarative-vs-procedural.md",
+    "wiki/concepts/sell-at-point-of-deprivation.md",
+    "wiki/concepts/close-rate-pricing-ladder.md",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "raw/articles/Ship 30 For 30",
+    "lint_script.sh",
+    "Text Processing/__pycache__/01_clean_timestamps.cpython-314.pyc",
+    "Text Processing/__pycache__/06_add_takeaways.cpython-314.pyc",
+    "Text Processing/__pycache__/05_add_metadata.cpython-314.pyc",
+    "Text Processing/__pycache__/04_format_inline.cpython-314.pyc",
+    "Text Processing/__pycache__/02_clean_fillers.cpython-314.pyc",
+    "Text Processing/__pycache__/03_format_headings.cpython-314.pyc",
+    "Text Processing/process.py"
   ]
 }

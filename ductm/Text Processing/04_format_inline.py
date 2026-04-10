@@ -16,43 +16,9 @@ from typing import Callable
 
 # ── Regex patterns ──────────────────────────────────────────────────
 
-# ── Label patterns ─────────────────────────────────────────────────
-# Generic: cụm 1-5 từ viết hoa ở đầu dòng, theo sau bởi : hoặc — hoặc -
-# Ví dụ: "Key insight:", "My emphasis:", "On vacations:", "Steve Jobs approach:"
-# Loại trừ sentence starters để tránh false positives
-_SENTENCE_STARTERS = (
-    r"(?!(?:Here|This|That|There|It|What|How|Why|When|Where|Who|If|But|And|So|Or"
-    r"|Just|Let|As|Now|Well|Then|Also|Because|Since|After|Before|Once|While)\s)"
-)
-GENERIC_LABEL_RE = re.compile(
-    rf"^{_SENTENCE_STARTERS}((?:[A-Z\u00C0-\u024F][a-z\u00C0-\u024F'\"]*(?:\s+(?:of|the|for|on|in|and|vs|not|is|a|an|to|&))?(?:\s+[A-Za-z\u00C0-\u024F'\"]+)*))\s*[:—–-]\s+",
-    re.MULTILINE,
-)
-
-EXAMPLE_RE = re.compile(
-    r"^(For example|Examples?|For instance|Case study|Case in point|Content example)\s*[:—,\-–]\s*",
-    re.IGNORECASE | re.MULTILINE,
-)
-
-QUOTE_RE = re.compile(
-    r'^["\u201c](.+?)["\u201d]\s*[—\-–]\s*(.+?)$',
-    re.MULTILINE,
-)
-
-# Inline quote: "text" → *"text"* (italic cho nhấn mạnh)
-INLINE_QUOTE_RE = re.compile(
-    r'(?<!\*)("(?:[^"]{3,80})")\s*(?=[.?!,;]|\s+[A-Z]|$)',
-    re.MULTILINE,
-)
-
-# Numbered list: dòng bắt đầu bằng số + dấu chấm/phẩy/ngoặc + nội dung
-NUMBERED_LIST_RE = re.compile(
-    r"^(\d+)[.)]\s+",
-    re.MULTILINE,
-)
-
 SENTENCE_SPLIT_RE = re.compile(r"(?<=[.!?])\s+(?=[A-Z\u00C0-\u024F])")
 SENTENCE_END_RE = re.compile(r"[.!?][\"'\u201d\u2019)]*$")
+
 
 INLINE_PROMPT = """Bạn là chuyên gia biên tập markdown. Hãy format lại đoạn text dưới đây theo quy tắc:
 
@@ -68,10 +34,11 @@ INLINE_PROMPT = """Bạn là chuyên gia biên tập markdown. Hãy format lại
 10. Tách đoạn văn dài thành đoạn ngắn (1-3 câu/đoạn)
 11. Giữ nguyên heading (##, ###) và separator (---)
 
-Quy tắc quan trọng:
-- KHÔNG thêm, bớt, hoặc thay đổi ý nghĩa nội dung
-- KHÔNG thêm heading mới
-- Trả về text đã format, không giải thích gì thêm
+Lưu ý quan trọng:
+- Giữ nguyên 100% nội dung gốc và ngôn ngữ gốc. Chỉ thêm markdown formatting, không sửa từ ngữ.
+- Không dịch, không tóm tắt, không diễn giải lại, không thêm heading mới.
+- Mỗi từ gốc phải xuất hiện y nguyên trong kết quả.
+- Trả về text đã format, không giải thích gì thêm.
 
 Text:
 ---
@@ -79,25 +46,7 @@ Text:
 ---"""
 
 
-# ── Regex-based formatting ──────────────────────────────────────────
-
-def _bold_labels(text: str) -> str:
-    def _replace_label(m: re.Match) -> str:
-        return f"**{m.group(1)}:** "
-    return GENERIC_LABEL_RE.sub(_replace_label, text)
-
-
-def _format_examples(text: str) -> str:
-    def _replace_example(m: re.Match) -> str:
-        return f"**{m.group(1)} —** "
-    return EXAMPLE_RE.sub(_replace_example, text)
-
-
-def _format_quotes(text: str) -> str:
-    def _replace_quote(m: re.Match) -> str:
-        return f'> "{m.group(1)}" — {m.group(2)}'
-    return QUOTE_RE.sub(_replace_quote, text)
-
+# ── Regex-based utilities ──────────────────────────────────────────
 
 def _split_long_paragraphs(text: str, max_sentences: int = 3) -> str:
     paragraphs = text.split("\n\n")
@@ -142,42 +91,63 @@ def _split_long_paragraphs(text: str, max_sentences: int = 3) -> str:
     return "\n\n".join(result)
 
 
-def _format_numbered_lists(text: str) -> str:
-    """Chuẩn hóa numbered lists: đảm bảo format `1. content`."""
-    return NUMBERED_LIST_RE.sub(r"\1. ", text)
-
-
-def _format_inline_quotes(text: str) -> str:
-    """Italic cho quotes nội tuyến: "text" → *"text"*.
-
-    Bỏ qua dòng heading (##) và dòng đã có bold (**).
-    """
-    lines = text.splitlines()
-    result: list[str] = []
-    for line in lines:
-        stripped = line.strip()
-        if stripped.startswith("#") or stripped.startswith("**"):
-            result.append(line)
-        else:
-            result.append(INLINE_QUOTE_RE.sub(lambda m: f"*{m.group(1)}*", line))
-    return "\n".join(result)
-
-
-def _format_with_regex(text: str, max_sentences: int = 3) -> str:
-    text = _bold_labels(text)
-    text = _format_examples(text)
-    text = _format_quotes(text)
-    text = _format_inline_quotes(text)
-    text = _split_long_paragraphs(text, max_sentences)
-    text = _format_numbered_lists(text)
-    return text
-
-
 # ── LLM-based formatting ───────────────────────────────────────────
 
+_SECTION_SEP = re.compile(r"\n\n---\n\n")
+
+
+def _split_sections(text: str) -> list[str]:
+    """Tách text thành các sections theo dấu phân cách ---."""
+    return _SECTION_SEP.split(text)
+
+
+_BATCH_MAX_WORDS = 2000  # Gộp nhiều sections nhỏ thành batch ~2000 từ
+
+
 def _format_with_llm(text: str, llm_func: Callable[[str], str]) -> str:
-    prompt = INLINE_PROMPT.format(text=text)
-    return llm_func(prompt)
+    """Format inline qua LLM, gộp sections thành batches lớn để giảm số lần gọi LLM.
+
+    Thay vì gọi LLM cho mỗi section riêng (20-30 calls), gộp thành batches
+    ~2000 từ (3-5 calls). Giữ nguyên separator --- trong mỗi batch.
+    """
+    sections = _split_sections(text)
+
+    # Nếu chỉ 1 section (không có ---), gửi thẳng
+    if len(sections) == 1:
+        return llm_func(INLINE_PROMPT.format(text=text))
+
+    # Gộp sections thành batches lớn hơn
+    batches: list[list[str]] = []
+    current_batch: list[str] = []
+    current_words = 0
+
+    for section in sections:
+        stripped = section.strip()
+        word_count = len(stripped.split()) if stripped else 0
+
+        if current_words + word_count > _BATCH_MAX_WORDS and current_batch:
+            batches.append(current_batch)
+            current_batch = [section]
+            current_words = word_count
+        else:
+            current_batch.append(section)
+            current_words += word_count
+
+    if current_batch:
+        batches.append(current_batch)
+
+    print(f"  📦 format_inline: {len(sections)} sections → {len(batches)} batches")
+
+    formatted: list[str] = []
+    for batch in batches:
+        batch_text = "\n\n---\n\n".join(s.strip() for s in batch)
+        if not batch_text.strip():
+            formatted.append(batch_text)
+            continue
+        result = llm_func(INLINE_PROMPT.format(text=batch_text))
+        formatted.append(result)
+
+    return "\n\n---\n\n".join(formatted)
 
 
 # ── Hàm chính ──────────────────────────────────────────────────────
@@ -189,9 +159,12 @@ def format_inline(
 ) -> str:
     """Format inline cho transcript.
 
-    - Có LLM → format thông minh
-    - Không có LLM → format bằng regex
+    Bắt buộc sử dụng LLM. Nếu không có LLM, báo lỗi vì Regex formatting đã bị loại bỏ.
     """
-    if llm_func:
-        return _format_with_llm(text, llm_func)
-    return _format_with_regex(text, max_sentences)
+    if not llm_func:
+        raise ValueError("Lỗi: Không có LLM. Chế độ dùng Regex để format đã bị vô hiệu hóa, bắt buộc phải dùng AI.")
+    
+    # Optional: split long paragraphs before sending to LLM, or let LLM do it.
+    text = _split_long_paragraphs(text, max_sentences)
+    
+    return _format_with_llm(text, llm_func)

@@ -22,7 +22,7 @@ tags:
 
 Caleb Ralston is an entrepreneur and brand strategist with 17+ years of experience building personal brands in the business creator space. Previously worked at VaynerMedia (for Gary Vaynerchuk), Constellation Brands (Prisoner Wine, High West Whiskey), and Logos Bible Software. Built an 18-person in-house media team from zero, generating 350 pieces/week and billions of impressions/year.
 
-In 2025, launched his own personal brand: 265,000 followers, 44,000 email subscribers, and 750+ consulting applications in the first year. Founded [[rson-select]] consulting firm.
+In 2025, launched his own personal brand: 265,000 followers, 44,000 email subscribers, and 750+ consulting applications in the first year. Founded [[ralston-select]] consulting firm.
 
 ## Core Philosophy
 
