@@ -38,6 +38,18 @@ To improve this ratio, you must either:
 1. Lower CAC (by getting better at front-end marketing and optimizing the [[value-equation]])
 2. Increase LTV (by increasing price, reducing churn, or selling additional products/services)
 
+## Two Long-Term Winning Strategies
+There are only two ways to build an extraordinary LTV:CAC ratio — one of the two variables must approach zero or infinity:
+- **Extremely low CAC → zero:** Build massive brand or a viral product. Example: Facebook — CAC approached zero via viral growth.
+- **Extremely high LTV → infinity:** Create a product with deep retention and expansion revenue. Example: Salesforce — high LTV from long-term enterprise contracts justifies high CAC.
+
+Every big business wins on one of these two axes.
+
+## Ratio Changes Over Time
+The ratio naturally compresses as you scale. Gym Launch went from **100:1 in Year 1** → **~30:1** as infrastructure layers were added. This is expected — more operational complexity lowers margins. As long as the ratio stays above your benchmark for your business model, scaling is sound.
+
+Diagnostic question: *"If you divided your CAC by 4, would that improve the ratio enough to unlock the next stage of growth?"*
+
 ## Topics
 - [[sales]]
 - [[operations]]

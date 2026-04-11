@@ -9,8 +9,8 @@ updated: 2026-04-08
 
 Master catalog of all pages in this wiki. Organized by category. The LLM reads this first when answering queries to find relevant pages.
 
-**Total pages:** 193  
-**Total sources ingested:** 43  
+**Total pages:** 212  
+**Total sources ingested:** 45  
 **Last updated:** 2026-04-11
 
 ---
@@ -58,7 +58,9 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[gray-storytelling-addiction]] — Matt Gray's 6-part storytelling framework: open loops, story-as-funnel, Five-Line Story Framework, Bitmaker government-raid story (2026-04-11).
 - [[hormozi-bestseller-writing]] — Hormozi's full writing process: $100M Offers 200K copies no publisher; story craft, 7 newsworthiness factors, Hemingway editing, 1000 hours/book (2026-04-11).
 - [[gray-beautiful-business]] — Matt Gray's 6-phase Beautiful Business model: Traffic → Entry Points → Offer Stack → Content GPS → Math → True Goals (2026-04-11).
+- [[gray-content-strategy-founders]] — Companion video to gray-beautiful-business; same 6-phase model with clearer articulation of organic pre-suasion and founder longevity failure mode (2026-04-11).
 - [[dan-koe-get-ahead-99]] — Dan Koe's 7-video compilation: anti-vision, entropy, flow state, 4-hour workday, deep work, society as pyramid scheme (2026-04-11).
+- [[ppv-pro-program]] — August Bradley's PPV Pro Program (17 sessions): Pillars, Pipelines, Vaults — tích hợp life design + GTD + Second Brain vào một hệ thống Notion (2026-04-11).
 
 ## Entities
 
@@ -87,6 +89,7 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[matt-gray]] — Entrepreneur, media-first founder; 3.2M personal brand, 81M organic impressions/month; creator of Founder OS and Content GPS system.
 - [[founder-os]] — Matt Gray's paid community for founders: 180+ systems, custom AI agent, founder retreats, 50+ live sessions/month.
 - [[dan-koe]] — Writer, entrepreneur, philosopher; "one-person business" model; attention management + flow + integral philosophy.
+- [[august-bradley]] — Creator of PPV (Pillars, Pipelines, Vaults) framework; instructor at notionlifedesign.com; runs PPV Pro since 2020.
 
 ## Concepts
 
@@ -149,6 +152,7 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[learning-intelligence-confidence]] — Learning = same condition new behavior; intelligence = rate of learning; confidence = past proof.
 - [[deprivation-motivation]] — Motivation ∝ perceived gap to goal; rich feel more deprived than poor; change environment to change drive.
 - [[one-source-rule]] — Commit to one teacher/source fully until results before moving to next.
+- [[five-stages-opportunity]] — Hormozi's 5-stage arc (Uninformed Optimism → Informed Pessimism → Valley of Despair → Informed Optimism → Achievement); opportunity hopping is the failure mode.
 - [[frustration-tolerance]] — True discipline: doing what you don't like without reward for extended periods.
 - [[my-fault-philosophy]] — Radical accountability as foundation; blame = surrendered power.
 - [[hungry-crowd]] — 4-criteria market filter: in pain, can buy, easy to target, growing market.
@@ -183,6 +187,18 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[four-hour-workday]] — 4 hours as a forcing constraint; drives productization and leverage over time-for-money.
 - [[ideal-future-now]] — Start your ideal future habits at tiny scale today; don't wait for the right conditions.
 - [[life-as-video-game]] — Reverse-engineer game mechanics (hierarchy, feedback, challenge) into real life to produce flow.
+- [[ppv-system]] — August Bradley's Pillars/Pipelines/Vaults framework: tích hợp GTD + Second Brain + life values vào một hệ thống Notion.
+- [[alignment-zone]] — Xương sống PPV: hierarchy Pillars → Life Aspirations → Goals → Projects/Routines → Actions; lớp trên là why, lớp dưới là how.
+- [[gpr-framework]] — Goals, Projects, Routines trong một database duy nhất; phân biệt rõ goal (outcome) vs project (phase) vs routine (repeating).
+- [[pillars-purpose-process]] — Self-discovery process: Reflection → Interpretation → Guiding Principles → Pillars (2–6 từ memorizable).
+- [[life-aspirations-ppv]] — Lớp emotional giữa Pillars và Goals; ongoing states bạn muốn hướng đến; moving targets theo thời gian.
+- [[focus-zone]] — Daily execution zone: top priorities hôm nay, resurface relevant resources, daily pages (startup/wind-down).
+- [[knowledge-zone-ppv]] — Topics (master index + master tag) + Neurobits; knowledge resurfaces in context của pipelines.
+- [[neurobits]] — Đơn vị capture kiến thức PPV: media/notes/documents trong một database; tag theo Topics → tự resurface.
+- [[cycles-review-system]] — Anti-entropy: Daily → Weekly → Duo Cycle (2 tháng) → Annual review.
+- [[spaces-ppv]] — Context-based dashboards: Personal / Work / Connections; giảm context switching.
+- [[defend-the-zone]] — Priority work first, squeeze everything else around it; origin của Focus Zone name.
+- [[smarter-goals]] — SMART mở rộng: +Exciting (flow-state), +Relevant (aligned với aspirations); judge on showing up, not outcomes.
 
 ## Topics
 
@@ -191,6 +207,7 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[operations]] — Managing teams, processes, and systems to maximize output per unit of resource.
 - [[ai-development-tools]] — Ecosystem for building agentic AI systems: Claude Code, WAT, Trigger.dev, VPS.
 - [[storytelling]] — Story-as-funnel, story-as-moat; frameworks from Gray + Hormozi; craft, structure, conversion.
+- [[personal-productivity]] — Systems, frameworks, triết lý về tổ chức cuộc sống: PPV, Defend the Zone, flow states, SMARTER goals.
 
 ## Analyses
 

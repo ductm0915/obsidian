@@ -199,6 +199,21 @@ Matt Gray's complete 6-phase "Beautiful Business" model: Traffic (organic + rent
 - Created: [[gray-beautiful-business]], [[offer-stack-model]], [[signal-vs-noise-content]], [[application-router]]
 - Updated: [[matt-gray]] (stats + new frameworks), [[founder-os]] (offer stack detail + scale metrics), [[founder-flywheel]] (expanded operational loop), [[content-gps]] (20/10 CTA cadence + team routes), [[brand-building]] (Beautiful Business section), [[index]]
 
+## [2026-04-11] ingest | PPV Pro Program — August Bradley (17 sessions)
+August Bradley's complete PPV Pro program: Pillars, Pipelines, Vaults — hệ thống life design toàn diện xây trên Notion. Ba zones: Alignment (spine), Focus (execution), Knowledge (learning). Framework tích hợp GTD + Second Brain + life values philosophy — cái mà các hệ thống riêng lẻ thiếu. Key concepts: Pillars (self-discovery process), Life Aspirations (emotional layer thiếu trong mọi hệ thống), GPR (Goals/Projects/Routines trong 1 database), Neurobits (knowledge capture unit), Cycles (anti-entropy), Spaces (context dashboards), Defend the Zone (time management philosophy). Tạo topic mới: Personal Productivity.
+- Created: [[ppv-pro-program]], [[august-bradley]], [[ppv-system]], [[alignment-zone]], [[gpr-framework]], [[pillars-purpose-process]], [[life-aspirations-ppv]], [[focus-zone]], [[knowledge-zone-ppv]], [[neurobits]], [[cycles-review-system]], [[spaces-ppv]], [[defend-the-zone]], [[smarter-goals]], [[personal-productivity]]
+- Updated: [[index]]
+
+## [2026-04-11] ingest | Copy This Content Strategy — Matt Gray
+Companion video to [[gray-beautiful-business]]; same 6-phase Beautiful Business model (Traffic → Entry Points → Products → Content GPS → Math → True Goals). No new concepts extracted — all frameworks already fully documented. Two unique angles: organic pre-suasion (organic leads arrive pre-convinced, curiosity not skepticism on sales calls) and longevity failure diagnosis (founders quit because of scattered audience + too many offers, not lack of ambition).
+- Created: [[gray-content-strategy-founders]]
+- Updated: [[index]]
+
+## [2026-04-11] update | LTV:CAC ratio + Five Stages of Opportunity
+Updated [[ltv-to-cac]] with 2 missing sections from raw source: Two Long-Term Winning Strategies (low CAC vs high LTV with Facebook/Salesforce examples) and Ratio Changes Over Time (100:1 → 30:1 at scale). Created new concept [[five-stages-opportunity]] from Hormozi's "How to Win" and "Millionaire Blueprint" sources. Deleted 3 empty root stubs (ltv-cac-ratio.md, stakes-and-struggle.md, five-stages-opportunity.md).
+- Created: [[five-stages-opportunity]]
+- Updated: [[ltv-to-cac]], [[index]]
+
 ## [2026-04-11] ingest | How To Get Ahead Of 99% Of People — Dan Koe
 First Dan Koe source ingested. 7-video compilation covering: anti-vision + entropy as life architecture tools, flow state as optimal attention absorption, life-as-video-game mechanics, 4-hour workday as leverage constraint, bring-ideal-future-into-now habit philosophy, deep work routine, and society-as-pyramid-scheme social critique. Koe's frame: philosophical entrepreneurship at the intersection of consciousness studies (Ken Wilber, Alan Watts) and practical one-person business building.
 - Created: [[dan-koe-get-ahead-99]], [[dan-koe]], [[anti-vision]], [[entropy-principle]], [[flow-state]], [[four-hour-workday]], [[ideal-future-now]], [[life-as-video-game]]
