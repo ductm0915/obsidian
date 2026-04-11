@@ -204,6 +204,11 @@ August Bradley's complete PPV Pro program: Pillars, Pipelines, Vaults — hệ t
 - Created: [[ppv-pro-program]], [[august-bradley]], [[ppv-system]], [[alignment-zone]], [[gpr-framework]], [[pillars-purpose-process]], [[life-aspirations-ppv]], [[focus-zone]], [[knowledge-zone-ppv]], [[neurobits]], [[cycles-review-system]], [[spaces-ppv]], [[defend-the-zone]], [[smarter-goals]], [[personal-productivity]]
 - Updated: [[index]]
 
+## [2026-04-11] ingest | PPV Pro Program — Batch 2 (15 sessions)
+Second batch of PPV Pro sessions: Review Cycles (Annual Reflect→Interpret→Visualize→Plan methodology, Duo Cycle go-offsite philosophy, Weekly create-organize-review workflow, Daily effectiveness/improvement tracking), Specialty Pipelines (content pipeline as example: Ideas→Production→Calendar→Archive; criteria: ≥2/month + 3+ steps + similar structure), and specialty workflows (Synced Actions for VA collaboration, Notion AI Agents, Client Management, Calendar integration). Key new concept: Specialty Pipeline — separate database for high-freq mini-projects that would flood GPR. Enriched [[cycles-review-system]] significantly with full Annual Review process and Remembrance 3-layer review. PPV Pro source now covers 32 sessions.
+- Created: [[specialty-pipeline]]
+- Updated: [[cycles-review-system]] (major enrichment: Annual R→I→V→P, Duo Cycle, Weekly, Daily details), [[ppv-pro-program]] (32 sessions total), [[index]]
+
 ## [2026-04-11] ingest | Copy This Content Strategy — Matt Gray
 Companion video to [[gray-beautiful-business]]; same 6-phase Beautiful Business model (Traffic → Entry Points → Products → Content GPS → Math → True Goals). No new concepts extracted — all frameworks already fully documented. Two unique angles: organic pre-suasion (organic leads arrive pre-convinced, curiosity not skepticism on sales calls) and longevity failure diagnosis (founders quit because of scattered audience + too many offers, not lack of ambition).
 - Created: [[gray-content-strategy-founders]]

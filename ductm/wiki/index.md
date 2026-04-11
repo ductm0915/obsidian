@@ -9,7 +9,7 @@ updated: 2026-04-08
 
 Master catalog of all pages in this wiki. Organized by category. The LLM reads this first when answering queries to find relevant pages.
 
-**Total pages:** 212  
+**Total pages:** 213  
 **Total sources ingested:** 45  
 **Last updated:** 2026-04-11
 
@@ -199,6 +199,7 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[spaces-ppv]] — Context-based dashboards: Personal / Work / Connections; giảm context switching.
 - [[defend-the-zone]] — Priority work first, squeeze everything else around it; origin của Focus Zone name.
 - [[smarter-goals]] — SMART mở rộng: +Exciting (flow-state), +Relevant (aligned với aspirations); judge on showing up, not outcomes.
+- [[specialty-pipeline]] — Database riêng cho recurring mini-projects tần suất cao (≥2/tháng, 3+ bước); tránh flood GPR; ví dụ: content pipeline, client pipeline.
 
 ## Topics
 

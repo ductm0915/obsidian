@@ -5,10 +5,11 @@ created: 2026-04-11
 updated: 2026-04-11
 tags: [productivity, life-design, notion, personal-systems, frameworks]
 ---
+<!-- Updated 2026-04-11: Added 15 new sessions (review cycles, specialty pipelines, client management, Notion AI, tracking) -->
 
 # PPV Pro Program — Pillars, Pipelines & Vaults
 
-**Nguồn:** 17 session transcripts từ chương trình PPV Pro (October 2020 cohort, ~5 năm running)  
+**Nguồn:** 32 session transcripts từ chương trình PPV Pro (October 2020 cohort, ~5 năm running)  
 **Instructor:** [[august-bradley]] (+ co-pilot Jane)  
 **Website:** notionlifedesign.com  
 **Platform:** Notion  
@@ -61,6 +62,7 @@ Ba thành phần cốt lõi:
 
 ## Các Sessions Được Ingest
 
+### Batch 1 — Core Framework (17 sessions)
 1. PPV System Structure and Diagram Overview
 2. PPV System Overview: A Dashboard Walkthrough
 3. PPV Pro Program Kickoff Session
@@ -79,6 +81,23 @@ Ba thành phần cốt lõi:
 16. How to Build the Discipline to Focus
 17. Pages và Dashboard trong GPR
 
+### Batch 2 — Review Cycles, Specialty Workflows, Advanced Features (15 sessions)
+18. Annual Review and Planning
+19. Daily Cycles: The Supporting Actors in Your Alignment Zone
+20. Weekly Cycle Review Workflow: The Complete Guide
+21. Duo Cycle Review: The Two-Month Realignment Process
+22. Review Cycles: Tips, Timing, and Community Insights
+23. Specialty Pipelines: Content Pipeline Workshop
+24. Synced Actions (collaboration workflow with external VAs/contractors)
+25. Journaling trong Daily Template
+26. Daily Gratitude (property vs. perpetual neur bit)
+27. Workout Tracking trong Notion
+28. Theo Dõi Chuyên Sâu: Daily Tracking vs. Specialized Tracking Database
+29. Notion AI Agents — Giới thiệu và Hướng dẫn Thực hành
+30. Client và People Management trong PPV
+31. Nhập Template Client Proposals vào People Database
+32. Làm việc với ứng dụng lịch bên ngoài kết hợp Focus Zone
+
 ---
 
 ## Liên quan
@@ -90,8 +109,10 @@ Ba thành phần cốt lõi:
 - [[knowledge-zone-ppv]] — Topics + Neurobits
 - [[pillars-purpose-process]] — Quy trình self-discovery
 - [[life-aspirations-ppv]] — Lớp emotional giữa Pillars và Goals
-- [[cycles-review-system]] — Chống entropy
+- [[cycles-review-system]] — Chống entropy (Annual/Duo/Weekly/Daily process)
+- [[specialty-pipeline]] — Recurring mini-project management (content, client, etc.)
 - [[spaces-ppv]] — Context dashboards
 - [[defend-the-zone]] — Triết lý quản lý thời gian
+- [[neurobits]] — Knowledge capture unit; Remembrance cho annual review
 - [[august-bradley]]
 - [[personal-productivity]]
