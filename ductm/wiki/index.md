@@ -9,8 +9,8 @@ updated: 2026-04-08
 
 Master catalog of all pages in this wiki. Organized by category. The LLM reads this first when answering queries to find relevant pages.
 
-**Total pages:** 213  
-**Total sources ingested:** 45  
+**Total pages:** 249  
+**Total sources ingested:** 64  
 **Last updated:** 2026-04-11
 
 ---
@@ -61,6 +61,25 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[gray-content-strategy-founders]] — Companion video to gray-beautiful-business; same 6-phase model with clearer articulation of organic pre-suasion and founder longevity failure mode (2026-04-11).
 - [[dan-koe-get-ahead-99]] — Dan Koe's 7-video compilation: anti-vision, entropy, flow state, 4-hour workday, deep work, society as pyramid scheme (2026-04-11).
 - [[ppv-pro-program]] — August Bradley's PPV Pro Program (17 sessions): Pillars, Pipelines, Vaults — tích hợp life design + GTD + Second Brain vào một hệ thống Notion (2026-04-11).
+- [[sam-ovens-death-by-1000-cuts]] — Death by 1,000 cuts: small interruptions destroy productivity; elimination > optimization; environment + routine > willpower (2026-04-11).
+- [[sam-ovens-billionaire-mind]] — Decoding the billionaire mind: full-stack 5-layer model (awareness → cognition → principles → disciplines → processes); two people, same info, different results (2026-04-11).
+- [[sam-ovens-systems-thinking]] — Systems thinking: inputs/processes/outputs/feedback/environment; component thinking vs. systems thinking; emergence over siloing (2026-04-11).
+- [[sam-ovens-long-term-thinking]] — Long-term thinking, 2nd order consequences, effect horizons: Valeant case study; marshmallow experiment; wheelchair path vs. the hill (2026-04-11).
+- [[sam-ovens-scale-mess-debt]] — Scale, mess, debt cycle: 8 types of business debt; YAGNI; 80% innovation / 20% operations; Sam's $2M→$18M→$13M→$34M cycle (2026-04-11).
+- [[sam-ovens-monk-like-discipline]] — Monk-like discipline: motivation vs. discipline; 11 practices; instant gratification as addiction; sacrifice as power (2026-04-11).
+- [[sam-ovens-why-productivity-bullshit]] — Why productivity is bullshit: do less not more; energy vector math; hire a chef, live-in trainer; one product/business thesis (2026-04-11).
+- [[sam-ovens-9-inconvenient-truths]] — 9 inconvenient truths about online business: cowboy era is over; product > marketing; Darwin's culling of the market (2026-04-11).
+- [[sam-ovens-success-ingredients]] — Garbage in, garbage out: genius is a function of inputs (mentors, books); hiring by inputs not outputs; 436 interviews (2026-04-11).
+- [[sam-ovens-chaos-4-laws]] — How to play with chaos: entropy, initial conditions, self-organization (emergence), interdependence; mental models as lenses (2026-04-11).
+- [[sam-ovens-why-communication-inefficient]] — Why communication is inefficient: n(n-1)/2 formula; at 11 people = 0% efficiency; more people can mean less output (2026-04-11).
+- [[sam-ovens-use-metrics]] — How to use metrics: fewer better metrics; Amazon's tickets-per-order; qualitative community signal as best proxy; 3 critical assumptions max (2026-04-11).
+- [[sam-ovens-how-to-make-decisions]] — How to make decisions: 3-part/22-point system; reduce load, think critically, apply mental models; heuristics as decision eliminators (2026-04-11).
+- [[sam-ovens-be-more-productive]] — Quantum Mastermind recording: complete daily architecture; environment design; 9pm vision review ritual; sleep as #1 health variable (2026-04-11).
+- [[sam-ovens-how-to-make-money-skool]] — How to make money on Skool: Traffic→Community→Members→Income model; 22% from platform discovery; 10 true regulars; stages of evolution (2026-04-11).
+- [[sam-ovens-what-perfection-looks-like]] — What perfection looks like: niche→problem→solution→value formula; talk to market; find the rare few who solved it; "future is already here, just not evenly distributed" (2026-04-11).
+- [[sam-ovens-genius-of-contradiction]] — The genius of contradiction: 15 examples; binary state transcendence; Jordan (offense+defense); Tyson (force+speed); innovation = contradiction (2026-04-11).
+- [[sam-ovens-shana-lynn-community]] — Shana Lynn: building community — 4C framework (Cause/Culture/Communication/Connection); safety before connection; structure enables vulnerability (2026-04-11).
+- [[gray-sam-ovens-community-truth]] — Sam Ovens on Matt Gray Show: community vs. audience, fun-first design, dentist community case study, info vs. software tradeoffs, Skool mission 1B/1M (2026-04-11).
 
 ## Entities
 
@@ -90,6 +109,7 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[founder-os]] — Matt Gray's paid community for founders: 180+ systems, custom AI agent, founder retreats, 50+ live sessions/month.
 - [[dan-koe]] — Writer, entrepreneur, philosopher; "one-person business" model; attention management + flow + integral philosophy.
 - [[august-bradley]] — Creator of PPV (Pillars, Pipelines, Vaults) framework; instructor at notionlifedesign.com; runs PPV Pro since 2020.
+- [[sam-ovens]] — New Zealand entrepreneur; founder of Consulting.com ($30M+/year); co-founder of [[skool-platform]]; systems thinker, full-stack mind, elimination-first productivity.
 
 ## Concepts
 
@@ -200,6 +220,17 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[defend-the-zone]] — Priority work first, squeeze everything else around it; origin của Focus Zone name.
 - [[smarter-goals]] — SMART mở rộng: +Exciting (flow-state), +Relevant (aligned với aspirations); judge on showing up, not outcomes.
 - [[specialty-pipeline]] — Database riêng cho recurring mini-projects tần suất cao (≥2/tháng, 3+ bước); tránh flood GPR; ví dụ: content pipeline, client pipeline.
+- [[community-vs-audience]] — Social networks → social media shift; community strength = member-to-member relationships, not creator-to-follower; "audience builders answer, community builders ask questions."
+- [[community-fun-first]] — Fun > adding value; curation over volume (dentist community); global philosophy + local cluster (religion model); superfan empowerment.
+- [[info-vs-software]] — Comparative model: info wins short-term (fast, profitable, solo); software wins long-term (slow, expensive, unlimited scale); transition dynamics.
+- [[full-stack-mind]] — Sam Ovens' 5-layer model of billionaire cognition: awareness → cognition → principles → disciplines → processes; every layer inherits from below.
+- [[second-order-consequences]] — Chain of effects beyond the first-order: Valeant case study; Michael Jordan counterexample; effect horizon visual tool.
+- [[scale-mess-debt]] — Business cycle model: scale creates mess; unmanaged mess becomes debt; debt kills innovation; 8 types; YAGNI principle.
+- [[communication-overhead]] — Communication lines = n(n-1)/2; exponential growth kills efficiency; at 11 people = 0% net productive hours.
+- [[garbage-in-garbage-out]] — Outputs determined by inputs; genius = high-quality inputs compounded; hiring by inputs not outputs; audit your 5 people.
+- [[binary-state-transcendence]] — Refusing false either/or choices; innovation = contradiction; Jordan offense+defense; Tyson force+speed; 15 examples.
+- [[monk-like-discipline]] — Discipline > motivation; 11 practices; environment over willpower; delayed gratification training; instant gratification = addiction.
+- [[community-4c-framework]] — Shana Lynn's Cause/Culture/Communication/Connection framework; safety before connection; structure enables vulnerability at scale.
 
 ## Topics
 

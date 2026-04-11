@@ -223,3 +223,56 @@ Updated [[ltv-to-cac]] with 2 missing sections from raw source: Two Long-Term Wi
 First Dan Koe source ingested. 7-video compilation covering: anti-vision + entropy as life architecture tools, flow state as optimal attention absorption, life-as-video-game mechanics, 4-hour workday as leverage constraint, bring-ideal-future-into-now habit philosophy, deep work routine, and society-as-pyramid-scheme social critique. Koe's frame: philosophical entrepreneurship at the intersection of consciousness studies (Ken Wilber, Alan Watts) and practical one-person business building.
 - Created: [[dan-koe-get-ahead-99]], [[dan-koe]], [[anti-vision]], [[entropy-principle]], [[flow-state]], [[four-hour-workday]], [[ideal-future-now]], [[life-as-video-game]]
 - Updated: [[frustration-tolerance]] (added Koe's "mastery over misery" + entropy connection), [[index]]
+
+## [2026-04-11] ingest | Sam Ovens — 18 videos/modules
+
+First Sam Ovens ingest. Co-founder of Skool with Alex Hormozi. Built Consulting.com from $0 (parents' garage, no degree) to $30M+/year via paid traffic and product obsession. 18 sources spanning productivity, mental models, systems thinking, community building, decision-making, and business operations.
+
+Core frameworks introduced:
+- **Full-Stack Mind** (5 layers: awareness → cognition → principles → disciplines → processes) — explains why same information produces wildly different results in different people
+- **Second-Order Consequences + Effect Horizon** — Valeant case study; wheelchair path vs. the hill; exponential compounding from small decisions
+- **Scale → Mess → Debt cycle** — 8 types of business debt; YAGNI; Sam's personal $2M→$18M→$13M→$34M documented cycle
+- **Communication Overhead** — n(n-1)/2 formula; 11 people = 0% net efficiency; more headcount can mean less output
+- **Garbage In, Garbage Out** — Genius is a function of inputs; hiring by inputs (mentors, books) not outputs (skills, experience)
+- **Binary State Transcendence** — 15 examples of genius-through-contradiction; Jordan offense+defense; Tyson force+speed
+- **Monk-Like Discipline** — 11 practices; motivation vs. discipline; instant gratification = addiction; environment > willpower
+- **Community 4C Framework** (Shana Lynn) — Cause/Culture/Communication/Connection; safety before connection
+
+Key cross-wiki connections flagged:
+- Sam's entropy law = Dan Koe's entropy principle (identical concept, verified)
+- Sam's discipline = Hormozi's frustration tolerance (same behavior, different framing)
+- Sam's "do less" = contradicts Matt Gray's omnichannel content (reconciled by team scale)
+- Sam's one-product focus = confirms Hormozi's one-avatar-product-channel
+
+Pages created:
+- [[sam-ovens]] (entity)
+- [[sam-ovens-death-by-1000-cuts]], [[sam-ovens-billionaire-mind]], [[sam-ovens-systems-thinking]], [[sam-ovens-long-term-thinking]], [[sam-ovens-scale-mess-debt]], [[sam-ovens-monk-like-discipline]], [[sam-ovens-why-productivity-bullshit]], [[sam-ovens-9-inconvenient-truths]], [[sam-ovens-success-ingredients]], [[sam-ovens-chaos-4-laws]], [[sam-ovens-why-communication-inefficient]], [[sam-ovens-use-metrics]], [[sam-ovens-how-to-make-decisions]], [[sam-ovens-be-more-productive]], [[sam-ovens-how-to-make-money-skool]], [[sam-ovens-what-perfection-looks-like]], [[sam-ovens-genius-of-contradiction]], [[sam-ovens-shana-lynn-community]] (18 sources)
+- [[full-stack-mind]], [[second-order-consequences]], [[scale-mess-debt]], [[communication-overhead]], [[garbage-in-garbage-out]], [[binary-state-transcendence]], [[monk-like-discipline]], [[community-4c-framework]] (8 concepts)
+
+Pages updated:
+- [[index]] (added 1 entity + 18 sources + 8 concepts; counts: 213 → 245 pages, 45 → 63 sources)
+- [[personal-productivity]] (added Sam Ovens section: monk-like discipline, GIGO, effect horizon, daily architecture)
+- [[operations]] (added Sam Ovens section: scale-mess-debt, communication overhead, YAGNI, 80/20 innovation rule)
+
+## [2026-04-11] ingest | The Real Truth About Building a Community — Sam Ovens on Matt Gray Show
+
+Interview on the Matt Gray Show: Sam Ovens discusses community design philosophy, Skool's origin story, info vs. software tradeoffs, product design thinking, and Skool's 1B/1M mission.
+
+Key insights extracted:
+- Community strength = member-to-member relationships, NOT creator-to-follower
+- "Audience builders provide answers; community builders ask questions"
+- Fun leads to learning; learning doesn't lead to fun → design for belonging first
+- Dentist community case study: 80K members, 96% MAU, word-of-mouth only via strict curation
+- Religion model for communities: global philosophy + local cluster (physical meetups)
+- Info business ceiling: you are the product; software has unlimited scale potential
+- Tesla settings menu → Skool settings UX; innovate on behalf of users (Ford / iPhone)
+- Skool mission: 1 billion people in community via 1 million creators earning full-time
+
+Key cross-wiki connections:
+- Sam's "fun > adding value" partially resolves tension with Shana Lynn's 4C framework (Cause = shared passion; Connection = the fun)
+- Sam's discipline as "doing what you love" is a complement/counterpoint to Hormozi's frustration tolerance
+- Info vs. software tradeoff maps to Hormozi's six-levels-compensation (software = highest tier)
+- Sam's superfan empowerment echoes Matt Gray's media-first-founder (empower contributors = build community media)
+
+- Created: [[gray-sam-ovens-community-truth]], [[community-vs-audience]], [[community-fun-first]], [[info-vs-software]]
+- Updated: [[sam-ovens]], [[skool-platform]], [[matt-gray]], [[index]]

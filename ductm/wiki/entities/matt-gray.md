@@ -7,6 +7,7 @@ sources:
   - "[[gray-profitable-personal-brand]]"
   - "[[gray-storytelling-addiction]]"
   - "[[gray-beautiful-business]]"
+  - "[[gray-sam-ovens-community-truth]]"
 tags:
   - person
   - entrepreneur
@@ -77,6 +78,7 @@ Entrepreneur, founder-brand builder, and creator of the **Founder OS** system. B
 - [[gray-profitable-personal-brand]]
 - [[gray-storytelling-addiction]]
 - [[gray-beautiful-business]]
+- [[gray-sam-ovens-community-truth]]
 - [[brand-building]]
 - [[storytelling]]
 - [[founder-os]]

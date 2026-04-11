@@ -3,7 +3,7 @@ title: "Personal Productivity"
 type: topic
 created: 2026-04-11
 updated: 2026-04-11
-tags: [productivity, systems, life-design, notion]
+tags: [productivity, systems, life-design, notion, sam-ovens]
 ---
 
 # Personal Productivity
@@ -58,7 +58,36 @@ Key concepts:
 
 ---
 
+---
+
+## Sam Ovens — Elimination-First Productivity
+
+[[sam-ovens]] adds a strong contrarian perspective: productivity "as commonly practiced" is bullshit. The secret is doing *less*, not more.
+
+Key Sam Ovens concepts:
+- **[[monk-like-discipline]]** — Discipline > motivation. Winners rely on routine, not willpower. 11 practices for steel-like self-control.
+- **[[garbage-in-garbage-out]]** — Outputs are determined by inputs. Audit what goes into your mind (books, people, media).
+- **Death by 1,000 cuts** ([[sam-ovens-death-by-1000-cuts]]) — Small interruptions (food decisions, charger retrieval, notifications) destroy 75%+ of productive capacity.
+- **Do less, not more** ([[sam-ovens-why-productivity-bullshit]]) — Energy is a finite vector. 9 units → 1 goal = 9 units progress. 9 units → 9 goals = 1 unit each.
+- **Heuristics as decision eliminators** ([[sam-ovens-how-to-make-decisions]]) — Build rules that auto-resolve recurring decisions without deliberation.
+- **Effect horizon** ([[second-order-consequences]]) — Map every decision on time vs. upside/downside; always choose the hill.
+
+**Sam's daily architecture:**
+Wake 6:50 → Gym 7:00 → Shower/breakfast 8:00 → Meditation 8:30 → Customer interview 9:00 → Deep work 10:00 → Plan tomorrow 9:00pm → Bed 10:00pm, sleep 11:00pm
+
+**Key Sam Ovens contrarian flags:**
+- Social media = "number one cancer for getting things done" (contradicts Matt Gray's omnichannel content strategy — reconciled by scale/team size)
+- One product, one business for 5-6 years (contradicts diversification advice)
+- Phone number changed every few months; phone always on airplane mode during work
+
+---
+
 ## Nguồn chính
 
 - [[ppv-pro-program]] — August Bradley's PPV Pro Program (17 sessions)
 - [[dan-koe-get-ahead-99]] — Dan Koe's philosophy on focus, flow, 4-hour workday
+- [[sam-ovens-monk-like-discipline]] — Monk-like discipline module
+- [[sam-ovens-why-productivity-bullshit]] — Do less, not more (with Rhett the live-in trainer)
+- [[sam-ovens-death-by-1000-cuts]] — Environmental productivity design
+- [[sam-ovens-how-to-make-decisions]] — 3-part, 22-point decision-making framework
+- [[sam-ovens-be-more-productive]] — Quantum Mastermind recording with full daily routine

@@ -2,8 +2,8 @@
 title: "Operations"
 type: topic
 created: 2026-04-08
-updated: 2026-04-09
-tags: [business, management, scaling]
+updated: 2026-04-11
+tags: [business, management, scaling, sam-ovens]
 ---
 
 # Operations
@@ -47,6 +47,18 @@ Operations is the discipline of managing teams, processes, and systems to maximi
 - [[hungry-crowd]] — Market selection as the dominant variable.
 - [[six-levels-compensation]] — Risk-based compensation structures for operators and deal-makers.
 
+## Sam Ovens on Operations
+
+[[sam-ovens]] adds a complementary, more cautious perspective:
+
+- **[[scale-mess-debt]]** — Every growth phase creates mess; every mess left unmanaged becomes debt; debt kills innovation. Plan deliberate cleanup cycles (bulk → cut, like bodybuilding). 8 types of debt: sleep, financial, product, process, talent, team, perception, time.
+- **[[communication-overhead]]** — Communication lines = n(n-1)/2. At 11 people: 0% net efficiency. More people ≠ more output. Counter-intuitive but mathematically predictable.
+- **YAGNI** — "You ain't gonna need it." Every addition becomes maintenance. Maintenance consumes innovation time. Don't add what you don't need.
+- **80/20 innovation/operations** — CEO should spend 80% of time innovating (building for tomorrow), 20% maintaining today. When flipped, the business dies.
+- **[[sam-ovens-why-communication-inefficient]]** — The mathematical case for small, high-quality teams over large headcounts.
+
+**Tension with Hormozi:** Hormozi pushes aggressive scaling and hiring (volume-negates-luck logic). Sam argues for deliberate cleanup cycles and smaller, better teams. Reconciliation: Hormozi's advice is for early-stage scaling; Sam's is for post-scale stabilization and innovation protection.
+
 ## Ingested Sources
 - [[hormozi-no-bs-business-2026]]
 - [[hormozi-ultimate-sales-2026]]
@@ -55,3 +67,6 @@ Operations is the discipline of managing teams, processes, and systems to maximi
 - [[hormozi-millionaire-blueprint-2024]]
 - [[hormozi-watch-get-ahead-2026]]
 - [[skools-5-years-100k]]
+- [[sam-ovens-scale-mess-debt]]
+- [[sam-ovens-why-communication-inefficient]]
+- [[sam-ovens-chaos-4-laws]]

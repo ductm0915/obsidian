@@ -2,7 +2,7 @@
 title: "Overview"
 type: overview
 created: 2026-04-07
-updated: 2026-04-08
+updated: 2026-04-11
 sources:
   - "[[llm-wiki-karpathy]]"
   - "[[hormozi-ultimate-sales-2026]]"
@@ -57,6 +57,33 @@ First source on practical AI tooling: [[claude-code-build-sell-course]] introduc
 ### Operations & Scaling
 Operational excellence is built on deletion before addition ([[optimization-framework]]) and self-reinforcing loops ([[flywheel-effect]]). Growth follows the [[scale-framework]] (Start, Compound, Augment, Leverage, Expand). Team performance is unlocked through [[discretionary-effort]] — aligning incentives with output rather than political hierarchies. Culture = the rules governing reinforcement, kept to three values max.
 
+[[sam-ovens]] materially extends operations with two frameworks not present in Hormozi:
+- **[[scale-mess-debt]]** — Growth is cyclical, not linear. Every scale phase creates mess; every mess unmanaged becomes debt; debt kills innovation. 8 types of debt. Deliberate cleanup cycles are required.
+- **[[communication-overhead]]** — Communication lines grow as n(n-1)/2. At 11 people, net productive hours = 0%. More headcount can mean less output. This is mathematics, not opinion.
+
+YAGNI ("You ain't gonna need it") emerges as a strong operational principle from Sam's corpus: every addition becomes upkeep; upkeep consumes innovation time; no innovation = eventual business death.
+
+### Mental Models & Cognition
+Sam Ovens introduces the most comprehensive framework for *how successful people think*:
+- **[[full-stack-mind]]** — 5 layers: mental awareness → cognition → business principles → disciplines → processes. Most people only develop Layer 5 (tools). Billionaires develop all five. Each layer inherits from all layers below.
+- **[[second-order-consequences]]** — Most failures trace to seeing only first-order effects. The Valeant case study: cut R&D → profits spike (1st) → no new drugs (2nd) → competitors win (3rd) → bankruptcy (4th). Michael Jordan counterexample: canceled all endorsements to focus on basketball (1st order thing that generates everything else).
+- **[[binary-state-transcendence]]** — Genius comes from refusing false either/or choices. Jordan played offense AND defense. Tyson had heavyweight force AND lightweight speed. Sam built $30M paid-traffic machine AND obsessive product quality (contradicts the marketing-vs-product binary).
+- **[[garbage-in-garbage-out]]** — Genius is a function of inputs (mentors, books, environments). Dean Simonton's research: Newton's genius traced to 14 prior geniuses. Einstein's to Newton. Hire by inputs (can they name who influenced them?), not outputs (can they claim a skill?).
+
+### Personal Productivity
+Sam Ovens provides the most radical productivity framework in the wiki: **do less, not more**. Energy is a finite vector — split across 9 goals = 1 unit progress each; concentrated on 1 goal = 9 units progress. This is mathematics.
+
+Key Sam Ovens productivity interventions:
+- **[[monk-like-discipline]]** — Discipline > motivation. 11 practices. The environment is the primary tool (remove temptations before needing willpower). Routine-as-infrastructure.
+- **Death by 1,000 cuts** — Small interruptions cost 30x their apparent duration (recovery from deep focus takes 30–60 min per 1-min interruption).
+- **Heuristics** — Rules that eliminate recurring decision-making entirely. Build a library of them.
+- **Effect horizon** — Map every decision: wheelchair path (immediate upside, long-term downside) vs. the hill (short-term pain, long-term compound). Always take the hill.
+
+*Tension with Matt Gray/Caleb Ralston:* Sam advocates deleting social media; Gray/Ralston advocate aggressive omnichannel content. Reconciled by team scale — Gray has a media team; Sam's advice targets solo operators or resource-constrained early-stage founders.
+
+### Community Building
+Shana Lynn's **[[community-4c-framework]]** (Cause/Culture/Communication/Connection) adds a principled model for building online communities that retain members and generate income. Key insight: connection requires psychological safety first — trust (authenticity + integrity) and clarity (clear rules, active leadership). Structure creates safety, not restriction.
+
 ## Key Insights
 
 1. **Wiki là persistent, compounding artifact** — giá trị tăng theo thời gian, không phải giảm như knowledge bases truyền thống.
@@ -81,6 +108,12 @@ Operational excellence is built on deletion before addition ([[optimization-fram
 18. **Agentic ≠ Magic When Deployed** — [[agentic-workflow]] self-healing chỉ hoạt động interactive. Deployed = code + tools, deterministic. Đây là feature, không phải bug. Build với agent, deploy như traditional.
 19. **Doctor > Pharmacist for AI Monetization** — [[doctor-vs-pharmacist]]: diagnose business constraints trước khi build. Value-based pricing trực tiếp áp dụng [[value-equation]] vào AI services.
 20. **Context Rot is Real** — [[context-rot]]: quality drops as tokens accumulate. Active context management (`/compact`, `/clear`) là skill cần thiết khi làm việc với Claude Code.
+
+20. **Outputs Are Determined by Inputs** — [[garbage-in-garbage-out]]: Genius is assembled from high-quality inputs over time. Hire by inputs (mentors, books named) not outputs (skills claimed). Raise average quality of 5 people you spend time with.
+21. **Scale Cycles Are Natural; Debt Is the Danger** — [[scale-mess-debt]]: every growth phase creates mess; every mess left unmanaged becomes debt; debt kills innovation. Deliberate cleanup cycles (bulk → cut) are the only antidote.
+22. **Communication Overhead is Exponential** — [[communication-overhead]]: at 11 people, zero net productive hours. More headcount is not always more output. Smaller, higher-quality, more independent teams outperform large ones.
+23. **Binary Thinking Is the Creativity Trap** — [[binary-state-transcendence]]: the biggest breakthroughs come from refusing either/or and building A+B simultaneously. Contradiction = competitive advantage.
+24. **Community = Retention + Revenue** — [[community-4c-framework]]: Cause + Culture + Communication + Connection. 10 true regulars > 1,000 lurkers. Connection requires safety; safety requires trust + clarity.
 
 ## Open Questions
 
@@ -129,3 +162,13 @@ Operational excellence is built on deletion before addition ([[optimization-fram
 - [[skills-claude-code]] ← modular knowledge layer trên → [[wat-framework]]
 - [[nate-herk]] ← key thinker cho → [[ai-development-tools]]
 - [[anthropic]] ← creator của → [[claude-code]]
+- [[sam-ovens]] ← co-founder → [[skool-platform]] (with [[alex-hormozi]])
+- [[full-stack-mind]] ← meta-framework for → all learning and self-development
+- [[second-order-consequences]] ← the defining mental model for → [[operations]] + [[personal-productivity]]
+- [[scale-mess-debt]] ← business cycle model extending → [[operations]]
+- [[communication-overhead]] ← mathematical constraint on → [[operations]] (team building)
+- [[garbage-in-garbage-out]] ← input-focus principle connecting → [[personal-productivity]] + talent assessment
+- [[binary-state-transcendence]] ← innovation mechanism connecting → [[contrarian-belief]] (Ralston) + [[inversion-method]] (Hormozi)
+- [[monk-like-discipline]] ← Sam's version of → [[frustration-tolerance]] (Hormozi) + [[defend-the-zone]] (Bradley)
+- [[community-4c-framework]] ← principled retention framework for → [[skool-platform]]
+- [[entropy-principle]] — Sam's version (4 Laws) confirmed identical to Dan Koe's; both from [[dan-koe]] and [[sam-ovens]]
