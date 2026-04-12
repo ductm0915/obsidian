@@ -9,9 +9,9 @@ updated: 2026-04-08
 
 Master catalog of all pages in this wiki. Organized by category. The LLM reads this first when answering queries to find relevant pages.
 
-**Total pages:** 249  
-**Total sources ingested:** 64  
-**Last updated:** 2026-04-11
+**Total pages:** 303  
+**Total sources ingested:** 85  
+**Last updated:** 2026-04-12
 
 ---
 
@@ -80,6 +80,29 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[sam-ovens-genius-of-contradiction]] — The genius of contradiction: 15 examples; binary state transcendence; Jordan (offense+defense); Tyson (force+speed); innovation = contradiction (2026-04-11).
 - [[sam-ovens-shana-lynn-community]] — Shana Lynn: building community — 4C framework (Cause/Culture/Communication/Connection); safety before connection; structure enables vulnerability (2026-04-11).
 - [[gray-sam-ovens-community-truth]] — Sam Ovens on Matt Gray Show: community vs. audience, fun-first design, dentist community case study, info vs. software tradeoffs, Skool mission 1B/1M (2026-04-11).
+- [[skool-games-q4-2025]] — Q4 2025 Skool Games event: talent+personality formula, saves>shares metric, content-ads convergence, first-party data, repeat successful actions, Skool native phenomenon (2026-04-12).
+
+### WIT — Wisdom Intelligence Training
+- [[wit-thnk-k36]] — THNK K36: Thấu Hiểu Nội Tâm 21 buổi; tiềm thức, 3 cây nghiệp, 3 điện từ, quy luật chuyển hóa qua yêu thương (2026-04-12).
+- [[wit-k07-quy-luat]] — WIT Mentor K07: Quy Luật & Nguyên Lý, 15 Khái niệm nguồn, nhân duyên quả (2026-04-12).
+- [[wit-k07-tu-duy]] — WIT Mentor K07: Thấu Hiểu Tư Duy (11 buổi, image-based PDF, chưa OCR đầy đủ) (2026-04-12).
+- [[wit-k07-thuat-quang-ba]] — Thuật Quảng Bá K04: 22 buổi, 811 trang; kích quả của thức, A-B-C-D, Tâm-Tài-Lực (2026-04-12).
+- [[wit-k07-tai-chinh]] — Nhận Thức Đủ Đầy Về Tài Chính: 5 buổi; tiền là năng lượng, con người là tài sản lớn nhất (2026-04-12).
+- [[wit-k07-qui-trinh]] — Quy Trình Thành Công Nhà Lãnh Đạo Siêu Phàm: 5 buổi; formula 50/50, Nhà Giáo Dục Gia Đình (2026-04-12).
+- [[wit-k07-chia-khoa]] — Chìa Khoá: 5 buổi; yêu thương có trí tuệ, người nhận cừ khôi, chìa khoá 4 lĩnh vực (2026-04-12).
+- [[wit-k07-pham-chat]] — Phẩm Chất: 10+ buổi; Nhân Lễ Nghĩa Trí Tín, trách nhiệm bản thân, phẩm chất là hạt mầm (2026-04-12).
+- [[wit-k07-cong-thuc]] — Công Thức: 7 buổi; tạo cộng đồng chuyên gia, kích hoạt tổng nghiệp như ý, Why-How-Do (2026-04-12).
+- [[wit-k07-he-quy-chieu]] — 3 Hệ Quy Chiếu Chuẩn: 2 buổi; Tam Giác Hiện Thực, Công Thức Cội Nguồn, Vòng Tri Thức (2026-04-12).
+- [[wit-k07-bo-thi]] — 7 Bố Thí Quan Trọng Đời Người: 5 buổi; Pháp thí > Tài thí, yêu thương đúng chỗ trong gia đình (2026-04-12).
+- [[wit-k07-hanh-trinh-100-ngay]] — 100 Ngày Nuôi Dưỡng Tâm Thức: 7 buổi; 4 cảnh giới tâm thức, thu hút vs kiếm tiền (2026-04-12).
+- [[wit-k07-tri-tue-tam-thai]] — Trí Tuệ · Tâm Thái · Bao Dung: Buổi 8; cấu trúc con người 2 vòng, trí tuệ 3 bậc, chọn lựa vs lựa chọn (2026-04-12).
+- [[wit-k07-yeu-thuong]] — Yêu Thương: 2 buổi; 4 tầng bậc yêu thương, nhân quảng bá là yêu thương (2026-04-12).
+- [[wit-k07-ung-dung-amway]] — Ứng Dụng Tri Thức Nhân Sinh Vào Dự Án: Cô Thiên Hà; xây cộng đồng phụng sự, lộ trình 60 ngày (2026-04-12).
+- [[wit-k07-nhan-thuc-con-nguoi]] — Nhận Thức Đủ Đầy Về Con Người: 21 buổi (Thầy Nhật Anh K00); stub — image PDF, chưa OCR (2026-04-12).
+- [[wit-k07-nhan-thuc-nhat-anh]] — Nhận Thức Đủ Đầy Về Con Người K07 (Thầy Nhật Anh): 8 buổi; quý nhân, cố vấn nhân sinh, hút tiền (2026-04-12).
+- [[wit-k07-hon-nhan]] — Nhận Thức Đủ Đầy Về Hôn Nhân: 4 buổi; chữ ký người thân, dòng tộc là vốn, WIT Home (2026-04-12).
+- [[wit-k07-tc-kd-dt]] — Thấu Hiểu Tài Chính · Kinh Doanh · Đầu Tư: 3 buổi; 6 tài khoản, tài khoản trống hồ tâm, hút tiền (2026-04-12).
+- [[wit-pd-thiet-lap-du-an]] — PD K00 Nâng Tầm Thiết Lập Dự Án: 5 buổi trực tiếp Thầy Bảo; stub — image PDF, chưa OCR (2026-04-12).
 
 ## Entities
 
@@ -110,6 +133,14 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[dan-koe]] — Writer, entrepreneur, philosopher; "one-person business" model; attention management + flow + integral philosophy.
 - [[august-bradley]] — Creator of PPV (Pillars, Pipelines, Vaults) framework; instructor at notionlifedesign.com; runs PPV Pro since 2020.
 - [[sam-ovens]] — New Zealand entrepreneur; founder of Consulting.com ($30M+/year); co-founder of [[skool-platform]]; systems thinker, full-stack mind, elimination-first productivity.
+
+### WIT Entities
+- [[hong-trieu-bao]] — Thầy Hồng Triệu Bảo, founder WIT; framework 7 giàu toàn diện, 15 khái niệm nguồn, 4 lĩnh vực cuộc đời.
+- [[wit-organization]] — Tổ chức WIT (Wisdom Intelligence Training); chương trình THNK, Mentor, Quy Luật, Thuật Quảng Bá.
+- [[duyen-dubi]] — Duyên Dubi (Huỳnh Thị Mộng Duyên), Mentor K06; biên soạn tài liệu THNK K36.
+- [[bich-nga]] — Cô Bích Nga, giảng viên THNK K36 và Quy Luật.
+- [[hoang-anh]] — Cô Hoàng Anh, giảng viên module Tài chính WIT Mentor K07.
+- [[thien-hien]] — Cô Thiên Hiến, giảng viên Quy trình Lãnh đạo WIT Mentor K07.
 
 ## Concepts
 
@@ -149,7 +180,7 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[creative-leadership]] — Empower and equip creative teams rather than control them.
 - [[we-love-a-good-flop]] — Cultural mantra celebrating experimentation failures to breed innovation.
 - [[more-better-new]] — The systematic sequence for scaling marketing operations to avoid chaotic experimentation.
-- [[ltv-to-cac]] — The defining ratio of scale: Lifetime Gross Profit versus Customer Acquisition Cost.
+- [[ltv-cac-ratio]] — The defining ratio of scale: Lifetime Gross Profit versus Customer Acquisition Cost.
 - [[four-ways-to-advertise]] — The complete marketing matrix: 1:1, 1:many vs. warm, cold. 
 - [[kaleidoscope-process]] — Iteration strategy to extract maximum lifespan off a winning creative asset.
 - [[five-levels-of-awareness]] — Eugene Schwartz's taxonomy for matching messaging to prospect awareness.
@@ -231,6 +262,28 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[binary-state-transcendence]] — Refusing false either/or choices; innovation = contradiction; Jordan offense+defense; Tyson force+speed; 15 examples.
 - [[monk-like-discipline]] — Discipline > motivation; 11 practices; environment over willpower; delayed gratification training; instant gratification = addiction.
 - [[community-4c-framework]] — Shana Lynn's Cause/Culture/Communication/Connection framework; safety before connection; structure enables vulnerability at scale.
+- [[talent-personality-formula]] — Talent + Personality = differentiation in AI era; passion → time → talent; apparent contradiction as interest mechanism.
+- [[wisby-principle]] — "Why Should I Believe You?" — the foundational authority question; extreme proof regresses down to instruct credibly.
+- [[apparent-contradiction]] — Pairings that violate expected patterns create interest; off-the-shelf vs. aftermarket-modified personality.
+- [[saves-over-shares]] — TikTok Shop meta-analysis: saves = purchase intent; shares = viral reach; non-obvious content gets saved.
+- [[content-ads-convergence]] — Paid and organic have merged ("the singularity"); best organic → overlay CTA → run as ad; reverse doesn't work.
+- [[first-party-data-principle]] — Own experimental results > third-party advice; consume reactively to solve active problems only.
+- [[repeat-successful-actions]] — When something works, keep doing it until it actually stops; don't stop from fear or boredom.
+- [[skool-native]] — Creator whose primary platform is Skool; wins without off-platform audience; Goose as canonical example.
+
+### WIT Concepts
+- [[subconscious-and-consciousness]] — Tiềm thức & Tâm thức: khu vườn tiềm thức, 3 tầng tri thức nhân loại, cơ chế huân tập.
+- [[three-virtues-karmic-forces]] — 3 điện từ: Ác đức / Phước đức / Công đức — xác định loại quả trổ.
+- [[three-karma-trees]] — 3 cây nghiệp: Nghiệp Thức, Nghiệp Duyên, Nghiệp Quả trong khu vườn tiềm thức.
+- [[inner-state]] — Trạng thái nội tâm âm/dương — lever kiểm soát toàn bộ kết quả; vai trò đặc biệt trong quảng bá.
+- [[karmic-conditioning]] — Huân tập: thực hành lặp lại có ý thức để thay đổi tiềm thức sâu.
+- [[desired-fruit]] — Quả như ý: đích đến của toàn bộ thực hành WIT; 3 loại quả (Thức, Duyên, Quả).
+- [[fifteen-source-concepts]] — 15 Khái niệm nguồn: backbone WIT, applied across 4 lĩnh vực cuộc đời.
+- [[seven-wealth-dimensions]] — 7 Sự Giàu Toàn Diện: Trí tuệ → Tâm thái → Nhân cách → Phẩm chất → Năng lực → Thể chất → Vật chất.
+- [[establish-speaking-authority]] — Công thức A-B-C-D Xác Lập Quyền Nói: nền tảng để có thẩm quyền chia sẻ.
+- [[three-broadcasting-principles]] — 3 Nguyên Lý Quảng Bá: Hình ảnh, Khái niệm, Tần số — định nghĩa quảng bá thành công.
+- [[cycle-law-dripping-water]] — Quy Luật Chu Kỳ Giọt Nước: lặp lại ≥11 lần → chuyển hóa bền vững.
+- [[broadcasting-practice-guide]] — Hướng Dẫn Thực Hành Quảng Bá: A-B-C-D, 7-38-55, 10 đối tượng, Tâm-Tài-Lực, checklist hàng ngày.
 
 ## Topics
 
@@ -240,6 +293,12 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[ai-development-tools]] — Ecosystem for building agentic AI systems: Claude Code, WAT, Trigger.dev, VPS.
 - [[storytelling]] — Story-as-funnel, story-as-moat; frameworks from Gray + Hormozi; craft, structure, conversion.
 - [[personal-productivity]] — Systems, frameworks, triết lý về tổ chức cuộc sống: PPV, Defend the Zone, flow states, SMARTER goals.
+
+### WIT Topics
+- [[inner-life]] — Hub nội tâm WIT: tiềm thức, 3 cây nghiệp, 3 điện từ, trạng thái âm/dương, huân tập.
+- [[wit-broadcasting]] — Hub Quảng Bá WIT: kích quả của thức/duyên, A-B-C-D, 3 nguyên lý, Tâm-Tài-Lực.
+- [[transcendent-leadership]] — Hub Lãnh Đạo Siêu Phàm: 50/50, quyền nói, Nhà Giáo Dục Gia Đình.
+- [[wit-finance]] — Hub Tài Chính WIT: yêu thương là chìa khóa, 7 giàu toàn diện.
 
 ## Analyses
 

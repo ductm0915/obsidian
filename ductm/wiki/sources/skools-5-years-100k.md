@@ -50,7 +50,7 @@ Met Aiden through a $50 Skool community. Aiden consistently over-delivered → t
 ## Relevant Existing Concepts
 - [[volume-negates-luck]] — High content volume drove traffic
 - [[value-equation]] — High-ticket pricing unlocked by perceived likelihood of achievement
-- [[ltv-to-cac]] — One product, one channel = excellent unit economics
+- [[ltv-cac-ratio]] — One product, one channel = excellent unit economics
 
 ## Entities Mentioned
 - [[alex-hormozi]] — Skool games, platform investor

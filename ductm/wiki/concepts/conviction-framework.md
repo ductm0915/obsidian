@@ -7,7 +7,6 @@ sources:
   - "[[hormozi-sell-better-99]]"
 tags: [sales, tonality, belief, training]
 ---
-
 # Conviction Framework (Hidden Dialogue)
 
 ## Definition

@@ -42,7 +42,7 @@ The market overcompensates for *perceived* risk. If you understand why something
 ## Related Concepts
 - [[value-equation]] — Higher likelihood of success → higher perceived value → higher willingness to pay
 - [[diagnostic-sales-process]] — Outcome-tied pricing = Level 4
-- [[ltv-to-cac]] — Higher leverage businesses approach Level 4–5 economics
+- [[ltv-cac-ratio]] — Higher leverage businesses approach Level 4–5 economics
 - [[grand-slam-offer]] — Engineering offers that shift perceived risk to buyer, actual risk to seller
 
 ## Sources

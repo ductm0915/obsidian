@@ -20,6 +20,9 @@ The foundational matrix outlining the only four possible methods a business can 
 ## Application
 According to Hormozi, if a business owner is trying to scale from $0 to $1M-$3M/year, they should be spending the first four hours of every single day executing on at least one of these four quadrant activities. If you are not doing one of these four, you are not aggressively advertising, which means you are capping growth.
 
+## Related Concepts
+- [[ltv-cac-ratio]] — Each channel has different CAC; warm outreach ≈ $0 CAC, paid ads = highest CAC
+
 ## Topics
 - [[sales]]
 - [[brand-building]]

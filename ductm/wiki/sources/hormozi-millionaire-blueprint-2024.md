@@ -100,7 +100,7 @@ Briefly covers: the transition from getting rich (focus, compounding) to staying
 - [[value-equation]] — Confirmed again; full 4-variable breakdown repeated here
 - [[five-levels-of-awareness]] — Connects to "starving crowd" concept
 - [[volume-negates-luck]] — Rule of 100 is volume made measurable
-- [[ltv-to-cac]] — Mentioned as the core business health metric
+- [[ltv-cac-ratio]] — Mentioned as the core business health metric
 
 ## References
 - [[alex-hormozi]]

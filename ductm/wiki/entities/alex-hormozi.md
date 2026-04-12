@@ -26,7 +26,7 @@ Alex Hormozi is an entrepreneur and author known for building and scaling busine
 - Created [[what-who-when]] execution framework and [[kind-not-nice]] cultural philosophy.
 - Coined [[sawdust-business]] concept — building value from excess capacity/waste.
 - Took Acquisition.com portfolio from ~$50M EBITDA to ~$100M; bought acq.com for $480K; launched ACQ Ventures for SaaS and tech-enabled services.
-- Defines operational marketing stages via the [[more-better-new]] framework and measures marketing leverage exclusively via the [[ltv-to-cac]] ratio.
+- Defines operational marketing stages via the [[more-better-new]] framework and measures marketing leverage exclusively via the [[ltv-cac-ratio]] ratio.
 - Codified modern advertising actions into the [[four-ways-to-advertise]] matrix and established the [[kaleidoscope-process]] for squeezing creative winners.
 - Advocates [[five-levels-of-awareness]] (Eugene Schwartz) as the lens for matching message to market readiness.
 - Published 13-tactic retention system for recurring revenue; churn cohort model in [[retention-framework]].

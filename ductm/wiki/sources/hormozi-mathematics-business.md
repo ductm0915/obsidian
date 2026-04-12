@@ -48,7 +48,7 @@ Padding rationale: every time you hire a new person, they underperform initially
 
 Gym Launch first year: **100:1**. Hormozi has hit 30:1+ four times in his career.
 
-→ Updates [[ltv-to-cac]]
+→ Updates [[ltv-cac-ratio]]
 
 ### Rule 3: Rule of 100
 100 primary actions, for 100 straight days = first result.
@@ -85,11 +85,11 @@ Sweet spot for sales team calendars: 60–75% booked (never above 85%).
 - [[payback-period]] — Target 30-day CAC recovery for self-funding growth
 
 ## Updated Concepts
-- [[ltv-to-cac]] — Extended with the model-type ratio table (3:1/6:1/9:1/12:1)
+- [[ltv-cac-ratio]] — Extended with the model-type ratio table (3:1/6:1/9:1/12:1)
 - [[rule-of-100]] — Confirmed here with additional application for feast/famine diagnosis
 
 ## References
 - [[alex-hormozi]]
 - [[sales]]
 - [[operations]]
-- [[ltv-to-cac]]
+- [[ltv-cac-ratio]]

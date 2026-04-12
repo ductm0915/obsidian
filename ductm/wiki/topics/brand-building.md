@@ -27,6 +27,9 @@ Brand Building encompasses the strategies, frameworks, and actions taken to asso
 
 ## Differentiation & Standing Out
 - **[[contrarian-belief]]**: The "80% lever" for differentiation. Stand against the dominant industry trope using the "Two-Column Approach" (Industry trope vs. Personal conviction). Test multiple takes, double down on the one that resonates.
+- **[[talent-personality-formula]]**: Talent + Personality = differentiation in AI era. Getting better at the core skill is the 80/20 of everything else. Passion enables talent; talent unlocks authentic personality.
+- **[[apparent-contradiction]]**: Interesting personalities emerge when someone's traits violate expected patterns (jacked dude who talks philosophy; broke-looking guy who talks business well). Off-the-shelf vs. aftermarket-modified identity.
+- **[[wisby-principle]]**: "Why Should I Believe You?" — the authority anchor every creator must address. Start with extreme proof; instructions become credible by regress-down.
 - **Expert vs. Student**: Experts teach from a **[[credibility-bank]]** (proven wins); students document their journey via an **Interest Bank**.
 
 ## Trust Optimization
@@ -59,6 +62,10 @@ For B2B businesses (>50% of all businesses), three paths:
 - **Platform insights:** Email was MVP of the year; Amazon books drive ~15% of traffic indirectly.
 - **Niche-Wide Content**: Stay within your domain but vary width (deep vs. wide). Both must be niche-relevant.
 - **Educational > Entertainment**: Content that solves painful problems builds trust and converts; entertainment content builds followers but not sales.
+- **[[saves-over-shares]]**: TikTok Shop meta-analysis — saves = #1 purchase-intent signal. Sort content by saves to find ads. Content that gets saved = non-obvious insight that removes friction.
+- **[[content-ads-convergence]]**: Paid and organic have merged (Hormozi: "the singularity"). Best organic content → add overlay CTA → run as paid ad. Platform objective aligns with your reach objective.
+- **[[repeat-successful-actions]]**: When a content format works, keep doing it until it actually stops. Don't stop from fear or boredom — this is the failure mode most creators make.
+- **[[first-party-data-principle]]**: Your own results from doing > any third-party advice. Consume reactively to solve specific active problems.
 
 ## Media-First Founder System (Matt Gray)
 
@@ -116,6 +123,7 @@ Key insight: organic leads arrive after months of content consumption — they t
 - [[hormozi-13-years-marketing]]
 - [[gray-profitable-personal-brand]]
 - [[gray-beautiful-business]]
+- [[skool-games-q4-2025]]
 
 ## Related Topics
 - [[operations]]

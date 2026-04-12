@@ -46,7 +46,7 @@ Then and only then add: second channel, second product, second avatar.
 
 ## Related Concepts
 - [[hungry-crowd]] — Avatar = who's in your hungry crowd
-- [[ltv-to-cac]] — One avatar/product/channel maximizes this ratio before scaling
+- [[ltv-cac-ratio]] — One avatar/product/channel maximizes this ratio before scaling
 - [[problems-vs-missed-opportunities]] — Adding channels prematurely is a "missed opportunity" trap
 - [[more-better-new]] — The sequencing framework: do more of what works, then better, then new
 

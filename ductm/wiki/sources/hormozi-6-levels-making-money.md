@@ -49,7 +49,7 @@ Hormozi maps all ways of making money onto a 6-level hierarchy based on a single
 
 ## Relevant Existing Concepts
 - [[value-equation]] — Higher value = higher perceived likelihood of success
-- [[ltv-to-cac]] — Business math that rewards the risk-bearer
+- [[ltv-cac-ratio]] — Business math that rewards the risk-bearer
 - [[diagnostic-sales-process]] — Outcome-tied pricing lives at Level 4
 
 ## References

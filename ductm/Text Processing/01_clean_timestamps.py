@@ -99,7 +99,7 @@ def clean_timestamps(
         cleaned.append(line)
 
     # Bước 2: Nối dòng ngắn thành đoạn văn (tách theo sentence boundaries)
-    stripped_lines = [l.strip() for l in cleaned if l.strip()]
+    stripped_lines = [line.strip() for line in cleaned if line.strip()]
 
     paragraphs: list[str] = []
     current: list[str] = []

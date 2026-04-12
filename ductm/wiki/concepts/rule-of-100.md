@@ -52,6 +52,7 @@ Rule of 100 is [[frustration-tolerance]] made structural. By committing to 100 d
 - [[volume-negates-luck]] — Rule of 100 is the operationalized version of this principle
 - [[frustration-tolerance]] — The psychological prerequisite for completing the rule
 - [[one-avatar-product-channel]] — Apply rule of 100 to one channel, not multiple simultaneously
+- [[ltv-cac-ratio]] — Volume from Rule of 100 generates enough data to measure this ratio accurately
 
 ## Sources
 - [[hormozi-millionaire-blueprint-2024]]

@@ -64,5 +64,6 @@ Annual billing reduces churn because decision is made once vs. 12 times. Even re
 - [[skool-platform]]
 - [[alex-hormozi]]
 - [[value-per-second]]
+- [[ltv-cac-ratio]] — Retention is the primary lever for increasing LTV; small churn improvements double the ratio
 - [[sales]]
 - [[operations]]

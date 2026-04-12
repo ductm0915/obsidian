@@ -39,10 +39,10 @@ Most entrepreneurs lower price when sales are slow. The diagnostic says: if clos
 Fix those before moving price.
 
 ## Interaction with LTV:CAC
-Close rate directly impacts CAC. Better close rate (at the same price) = lower CAC = better [[ltv-to-cac]] ratio. Close rate is therefore a leading indicator of unit economics health.
+Close rate directly impacts CAC. Better close rate (at the same price) = lower CAC = better [[ltv-cac-ratio]] ratio. Close rate is therefore a leading indicator of unit economics health.
 
 ## Related Concepts
-- [[ltv-to-cac]] — Close rate determines CAC; this ratio determines scalability
+- [[ltv-cac-ratio]] — Close rate determines CAC; this ratio determines scalability
 - [[sell-at-point-of-deprivation]] — Selling at the wrong time tanks close rates independent of price
 - [[six-levels-compensation]] — Higher prices are only possible when you have leverage; the ladder shows you how much leverage you have
 

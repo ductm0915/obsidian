@@ -40,7 +40,7 @@ Operations is the discipline of managing teams, processes, and systems to maximi
 
 ## Business Mathematics
 - [[close-rate-pricing-ladder]] — Pricing diagnostics from close rate data.
-- [[ltv-to-cac]] — Extended with model-type benchmarks (3:1/6:1/9:1/12:1).
+- [[ltv-cac-ratio]] — Extended with model-type benchmarks (3:1/6:1/9:1/12:1).
 - [[payback-period]] — 30-day CAC recovery target for self-funding growth.
 - [[rule-of-100]] — Volume discipline: 100 actions × 100 days.
 - [[one-avatar-product-channel]] — Simplest formula to $1M; no premature complexity.

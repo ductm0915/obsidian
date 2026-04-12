@@ -276,3 +276,92 @@ Key cross-wiki connections:
 
 - Created: [[gray-sam-ovens-community-truth]], [[community-vs-audience]], [[community-fun-first]], [[info-vs-software]]
 - Updated: [[sam-ovens]], [[skool-platform]], [[matt-gray]], [[index]]
+
+## [2026-04-12] ingest | Skool Games Q4 2025 — Sam Ovens + Alex Hormozi + Skool CEO
+
+Live event recording for Q4 2025 Skool Games winners. Sam Ovens + Alex Hormozi in free-flowing Q&A at Skool HQ. Audience: top Skool community builders across diverse niches.
+
+Key themes: what has value when AI makes information free, the talent+personality differentiation formula, what's working in content right now (saves>shares, content-ads convergence), managing information overload (first-party data), building cult-like authority, and the emerging Skool native phenomenon.
+
+Key claims:
+- **Value in AI era**: community of real people + consumable recurring insight (weekly deals, trending products, curated picks) + time compression = still highly valuable
+- **Talent+Personality formula**: 80/20 is getting better at the core skill; personality amplifies via apparent contradictions (pairings that violate expected patterns)
+- **WiSBY principle**: "Why Should I Believe You?" — start with extreme proof, instructions become credible by regress-down
+- **Saves > Shares**: TikTok Shop meta-analysis; saves = #1 purchase-intent metric; non-obvious, friction-removing content gets saved
+- **Content-ads convergence**: "The singularity is here" — organic winner + overlay CTA = ad; platform objectives and creator objectives finally aligned
+- **First-party data principle**: your own results > third-party advice; consume reactively to solve active problems only
+- **Repeat successful actions**: don't stop what works until it actually stops; $100M book Day 2 same presentation → $25M same-people re-purchase
+- **Skool native**: new creator class whose primary platform is Skool; wins without off-platform audience (Goose as canonical example)
+- **Product depth**: "feature parity" competitors fail because they copy surface; Sam sees "nothing but problems" in Skool — highest standard drives all
+
+- Created: [[skool-games-q4-2025]], [[talent-personality-formula]], [[wisby-principle]], [[apparent-contradiction]], [[saves-over-shares]], [[content-ads-convergence]], [[first-party-data-principle]], [[repeat-successful-actions]], [[skool-native]]
+- Updated: [[brand-building]] (differentiation + content strategy sections + new source), [[index]] (259 pages, 65 sources)
+
+## [2026-04-12] migration | Merge WIT Wiki → Main Wiki
+
+Gộp toàn bộ `wiki/wit/` (29 trang) vào `wiki/` (main wiki). Xóa `wiki/wit/` sau khi hoàn thành.
+
+**Quyết định kiến trúc:**
+- Tên file: đổi sang English kebab-case
+- Nội dung: giữ tiếng Việt
+- Wikilinks: update sang English filenames
+- WIT wiki làm bản gốc khi merge nội dung trùng lặp với main
+
+**Files mới tạo trong main wiki:**
+- Sources: `wit-thnk-k36.md` (merged), `wit-k07-thuat-quang-ba.md` (merged)
+- Concepts: `subconscious-and-consciousness`, `three-virtues-karmic-forces`, `three-karma-trees`, `inner-state`, `karmic-conditioning`, `desired-fruit`, `fifteen-source-concepts`, `seven-wealth-dimensions`, `establish-speaking-authority`, `three-broadcasting-principles`, `cycle-law-dripping-water`
+- Topics: `inner-life`, `wit-broadcasting`, `transcendent-leadership`, `wit-finance`
+- Entities: `hong-trieu-bao` (merged), `wit-organization` (merged), `duyen-dubi`, `bich-nga`, `hoang-anh`, `thien-hien`
+
+**Merged (WIT base + main content):**
+- `hong-trieu-bao.md` ← `hoang-trieu-bao.md` (WIT) + `hong-trieu-bao.md` (main)
+- `wit-organization.md` ← `wit-org.md` (WIT) + `wit-organization.md` (main)
+- `wit-thnk-k36.md` ← `wit-thnk-k36-tong-hop.md` (WIT) + `wit-thnk-k36.md` (main)
+- `wit-k07-thuat-quang-ba.md` ← `wit-thuat-quang-ba-k04.md` (WIT) + `wit-k07-thuat-quang-ba.md` (main)
+
+**Deleted:** `wiki/wit/` (29 files)
+**Index:** 259 → 285 trang, 65 → 69 sources
+
+## [2026-04-12] ingest | WIT Mentor K07 — Toàn bộ modules
+
+Ingest 13 modules mới từ raw WIT files (11 full + 2 stubs OCR).
+
+**Files raw đã đọc:** .docx (readable) và .pdf (image-based, stub)
+
+**Sources tạo mới:**
+- `wit-k07-tai-chinh.md` — Tài Chính (5 buổi, Cô Hoàng Anh)
+- `wit-k07-qui-trinh.md` — Quy Trình Lãnh Đạo Siêu Phàm (5 buổi, Cô Thiên Hiến)
+- `wit-k07-chia-khoa.md` — Chìa Khoá (5 buổi)
+- `wit-k07-pham-chat.md` — Phẩm Chất (10+ buổi, Cô Quế Minh)
+- `wit-k07-cong-thuc.md` — Công Thức (7 buổi, Cô Vũ Phương)
+- `wit-k07-he-quy-chieu.md` — 3 Hệ Quy Chiếu Chuẩn (2 buổi, Thầy Nhật Anh)
+- `wit-k07-bo-thi.md` — 7 Bố Thí Quan Trọng Đời Người (5 buổi, Cô Quế Minh)
+- `wit-k07-hanh-trinh-100-ngay.md` — 100 Ngày Nuôi Dưỡng Tâm Thức (7 buổi, Thầy Bảo)
+- `wit-k07-tri-tue-tam-thai.md` — Trí Tuệ · Tâm Thái · Bao Dung (Buổi 8, Thầy Chí Kiên)
+- `wit-k07-yeu-thuong.md` — Yêu Thương (2 buổi, Cô Hoàng Anh)
+- `wit-k07-ung-dung-amway.md` — Ứng Dụng Tri Thức Nhân Sinh (Cô Thiên Hà)
+- `wit-k07-nhan-thuc-con-nguoi.md` — ⚠️ STUB: 21 buổi image PDF, chưa OCR
+- `wit-pd-thiet-lap-du-an.md` — ⚠️ STUB: 5 buổi image PDF, chưa OCR (Thầy Bảo trực tiếp)
+
+**Index:** 285 → 299 trang, 69 → 82 sources
+
+**OCR cần làm:**
+- `NHAN THUC DU DAY VE CON NGUOI/` (21 files, Thầy Nhật Anh, ưu tiên cao)
+- `PD_Nâng Tầm Thiết Lập Dự Án_K00/` (5 files, Thầy Bảo trực tiếp, ưu tiên cao)
+- `NHAN THUC DU DAY VE CON NGUOI - THAY NHAT ANH/` (chưa đọc)
+- `NHAN THUC DU DAY VE HON NHAN/` (chưa đọc)
+
+## [2026-04-12] ingest | WIT — 3 modules còn lại (batch 2)
+
+Ingest 3 modules cuối cùng có .docx readable.
+
+**Sources nâng cấp / tạo mới:**
+- `wit-k07-nhan-thuc-nhat-anh.md` — nâng cấp từ stub → full (8 buổi Thầy Nhật Anh K07, 02.2026): quý nhân, cố vấn nhân sinh, hút tiền, phát hiện nhân tài
+- `wit-k07-hon-nhan.md` — nâng cấp từ stub → full (4 buổi Cô Quế Minh, 02.2026): chữ ký người thân, dòng tộc là vốn, WIT Home
+- `wit-k07-tc-kd-dt.md` — tạo mới (3 buổi 2024): 6 tài khoản tài chính, tài khoản trống hồ tâm, hút tiền
+
+**Index:** 299 → 302 trang, 82 → 85 sources
+
+**Còn lại (image PDF, cần OCR):**
+- `wit-k07-nhan-thuc-con-nguoi/` (21 files, Thầy Nhật Anh K00 06.2025)
+- `wit-pd-thiet-lap-du-an/` (5 files, Thầy Bảo trực tiếp)

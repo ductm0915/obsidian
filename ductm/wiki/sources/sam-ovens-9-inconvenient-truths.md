@@ -77,4 +77,4 @@ The core argument: the online business market has matured. Rising traffic costs,
 - The culling dynamic = application of [[second-order-consequences]] (marketers can't see that their tactics decay)
 - Sam's paid-traffic-only growth = counter to [[rented-vs-owned-audience]] organic focus of Gray/Ralston
 - "Replication accelerates" = why [[contrarian-belief]] matters — once everyone copies your marketing, only product differentiation holds
-- Rising CAC = confirms [[ltv-to-cac]] as the defining ratio (LTV must grow faster than CAC)
+- Rising CAC = confirms [[ltv-cac-ratio]] as the defining ratio (LTV must grow faster than CAC)

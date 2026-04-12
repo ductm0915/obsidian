@@ -22,7 +22,7 @@ Alex Hormozi's formula for quantifying perceived value of any offer:
 - When creating a [[grand-slam-offer]], maximize the numerator (dream outcome + likelihood) and minimize the denominator (time + effort).
 - This equation explains why "done-for-you" services command premium prices — they minimize effort and time delay simultaneously.
 - [[doctor-vs-pharmacist]]: Applying this to AI services — quantify hours saved and errors eliminated to price on value delivered, not time spent.
-- Enhancing this equation on the marketing front-end helps systematically lower acquisition cost, improving the critical [[ltv-to-cac]] ratio.
+- Enhancing this equation on the marketing front-end helps systematically lower acquisition cost, improving the critical [[ltv-cac-ratio]] ratio.
 
 ## Sources
 - [[hormozi-100m-offers]]

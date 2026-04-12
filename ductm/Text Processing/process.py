@@ -30,7 +30,11 @@ Sử dụng:
 from __future__ import annotations
 
 import argparse
+import glob
+import re as _re
+import shutil
 import subprocess
+import time
 from pathlib import Path
 
 from importlib import import_module
@@ -45,8 +49,6 @@ add_takeaways        = import_module("06_add_takeaways").add_takeaways
 
 
 # ── Content Integrity Validation ─────────────────────────────────────
-
-import re as _re
 
 # Regex to strip markdown formatting syntax (bold, italic, headings, etc.)
 _MD_SYNTAX_RE = _re.compile(
@@ -130,7 +132,7 @@ def validate_content_integrity(
             direction = "THÊM" if diff > 0 else "XOÁ"
             print(f"  ⚠️  [{step_name}] CẢNH BÁO: LLM đã {direction} {abs(diff)} từ ({change_pct:.0%} thay đổi)!")
             print(f"       Gốc: {orig_count} từ → Kết quả: {result_count} từ")
-            print(f"       → Giữ nguyên bản gốc để bảo toàn nội dung.")
+            print("       → Giữ nguyên bản gốc để bảo toàn nội dung.")
             return original
 
     # ── Check 2: Language consistency ──
@@ -139,7 +141,7 @@ def validate_content_integrity(
 
     if orig_lang != 'unknown' and result_lang != 'unknown' and orig_lang != result_lang:
         print(f"  ⚠️  [{step_name}] CẢNH BÁO: Ngôn ngữ bị thay đổi! ({orig_lang} → {result_lang})")
-        print(f"       LLM có thể đã dịch nội dung. Giữ nguyên bản gốc.")
+        print("       LLM có thể đã dịch nội dung. Giữ nguyên bản gốc.")
         return original
 
     return result
@@ -253,10 +255,6 @@ def _merge_broken_paragraphs(text: str) -> str:
 MD_EXTENSIONS = {".md", ".txt", ".markdown"}
 
 # ── LLM via Claude Code CLI (OAuth) ─────────────────────────────────
-
-import shutil
-import time
-import glob
 
 
 def _find_claude_binary() -> str:
@@ -479,7 +477,7 @@ def main():
     clean_group.add_argument("--remove-openers", action="store_true", help="Xoá câu mở đầu filler (So, All right, ...)")
 
     # LLM options
-    llm_group = parser.add_argument_group("LLM options")
+    parser.add_argument_group("LLM options")
     # --no-llm removed as per user requirement, MUST USE LLM
 
 

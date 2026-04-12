@@ -33,7 +33,7 @@ Hits multiple pillars simultaneously:
 - Business opportunity vehicle (low-risk way for people to start a business)
 - Operational leverage (scalable platform)
 
-## Lessons from School (via Hormozi)
+## Lessons from Skool (via Hormozi)
 
 1. **CRO at high optimization is hard** — 16 major split tests on the School Games page; only 2 won. The more optimized something is, the more likely a change results in a decrease.
 2. **Overwhelm = #1 cancellation reason** — addition rarely improves things; deletion and simplicity do. Maximize **value per second**, not seconds of value.

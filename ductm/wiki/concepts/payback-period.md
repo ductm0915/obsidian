@@ -44,7 +44,7 @@ For bootstrapped businesses: shorter payback = more freedom.
 - **Raise prices:** Same CAC, higher first payment = faster payback
 
 ## Related Concepts
-- [[ltv-to-cac]] — The ratio that payback period serves; short payback makes LTV:CAC improvements self-funding
+- [[ltv-cac-ratio]] — The ratio that payback period serves; short payback makes LTV:CAC improvements self-funding
 - [[six-levels-compensation]] — Pay-before-work models (Level 3) naturally reduce payback period
 - [[rule-of-100]] — Volume of acquisition can be expanded risk-free when payback period is ≤ 30 days
 

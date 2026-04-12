@@ -38,7 +38,7 @@ Sales is the process of helping individuals or organizations make a buying decis
 ### Pricing
 - [[six-levels-compensation]]: 6 structures for getting paid, ranked by risk/reward.
 - [[payback-period]]: Target 30-day CAC recovery for self-funding growth.
-- [[ltv-to-cac]]: The master unit economics metric; benchmarks differ by business model type.
+- [[ltv-cac-ratio]]: The master unit economics metric; benchmarks differ by business model type.
 
 ## Selling AI Services
 

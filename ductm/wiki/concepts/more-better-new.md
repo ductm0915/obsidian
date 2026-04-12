@@ -19,6 +19,9 @@ The sequential framework for scaling practically any business operation—especi
 ## Application
 Entrepreneurs often reverse this order. They try 80% new things because they crave novelty, skipping the boring work of doing 10x more of what is nominally working. Master the boring work first.
 
+## Related Concepts
+- [[ltv-cac-ratio]] — Each stage (More/Better/New) should improve this ratio; "Better" optimizes CAC, "More" grows volume
+
 ## Topics
 - [[operations]]
 - [[brand-building]]

@@ -74,7 +74,7 @@ Identifying your actual constraint accurately, then bombing that constraint with
 - [[declarative-vs-procedural]] — What to give free vs. what to sell
 
 ## Relevant Existing Concepts
-- [[ltv-to-cac]] — Updated with model-type ratios (3:1/6:1/9:1/12:1) from Mathematics of Business
+- [[ltv-cac-ratio]] — Updated with model-type ratios (3:1/6:1/9:1/12:1) from Mathematics of Business
 - [[value-equation]] — Pricing connects to perceived likelihood of outcome
 - [[volume-negates-luck]] — Rule of 100 is volume applied systematically
 - [[problems-vs-missed-opportunities]] — Ideas management system is this principle in practice

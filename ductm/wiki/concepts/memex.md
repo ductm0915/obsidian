@@ -10,7 +10,6 @@ tags:
   - knowledge-management
   - vision
 ---
-
 # Memex
 
 Khái niệm được [[vannevar-bush]] đề xuất trong bài "As We May Think" (1945). Một thiết bị lưu trữ kiến thức cá nhân với associative trails giữa documents.
