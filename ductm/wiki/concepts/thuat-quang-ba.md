@@ -66,12 +66,16 @@ Xem chi tiết: [[three-broadcasting-principles]]
 
 ---
 
+### 10 Điều Quảng Bá (Mười Nguyên Tắc Broadcasting)
+
+Tham khảo chi tiết tại [[Mười Điều Quảng Bá]] (sẽ tạo sau hoặc liên kết đến source page nếu có). Đây là những khía cạnh cốt lõi mà một nhà quảng bá cần nắm vững để lan tỏa giá trị hiệu quả và bền vững.
+
 ## Nguyên Tắc Quan Trọng
 
-1. **Quảng bá nhân-duyên, không quảng bá quả** — chia sẻ hành trình, không hứa hẹn kết quả
-2. **Phẩm chất trước, quảng bá sau** — thiếu phẩm chất + quảng bá mạnh = ép quả → kiệt cây
-3. **Nhà quảng bá quảng bá cái gì thì tương lai sẽ có cái đó** — huân tập qua chia sẻ
-4. **Bảo vệ phước báu** — không nhắc tên thầy/người khác tùy tiện khi chia sẻ
+1.  **Quảng bá nhân-duyên, không quảng bá quả:** Tập trung chia sẻ hành trình, quá trình, và bài học (nhân-duyên), thay vì chỉ hứa hẹn hoặc tập trung vào kết quả cuối cùng (quả). Điều này xây dựng niềm tin thực và sự đồng thuận lâu dài.
+2.  **Phẩm chất trước, quảng bá sau:** Đảm bảo bản thân có đủ phẩm chất và nền tảng (tri thức, trải nghiệm) trước khi quảng bá. Quảng bá khi thiếu phẩm chất giống như ép cây ra quả non, dẫn đến kiệt quệ.
+3.  **Nhà quảng bá quảng bá cái gì thì tương lai sẽ có cái đó:** Hành động chia sẻ có sức mạnh kiến tạo hiện thực. Hãy quảng bá những giá trị, tri thức, và phẩm chất mà bạn muốn thấy trong tương lai của chính mình và cộng đồng.
+4.  **Bảo vệ phước báu:** Tránh nhắc tên thầy, người hướng dẫn, hoặc các nguồn tri thức quý một cách tùy tiện, thiếu tôn trọng. Sự trân trọng là nền tảng để nhận được và lan tỏa phước báu.
 
 > "Phẩm chất mới giữ được quả. Dùng quảng bá càng ngày càng ép quả ra mà thiếu phẩm chất — chính đó sẽ làm cho cây kiệt." — Thầy Toàn
 

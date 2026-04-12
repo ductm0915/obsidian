@@ -365,3 +365,22 @@ Ingest 3 modules cuối cùng có .docx readable.
 **Còn lại (image PDF, cần OCR):**
 - `wit-k07-nhan-thuc-con-nguoi/` (21 files, Thầy Nhật Anh K00 06.2025)
 - `wit-pd-thiet-lap-du-an/` (5 files, Thầy Bảo trực tiếp)
+
+## [2026-04-12] ingest | Thuật Quảng Bá K04 — Full Enrichment
+
+Full enrichment của [[wit-k07-thuat-quang-ba]] (22 buổi, 811 trang, PDF gốc 31MB). Source page đã khá đầy đủ với cấu trúc 14 frameworks cốt lõi, 22 buổi chi tiết, key insights, và kết nối wiki chính. Concept page [[thuat-quang-ba]] đồng bộ với 4 frameworks chính (A-B-C-D, 7%-38%-55%, 3 Nguyên Lý, Quy Luật Chu Kỳ). Cross-references với 9 concept pages liên quan + wiki chính (establish-speaking-authority, three-broadcasting-principles, cycle-law-dripping-water, v.v.)
+
+**Framework cốt lõi xác nhận:**
+- Bản chất quảng bá = kích quả của Thức/Duyên (không phải Quả)
+- A-B-C-D = công thức xác lập quyền nói (foundation cho mọi chia sẻ)
+- 7%-38%-55% = phi ngôn ngữ 93% → trạng thái nội tâm quyết định chất lượng
+- 3 Nguyên Lý = Rõ Hình + Rõ Khái niệm + Tương đồng tần số
+- Quy Luật Chu Kỳ = nhắc lại ≥11 lần mới tạo chuyển hóa bền vững
+- Nhà Giáo Dục Gia Đình = positioning (không phải salesperson)
+- Tâm-Tài-Lực = 3 yếu tố thành công quảng bá
+
+**Pages affected:**
+- Verified: [[wit-k07-thuat-quang-ba]] (complete, 269 lines)
+- Verified: [[thuat-quang-ba]] (complete, 100 lines)
+- Connected: [[establish-speaking-authority]], [[three-broadcasting-principles]], [[cycle-law-dripping-water]], [[wit-broadcasting]], [[inner-state]], [[karmic-conditioning]], [[subconscious-and-consciousness]], [[wit-organization]], [[hong-trieu-bao]]
+- Index: 303 pages, 85 sources (no changes needed — already recorded on 2026-04-12)

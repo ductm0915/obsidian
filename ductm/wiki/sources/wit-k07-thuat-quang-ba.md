@@ -2,7 +2,7 @@
 title: "WIT K04 — Thuật Quảng Bá (Tổng hợp 22 buổi)"
 type: source
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-04-12 (expanded with detailed insights)
 tags: [wit, quang-ba, lanh-dao, sales, source]
 lang: vi
 ---
@@ -28,6 +28,13 @@ lang: vi
 > "Chúng ta không phải không có năng lực kinh doanh — chúng ta mượn kinh doanh làm giáo dục. Kích quả của thức, quả của duyên là chính."
 
 **Key formulation:** "We are not a business that uses education — we use business to do education." Mục tiêu không phải doanh thu mà là sự chuyển hóa của con người.
+
+### Định vị Quảng Bá như một Triết Lý Cuộc Sống
+
+Thầy Toàn định vị Thuật Quảng Bá không chỉ là kỹ năng kinh doanh mà là **hành trình nâng tầm nhận thức**. Quảng bá là cách để:
+- Kiến tạo giá trị **thực sự** trong xã hội
+- Xây dựng **mối quan hệ bền vững** dựa trên niềm tin thực
+- **Tích công đức** thay vì "ép quả" để hưởng lợi nhanh chóng
 
 ---
 
@@ -104,6 +111,13 @@ Thông điệp truyền tải = **7% ngôn từ + 38% ngữ điệu + 55% giọn
 - Kích phát nhu cầu chưa được gọi tên → giải pháp trở thành tất yếu
 - Không phải "chào hàng" mà là "mở mắt"
 
+#### Phân Biệt Người Bán và Người Cung Cấp Giải Pháp
+
+- **Người bán (Seller)**: Chủ động hiển thị sản phẩm, tìm khách hàng
+- **Người cung cấp giải pháp (Solution provider)**: Khách tìm đến bởi vì họ cảm nhận nhu cầu
+
+**Quảng bá đúng** = nâng nhu cầu ẩn lên **nhận thức** của người khác, làm cho họ thấy rõ vấn đề cần giải quyết.
+
 ### 6. Công thức Xác Lập Quyền Nói — A-B-C-D (Buổi 18)
 
 Framework 4 điểm nền tảng để có thẩm quyền chia sẻ:
@@ -122,18 +136,59 @@ D = Chủ đề nói chuyện (điều mình muốn chia sẻ)
 
 **Nguồn năng lượng bắt buộc:** Trân trọng - Biết ơn thật sự (không phải biểu diễn). Vì 93% là phi ngôn ngữ — người nghe cảm nhận được ngay.
 
+#### Cấu Trúc Chi Tiết A-B-C-D
+
+**[A] Hiện Tại — Kết Quả Thực**
+- Không phóng đại, không quê mưa
+- Phải là **kết quả thực tế** đã có trong tay
+- Nó là "vốn thẩm quyền" của bạn
+
+**[B] Quá Khứ — Bức Tranh Tương Phản**
+- **Chất lượng của B quyết định chất lượng của A**
+- Càng sâu sắc, trăn trở, nhức nhối → càng làm nổi bật A
+- Phải là **thật sự** mà bạn từng trải qua
+
+**[C] Điểm Chuyển Hóa — Nhân Tố Quyết Định**
+- Có thể là một người (thầy, bạn)
+- Có thể là một tri thức/học thuyết
+- Có thể là một bối cảnh/sự kiện
+- **C phải là cầu nối hợp lý từ B → A**
+
+**[D] Chủ Đề — Điều Muốn Chia Sẻ**
+- Dựa trên A, B, C → bạn có thẩm quyền nói về D
+- D không phải "bán" mà là "chia sẻ tri thức từ hành trình"
+
 See [[establish-speaking-authority]].
 
 ### 7. Quy Luật Thu Hút - Ảnh Hưởng - Giá Trị - Chuyển Hóa (Buổi 9-11)
+
+Đây là **chuỗi nhân quả tự nhiên** của quảng bá đúng:
 
 ```
 Thu hút → Ảnh hưởng → Giá trị → Chuyển hóa
 ```
 
-- **Thu hút:** [[inner-state|Trạng thái nội tâm]] dương + kết quả thật → tự nhiên thu hút
-- **Ảnh hưởng:** Khi đã thu hút → lời nói có ảnh hưởng
-- **Giá trị:** Ảnh hưởng qua thời gian → tạo thành giá trị bền vững
-- **Chuyển hóa:** Giá trị đích thực dẫn đến chuyển hóa ở người tiếp nhận
+#### Phân Tích Từng Khâu
+
+**[1] Thu Hút (Attraction)**
+- Bạn phải có: [[inner-state|Trạng thái nội tâm]] dương + kết quả thật
+- Tự nhiên thu hút những người cùng tần số
+- **Không cần "bán"** — người ta tự tìm đến
+
+**[2] Ảnh Hưởng (Influence)**
+- Khi bạn thu hút người khác → lời nói của bạn tự động có ảnh hưởng
+- Ảnh hưởng = sức mạnh thay đổi tư duy người khác
+- Đây là lúc người khác **tin tưởng** và muốn theo dõi bạn
+
+**[3] Giá Trị (Value)**
+- Ảnh hưởng duy trì qua thời gian → tạo **giá trị bền vững**
+- Giá trị không phải tiền bạc mà là **ảnh hưởng đã trở thành tin cậy**
+- Bạn trở thành **người có giá trị** trong lĩnh vực bạn quảng bá
+
+**[4] Chuyển Hóa (Transformation)**
+- Giá trị đích thực dẫn đến **sự thay đổi** ở người tiếp nhận
+- Không chỉ họ mua sản phẩm, mà **họ thay đổi tư duy, hành vi, cuộc sống**
+- Đây là mục tiêu thực sự của Thuật Quảng Bá trong WIT
 
 ### 8. 3 Nguyên Lý Quảng Bá (Buổi 14)
 
