@@ -587,3 +587,64 @@ Found 2 raw files not yet ingested: `May Dhamma spread!.md` (Yangon 2012) and `Y
 
 - Created: [[goenka-dhamma-spread]], [[goenka-yoga-vipassana]]
 - Updated: [[sn-goenka]] (full sources list), [[vipassana]] (corrected day table + full sources), [[index]] (389 pages, 113 sources)
+
+## [2026-04-14] ingest | Bilingual update — Full Vipassana Corpus (30 files)
+
+Ingested toàn bộ 30 files từ `raw/articles/Vipassana/` với yêu cầu **song ngữ (bilingual) Anh-Việt**. Đây là lần đầu tiên toàn bộ corpus Vipassana được tích hợp cả bản tiếng Anh lẫn bản tiếng Việt vào wiki.
+
+**Phạm vi:**
+- 10 files tiếng Anh (English discourse transcripts, Days 1–11, Day 3 empty)
+- 12 files tiếng Việt (Vietnamese discourse transcripts, Days 1–11 + Day 6 missing in English)
+- 8 files bài giảng độc lập của S.N. Goenka (tiếng Anh, thêm tóm tắt tiếng Việt)
+
+**Cập nhật nguồn (Source pages):**
+- [[vipassana-day-1]] — Bilingual: thêm Tóm tắt VI với ẩn dụ "hũ mật", cấu trúc Sīla, ẩn dụ bác sĩ; frontmatter: language: bilingual
+- [[vipassana-day-2]] — Bilingual: thêm câu chuyện kinh doanh Goenka, ẩn dụ nến/dòng sông/dòng điện, câu chuyện người học thuộc lòng nhưng không thực hành
+- [[vipassana-day-3]] — Vietnamese only: mở rộng đáng kể với câu chuyện nhà hàng, câu chuyện đơn thuốc, câu chuyện người mù và con vịt, câu chuyện giáo sư Berkeley
+- [[vipassana-day-4]] — Bilingual: thêm câu chuyện doanh nhân, phép so sánh mía/cây neem, bác sĩ kiểm tra cơn đau
+- [[vipassana-day-5]] — Bilingual: thêm câu chuyện bà lão và con khỉ, câu chuyện vị sư và "tu viện của tôi"
+- [[vipassana-day-6]] — Bilingual: thêm Tóm tắt VI cho trang trước đó là Vietnamese-only; câu chuyện ba người con, mô hình nghiện cảm giác, vật lý bốn nguyên tố
+- [[vipassana-day-7]] — Bilingual: thêm câu chuyện Rāma lưu đày, chuyện người phụ nữ Bhakti, chuyện ông vua điên
+- [[vipassana-day-8]] — Bilingual: thêm hạt giống bồ đề, thùng xăng gặp tia lửa, nhà luyện kim thuật
+- [[vipassana-day-9]] — Bilingual: thêm 7 câu chuyện (phanh xe, con đường gai, thư ký riêng, vụ kiện 7 năm, họa sĩ và bức chân dung, năm người mù và voi, món quà của kẻ thù)
+- [[vipassana-day-10]] — Bilingual: thêm Tam Bảo hiểu đúng, hai thước đo tiến bộ, Sīla như điều kiện logic, bảng Mười Pāramī
+- [[vipassana-day-11]] — Bilingual: thêm câu chuyện U Ba Khin, bảng năm hạt giống VI, Mettā như phí hàng ngày
+
+**Cập nhật bài giảng Goenka độc lập (8 bài):**
+- [[goenka-art-of-living]] — Thêm Tóm tắt VI: chuỗi nhân quả khổ đau, mô hình hai mặt đồng tiền, "thiện xả thánh thiện" vs. thoát tục
+- [[goenka-living-dhamma]] — Thêm Tóm tắt VI: Dhamma phải được sống, bất bạo động tâm lý, luật có đi có lại của tổn hại
+- [[goenka-anger]] — Thêm Tóm tắt VI: luật tự hại, chuỗi cảm giác-phản ứng, hai tầng tâm, bẫy đè nén
+- [[goenka-giving-up-anger]] — Thêm Tóm tắt VI: mô hình tăng dần (Anupubba), vật lý lửa của cơn giận, ẩn dụ thợ bạc
+- [[goenka-meaning-of-happiness]] — Thêm Tóm tắt VI: nghịch lý Davos, hai bẫy thành công, khoảng cách hạnh phúc, bài thơ "dead wrong"
+- [[goenka-buddhas-path]] — Thêm Tóm tắt VI: ba loại tuệ, chuỗi nhân quả, vật lý kalāpa, anusaya kilesa như núi lửa ngủ
+- [[goenka-dhamma-spread]] — Thêm Tóm tắt VI: ba lý do lan rộng, câu chuyện "tái sinh thứ hai" của Goenka, mô hình Dana
+- [[goenka-yoga-vipassana]] — Thêm Tóm tắt VI: luận điểm Patanjali=Vipassana, tám thiền định jhāna, sampajanna như đổi mới then chốt
+
+**Cập nhật concept pages:**
+- [[noble-silence]] — Thêm Tóm tắt VI: Thinh Lặng Cao Quý, bốn lý do phát huy tác dụng, thinh lặng nội tâm
+- [[metta-bhavana]] — Thêm Tóm tắt VI: Tâm Từ Bi, bảng Vipassana vs. Mettā, Mettā như phí hàng ngày
+- [[karma]] — Thêm Tóm tắt VI: Nghiệp/Kamma, vòng lặp tập khí, ba loại nghiệp WIT
+- [[five-hindrances]] — Thêm Tóm tắt VI: bảng năm chướng ngại, nghịch lý bi hài, bảng thuốc giải, ẩn dụ ánh sáng
+
+**Cập nhật topic page:**
+- [[vipassana]] — Thêm cột Ngôn ngữ trong bảng day-by-day, Tổng quan tiếng Việt, bảng từ vựng Pāli-EN-VI (20+ thuật ngữ), Hai Thước Đo Tiến Bộ
+
+**Tổng kết:**
+- Updated: 11 source pages (vipassana-day-1 → 11), 8 Goenka lecture pages, 4 concept pages, 1 topic page, [[index]], [[log]]
+- Không tạo trang mới — chỉ làm giàu nội dung hiện có
+- Toàn bộ corpus Vipassana (30 files) đã được ingest song ngữ
+
+## [2026-04-14] ingest | Bản Tin Vipassana (VNL) — 46 newsletter issues 2012–2025
+Ingest toàn bộ kho lưu trữ Bản Tin Vipassana bản tiếng Việt. 47 PDFs scan (image-based) được xử lý bằng vision qua 7 parallel agents. Hai phần tháng 08/2023 được gộp thành một source page.
+
+**Nguồn:** `raw/books/Newsletters/` (2012, 2021, 2022, 2023, 2024, 2025)
+
+**Created (46 source pages):**
+- [[vnl-2012-12]] (Tập 22)
+- [[vnl-2021-01]], [[vnl-2021-02]], [[vnl-2021-07]], [[vnl-2021-08]], [[vnl-2021-09]], [[vnl-2021-10]], [[vnl-2021-11]] (Tập 31)
+- [[vnl-2022-01]], [[vnl-2022-02]], [[vnl-2022-03]], [[vnl-2022-04]], [[vnl-2022-05]], [[vnl-2022-06]], [[vnl-2022-07]], [[vnl-2022-08]], [[vnl-2022-09]], [[vnl-2022-10]], [[vnl-2022-11]], [[vnl-2022-12]] (Tập 32)
+- [[vnl-2023-01]], [[vnl-2023-02]], [[vnl-2023-03]], [[vnl-2023-04]], [[vnl-2023-05]], [[vnl-2023-06]], [[vnl-2023-07]], [[vnl-2023-08]], [[vnl-2023-09]], [[vnl-2023-10]], [[vnl-2023-11]], [[vnl-2023-12]] (Tập 33)
+- [[vnl-2024-01]], [[vnl-2024-02]], [[vnl-2024-03]], [[vnl-2024-04]], [[vnl-2024-05]], [[vnl-2024-07]], [[vnl-2024-10]], [[vnl-2024-11]], [[vnl-2024-12]] (Tập 34/56)
+- [[vnl-2025-01]], [[vnl-2025-02]], [[vnl-2025-03]], [[vnl-2025-04]], [[vnl-2025-05]] (Tập 35/1)
+
+**Updated:** [[vipassana]] (thêm 46 source refs + VNL section), [[index]] (tổng 471 pages, 159 sources)

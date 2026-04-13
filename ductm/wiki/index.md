@@ -9,9 +9,11 @@ updated: 2026-04-08
 
 Master catalog of all pages in this wiki. Organized by category. The LLM reads this first when answering queries to find relevant pages.
 
-**Total pages:** 425  
-**Total sources ingested:** 113  
-**Last updated:** 2026-04-14
+**Total pages:** 471  
+**Total sources ingested:** 159  
+**Last updated:** 2026-04-14  
+**Bilingual update:** 2026-04-14 — All 30 Vipassana files (11 course days EN+VI, 8 Goenka lectures EN+VI summary, 3 Days Vietnamese-only) fully ingested with bilingual content  
+**Newsletter update:** 2026-04-14 — 46 Bản Tin Vipassana (VNL) issues ingested: 2012-12, 2021 (7 issues), 2022 (12), 2023 (12), 2024 (9), 2025 (5)
 
 ---
 
@@ -88,27 +90,75 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[hormozi-brutally-honest-truths]] — 15 mindset principles: fear vs. regret, persistence creates timing, envy vs. effort, hard conversations, the hard way is easy, shame vs. guilt (2026-04-13).
 
 ### Vipassana — Course Discourses
-- [[vipassana-day-1]] — Day 1 Discourse: Anapana introduction, wild mind diagnosis, surgical metaphor, practical rules and Noble Silence (2026-04-13).
-- [[vipassana-day-2]] — Day 2 Discourse: Noble Eightfold Path, three pillars Sila-Samadhi-Panna, Sammā Samādhi vs. wrong concentration (2026-04-13).
-- [[vipassana-day-3]] — Day 3 Discourse (Vietnamese): Three wisdoms (Văn-Tư-Tu), Anicca-Dukkha-Anattā at experiential level, blind man parable, bubble-and-wave model (2026-04-13).
-- [[vipassana-day-4]] — Day 4 Discourse: First day of actual Vipassana, body scan mechanics, Anicca and Cause & Effect, the unconscious mind (2026-04-13).
-- [[vipassana-day-5]] — Day 5 Discourse by S.N. Goenka: Four Noble Truths, Dependent Origination (12 links), Sankara, Body Sensation as liberation junction (2026-04-13).
-- [[vipassana-day-6]] — Day 6 Discourse (Vietnamese): Five hindrances, craving addiction model, four-element physics, half-full bottle parable (2026-04-13).
-- [[vipassana-day-7]] — Day 7 Discourse: Panca Bala (Five Friends), blind vs. enlightened devotion, continuity of practice (2026-04-13).
-- [[vipassana-day-8]] — Day 8 Discourse: Bhanga dissolution, Sankara multiplication/eradication, metallurgist model, two wings (awareness + equanimity) (2026-04-13).
-- [[vipassana-day-9]] — Day 9 Discourse: Integration to daily life, anger duration metric, suppression vs. observation, 100% cause of misery is internal (2026-04-13).
-- [[vipassana-day-10]] — Day 10 Discourse: Review, Triple Gem, Sila non-negotiable, Ten Pāramīs, two yardsticks of progress (2026-04-13).
-- [[vipassana-day-11]] — Day 11 Graduation Discourse (Vietnamese): swimming lesson parable, daily practice architecture (2h/day), fencing metaphor, five seeds parable, Mettā as daily fee (2026-04-13).
+- [[vipassana-day-1]] — **[Song ngữ EN+VI]** Day 1 Discourse: Anapana introduction, wild mind diagnosis, surgical metaphor, practical rules and Noble Silence (2026-04-14).
+- [[vipassana-day-2]] — **[Song ngữ EN+VI]** Day 2 Discourse: Noble Eightfold Path, three pillars Sila-Samadhi-Panna, Sammā Samādhi vs. wrong concentration; Goenka's business story; candle/river/electric current analogies (2026-04-14).
+- [[vipassana-day-3]] — **[Tiếng Việt]** Day 3 Discourse: Three wisdoms (Văn-Tư-Tu), Anicca-Dukkha-Anattā at experiential level, restaurant parable, blind man parable, Berkeley professor story, bubble-and-wave model (2026-04-14).
+- [[vipassana-day-4]] — **[Song ngữ EN+VI]** Day 4 Discourse: First day of actual Vipassana, body scan mechanics, Anicca and Cause & Effect, businessman parable, sugar cane vs. neem analogy (2026-04-14).
+- [[vipassana-day-5]] — **[Song ngữ EN+VI]** Day 5 Discourse: Four Noble Truths, Dependent Origination (12 links), Sankara, Body Sensation as liberation junction; old lady monkey parable; monk's monastery parable (2026-04-14).
+- [[vipassana-day-6]] — **[Song ngữ EN+VI]** Day 6 Discourse: Five hindrances, craving addiction model (sensation not object), four-element physics, half-full bottle parable — three-sons story (2026-04-14).
+- [[vipassana-day-7]] — **[Song ngữ EN+VI]** Day 7 Discourse: Panca Bala (Five Friends), blind vs. enlightened devotion, continuity of practice; Rāma exile story; Bhakti woman parable (2026-04-14).
+- [[vipassana-day-8]] — **[Song ngữ EN+VI]** Day 8 Discourse: Bhanga dissolution, Sankara multiplication/eradication, metallurgist model, two wings (awareness + equanimity); banyan seed analogy (2026-04-14).
+- [[vipassana-day-9]] — **[Song ngữ EN+VI]** Day 9 Discourse: Integration to daily life, anger duration metric, suppression vs. observation, 100% cause of misery is internal; enemy's gift parable (2026-04-14).
+- [[vipassana-day-10]] — **[Song ngữ EN+VI]** Day 10 Discourse: Review, Triple Gem, Sila non-negotiable, Ten Pāramīs, two yardsticks of progress; Dhamma as universal law (2026-04-14).
+- [[vipassana-day-11]] — **[Song ngữ EN+VI]** Day 11 Graduation Discourse: swimming lesson parable, daily practice architecture (2h/day), fencing metaphor, five seeds parable, Mettā as daily fee; U Ba Khin ministerial story (2026-04-14).
 
 ### Vipassana — S.N. Goenka Standalone Lectures
-- [[goenka-art-of-living]] — The Art of Living Vipassana Meditation: two-sided coin, universal path, Holy Indifference, Sīla-Samādhi-Paññā synthesis (Berne) (2026-04-13).
-- [[goenka-living-dhamma]] — Living the Life of Dhamma: Dhamma must be lived, non-violence redefined, reciprocity law of harm, Tapa as Paññā (Mumbai, 2005) (2026-04-13).
-- [[goenka-anger]] — Anger (Davos 2000): sensation-reaction chain, anger duration metric, two-layer mind model, suppression trap (2026-04-13).
-- [[goenka-giving-up-anger]] — The Giving Up of Anger: Pali verses, gradual growth model, silversmith metaphor, Bodhisatta's victory standard (2026-04-13).
-- [[goenka-meaning-of-happiness]] — The Meaning of Happiness (Davos 2000): business success paradox, happiness gap framework, giving-back principle (2026-04-13).
-- [[goenka-buddhas-path]] — Buddha's Path is to Experience Reality (Bangkok 1989): four foundations, causal chain, kalāpa physics, anusaya kilesa as sleeping volcanoes (2026-04-13).
-- [[goenka-dhamma-spread]] — May Dhamma Spread! (Yangon 2012): dana model, universal Sīla-Samādhi-Paññā formula, Myanmar gratitude, migraine story as by-product (2026-04-13).
-- [[goenka-yoga-vipassana]] — Yoga as seen in the light of Vipassana (Bombay 1990): Patanjali Yoga Sutra = Vipassana; 8 jhanas + honey bee metaphor; sampajanna as key innovation; anusaya kilesa (2026-04-13).
+- [[goenka-art-of-living]] — **[EN + Tóm tắt VI]** The Art of Living Vipassana Meditation: two-sided coin, universal path, Holy Indifference, Sīla-Samādhi-Paññā synthesis (Berne) (2026-04-14).
+- [[goenka-living-dhamma]] — **[EN + Tóm tắt VI]** Living the Life of Dhamma: Dhamma must be lived, non-violence redefined, reciprocity law of harm, Tapa as Paññā (Mumbai, 2005) (2026-04-14).
+- [[goenka-anger]] — **[EN + Tóm tắt VI]** Anger (Davos 2000): sensation-reaction chain, anger duration metric, two-layer mind model, suppression trap (2026-04-14).
+- [[goenka-giving-up-anger]] — **[EN + Tóm tắt VI]** The Giving Up of Anger: gradual growth model, silversmith metaphor, Bodhisatta's victory standard, Mettā as antidote (2026-04-14).
+- [[goenka-meaning-of-happiness]] — **[EN + Tóm tắt VI]** The Meaning of Happiness (Davos 2000): business success paradox, happiness gap framework, giving-back principle, "dead wrong" poem (2026-04-14).
+- [[goenka-buddhas-path]] — **[EN + Tóm tắt VI]** Buddha's Path is to Experience Reality (Bangkok 1989): four foundations, causal chain, kalāpa physics, anusaya kilesa as sleeping volcanoes (2026-04-14).
+- [[goenka-dhamma-spread]] — **[EN + Tóm tắt VI]** May Dhamma Spread! (Yangon 2012): dana model, universal Sīla-Samādhi-Paññā formula, Myanmar gratitude, migraine story as by-product (2026-04-14).
+- [[goenka-yoga-vipassana]] — **[EN + Tóm tắt VI]** Yoga as seen in the light of Vipassana (Bombay 1990): Patanjali Yoga Sutra = Vipassana; 8 jhanas + honey bee metaphor; sampajanna as key innovation; anusaya kilesa (2026-04-14).
+
+### Vipassana — Bản Tin (VNL Newsletter)
+- [[vnl-2012-12]] — Tập 22, Số 13 (12/2012): mettā, danh sách Center Teacher toàn cầu, trách nhiệm lan truyền Dhamma, Quỹ Global Vipassana Pagoda (2026-04-14).
+- [[vnl-2021-01]] — Tập 31, Số 01 (01/2021): kỷ niệm 50 năm ngày mất Sayagyi U Ba Khin, thư Goenka 1969 trước khóa đầu tiên, thiện hữu Dhamma như khởi điểm (2026-04-14).
+- [[vnl-2021-02]] — Tập 31, Số 02 (02/2021): tiểu sử Webu Sayadaw (1896–1977), cuộc gặp Webu–U Ba Khin–Goenka, thư lịch sử Babu Bhaiya 1969 (2026-04-14).
+- [[vnl-2021-07]] — Tập 31, Số 07 (07/2021): Thiền và lợi ích (Goenka, Wardha 1987 Phần 2), quan sát thực tại, nāma-rūpa, sức giải thoát từ quan sát (2026-04-14).
+- [[vnl-2021-08]] — Tập 31, Số 08 (08/2021): ánh sáng Dhamma (Goenka 1994), chiến thuật phụng sự Vipassana, thư Babu Bhaiya Bombay 1969 (2026-04-14).
+- [[vnl-2021-09]] — Tập 31, Số 09 (09/2021): quyết tâm theo lời dạy Goenka, ký ức về Sayagyi U Ba Khin, lịch sử phong trào Myanmar–Ấn Độ (2026-04-14).
+- [[vnl-2021-10]] — Tập 31, Số 10 (10/2021): trách nhiệm với nguồn vận lực, thư Goenka từ Bodh Gaya 1971, quan hệ Goenka–gia đình Babu Bhaiya (2026-04-14).
+- [[vnl-2021-11]] — Tập 31, Số 11 (11/2021): chuỗi parampara từ Sayagyi U Ba Khin, đặc điểm phương pháp dạy của Sayagyi, thiền và đời sống thực tiễn (2026-04-14).
+- [[vnl-2022-01]] — Tập 32, Số 01 (01/2022): lợi phúc gặp gỡ Dhamma family, cuộc đời Chú Tho/Baba Bhaya, thư Goenka về tài liệu Dhamma (2026-04-14).
+- [[vnl-2022-02]] — Tập 32, Số 02 (02/2022): trích thư Babu Bhaya, một ngày tại Dhamma Pāpikā, sự kiên trì trong thiền định (2026-04-14).
+- [[vnl-2022-03]] — Tập 32, Số 03 (03/2022): thư kỷ niệm 50 năm Vipassana, hồi ký Dhamma Đức (Padipa 8), ảnh hưởng Goenka 50 năm (2026-04-14).
+- [[vnl-2022-04]] — Tập 32, Số 04 (04/2022): khóa thiền tưởng nhớ Babu Bhaya, vô thường anicca và không tham đắm, Vipassana và bệnh tật (2026-04-14).
+- [[vnl-2022-05]] — Tập 32, Số 05 (05/2022): Goenka kỷ niệm 40 năm dạy thiền, trí tuệ paññā & từ bi karuṇā, Vipassana trong nhà tù (2026-04-14).
+- [[vnl-2022-06]] — Tập 32, Số 06 (06/2022): **Đặc biệt 13 trang** kỷ niệm 10 năm Dhammagiri — lịch sử, nhân chứng, thống kê, kế hoạch phát triển, thư thiền sinh Việt Nam 1978–1979 (2026-04-14).
+- [[vnl-2022-07]] — Tập 32, Số 07 (07/2022): thư Goenka gửi gia đình, khóa thiền đầu tiên ở Varanasi, 8 lý do học tại Dhamma Vihara, thư về mettā (2026-04-14).
+- [[vnl-2022-08]] — Tập 32, Số 08 (08/2022): trích thư cho các Thiền Sư Babuji, khóa thiền đầu tiên ở Bhopal, hành trình hoằng pháp Muzaffarpur (2026-04-14).
+- [[vnl-2022-09]] — Tập 32, Số 09 (09/2022): thư gia đình Babhiya, dập tắt giận bằng Vipassana, tổ chức khóa thiền vùng mới, ý nghĩa Sarvadaya (2026-04-14).
+- [[vnl-2022-10]] — Tập 32, Số 10 (10/2022): trích thư gia đình, hỏi đáp về Vipassana, truyền thừa Dhamma từ Buddha đến Goenka (2026-04-14).
+- [[vnl-2022-11]] — Tập 32, Số 11 (11/2022): Vipassana như phòng thí nghiệm tâm, chia sẻ trải nghiệm, giải toả khó khăn khi thiền, sự qua đời trong tinh thần Dhamma (2026-04-14).
+- [[vnl-2022-12]] — Tập 32, Số 12 (12/2022): ngọc quý Dhamma và sự lan truyền, câu chuyện Rāhula, Tứ Vô Lượng Tâm và dāna, khóa Satipaṭṭhāna (2026-04-14).
+- [[vnl-2023-01]] — Tập 33, Số 01 (01/2023): kỷ niệm 100 năm ngày sinh Goenka, suy ngẫm từ nhà tù, sự qua đời trong tinh thần Dhamma (2026-04-14).
+- [[vnl-2023-02]] — Tập 33, Số 02 (02/2023): bài nói chuyện cộng đồng Makar Sankranti 1983, tìm bình yên trong thế giới hỗn loạn, gặp Dhamma tại Rangoon (2026-04-14).
+- [[vnl-2023-03]] — Tập 33, Số 03 (03/2023): lễ kỷ niệm 100 năm lịch sử 1969, ý nghĩa "Dhamma", vai trò phụ nữ trong phong trào Vipassana (2026-04-14).
+- [[vnl-2023-04]] — Tập 33, Số 04 (04/2023): thiền hàng ngày và anicca, trải nghiệm bhanga của Dona Pirami, giáo viên Dālp Deshpande qua đời (2026-04-14).
+- [[vnl-2023-05]] — Tập 33, Số 05 (05/2023): Vipassana biến mất 2000 năm khỏi Ấn Độ, Vipassana không phải tôn giáo, bài học từ hạt giống và saṅkhāra (2026-04-14).
+- [[vnl-2023-06]] — Tập 33, Số 06 (06/2023): pháp cho ngoại khóa (thực hành hàng ngày), Vipassana và khoa học thần kinh, hành trình ba thiền sinh ngoại quốc (2026-04-14).
+- [[vnl-2023-07]] — Tập 33, Số 07 (07/2023): Dhamma Cakka Pavattana Phần 3 — Goenka về lần chuyển bánh xe Pháp đầu tiên, trung tâm Vipassana toàn cầu (2026-04-14).
+- [[vnl-2023-08]] — Tập 33, Số 08+09 (08–09/2023): **Số gộp** Dhamma Cakka Pavattana kết — Kondañña; Paryushan & ahiṃsā; sự qua đời Surekha Ponkshe & Vimla Badani (2026-04-14).
+- [[vnl-2023-09]] — Tập 33, Số 10 (09/2023): bổn phận chia sẻ Dhamma như trách nhiệm, Q&A về Adhiṭṭhāna & Noble Silence, Dhamma Nāga Việt Nam (2026-04-14).
+- [[vnl-2023-10]] — Tập 33, Số 11 (10/2023): Lòng Biết Ơn — tự truyện Goenka Phần 2: từ doanh nhân Myanmar đến gặp U Ba Khin, kataññutā như Dhamma cao quý nhất (2026-04-14).
+- [[vnl-2023-11]] — Tập 33, Số 12 (11/2023): đạo đức từ trí tuệ vs. sợ hãi, vô ngã anattā qua kinh nghiệm thiền, Dhamma là quy luật tự nhiên (1993) (2026-04-14).
+- [[vnl-2023-12]] — Tập 33, Số 13 (12/2023): 50 năm truyền bá Vipassana (1969–2023), Vipassana trong nhà tù/bệnh viện/doanh nghiệp, thông điệp năm mới Dhamma (2026-04-14).
+- [[vnl-2024-01]] — Tập 34, Số 01 (01/2024): kỷ niệm 100 năm ngày sinh Goenka (30/01/1924), cuộc đời Goenka, hành trình mang Dhamma về Ấn Độ (2026-04-14).
+- [[vnl-2024-02]] — Tập 34, Số 02 (02/2024): hành hương Myanmar, lịch sử dòng truyền thừa Ledi Sayadaw → U Ba Khin → Goenka, lễ kỷ niệm Tháp Vipassana Mumbai (2026-04-14).
+- [[vnl-2024-03]] — Tập 34, Số 03 (03/2024): sự kiện kỷ niệm toàn Ấn Độ, Vipassana tại Đông Nam Á và Việt Nam, vai trò Sangha (2026-04-14).
+- [[vnl-2024-04]] — Tập 34, Số 04 (04/2024): diễn văn bế mạc Dhamma Giri Annual Meeting, kiên nhẫn trong thiền, thư Goenka gửi Sayagyi U Ba Khin (Vesak 2013) (2026-04-14).
+- [[vnl-2024-05]] — Tập 34, Số 05 (05/2024): ngày Vesak, Hội nghị AT KIT 2012, nguy cơ ô nhiễm/pha trộn kỹ thuật Vipassana (2026-04-14).
+- [[vnl-2024-07]] — Tập 34, Số 07 (07/2024): câu chuyện Vua Pukkusāti và Bimbisāra, chia sẻ Dhamma như tình bạn, vô thường anicca (2026-04-14).
+- [[vnl-2024-10]] — Tập 56, Số 10 (10/2024): "Ai là người lớn nhất?", Vipassana tại Myanmar qua thăng trầm, mở rộng trung tâm toàn cầu (2026-04-14).
+- [[vnl-2024-11]] — Tập 56, Số 11 (11/2024): tiểu sử Ledi Sayadaw, dân chủ hóa Vipassana cho cư sĩ, dòng truyền thừa đầy đủ, vai trò Sangha (2026-04-14).
+- [[vnl-2024-12]] — Tập 56, Số 12 (12/2024): tiểu sử Saya Thetgyi, hệ thống dana, tổng kết 100 năm Goenka và phong trào 2024 (2026-04-14).
+- [[vnl-2025-01]] — Tập 35, Số 01 (01/2025): Sayagyi U Ba Khin và việc xây dựng tháp Vipassana (Goenkaji), phỏng vấn Mataji Phần 1 (2026-04-14).
+- [[vnl-2025-02]] — Tập 35, Số 02 (02/2025): phỏng vấn Mataji Phần 2, câu chuyện "Cơn khát Dhamma", báo cáo trung tâm thiền quốc tế (2026-04-14).
+- [[vnl-2025-03]] — Tập 35, Số 03 (03/2025): Sự Sáng Ngời của Dhamma (diễn ngữ ngày 1 khóa thiền 1988), Dhamma là đủ, Q&A Goenkaji về nền tảng sīla (2026-04-14).
+- [[vnl-2025-04]] — Tập 1, Số 01 (04/2025): hội ngộ với Dhamma (kiến thức vs. trải nghiệm), những rung động ở đền thờ, ghi chép thiền sinh mới tại Dhamma Giri (2026-04-14).
+- [[vnl-2025-05]] — Tập 1, Số 02 (05/2025): những rung động Dhamma tại Myanmar, triết lý dāna và kinh tế Vipassana, nhân chứng thiền sinh cao niên Myanmar (2026-04-14).
 
 ### BMCS — Bí Mật Cuộc Sống
 - [[bmcs-kick-off]] — BMCS 1.0 Kick-off: metaphor kiến trúc sư, cấu trúc 3 giai đoạn 90 ngày, thân giáo, vết dầu loang, cam kết tài chính (2026-04-13).
