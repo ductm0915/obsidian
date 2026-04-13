@@ -9,8 +9,8 @@ updated: 2026-04-08
 
 Master catalog of all pages in this wiki. Organized by category. The LLM reads this first when answering queries to find relevant pages.
 
-**Total pages:** 313  
-**Total sources ingested:** 87  
+**Total pages:** 328  
+**Total sources ingested:** 89  
 **Last updated:** 2026-04-13
 
 ---
@@ -83,6 +83,8 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[skool-games-q4-2025]] — Q4 2025 Skool Games event: talent+personality formula, saves>shares metric, content-ads convergence, first-party data, repeat successful actions, Skool native phenomenon (2026-04-12).
 - [[cole-prep-the-page]] — Nicholas Cole: Prep the Page technique — segment a blank document into skeleton sections before writing to eliminate writer's block (2026-04-12).
 - [[hormozi-sell-to-rich]] — Wealth distribution ($163T as $100 → top 1% = $32), 80/20 customer profit, tiered pricing ladder (5–10× per tier), top-down brand positioning, selling from your wallet (2026-04-13).
+- [[hormozi-self-running-business]] — 5-step framework for owner-independent businesses: self-inventory, managing vs doing, decision infrastructure, marketing systems, LMA test (2026-04-13).
+- [[hormozi-win-with-ai-2026]] — AI adoption urgency, workflow-vs-role thinking, BYOA model, train-AI-like-employee, barbell strategy, phase shift metaphor (2026-04-13).
 
 ### WIT — Wisdom Intelligence Training
 - [[wit-thnk-k36]] — THNK K36: Thấu Hiểu Nội Tâm 21 buổi; tiềm thức, 3 cây nghiệp, 3 điện từ, quy luật chuyển hóa qua yêu thương (2026-04-12).
@@ -279,6 +281,17 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[top-down-brand-positioning]] — Start premium, anchor high, work down (Tesla model); reverse (budget→luxury) doesn't work; top customers are less demanding per dollar.
 - [[selling-from-wallet]] — Projecting your own price sensitivity onto prospects; the psychological block behind underpricing; Hormozi's $6K→$60K-in-a-morning story.
 - [[rich-vs-poor-buyer-mindset]] — Poor think cost; rich think ROI; rich shop high-to-low; they want fast/easy/guaranteed, not cheap.
+- [[owner-independence-valuation]] — Frustrated Fred vs. Wealthy William: same $2M profit, $0 vs. $12M business value; the ~20× wealth gap from owner dependency.
+- [[self-inventory-method]] — Time study + task list + red/yellow/green triage + decision trees; first step to extracting founder from operations.
+- [[key-man-risk]] — Founder dependency as value destroyer; hides in sales, ops, marketing, relationships.
+- [[shadow-train-method]] — 3-phase delegation: watch → do under supervision → supported independence.
+- [[lifecycle-ads]] — Mine existing sales/onboarding recordings to build systematic marketing without founder face; 7 total systems.
+- [[lma-test]] — Leave it Alone 3-month test: take 90 days off, fix what breaks, repeat until nothing breaks.
+- [[workflow-vs-role-thinking]] — Stop thinking "hire an editor," think "what 5 tasks does an editor do?" — each task becomes a workflow.
+- [[byos-byoa]] — Bring Your Own Software/Agent: one person embeds their trained agents into a business and delivers entire-department output.
+- [[ai-training-method]] — Train AI like an employee: explicit rules + examples + iterative feedback loops; 100 cycles in 100 min vs. 1.5 years with a human.
+- [[barbell-strategy-ai]] — Two-extreme portfolio for AI era: go all-in AI-native AND bet on timeless human needs (health, housing, entertainment).
+- [[phase-shift-metaphor]] — Brian Johnson: water→gas phase change; past swimming skill is irrelevant when the medium itself changes state.
 
 ### WIT Concepts
 - [[subconscious-and-consciousness]] — Tiềm thức & Tâm thức: khu vườn tiềm thức, 3 tầng tri thức nhân loại, cơ chế huân tập.

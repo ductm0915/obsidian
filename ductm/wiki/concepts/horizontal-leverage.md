@@ -40,6 +40,12 @@ Agentic workflows = the loom. But unlike physical machines, we can *rebuild and 
 
 Capital flows to whoever provides value. Historically: human labor → physical → cognitive. Now: AI-enabled workers will create larger "tributaries" in the river, diverting value disproportionately to those who adopt agentic workflows early.
 
+## Hormozi Angle: Revenue Per Employee
+
+[[alex-hormozi]] independently arrives at the same principle from a business-operator perspective. His AI-native companies operate at **millions per employee per year** — achieved by building workflow-based organizations ([[workflow-vs-role-thinking]]) from day one, rather than retrofitting automation onto existing headcount.
+
+The [[byos-byoa]] model is horizontal leverage deployed at the individual level: one person + their agents can produce the output of an entire department.
+
 ## Connection to Other Concepts
 
 - [[optimization-framework]] — Horizontal leverage is what enables "automate" as the final step

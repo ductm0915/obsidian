@@ -34,6 +34,8 @@ Alex Hormozi is an entrepreneur and author known for building and scaling busine
 - First brand deal: investment in [[skool-platform]].
 - **Wealth & pricing**: Argues most entrepreneurs stay poor by selling to poor people. Quantified US wealth distribution ($163T as $100 → top 1% holds $32) to ground the [[power-law-wealth]] business case. Advocates [[tiered-pricing-model]] (5–10× per tier, 20% uptake) and [[top-down-brand-positioning]] (start premium, anchor high). Coined [[selling-from-wallet]] as the core psychological barrier to high-ticket pricing. Articulates [[rich-vs-poor-buyer-mindset]]: rich buyers think ROI/ratio, not cost; they shop high-to-low; they want fast, easy, guaranteed.
 - **Storytelling & writing**: Wrote $100M Offers (~1,000 hours); 200K+ copies sold with no publisher, no ads, no pre-existing audience. Key frameworks: [[story-elements-framework]], [[seven-factors-newsworthiness]], [[stakes-and-struggle]], [[hemingway-editing]]. Edits to 3rd grade language; uses [[hemingway-editing]] process (self → 4–8 ideal readers → grammar editor). $100M Leads took 8 full drafts (600 pages → 200 pages).
+- **Self-running business:** Teaches a 5-step framework for owner-independent businesses: [[self-inventory-method]] (time study + red/yellow/green triage), trading doing for managing ([[shadow-train-method]]), decision infrastructure (if-then trees + KPI scorecards), removing yourself from marketing ([[lifecycle-ads]] + 6 other systems), and stress-testing with the [[lma-test]]. Core valuation argument: [[owner-independence-valuation]] — same $2M profit business is worth $0 vs. $12M depending on whether the owner is required. Defines [[key-man-risk]] as the primary value destroyer in founder-led companies.
+- **AI & future of work (2026):** Argues we are at a phase shift ([[phase-shift-metaphor]]) where prior skills don't transfer. Core prescription: stop role-based thinking, start [[workflow-vs-role-thinking]] — decompose every role into its 4–10 tasks, then automate task by task. Predicts the rise of [[byos-byoa]] (Bring Your Own Agent) as the dominant employment model. Advocates training AI iteratively with explicit rules + examples, not one-shot prompting ([[ai-training-method]]). Runs AI-native companies at millions per employee per year. Recommends a [[barbell-strategy-ai]]: go fully AI-native on one end; bet on timeless human needs (bodies, food, shelter, entertainment) on the other.
 - Partner: [[leila-hormozi]] (co-founder Acquisition.com).
 
 ## Topics
@@ -66,3 +68,5 @@ Alex Hormozi is an entrepreneur and author known for building and scaling busine
 - [[hormozi-mathematics-business]]
 - [[hormozi-bestseller-writing]]
 - [[hormozi-sell-to-rich]]
+- [[hormozi-self-running-business]]
+- [[hormozi-win-with-ai-2026]]

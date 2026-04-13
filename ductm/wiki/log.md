@@ -394,3 +394,13 @@ Ingested YouTube video transcript on structural writing technique. Key framework
 Ingested YouTube video transcript on wealth distribution, tiered pricing, and selling to affluent customers. Central thesis: most entrepreneurs stay poor by selling to poor people. Key data: US wealth as $100 → top 1% holds $32, more than bottom 90% combined. Pages affected:
 - Created: [[hormozi-sell-to-rich]], [[power-law-wealth]], [[tiered-pricing-model]], [[top-down-brand-positioning]], [[selling-from-wallet]], [[rich-vs-poor-buyer-mindset]]
 - Updated: [[close-rate-pricing-ladder]] (absolute profit math, "it's super expensive" pre-frame, virtuous cycle, new source), [[alex-hormozi]] (added wealth & pricing section + new source), [[wiki/index.md]] (313 pages, 87 sources)
+
+## [2026-04-13] ingest | If I Wanted to Create a Business That Runs Itself — Alex Hormozi
+Ingested YouTube video transcript on building owner-independent businesses. 5-step framework: self-inventory (time study + red/yellow/green), trading doing for managing, decision infrastructure (if-then trees + KPI scorecards), removing yourself from marketing (7 systems), and LMA test. Core valuation argument: Frustrated Fred vs. Wealthy William — same $2M profit is $0 or $12M depending on owner dependency (~20× wealth gap). Pages affected:
+- Created: [[hormozi-self-running-business]], [[owner-independence-valuation]], [[self-inventory-method]], [[key-man-risk]], [[shadow-train-method]], [[lifecycle-ads]], [[lma-test]]
+- Updated: [[alex-hormozi]] (added self-running business section + source), [[learning-intelligence-confidence]] (rate of improvement in hiring context + source), [[operations]] (added owner-independence section + source), [[wiki/index.md]] (321 pages, 88 sources)
+
+## [2026-04-13] ingest | How to Win With AI in 2026 — Alex Hormozi
+Ingested YouTube video transcript on AI adoption strategy. Core arguments: AI adoption urgency ("AI will never be worse than now"), workflow-vs-role-thinking as the operating model shift, BYOA as the new employment paradigm, train-AI-like-employee as the core execution skill, barbell strategy (AI-native + timeless bets), and phase shift metaphor (Brian Johnson: water→gas). Hormozi's AI-native companies run at millions per employee per year. Practical prescription: granular task list → automate first task → screenshot when stuck → iterate. Pages affected:
+- Created: [[hormozi-win-with-ai-2026]], [[workflow-vs-role-thinking]], [[byos-byoa]], [[ai-training-method]], [[barbell-strategy-ai]], [[phase-shift-metaphor]]
+- Updated: [[alex-hormozi]] (added AI section + source), [[horizontal-leverage]] (added Hormozi/BYOA angle), [[wiki/index.md]] (328 pages, 89 sources)
