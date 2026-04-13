@@ -9,9 +9,9 @@ updated: 2026-04-08
 
 Master catalog of all pages in this wiki. Organized by category. The LLM reads this first when answering queries to find relevant pages.
 
-**Total pages:** 389  
+**Total pages:** 425  
 **Total sources ingested:** 113  
-**Last updated:** 2026-04-13
+**Last updated:** 2026-04-14
 
 ---
 
@@ -136,6 +136,9 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[wit-k07-hon-nhan]] — Nhận Thức Đủ Đầy Về Hôn Nhân: 4 buổi; chữ ký người thân, dòng tộc là vốn, WIT Home (2026-04-12).
 - [[wit-k07-tc-kd-dt]] — Thấu Hiểu Tài Chính · Kinh Doanh · Đầu Tư: 3 buổi; 6 tài khoản, tài khoản trống hồ tâm, hút tiền (2026-04-12).
 - [[wit-pd-thiet-lap-du-an]] — PD K00 Nâng Tầm Thiết Lập Dự Án: 5 buổi trực tiếp Thầy Bảo; stub — image PDF, chưa OCR (2026-04-12).
+- [[goenka-yoga-vipassana]] — Yoga — As Seen in the Light of Vipassana: S.N. Goenka (Bombay 1990); yoga redefined as purification of mind, not body (2026-04-14).
+- [[goenka-dhamma-spread]] — May Dhamma Spread!: S.N. Goenka (Yangon 2012); Dhamma as universal law, non-sectarian, open to all (2026-04-14).
+- [[miner-nepq-black-book]] — NEPQ Black Book of Questions: Jeremy Miner's complete question bank for Neuro-Emotional Persuasion Questioning methodology (2026-04-14).
 
 ## Entities
 
@@ -175,6 +178,10 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[bich-nga]] — Cô Bích Nga, giảng viên THNK K36 và Quy Luật.
 - [[hoang-anh]] — Cô Hoàng Anh, giảng viên module Tài chính WIT Mentor K07.
 - [[thien-hien]] — Cô Thiên Hiến, giảng viên Quy trình Lãnh đạo WIT Mentor K07.
+- [[nhat-anh]] — Thầy Nhật Anh, giảng viên module Con Người WIT Mentor K07; chuyên đề quý nhân và cố vấn nhân sinh.
+- [[vu-phuong]] — Cô Vũ Phương, giảng viên WIT; chuyên đề phẩm chất và nâng cấp mối quan hệ.
+- [[que-minh]] — Cô Quế Minh, giảng viên WIT; chuyên đề tài chính và nhận thức về tiền.
+- [[consulting.com]] — Consulting.com: Sam Ovens' $30M+/year consulting business and training platform; systematic consulting methodology.
 
 ## Concepts
 
@@ -364,6 +371,39 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[cycle-law-dripping-water]] — Quy Luật Chu Kỳ Giọt Nước: lặp lại ≥11 lần → chuyển hóa bền vững.
 - [[broadcasting-practice-guide]] — Hướng Dẫn Thực Hành Quảng Bá: A-B-C-D, 7-38-55, 10 đối tượng, Tâm-Tài-Lực, checklist hàng ngày.
 
+### WIT Concepts (Additional)
+- [[15-khai-niem-nguon]] — 15 Khái Niệm Nguồn: backbone of WIT; 15 foundational concepts applied across 4 life domains (2026-04-14).
+- [[16-tanh-nguoi]] — 16 Tánh Người: 16 human natures/dispositions; foundation of WIT's human typology framework (2026-04-14).
+- [[7-bo-thi]] — 7 Bố Thí: Bảy loại bố thí quan trọng đời người; WIT framework on generosity and giving (2026-04-14).
+- [[9-dang-nguoi]] — 9 Dạng Người: 9 Types of People; WIT typology for relationship and leadership contexts (2026-04-14).
+- [[bay-su-giau-toan-dien]] — 7 Sự Giàu Toàn Diện: 7 comprehensive dimensions of richness in WIT framework (2026-04-14).
+- [[bao-dung-tolerance]] — Bao Dung (Tolerance/Magnanimity): WIT concept of expansive acceptance as leadership foundation (2026-04-14).
+- [[buong-tai]] — Buông Tài (Releasing/Letting Go): WIT concept of releasing attachment to talent and ego to create space for growth (2026-04-14).
+- [[cong-thuc-cong-dong-chuyen-gia]] — Công Thức Tạo Cộng Đồng Chuyên Gia: WIT formula for building expert communities (2026-04-14).
+- [[graceful-giving]] — Graceful Giving: the art of giving without creating obligation or imbalance; WIT/inner-life principle (2026-04-14).
+- [[kien-tao-hien-thuc]] — Kiến Tạo Hiện Thực: Reality Construction Through Consciousness; WIT framework on how inner state creates outer reality (2026-04-14).
+- [[le-礼-respect-ceremony]] — Lễ (禮) — Ceremony, Propriety, Respect: WIT principle bridging Confucian lễ with modern leadership (2026-04-14).
+- [[nang-cap-moi-quan-he]] — Nâng Cấp Mối Quan Hệ: Relationship Upgrading; WIT framework for elevating relational quality (2026-04-14).
+- [[nhan-thuc-du-day]] — Nhận Thức Đủ Đầy: Complete/Sufficient Awareness; WIT concept of having enough inner clarity to act wisely (2026-04-14).
+- [[nhan-thuc-ve-tien]] — Nhận Thức Về Tiền: WIT framework on money consciousness and the psychology of wealth (2026-04-14).
+- [[nuoi-duong-tam-thuc]] — Nuôi Dưỡng Tâm Thức: Cultivating Consciousness; WIT practice of deliberately shaping the subconscious (2026-04-14).
+- [[pham-chat-virtues]] — Phẩm Chất (Character Virtues): WIT's catalog of core virtues for transcendent leadership (2026-04-14).
+- [[qui-trinh-thanh-cong]] — Quy Trình Thành Công Của Nhà Lãnh Đạo Siêu Phàm: WIT success process framework (2026-04-14).
+- [[quy-luat-luan-hoi]] — Quy Luật Luân Hồi: Law of Karma/Reincarnation; WIT's framework on karmic cycles and cause-effect across lifetimes (2026-04-14).
+- [[tam-giac-hien-thuc]] — Tam Giác Hiện Thực: Reality Triangle; WIT model of how consciousness constructs reality (2026-04-14).
+- [[tam-thuc-tu-duy-hanh-vi]] — Tâm Thức → Tư Duy → Hành Vi: WIT chain model — Consciousness drives Thinking drives Behavior (2026-04-14).
+- [[thiet-lap-du-an]] — Thiết Lập Dự Án: Project Setup framework; WIT methodology for launching meaningful projects with intention (2026-04-14).
+- [[thuat-quang-ba]] — Thuật Quảng Bá: Art of Broadcasting; WIT's framework for spreading ideas through energy, frequency, and image (2026-04-14).
+- [[tong-nghiep-nhu-y]] — Tổng Nghiệp Như Ý: Total Karmic Alignment; WIT concept of aligning all karmic forces toward desired outcomes (2026-04-14).
+- [[what-who-when]] — What-Who-When Framework: decision-making framework for prioritizing actions by clarity of goal, people, and timing (2026-04-14).
+- [[tai-chinh-kd-dt-framework]] — Tài Chính — Kinh Doanh — Đầu Tư Framework: WIT's 3-domain financial framework (2026-04-14).
+- [[mental-cognition]] — Mental Cognition: the study of how the mind processes and interprets information; applied in WIT and Vipassana contexts (2026-04-14).
+- [[effect-horizon]] — Effect Horizon: the time delay between action and visible impact; key concept in long-term thinking (2026-04-14).
+- [[long-term-thinking]] — Long-Term Thinking: framework for making decisions that prioritize compounding over short-term gain (2026-04-14).
+- [[systems-thinking]] — Systems Thinking: thinking in feedback loops and interconnected causes; applied in business, WIT, and personal leadership (2026-04-14).
+- [[why-productivity-bullshit]] — Why Productivity Is Bullshit: Sam Ovens' framework that productivity without clarity is wasted effort; depth over busywork (2026-04-14).
+- [[wit-k07-tu-van-huan-luyen]] — WIT Mentor K07 — Tư Vấn Huấn Luyện: Coaching & Training Sessions; frameworks for mentoring, accountability, and behavior change (2026-04-14).
+
 ## Topics
 
 - [[sales]] — Process of helping individuals make buying decisions through educated context.
@@ -393,3 +433,45 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 
 - [[overview]] — High-level synthesis of everything in the wiki
 - [[log]] — Chronological record of all wiki operations
+
+### Vipassana Concepts (Additional)
+- [[metta-bhavana]] — Mettā Bhāvanā: loving-kindness meditation taught on Day 11; natural overflow of a purified Vipassana mind (2026-04-14).
+- [[noble-silence]] — Noble Silence (Ārya Mauna): rule of complete external and internal silence during Days 1–10 of Vipassana retreat (2026-04-14).
+- [[karma]] — Karma/Kamma: law of intentional cause and effect; in Vipassana mapped to sankara chains; in WIT mapped to Three Karma Trees (2026-04-14).
+- [[triple-gem]] — Triple Gem (Ti-Sarana): Buddha, Dhamma, Sangha as three refuges; Goenka's non-sectarian reading: exemplar, universal law, community (2026-04-14).
+- [[ten-paramis]] — Ten Pāramīs (Perfections): generosity, morality, renunciation, wisdom, energy, patience, truthfulness, determination, loving-kindness, equanimity (2026-04-14).
+- [[universal-dhamma]] — Universal Dhamma: Dhamma as universal law of nature, non-sectarian, verifiable by personal experience — not a religion (2026-04-14).
+- [[saddha-enlightened-faith]] — Saddhā: enlightened faith (first of Pañca Bala); verified confidence, not blind belief; must be paired with paññā (2026-04-14).
+- [[samma-samadhi]] — Sammā Samādhi: Right Concentration — concentration developed for insight, not pleasure; eighth factor of Noble Eightfold Path (2026-04-14).
+- [[emotional-regulation]] — Emotional Regulation: the capacity to observe emotions as body sensations and respond without reactivity; developed through Vipassana and WIT (2026-04-14).
+- [[habit-pattern]] — Habit Pattern: automatic stimulus-response loop; in Vipassana mapped to sankara; broken by equanimous observation (2026-04-14).
+- [[state-management]] — State Management: deliberately choosing and maintaining internal emotional/mental state; master competency in WIT leadership and Vipassana (2026-04-14).
+- [[deep-work]] — Deep Work: cognitively demanding tasks in distraction-free concentration; operationalized by Sam Ovens' four-hour workday (2026-04-14).
+- [[hedonic-adaptation]] — Hedonic Adaptation: psychological return to baseline happiness after any change; Vipassana maps this to tanha (craving) (2026-04-14).
+- [[hedonic-treadmill]] — Hedonic Treadmill: metaphor for running faster while staying still; Vipassana offers the only structural exit (2026-04-14).
+- [[desire-vs-fulfillment]] — Desire vs. Fulfillment: the asymmetric gap; Vipassana addresses the root (desire itself); Hormozi uses it for demand timing (2026-04-14).
+- [[mind-as-wild-elephant]] — Mind as Wild Elephant: Goenka's metaphor for the untrained mind; Anapana as the rope and post (2026-04-14).
+- [[suppression-vs-expression-vs-observation]] — Suppression vs. Expression vs. Observation: the three responses to emotion; Vipassana's middle path is observation (2026-04-14).
+- [[arahant-path]] — Arahant Path: the four stages to full liberation; Vipassana as the practical vehicle (2026-04-14).
+- [[continuity-of-practice]] — Continuity of Practice: 2h/day every day compounds more than episodic intensity; key Goenka instruction (Days 7, 11) (2026-04-14).
+
+### Business / Hormozi (Additional)
+- [[hormozi-money-levels]] — Hormozi 6 Levels of Making Money: compensation structures from W2 to tax-collector/risk-seller; risk borne = upside earned (2026-04-14).
+- [[hormozi-integrity-framework]] — Hormozi Integrity Framework: integrity = zero gap between stated and demonstrated behavior; the foundation of business trust (2026-04-14).
+- [[hormozi-personal-development]] — Hormozi Personal Development: doing = being; my-fault philosophy; anger as fuel; cringe-status play (2026-04-14).
+
+### WIT (Additional)
+- [[wit-phung-su-khong-ky-vong]] — Phụng Sự Không Kỳ Vọng: Service Without Expectation; one of WIT's highest leadership virtues; mirrors Goenka's Day 10 Dhamma yardstick (2026-04-14).
+
+### General Concepts (Additional)
+- [[mental-models]] — Mental Models: Charlie Munger's latticework of cognitive frameworks; in Vipassana, only bhāvanā-maya-paññā produces reliable models (2026-04-14).
+- [[learning-by-doing]] — Learning by Doing: direct experiential learning; maps to bhāvanā-maya-paññā — the only wisdom that transforms behavior (2026-04-14).
+- [[daily-architecture]] — Daily Architecture: intentional design of the day as a system; Ovens' 4-hour block + Goenka's 2-session bookends (2026-04-14).
+- [[adaptability-darwinism]] — Adaptability Darwinism: the most flexible system survives; evolutionary frame for business strategy and competitive advantage (2026-04-14).
+- [[bodily-sensations-vipassana]] — Bodily Sensations in Vipassana: vedanā as primary objects of observation; the "missing link" in the craving chain (2026-04-14).
+- [[body-scan-technique]] — Body Scan Technique: systematic head-to-feet attention scanning; the core Vipassana physical technique introduced Day 4 (2026-04-14).
+- [[digital-writing-principles]] — Digital Writing Principles: 1-1-1 rule, first-line rule, formatting for skimmers; Ship 30/Nicholas Cole framework (2026-04-14).
+- [[ovens-frustration-tolerance]] — Ovens Frustration Tolerance: capacity to feel like giving up and not give up; mirrors Vipassana equanimity (2026-04-14).
+- [[muoi-dieu-quang-ba]] — Mười Điều Quảng Bá: 10 core broadcasting practices from WIT Thuật Quảng Bá framework (2026-04-14).
+- [[vedana]] — Vedanā: the feeling tone (pleasant/unpleasant/neutral) that arises with every sense contact; the pivot point in Dependent Origination (2026-04-14).
+- [[decision-making]] — Decision Making: quality of decisions determines lifetime outcomes; Ovens (inversion, second-order) + Vipassana (state-first) frameworks (2026-04-14).

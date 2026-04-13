@@ -2,9 +2,11 @@
 title: "Vipassana 10-Day Course — Day 7 Discourse (S.N. Goenka)"
 type: source
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-14
 sources:
   - "raw/articles/Vipassana/English/10 Day Vipassana Course - Day 7 (English).md"
+  - "raw/articles/Vipassana/Vietnamese/Khóa thiền Vipassana 10 ngày - Day 7 (Thiền sư Goenka).md"
+language: bilingual
 tags:
   - vipassana
   - meditation

@@ -68,7 +68,7 @@ Xem chi tiết: [[three-broadcasting-principles]]
 
 ### 10 Điều Quảng Bá (Mười Nguyên Tắc Broadcasting)
 
-Tham khảo chi tiết tại [[Mười Điều Quảng Bá]] (sẽ tạo sau hoặc liên kết đến source page nếu có). Đây là những khía cạnh cốt lõi mà một nhà quảng bá cần nắm vững để lan tỏa giá trị hiệu quả và bền vững.
+Tham khảo chi tiết tại [[muoi-dieu-quang-ba]] (sẽ tạo sau hoặc liên kết đến source page nếu có). Đây là những khía cạnh cốt lõi mà một nhà quảng bá cần nắm vững để lan tỏa giá trị hiệu quả và bền vững.
 
 ## Nguyên Tắc Quan Trọng
 

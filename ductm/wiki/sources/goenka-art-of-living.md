@@ -2,8 +2,9 @@
 title: "The Art of Living Vipassana Meditation — S.N. Goenka"
 type: source
 created: 2026-04-13
+updated: 2026-04-14
 author: "S.N. Goenka"
-language: English
+language: English (with Vietnamese summary)
 source_file: "raw/articles/Vipassana/S.N Goenka/The Art of Living Vipassana Meditation.md"
 tags: [vipassana, art-of-living, goenka, purification, universal-path, sila-samadhi-panna]
 topic: vipassana

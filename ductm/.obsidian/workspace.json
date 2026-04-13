@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/articles/Alex Hormozi/If I Wanted to Create a Business That Runs Itself, Here's What I'd Do.md",
+                "file": "wiki/concepts/decision-making.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "If I Wanted to Create a Business That Runs Itself, Here's What I'd Do"
+              "title": "decision-making"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pricing",
+                "query": "tag:vipassana",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,11 +74,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 492.5,
+    "collapsed": true
   },
   "right": {
     "id": "c4b082e2a2620c23",
@@ -185,32 +187,44 @@
   },
   "active": "c77c06758b044271",
   "lastOpenFiles": [
-    "raw/articles/Alex Hormozi/Why you aren't making as much money as you want.md",
-    "raw/articles/Alex Hormozi/If I Wanted to Create a Business That Runs Itself, Here's What I'd Do.md",
-    "wiki/concepts/rich-vs-poor-buyer-mindset.md",
-    "wiki/concepts/selling-from-wallet.md",
-    "wiki/concepts/top-down-brand-positioning.md",
-    "wiki/concepts/tiered-pricing-model.md",
-    "wiki/concepts/power-law-wealth.md",
-    "wiki/sources/hormozi-sell-to-rich.md",
-    "Cong-Thuc-Tao-Cong-Dong-Chi-Tiet.md",
-    "Why you aren't making as much money as you want.md",
-    "raw/articles/1 Simple Exercise To Defeat Writer’s Block Forever.md",
-    "wiki/concepts/the-cliff.md",
-    "wiki/concepts/prep-the-page.md",
-    "wiki/sources/cole-prep-the-page.md",
-    "wiki/concepts/learning-intelligence-confidence.md",
-    "wiki/concepts/frustration-tolerance.md",
-    "wiki/concepts/effect-horizon.md",
-    "wiki/concepts/long-term-thinking.md",
-    "wiki/concepts/full-stack-mind.md",
-    "wiki/topics/inner-life.md",
-    "ltv-cac-ratio.md",
-    "wiki/sources/hormozi-mathematics-business.md",
-    "wiki/concepts/sell-the-vacation.md",
-    "wiki/concepts/scale-mess-debt.md",
-    "wiki/concepts/rule-of-100.md",
-    "wiki/concepts/more-better-new.md",
+    "wiki/concepts/decision-making.md",
+    "wiki/concepts/vedana.md",
+    "vedana.md",
+    "wiki/concepts/muoi-dieu-quang-ba.md",
+    "wiki/concepts/ovens-frustration-tolerance.md",
+    "wiki/concepts/digital-writing-principles.md",
+    "wiki/concepts/body-scan-technique.md",
+    "wiki/concepts/bodily-sensations-vipassana.md",
+    "wiki/concepts/adaptability-darwinism.md",
+    "wiki/concepts/daily-architecture.md",
+    "wiki/concepts/learning-by-doing.md",
+    "wiki/concepts/mental-models.md",
+    "wiki/topics/vipassana.md",
+    "wiki/concepts/wit-phung-su-khong-ky-vong.md",
+    "wiki/concepts/continuity-of-practice.md",
+    "wiki/concepts/arahant-path.md",
+    "wiki/concepts/suppression-vs-expression-vs-observation.md",
+    "wiki/concepts/mind-as-wild-elephant.md",
+    "wiki/concepts/desire-vs-fulfillment.md",
+    "wiki/concepts/hedonic-treadmill.md",
+    "wiki/concepts/hedonic-adaptation.md",
+    "wiki/concepts/deep-work.md",
+    "wiki/concepts/state-management.md",
+    "wiki/concepts/habit-pattern.md",
+    "wiki/concepts/hormozi-personal-development.md",
+    "wiki/concepts/hormozi-integrity-framework.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "raw/articles/Vipassana/S.N Goenka",
+    "raw/articles/DucTm/Bí mật cuộc sống/BMCS 1.0 - Ngày 14 - Thiền Định & Tư Duy - Con Đường Thay Đổi Cuộc Đời (18.01.26).md.bak",
+    "raw/articles/Vipassana/Vietnamese",
+    "raw/articles/Vipassana/English",
+    "raw/articles/Vipassana",
+    "raw/articles/DucTm/Bí mật cuộc sống",
+    "raw/articles/DucTm/Untitled",
+    "Untitled 2.base",
+    "Untitled 3.base",
+    "Untitled 1.base",
     "raw/articles/WIT/_ocr_temp/nhan_thuc/BUỔI 21 - NGÀY 23.06.2025_NHẬN THỨC VỀ CON NGƯỜI_p52.png",
     "raw/articles/WIT/_ocr_temp/nhan_thuc/BUỔI 21 - NGÀY 23.06.2025_NHẬN THỨC VỀ CON NGƯỜI_p51.png",
     "raw/articles/WIT/_ocr_temp/nhan_thuc/BUỔI 21 - NGÀY 23.06.2025_NHẬN THỨC VỀ CON NGƯỜI_p50.png",
@@ -221,19 +235,7 @@
     "raw/articles/WIT/_ocr_temp/nhan_thuc/BUỔI 21 - NGÀY 23.06.2025_NHẬN THỨC VỀ CON NGƯỜI_p45.png",
     "raw/articles/WIT/_ocr_temp/nhan_thuc/BUỔI 21 - NGÀY 23.06.2025_NHẬN THỨC VỀ CON NGƯỜI_p44.png",
     "raw/articles/WIT/_ocr_temp/nhan_thuc/BUỔI 21 - NGÀY 23.06.2025_NHẬN THỨC VỀ CON NGƯỜI_p43.png",
-    "raw/articles/WIT/_ocr_temp/nhan_thuc",
-    "raw/articles/WIT/_ocr_temp/pd",
-    "raw/articles/WIT/_ocr_temp",
-    "Untitled.canvas",
-    "raw/articles/WIT/1. 07 BỐ THÍ QUAN TRỌNG ĐỜI NGƯỜI/BUỔI 08 - 07 BỐ THÍ QUAN TRỌNG ĐỜI NGƯỜI.docx",
-    "raw/articles/WIT/1. 07 BỐ THÍ QUAN TRỌNG ĐỜI NGƯỜI/BUỔI 07 - 07 BỐ THÍ QUAN TRỌNG ĐỜI NGƯỜI.docx",
-    "raw/articles/WIT/1. 07 BỐ THÍ QUAN TRỌNG ĐỜI NGƯỜI/BUỔI 06 - 07 BỐ THÍ QUAN TRỌNG ĐỜI NGƯỜI.docx",
-    "raw/articles/WIT/1. 07 BỐ THÍ QUAN TRỌNG ĐỜI NGƯỜI/BUỔI 05 - 07 BỐ THÍ QUAN TRỌNG ĐỜI NGƯỜI.docx",
-    "raw/articles/WIT/1. 07 BỐ THÍ QUAN TRỌNG ĐỜI NGƯỜI/BUỔI 04 - 07 BỐ THÍ QUAN TRỌNG ĐỜI NGƯỜI.docx",
-    "raw/articles/WIT/1. 07 BỐ THÍ QUAN TRỌNG ĐỜI NGƯỜI/BUỔI 03 - 07 BỐ THÍ QUAN TRỌNG ĐỜI NGƯỜI.docx",
-    "raw/articles/WIT/1. 07 BỐ THÍ QUAN TRỌNG ĐỜI NGƯỜI/BUỔI 02 - 07 BỐ THÍ QUAN TRỌNG ĐỜI NGƯỜI.docx",
     "raw/articles/Sam Ovens/Untitled.canvas",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas"
+    "Untitled 2.canvas"
   ]
 }
