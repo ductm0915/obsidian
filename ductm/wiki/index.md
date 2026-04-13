@@ -9,8 +9,8 @@ updated: 2026-04-08
 
 Master catalog of all pages in this wiki. Organized by category. The LLM reads this first when answering queries to find relevant pages.
 
-**Total pages:** 328  
-**Total sources ingested:** 89  
+**Total pages:** 389  
+**Total sources ingested:** 113  
 **Last updated:** 2026-04-13
 
 ---
@@ -85,6 +85,35 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[hormozi-sell-to-rich]] — Wealth distribution ($163T as $100 → top 1% = $32), 80/20 customer profit, tiered pricing ladder (5–10× per tier), top-down brand positioning, selling from your wallet (2026-04-13).
 - [[hormozi-self-running-business]] — 5-step framework for owner-independent businesses: self-inventory, managing vs doing, decision infrastructure, marketing systems, LMA test (2026-04-13).
 - [[hormozi-win-with-ai-2026]] — AI adoption urgency, workflow-vs-role thinking, BYOA model, train-AI-like-employee, barbell strategy, phase shift metaphor (2026-04-13).
+- [[hormozi-brutally-honest-truths]] — 15 mindset principles: fear vs. regret, persistence creates timing, envy vs. effort, hard conversations, the hard way is easy, shame vs. guilt (2026-04-13).
+
+### Vipassana — Course Discourses
+- [[vipassana-day-1]] — Day 1 Discourse: Anapana introduction, wild mind diagnosis, surgical metaphor, practical rules and Noble Silence (2026-04-13).
+- [[vipassana-day-2]] — Day 2 Discourse: Noble Eightfold Path, three pillars Sila-Samadhi-Panna, Sammā Samādhi vs. wrong concentration (2026-04-13).
+- [[vipassana-day-3]] — Day 3 Discourse (Vietnamese): Three wisdoms (Văn-Tư-Tu), Anicca-Dukkha-Anattā at experiential level, blind man parable, bubble-and-wave model (2026-04-13).
+- [[vipassana-day-4]] — Day 4 Discourse: First day of actual Vipassana, body scan mechanics, Anicca and Cause & Effect, the unconscious mind (2026-04-13).
+- [[vipassana-day-5]] — Day 5 Discourse by S.N. Goenka: Four Noble Truths, Dependent Origination (12 links), Sankara, Body Sensation as liberation junction (2026-04-13).
+- [[vipassana-day-6]] — Day 6 Discourse (Vietnamese): Five hindrances, craving addiction model, four-element physics, half-full bottle parable (2026-04-13).
+- [[vipassana-day-7]] — Day 7 Discourse: Panca Bala (Five Friends), blind vs. enlightened devotion, continuity of practice (2026-04-13).
+- [[vipassana-day-8]] — Day 8 Discourse: Bhanga dissolution, Sankara multiplication/eradication, metallurgist model, two wings (awareness + equanimity) (2026-04-13).
+- [[vipassana-day-9]] — Day 9 Discourse: Integration to daily life, anger duration metric, suppression vs. observation, 100% cause of misery is internal (2026-04-13).
+- [[vipassana-day-10]] — Day 10 Discourse: Review, Triple Gem, Sila non-negotiable, Ten Pāramīs, two yardsticks of progress (2026-04-13).
+- [[vipassana-day-11]] — Day 11 Graduation Discourse (Vietnamese): swimming lesson parable, daily practice architecture (2h/day), fencing metaphor, five seeds parable, Mettā as daily fee (2026-04-13).
+
+### Vipassana — S.N. Goenka Standalone Lectures
+- [[goenka-art-of-living]] — The Art of Living Vipassana Meditation: two-sided coin, universal path, Holy Indifference, Sīla-Samādhi-Paññā synthesis (Berne) (2026-04-13).
+- [[goenka-living-dhamma]] — Living the Life of Dhamma: Dhamma must be lived, non-violence redefined, reciprocity law of harm, Tapa as Paññā (Mumbai, 2005) (2026-04-13).
+- [[goenka-anger]] — Anger (Davos 2000): sensation-reaction chain, anger duration metric, two-layer mind model, suppression trap (2026-04-13).
+- [[goenka-giving-up-anger]] — The Giving Up of Anger: Pali verses, gradual growth model, silversmith metaphor, Bodhisatta's victory standard (2026-04-13).
+- [[goenka-meaning-of-happiness]] — The Meaning of Happiness (Davos 2000): business success paradox, happiness gap framework, giving-back principle (2026-04-13).
+- [[goenka-buddhas-path]] — Buddha's Path is to Experience Reality (Bangkok 1989): four foundations, causal chain, kalāpa physics, anusaya kilesa as sleeping volcanoes (2026-04-13).
+- [[goenka-dhamma-spread]] — May Dhamma Spread! (Yangon 2012): dana model, universal Sīla-Samādhi-Paññā formula, Myanmar gratitude, migraine story as by-product (2026-04-13).
+- [[goenka-yoga-vipassana]] — Yoga as seen in the light of Vipassana (Bombay 1990): Patanjali Yoga Sutra = Vipassana; 8 jhanas + honey bee metaphor; sampajanna as key innovation; anusaya kilesa (2026-04-13).
+
+### BMCS — Bí Mật Cuộc Sống
+- [[bmcs-kick-off]] — BMCS 1.0 Kick-off: metaphor kiến trúc sư, cấu trúc 3 giai đoạn 90 ngày, thân giáo, vết dầu loang, cam kết tài chính (2026-04-13).
+- [[bmcs-ngay-1]] — BMCS 1.0 Ngày 1: học = thay đổi hành vi, thông minh = tốc độ thay đổi, văn→tư→tu, cấu trúc ngôi nhà 4 khía cạnh 12 điểm (2026-04-13).
+- [[bmcs-ngay-2]] — BMCS 1.0 Ngày 2: tâm vô hình quyết định đời hữu hình, 5 Tầng Nhận Thức (self-awareness → methods → philosophy → skills → results), hiểu vs nhớ (2026-04-13).
 
 ### WIT — Wisdom Intelligence Training
 - [[wit-thnk-k36]] — THNK K36: Thấu Hiểu Nội Tâm 21 buổi; tiềm thức, 3 cây nghiệp, 3 điện từ, quy luật chuyển hóa qua yêu thương (2026-04-12).
@@ -137,6 +166,7 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[dan-koe]] — Writer, entrepreneur, philosopher; "one-person business" model; attention management + flow + integral philosophy.
 - [[august-bradley]] — Creator of PPV (Pillars, Pipelines, Vaults) framework; instructor at notionlifedesign.com; runs PPV Pro since 2020.
 - [[sam-ovens]] — New Zealand entrepreneur; founder of Consulting.com ($30M+/year); co-founder of [[skool-platform]]; systems thinker, full-stack mind, elimination-first productivity.
+- [[sn-goenka]] — S.N. Goenka (1924–2013): Vipassana teacher, brought Sayagyi U Ba Khin's technique from Myanmar to global scale; founder of Dhamma Giri network.
 
 ### WIT Entities
 - [[hong-trieu-bao]] — Thầy Hồng Triệu Bảo, founder WIT; framework 7 giàu toàn diện, 15 khái niệm nguồn, 4 lĩnh vực cuộc đời.
@@ -292,6 +322,33 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[ai-training-method]] — Train AI like an employee: explicit rules + examples + iterative feedback loops; 100 cycles in 100 min vs. 1.5 years with a human.
 - [[barbell-strategy-ai]] — Two-extreme portfolio for AI era: go all-in AI-native AND bet on timeless human needs (health, housing, entertainment).
 - [[phase-shift-metaphor]] — Brian Johnson: water→gas phase change; past swimming skill is irrelevant when the medium itself changes state.
+- [[fear-vs-regret]] — Fear of regret must exceed fear of rejection; plan B decomposition dissolves vague fear; distance between decision and action = measure of power.
+- [[persistence-creates-timing]] — Work always = always ready; perfect timing is a myth, perfect preparation is achievable; opportunities multiply with skill.
+- [[hard-conversations]] — Everything you want lives past a deferred conversation; short pain / long pain matrix; trade short pains for long gains.
+- [[envy-vs-effort]] — Redirect comparison energy to self-expansion; biggest threat = mediocre version of yourself; people copy those who focus on the customer.
+- [[the-hard-way-is-easy]] — The hard way is the only way; shortcuts disappear on adoption; multiple flavors of "hard"; Paul Graham million-dollar-pain quote.
+- [[shame-vs-guilt]] — Guilt = break your own rules; shame = break others' rules; shame blocks asymmetric-upside actions; fear only exists in the vague.
+- [[van-tu-tu]] — Văn tuệ → Tư tuệ → Tu tuệ: ba bậc chuyển hóa kiến thức thành trí tuệ thực sự (nghe → suy nghĩ → thay đổi hành vi).
+- [[four-noble-truths]] — Tứ Diệu Đế: Dukkha/Samudaya/Nirodha/Magga — framework experiential để thoát khổ; observe misery objectively = Noble Truth.
+- [[dependent-origination]] — Thập Nhị Nhân Duyên (12 nidana): chuỗi nhân quả từ Avijja → Sankara → ... → Dukkha; Vedana là junction.
+- [[sankara-mental-volition]] — Hành: mỗi reaction với sensation = generate sankara; accumulate như chisel-on-rock; eradicate qua equanimity.
+- [[body-sensation-junction]] — Vedana (sensation) là bifurcation point: react → more misery; equanimous → liberation road.
+- [[equanimity-with-sensation]] — Upekkha: không phản ứng với sensation; progressive levels từ vài giây đến full liberation.
+- [[anapana-meditation]] — Kỹ thuật quan sát hơi thở tự nhiên; cửa vào Vipassana; lý do không dùng mantra/visualization; sharp mind via small area.
+- [[noble-eightfold-path]] — Bát Chánh Đạo: Sila (3 chi) + Samadhi (3 chi) + Panna (2 chi); Sammā Samādhi vs. tà định.
+- [[anicca-impermanence]] — Vô Thường: arising-passing ở mọi cấp độ; daily life application; Game of Sensation failure mode.
+- [[bhanga-dissolution]] — Tan rã: toàn thân = dòng rung động vi tế; trạm thứ 2; nguy hiểm của craving với pleasant flow; metallurgist metaphor.
+- [[sila-samadhi-panna]] — Ba tầng Dhamma: tuần tự bắt buộc; đóng góp của Buddha là living Panna; chintan matra failure.
+- [[raga-dosa-moha]] — Ba gốc rễ của khổ: craving/aversion/ignorance; cơ chế sau Vedana; Vipassana đối trị từng loại.
+- [[panca-bala]] — Năm sức mạnh: Saddha/Viriya/Sati/Samadhi/Panna; ẩn dụ mắt-chân; blind vs. enlightened devotion.
+- [[four-parts-of-mind]] — Bốn phần tâm: Vinnana/Sanna/Vedana/Sankara; mục tiêu rebalancing; metric anger duration.
+- [[five-hindrances]] — Pañca Nīvaraṇa: kāmacchanda/byāpāda/thīna-middha/uddhacca/vicikicchā; tragic irony of meditators amplifying what they came to dissolve; antidotes (2026-04-13).
+- [[bhavana-maya-panna]] — Tu Tuệ: the liberating third wisdom; only experiential practice breaks the habit at depth; Berkeley Nobel laureate vs. Buddha contrast (2026-04-13).
+- [[nha-cuoc-song]] — Framework ngôi nhà cuộc sống: 4 khía cạnh (móng=cá nhân, tường=quan hệ, lòng=kinh doanh, mái=chất lượng), 12 điểm thực hành.
+- [[5-tang-nhan-thuc]] — Framework 5 tầng từ vô hình đến hữu hình: tự nhận thức → phương pháp → triết lý → kỹ năng → kết quả; sai lầm phổ biến khi chỉ xây tầng 4–5.
+- [[tam-vo-hinh-quyet-dinh-doi-huu-hinh]] — Luận đề BMCS: tâm/tư duy/niềm tin (vô hình) tạo ra tiền/kết quả/sức khỏe (hữu hình); chuỗi tâm → lời → hành động → kết quả.
+- [[than-giao]] — Dạy bằng cách sống: ảnh hưởng người thân qua gương sống, không phải lời nói hay ép buộc.
+- [[vet-dau-loang]] — Chiến lược lan tỏa từ top leader ra cộng đồng; điều kiện: thân giáo phải đi trước.
 
 ### WIT Concepts
 - [[subconscious-and-consciousness]] — Tiềm thức & Tâm thức: khu vườn tiềm thức, 3 tầng tri thức nhân loại, cơ chế huân tập.
@@ -315,6 +372,10 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[ai-development-tools]] — Ecosystem for building agentic AI systems: Claude Code, WAT, Trigger.dev, VPS.
 - [[storytelling]] — Story-as-funnel, story-as-moat; frameworks from Gray + Hormozi; craft, structure, conversion.
 - [[personal-productivity]] — Systems, frameworks, triết lý về tổ chức cuộc sống: PPV, Defend the Zone, flow states, SMARTER goals.
+- [[vipassana]] — Hub thiền Vipassana: technique, 10-day course structure, Goenka lineage, connections to WIT/productivity frameworks.
+
+### BMCS Topics
+- [[bi-mat-cuoc-song]] — Tổng hợp chương trình BMCS 1.0: triết lý, 3 giai đoạn, ngôi nhà cuộc sống, 5 tầng nhận thức, kết nối toàn bộ sources và concepts.
 
 ### WIT Topics
 - [[inner-life]] — Hub nội tâm WIT: tiềm thức, 3 cây nghiệp, 3 điện từ, trạng thái âm/dương, huân tập.

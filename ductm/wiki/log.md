@@ -404,3 +404,186 @@ Ingested YouTube video transcript on building owner-independent businesses. 5-st
 Ingested YouTube video transcript on AI adoption strategy. Core arguments: AI adoption urgency ("AI will never be worse than now"), workflow-vs-role-thinking as the operating model shift, BYOA as the new employment paradigm, train-AI-like-employee as the core execution skill, barbell strategy (AI-native + timeless bets), and phase shift metaphor (Brian Johnson: water→gas). Hormozi's AI-native companies run at millions per employee per year. Practical prescription: granular task list → automate first task → screenshot when stuck → iterate. Pages affected:
 - Created: [[hormozi-win-with-ai-2026]], [[workflow-vs-role-thinking]], [[byos-byoa]], [[ai-training-method]], [[barbell-strategy-ai]], [[phase-shift-metaphor]]
 - Updated: [[alex-hormozi]] (added AI section + source), [[horizontal-leverage]] (added Hormozi/BYOA angle), [[wiki/index.md]] (328 pages, 89 sources)
+
+## [2026-04-13] ingest | Brutally Honest Truths That Give You an Unfair Advantage in Life — Alex Hormozi
+Ingested YouTube video transcript of 15-point mindset manifesto. Core content: psychological operating principles for entrepreneurship and personal growth — covering fear hierarchies, persistence, envy redirection, hard conversations, the nature of shortcuts, and shame/guilt distinction. Extended three existing concept pages with substantial new frameworks. Pages affected:
+- Created: [[hormozi-brutally-honest-truths]], [[fear-vs-regret]], [[persistence-creates-timing]], [[hard-conversations]], [[envy-vs-effort]], [[the-hard-way-is-easy]], [[shame-vs-guilt]]
+- Updated: [[my-fault-philosophy]] (added "what offends you controls you" + Shaq metaphor), [[frustration-tolerance]] (added "happy but not satisfied" + hard work as goal), [[volume-negates-luck]] (added 20-hour competence + habituation mechanism), [[alex-hormozi]] (added mindset section + source), [[personal-productivity]] (added Hormozi mindset OS section), [[wiki/index.md]] (335 pages, 90 sources)
+
+## [2026-04-13] ingest | BMCS 1.0 Ngày 1 — Từ Học Tập Đến Hành Động
+Ingested Day 1 transcript của chương trình Bí Mật Cuộc Sống 1.0 (DucTm). Nội dung cốt lõi: định nghĩa học = thay đổi hành vi, thông minh = tốc độ thay đổi, ba tầng tuệ (Văn→Tư→Tu), framework ngôi nhà cuộc sống 4 khía cạnh 12 điểm. Trước đó đã xóa 816 timestamp khỏi file nguồn (543 format MM:SS + 273 format H:MM:SS).
+- Created: [[bmcs-ngay-1]], [[van-tu-tu]], [[nha-cuoc-song]]
+- Updated: [[learning-intelligence-confidence]] (added BMCS framing + Vietnamese examples), [[more-better-new]] (added BMCS source + learning application), [[index]] (338 pages, 91 sources)
+
+## [2026-04-13] ingest | BMCS 1.0 — Kick-off + Ngày 2 (batch)
+
+Ingest 2 transcripts từ thư mục Bí Mật Cuộc Sống. File Kick-off đã loại bỏ timestamps trước đó (130KB → 104KB). File Ngày 2 là 1 dòng dài (~110KB, không có newlines).
+
+**Kick-off:** Buổi ra mắt chương trình 90 ngày. Cấu trúc 3 giai đoạn (60–100 trang tầm nhìn → bản rút gọn A4 → Notion). Metaphor kiến trúc sư (chị Mai Nguyễn). Lý do thiết kế: 5 giờ sáng, không nghỉ cuối tuần, cam kết 10 triệu. Thân giáo và vết dầu loang như hai cơ chế lan tỏa thay đổi. Lời chứng thực: Chị Dung (thu nhập x2), Chị Linh (thu nhập x3 trong 3 tháng).
+
+**Ngày 2:** Buổi lý thuyết cốt lõi. Luận đề: vô hình quyết định hữu hình. Framework 5 Tầng Nhận Thức (tự nhận thức → phương pháp → triết lý → kỹ năng → kết quả). Phân biệt hiểu vs nhớ. Thiền Anapana là công cụ xây tầng 1.
+
+- Created: [[bmcs-kick-off]], [[bmcs-ngay-2]], [[5-tang-nhan-thuc]], [[tam-vo-hinh-quyet-dinh-doi-huu-hinh]], [[than-giao]], [[vet-dau-loang]]
+- Updated: [[index]] (344 pages, 93 sources)
+
+## [2026-04-13] ingest | BMCS Topic Page — Tổng Hợp
+
+Tạo topic page tổng hợp toàn bộ nội dung BMCS: 3 sources (kick-off, ngày 1, ngày 2), 6 concept pages, kết nối với wiki chính (Hormozi, Sam Ovens, WIT). Bảng đối chiếu điểm đồng thuận và điểm khác biệt.
+
+- Created: [[bi-mat-cuoc-song]]
+- Updated: [[index]] (345 pages, 93 sources)
+
+## [2026-04-13] ingest | 10 Day Vipassana Course — Day 5 (S.N. Goenka)
+
+Ingest bài giảng Ngày 5 của khóa thiền Vipassana 10 ngày bởi S.N. Goenka. Đây là bài giảng pivot của khóa: giải thích đầy đủ Tứ Diệu Đế, Thập Nhị Nhân Duyên, cơ chế Sankara, và vị trí then chốt của body sensation như điểm giao của liberation vs misery. Mở đầu một domain hoàn toàn mới (Vipassana/Buddhism practices) trong wiki.
+
+**Source mới:**
+- [[vipassana-day-5]] — Day 5 Discourse: Four Noble Truths, Dependent Origination, Sankara, Body Sensation Junction, Equanimity
+
+**Entity mới:**
+- [[sn-goenka]] — S.N. Goenka (1924–2013): thầy Vipassana, truyền bá kỹ thuật Sayagyi U Ba Khin từ Myanmar ra toàn thế giới; Dhamma Giri network
+
+**Concepts mới:**
+- [[four-noble-truths]] — Tứ Diệu Đế: Dukkha/Samudaya/Nirodha/Magga; framework experiential, không phải tín điều
+- [[dependent-origination]] — 12-link Paticca Samuppada từ Avijja → Sankara → ... → Dukkha; Vedana là junction
+- [[sankara-mental-volition]] — Hành: mỗi reaction với sensation = generate sankara; chisel-on-rock metaphor; bhava-sankara gây tái sinh
+- [[body-sensation-junction]] — Vedana là bifurcation: react → misery road; equanimous → liberation road; đóng góp độc đáo của Buddha
+- [[equanimity-with-sensation]] — Upekkha: không phản ứng với sensation; 4 progressive levels; foundation của toàn bộ practice
+
+**Topic mới:**
+- [[vipassana]] — Hub: technique, 10-day course structure, lineage, connections to inner-life (WIT), personal-productivity
+
+**Kết nối wiki chính:**
+- Overlap với [[inner-life]] (WIT tiềm thức ≈ deepest mind Vipassana)
+- Overlap với [[frustration-tolerance]] và [[monk-like-discipline]] (Sam Ovens)
+- Overlap với [[van-tu-tu]] (3 tầng tuệ BMCS ≈ 3-tier mind Vipassana)
+
+- Updated: [[index]] (352 pages, 94 sources)
+
+## [2026-04-13] ingest | Vipassana Days 1, 2, 4, 7, 8, 9, 10 — Batch Ingestion
+
+Tiếp tục hệ thống hóa toàn bộ khóa thiền 10 ngày của S.N. Goenka. Batch lần này ingest 7 bài giảng còn lại (Day 3 empty, Day 11 là music/chanting only). Đây là batch hoàn chỉnh hóa toàn bộ core corpus Vipassana vào wiki.
+
+**Key themes theo từng ngày:**
+- Day 1: Anapana foundation, wild mind, surgical metaphor for deep purification
+- Day 2: Noble Eightfold Path, three pillars Sila-Samadhi-Panna, Sammā Samādhi vs. tà định
+- Day 4: First day actual Vipassana, body scan mechanics, Anicca & Cause-Effect, unconscious mind
+- Day 7: Panca Bala (Five Friends), blind vs. enlightened devotion, continuity of practice
+- Day 8: Bhanga dissolution, Sankara multiplication/eradication, metallurgist model (ring of pure consciousness)
+- Day 9: Integration to daily life, anger duration metric, suppression vs. observation, 100% causa lies inside
+- Day 10: Final review, Triple Gem as quality not person, Ten Pāramīs, two yardsticks of genuine progress
+
+**Source pages mới (7):**
+- [[vipassana-day-1]], [[vipassana-day-2]], [[vipassana-day-4]]
+- [[vipassana-day-7]], [[vipassana-day-8]], [[vipassana-day-9]], [[vipassana-day-10]]
+
+**Concept pages mới (7):**
+- [[anapana-meditation]] — hơi thở tự nhiên như cửa vào Vipassana; không mantra/visualization
+- [[noble-eightfold-path]] — Bát Chánh Đạo: Sila + Samadhi + Panna
+- [[anicca-impermanence]] — Vô Thường: arising-passing; Game of Sensation failure mode; daily life metric
+- [[bhanga-dissolution]] — Tan rã: trạm thứ 2, nguy hiểm của craving vào pleasant flow
+- [[sila-samadhi-panna]] — Ba tầng tuần tự bắt buộc; living Panna là đóng góp của Buddha
+- [[raga-dosa-moha]] — Ba gốc rễ: craving/aversion/ignorance; cơ chế sau Vedana
+- [[panca-bala]] — Năm sức mạnh; blind vs. enlightened devotion; ẩn dụ mắt-chân
+- [[four-parts-of-mind]] — Vinnana/Sanna/Vedana/Sankara; rebalancing qua Vipassana
+
+**Kết nối cross-framework:**
+- [[anicca-impermanence]] ↔ [[frustration-tolerance]] (Sam Ovens) — duration reduction as measurable progress
+- [[suppression vs. observation]] ↔ [[monk-like-discipline]] — no suppression, no expression, just observe
+- [[sila-samadhi-panna]] ↔ [[van-tu-tu]] (BMCS) — hai framework song song về chuyển hóa tri thức
+- [[panca-bala]] ↔ [[wit-broadcasting]] — Saddha enlightened ≈ phụng sự không kỳ vọng (WIT)
+
+- Updated: [[index]] (376 pages, 102 sources)
+
+---
+
+## [2026-04-13] ingest | Vipassana Final Batch — Vietnamese Days + Goenka Standalone Lectures
+
+**Files processed (8):**
+- `Vietnamese/Day 3` (1507 lines) — only substantive Day 3 source; English file empty
+- `Vietnamese/Day 6` (~1400 lines) — only substantive Day 6 source; English file empty
+- `S.N Goenka/The Art of Living Vipassana Meditation.md`
+- `S.N Goenka/Living the Life of Dhamma.md`
+- `S.N Goenka/Anger.md` (Davos 2000)
+- `S.N Goenka/The Giving up of Anger.md`
+- `S.N Goenka/The Meaning of Happiness.md` (Davos 2000)
+- `S.N Goenka/Buddha's Path is to Experience Reality.md` (Bangkok 1989)
+
+**Sources created (8):** [[vipassana-day-3]], [[vipassana-day-6]], [[goenka-art-of-living]], [[goenka-living-dhamma]], [[goenka-anger]], [[goenka-giving-up-anger]], [[goenka-meaning-of-happiness]], [[goenka-buddhas-path]]
+
+**Concepts created (2):** [[five-hindrances]] (Pañca Nīvaraṇa + antidotes), [[bhavana-maya-panna]] (Tu Tuệ — liberating wisdom)
+
+**Key syntheses:**
+- Day 3: Tam Tuệ → Văn-Tư-Tu; bubble-wave kalāpa model; experiential Anicca-Dukkha-Anattā
+- Day 6: Craving as sensation-addiction (not object-addiction); 4-element physics as practice guide; 5 Hindrances + irony
+- Goenka lectures: anger duration metric; two-sided coin; anusaya kilesa (sleeping volcanoes); reciprocity law of harm
+
+**Cross-framework connections:**
+- [[bhavana-maya-panna]] ↔ [[van-tu-tu]] — Tu tuệ = the only wisdom that creates real change
+- Craving addiction (Day 6) ↔ hedonic treadmill / dopamine loop
+- Holy Indifference (Art of Living) ↔ Hormozi stoic operator model
+- Reciprocity law of harm (Living Dhamma) ↔ Hormozi integrity/character-tax concept
+- Anger duration metric ↔ Sam Ovens frustration tolerance training
+
+**Status: Vipassana ingestion COMPLETE**
+- Course: Days 1-10 fully covered (English + Vietnamese where needed)
+- Goenka standalone: 6 lectures indexed
+- Concept library: 12 Vipassana concepts total
+
+- Updated: [[index]] (386 pages, 110 sources)
+
+---
+
+## [2026-04-13] ingest | Vipassana Day 11 — Graduation Discourse
+
+**File:** `raw/articles/Vipassana/Vietnamese/Khóa thiền Vipassana 10 ngày - Day 11 (Thiền sư Goenka).md` (922 lines, 45KB)
+
+**Note:** User clarified Day 11 English = Mettā chanting only. Vietnamese file contains full graduation discourse — substantive and unique content not available in English.
+
+**Source created:** [[vipassana-day-11]]
+
+**Key frameworks extracted:**
+- Swimming lesson parable (professor vs. sailor): master illustration of bhāvanā-maya-paññā superiority
+- Daily practice architecture: 1h AM + 1h PM + 5min pre-sleep + 5min on-waking
+- Eye-open micro-sessions: anicca awareness during any idle moment
+- Fencing metaphor: Sīla-Samādhi-Paññā as the protective fence that cannot be attacked
+- Five seeds parable: 4 types of students; only the one who plants and multiplies gets the keys
+- Mettā as daily fee: completing each session with loving-kindness radiation for all beings (incl. teacher)
+- Annual retreat requirement + self-retreat option
+- Group sitting: community amplification of individual practice
+
+**Cross-framework connections:**
+- Swimming lesson ↔ bhāvanā-maya-paññā (vipassana-day-3)
+- Daily 2h structure ↔ Sam Ovens daily architecture / monk-like discipline
+- Eye-open micro-sessions ↔ state management (Sam Ovens)
+- Full attention externally / awareness internally ↔ deep work (Cal Newport)
+
+- Updated: [[index]] (387 pages, 111 sources)
+
+## [2026-04-13] ingest | Vipassana — 2 Missing Goenka Lectures
+
+Found 2 raw files not yet ingested: `May Dhamma spread!.md` (Yangon 2012) and `Yoga - as seen in the light of Vipassana.md` (Bombay 1990). These complete the S.N. Goenka corpus.
+
+**goenka-dhamma-spread (Yangon 2012):**
+- Short talk on why Vipassana spreads globally
+- Dana model: free teaching + board + lodging; students give back after benefiting
+- Universal formula: Sīla-Samādhi-Paññā = what no religion can oppose
+- Personal story: migraine cure after one course = by-product, not main purpose
+- Gratitude to Myanmar for preserving technique; 160+ centers by 2012
+
+**goenka-yoga-vipassana (Bombay 1990):**
+- Deep academic lecture: Patanjali Yoga Sutra is essentially Vipassana (minus 10-15 sutras)
+- Critique: modern yoga reduced to asana/pranayama therapy — same degeneration as modern Vipassana-as-acupressure
+- 8 jhanas described with honey bee metaphor (vitakka/vicara/piti/sukha/ekagatta)
+- Key problem: even 8th jhana leaves anusaya kilesa (dormant defilements) intact
+- Buddha's innovation: sampajanna (simultaneous awareness) = what eradicates anusaya
+- Equivalence: rtambhara prajna (Patanjali) = bhavanamaya panna (Buddha) = experiential wisdom
+- Kalapa physics (sub-atomic vibrations) = quantum physics confirmation
+- Definition: "Vivekena pasyatiti vipasyana" = to see truth with rational/analytical outlook
+
+**Also corrected:**
+- [[vipassana]] topic page: fixed outdated entries (Days 3, 6, 11 were not "empty/music" — they had Vietnamese transcripts); updated sources list to include all 19 sources (11 days + 8 Goenka lectures)
+- [[sn-goenka]] entity: updated sources list to include all 19 sources
+
+- Created: [[goenka-dhamma-spread]], [[goenka-yoga-vipassana]]
+- Updated: [[sn-goenka]] (full sources list), [[vipassana]] (corrected day table + full sources), [[index]] (389 pages, 113 sources)

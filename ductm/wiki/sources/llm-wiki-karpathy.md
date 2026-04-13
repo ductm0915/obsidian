@@ -10,7 +10,6 @@ tags:
   - wiki
   - pattern
 ---
-
 # LLM Wiki — Andrej Karpathy
 
 **Author:** Andrej Karpathy

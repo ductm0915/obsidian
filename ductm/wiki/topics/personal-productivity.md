@@ -82,6 +82,25 @@ Wake 6:50 → Gym 7:00 → Shower/breakfast 8:00 → Meditation 8:30 → Custome
 
 ---
 
+---
+
+## Hormozi — Mindset Operating System
+
+[[alex-hormozi]] contributes a complementary layer: not systems design (like PPV) or environment design (like Sam Ovens), but the **psychological operating principles** that make any system executable.
+
+Key concepts from [[hormozi-brutally-honest-truths]]:
+- **[[fear-vs-regret]]** — fear of regret > fear of rejection; plan B decomposition removes vague paralysis; distance between decision and action = measure of power
+- **[[persistence-creates-timing]]** — perfect timing is created by never stopping; starting is the condition, not the result
+- **[[hard-conversations]]** — short pain / long pain matrix; everything you want lives past a deferred conversation
+- **[[the-hard-way-is-easy]]** — shortcuts disappear on adoption; complexity isn't the problem, consistency is; multiple flavors of "hard" (sacrifice, effort, risk, uncertainty)
+- **[[envy-vs-effort]]** — redirect comparison energy to self-expansion; biggest threat = mediocre version of yourself
+- **[[shame-vs-guilt]]** — guilt = your rules; shame = others' rules; whose rules are you following?
+
+And extensions to existing concepts:
+- [[frustration-tolerance]] — "happy but not satisfied"; hard work is the goal itself, not the means
+- [[my-fault-philosophy]] — "what offends you controls you"; Shaq metaphor (play the cards you're dealt)
+- [[volume-negates-luck]] — 20-hour competence threshold; habituation > affirmation; reps can be compressed
+
 ## Nguồn chính
 
 - [[ppv-pro-program]] — August Bradley's PPV Pro Program (17 sessions)

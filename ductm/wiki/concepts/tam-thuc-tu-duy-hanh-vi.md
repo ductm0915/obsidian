@@ -4,7 +4,6 @@ type: concept
 created: 2026-04-12
 updated: 2026-04-12
 ---
-
 # Tâm Thức → Tư Duy → Hành Vi (Consciousness → Thinking → Behavior)
 
 **Origin:** [[wit-organization]], taught by [[hong-trieu-bao]]

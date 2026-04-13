@@ -51,5 +51,18 @@ Statistical confidence: the percentage likelihood that something will happen bas
 - [[volume-negates-luck]] — Rep count builds confidence; repetition is how intelligence compounds
 - [[frustration-tolerance]] — The gap between current behavior and needed behavior requires tolerance to close
 
+## Additional Context
+
+From [[hormozi-self-running-business]]: Hormozi extends this to talent assessment — he now measures employees by **rate of improvement**, not starting skill level. An employee starting at 60% who improves fast will eventually pass one who starts at 80% and plateaus. Same "intelligence = rate of learning" principle applied to hiring decisions.
+
+## Additional Context — BMCS Framing
+
+From [[bmcs-ngay-1]]: Đức trình bày cùng định nghĩa trong chương trình Bí Mật Cuộc Sống, với ví dụ minh họa cụ thể hơn cho người Việt Nam:
+- Sam vs Ben: cả hai được dạy chào. Ben chạy đến chào ngay (đã học); Sam không làm (chưa học).
+- Ví dụ thiền: anh Tuyến sau khi thiền tức giận với vợ chỉ 1.5 ngày thay vì 2 ngày → thông minh hơn.
+- Kết nối với [[van-tu-tu]]: học thật = đến tầng "Tu" (thay đổi hành vi), không phải dừng ở "Văn" (chỉ nghe).
+
 ## Sources
 - [[hormozi-how-to-win]]
+- [[hormozi-self-running-business]]
+- [[bmcs-ngay-1]]

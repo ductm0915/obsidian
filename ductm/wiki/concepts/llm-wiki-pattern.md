@@ -11,7 +11,6 @@ tags:
   - knowledge-management
   - wiki
 ---
-
 # LLM Wiki Pattern
 
 Pattern xây dựng personal knowledge base bằng LLM, được [[andrej-karpathy]] mô tả.

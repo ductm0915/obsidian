@@ -59,6 +59,17 @@ Operations is the discipline of managing teams, processes, and systems to maximi
 
 **Tension with Hormozi:** Hormozi pushes aggressive scaling and hiring (volume-negates-luck logic). Sam argues for deliberate cleanup cycles and smaller, better teams. Reconciliation: Hormozi's advice is for early-stage scaling; Sam's is for post-scale stabilization and innovation protection.
 
+## Building an Owner-Independent Business
+
+From [[hormozi-self-running-business]]: the end state of good operations is a business that runs (and grows) without the owner. Key frameworks:
+
+- **[[owner-independence-valuation]]** — Same $2M profit: $0 (owner-required) vs. $12M (self-running). The multiplier effect makes income accumulation look ~20× slower.
+- **[[key-man-risk]]** — Founder dependency hides in sales, operations, marketing, and relationships. It destroys valuation and prevents scale.
+- **[[self-inventory-method]]** — Time study every 15 minutes, list all tasks, triage to red/yellow/green, assign person/process/project.
+- **[[shadow-train-method]]** — 3-phase handoff: watch you → you watch them → supported independence.
+- **[[lifecycle-ads]]** — Mine existing sales/onboarding recordings to generate marketing without founder face.
+- **[[lma-test]]** — Take 90 days off. Fix what breaks. Repeat until nothing breaks. Goal: return to find business better, not just standing.
+
 ## Ingested Sources
 - [[hormozi-no-bs-business-2026]]
 - [[hormozi-ultimate-sales-2026]]

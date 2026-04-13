@@ -2,7 +2,7 @@
 title: "Frustration Tolerance"
 type: concept
 created: 2026-04-10
-updated: 2026-04-11
+updated: 2026-04-13
 sources:
   - "[[hormozi-watch-get-ahead-2026]]"
   - "[[dan-koe-get-ahead-99]]"
@@ -48,6 +48,23 @@ The [[rule-of-100]] is frustration tolerance operationalized: commit to 100 acti
 Koe's framing extends this: mastery = the process of converting conscious, effortful action into unconscious competence. Each boring repetition is literal neural pathway formation. Once the fundamental is automatic, it "frees up mental energy to move on to the next thing" — making the apparent misery of the early stage a down payment on future capability.
 
 This also connects to the [[entropy-principle]]: stopping the boring fundamentals is not "neutral" — it is allowing entropy to reclaim the hard-won order.
+
+## Happy But Not Satisfied
+
+From [[hormozi-brutally-honest-truths]]: a crucial distinction between being happy and being satisfied.
+
+- **Happy before reaching your goal** = allowed, healthy
+- **Satisfied before reaching your goal** = complacency, disengagement
+
+The difference: content with your life and work (happy) ≠ done taking action (satisfied).
+
+Haitian proverb: *"Behind mountains are more mountains."* After every peak, you can see more peaks ahead. Progress is not a destination.
+
+Hormozi's thesis from his retirement year: **hard work is the goal itself**, not merely a means to an outcome. The outcome is a secondary effect — a consequence of the process, not the point.
+
+> *"There is misery on both sides. So I might as well be productive and useful. And the only way to be productive and useful is to be happy about the process, but not satisfied."*
+
+The frame inverts the common "grind until you can stop" narrative: you don't endure work to earn rest. You learn to find meaning in work itself — then dissatisfaction with stopping becomes your engine.
 
 ## Related Concepts
 - [[volume-negates-luck]] — Volume requires frustration tolerance to sustain

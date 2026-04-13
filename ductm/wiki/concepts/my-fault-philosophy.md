@@ -2,7 +2,7 @@
 title: "My Fault Philosophy"
 type: concept
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-13
 sources:
   - "[[hormozi-best-year-2026]]"
 tags: ["mindset", "accountability", "poverty", "agency", "foundation"]
@@ -40,11 +40,34 @@ The first step out of poverty, failure, or stagnation is not a tactic — it's t
 2. Accept the cost (brute force when leverage is absent)
 3. Build skills with brutal repetition
 
+## What Offends You Controls You
+
+Extended formulation from [[hormozi-brutally-honest-truths]]: **whatever offends you, controls you.** This is the same logic applied to emotionally charged situations.
+
+Example: "I can't be in a committed relationship because my mother hurt me as a child." By saying this repeatedly: my mother controls how my love life goes. By using the excuse: I give my mother power over my future.
+
+The pattern: attributing current inability to a past wound = handing ongoing control to whoever inflicted it.
+
+> *"The day that you choose to control yourself is the day that you choose to divorce your results from the very viable reasons you have to not win. You are right. And so what?"*
+
+The psychological trap with parents specifically: you may believe that becoming successful "validates" how you were parented. So you stay unsuccessful to punish them — and stay there as long as you want them to control you.
+
+## Play the Cards You're Dealt
+
+Hormozi's father's response to his reluctance to use inherited advantages:
+
+> *"Do you think Shaq, when he was 7 feet tall, was like 'It wouldn't be fair for me to play basketball. Other people aren't as tall as me'? You play the cards you're dealt. These are the cards you have. Play them."*
+
+Others will disqualify your success regardless of circumstances — "he had connections," "she was born in America," "he's a man." Since they'll always find a justification for discounting your achievement, the rational choice is to use every advantage you have and ignore the verdict.
+
 ## Related Concepts
 - [[deprivation-motivation]] — Once blame is released, the deprivation gap becomes motivating rather than paralyzing
 - [[blame-distortions]] — The 3 CBT-derived objection patterns; "My Fault" dissolves the self-distortion category
 - [[frustration-tolerance]] — Accepting blame enables tolerating the discomfort of doing hard things
 - [[volume-negates-luck]] — After taking ownership, volume of action is the only lever early on
+- [[shame-vs-guilt]] — Shame = deference to others' rules; My Fault = reclaiming your own rules
+- [[envy-vs-effort]] — Envy = externalized blame; My Fault redirects that energy inward
 
 ## Sources
 - [[hormozi-best-year-2026]]
+- [[hormozi-brutally-honest-truths]]

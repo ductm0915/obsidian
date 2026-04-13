@@ -29,3 +29,4 @@ Entrepreneurs often reverse this order. They try 80% new things because they cra
 ## Sources
 - [[hormozi-13-years-marketing]]
 - [[hormozi-no-bs-business-2026]]
+- [[bmcs-ngay-1]] — Đức áp dụng vào học tập: không nhảy sang khóa học mới liên tục; cái gì đã có lợi → làm nhiều hơn → tốt hơn → mới học thứ tiếp theo
