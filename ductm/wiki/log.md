@@ -384,3 +384,13 @@ Full enrichment của [[wit-k07-thuat-quang-ba]] (22 buổi, 811 trang, PDF gố
 - Verified: [[thuat-quang-ba]] (complete, 100 lines)
 - Connected: [[establish-speaking-authority]], [[three-broadcasting-principles]], [[cycle-law-dripping-water]], [[wit-broadcasting]], [[inner-state]], [[karmic-conditioning]], [[subconscious-and-consciousness]], [[wit-organization]], [[hong-trieu-bao]]
 - Index: 303 pages, 85 sources (no changes needed — already recorded on 2026-04-12)
+
+## [2026-04-12] ingest | 1 Simple Exercise To Defeat Writer's Block Forever — Nicholas Cole
+Ingested YouTube video transcript on structural writing technique. Key framework: Prep the Page — segment document into sections before writing to eliminate writer's block. Pages affected:
+- Created: [[cole-prep-the-page]], [[prep-the-page]], [[the-cliff]]
+- Updated: [[nicholas-cole]] (added writing frameworks section + new source), [[wiki/index.md]] (306 pages, 86 sources)
+
+## [2026-04-13] ingest | Why You Aren't Making As Much Money As You Want — Alex Hormozi
+Ingested YouTube video transcript on wealth distribution, tiered pricing, and selling to affluent customers. Central thesis: most entrepreneurs stay poor by selling to poor people. Key data: US wealth as $100 → top 1% holds $32, more than bottom 90% combined. Pages affected:
+- Created: [[hormozi-sell-to-rich]], [[power-law-wealth]], [[tiered-pricing-model]], [[top-down-brand-positioning]], [[selling-from-wallet]], [[rich-vs-poor-buyer-mindset]]
+- Updated: [[close-rate-pricing-ladder]] (absolute profit math, "it's super expensive" pre-frame, virtuous cycle, new source), [[alex-hormozi]] (added wealth & pricing section + new source), [[wiki/index.md]] (313 pages, 87 sources)

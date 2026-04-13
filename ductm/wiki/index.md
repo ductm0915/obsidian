@@ -9,9 +9,9 @@ updated: 2026-04-08
 
 Master catalog of all pages in this wiki. Organized by category. The LLM reads this first when answering queries to find relevant pages.
 
-**Total pages:** 303  
-**Total sources ingested:** 85  
-**Last updated:** 2026-04-12
+**Total pages:** 313  
+**Total sources ingested:** 87  
+**Last updated:** 2026-04-13
 
 ---
 
@@ -81,6 +81,8 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[sam-ovens-shana-lynn-community]] — Shana Lynn: building community — 4C framework (Cause/Culture/Communication/Connection); safety before connection; structure enables vulnerability (2026-04-11).
 - [[gray-sam-ovens-community-truth]] — Sam Ovens on Matt Gray Show: community vs. audience, fun-first design, dentist community case study, info vs. software tradeoffs, Skool mission 1B/1M (2026-04-11).
 - [[skool-games-q4-2025]] — Q4 2025 Skool Games event: talent+personality formula, saves>shares metric, content-ads convergence, first-party data, repeat successful actions, Skool native phenomenon (2026-04-12).
+- [[cole-prep-the-page]] — Nicholas Cole: Prep the Page technique — segment a blank document into skeleton sections before writing to eliminate writer's block (2026-04-12).
+- [[hormozi-sell-to-rich]] — Wealth distribution ($163T as $100 → top 1% = $32), 80/20 customer profit, tiered pricing ladder (5–10× per tier), top-down brand positioning, selling from your wallet (2026-04-13).
 
 ### WIT — Wisdom Intelligence Training
 - [[wit-thnk-k36]] — THNK K36: Thấu Hiểu Nội Tâm 21 buổi; tiềm thức, 3 cây nghiệp, 3 điện từ, quy luật chuyển hóa qua yêu thương (2026-04-12).
@@ -197,6 +199,8 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[horizontal-leverage]] — Automating 90% of 10,000 roles beats 100% of 1 role; the economic case for agentic AI.
 - [[claude-cowork]] — The "middle harness" in Claude desktop app; productivity/business task automation via plugins and skills.
 - [[filemaster]] — FileMaster plugin: 4 skills (organize, ingest, search, status) for building persistent AI agent memory.
+- [[prep-the-page]] — Nicholas Cole's framework: segment a blank document into skeleton sections before writing; separates structural decisions from writing.
+- [[the-cliff]] — Nicholas Cole's ending technique: stop after the last main point, no conclusion; drives content binges through controlled suspension.
 - [[six-levels-compensation]] — 6 structures for compensation ranked by risk borne; practical path from W2 to monopoly.
 - [[inversion-method]] — Identify failure modes first, then flip to win; brain is better at finding problems than solutions.
 - [[operationalize-traits]] — Break abstract traits into observable, teachable behaviors; the mechanics of learning.
@@ -270,6 +274,11 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[first-party-data-principle]] — Own experimental results > third-party advice; consume reactively to solve active problems only.
 - [[repeat-successful-actions]] — When something works, keep doing it until it actually stops; don't stop from fear or boredom.
 - [[skool-native]] — Creator whose primary platform is Skool; wins without off-platform audience; Goose as canonical example.
+- [[power-law-wealth]] — US wealth: top 1% holds $32 of $100; 80/20 applies recursively to customers (1% → 51% of profit); go where the money is.
+- [[tiered-pricing-model]] — 5–10× per tier, ~20% uptake; each tier should double revenue; absolute profit math; Hormozi's Acquisition.com ladder.
+- [[top-down-brand-positioning]] — Start premium, anchor high, work down (Tesla model); reverse (budget→luxury) doesn't work; top customers are less demanding per dollar.
+- [[selling-from-wallet]] — Projecting your own price sensitivity onto prospects; the psychological block behind underpricing; Hormozi's $6K→$60K-in-a-morning story.
+- [[rich-vs-poor-buyer-mindset]] — Poor think cost; rich think ROI; rich shop high-to-low; they want fast/easy/guaranteed, not cheap.
 
 ### WIT Concepts
 - [[subconscious-and-consciousness]] — Tiềm thức & Tâm thức: khu vườn tiềm thức, 3 tầng tri thức nhân loại, cơ chế huân tập.

@@ -2,9 +2,10 @@
 title: "Nicholas Cole"
 type: entity
 created: 2026-04-10
-updated: 2026-04-10
+updated: 2026-04-12
 sources:
   - "[[ship30-cowork-bootcamp-s1]]"
+  - "[[cole-prep-the-page]]"
 tags:
   - person
   - writing
@@ -36,6 +37,13 @@ Co-founder of [[ship-30-for-30]] and AI Writing School. Runs a portfolio of 8-fi
 
 ---
 
+## Writing Frameworks
+
+- [[prep-the-page]] — Core technique: segment the document into sections before writing to eliminate cognitive overload and writer's block
+- [[the-cliff]] — Ending technique: stop after the last main point; no conclusion needed if nothing new to say
+
+---
+
 ## References
 
 - [[ship-30-for-30]]
@@ -43,3 +51,4 @@ Co-founder of [[ship-30-for-30]] and AI Writing School. Runs a portfolio of 8-fi
 - [[mitch-harris]]
 - [[ship30-cowork-bootcamp-s1]]
 - [[claude-cowork]]
+- [[cole-prep-the-page]]

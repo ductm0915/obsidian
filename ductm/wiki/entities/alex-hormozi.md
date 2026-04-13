@@ -2,7 +2,7 @@
 title: "Alex Hormozi"
 type: entity
 created: 2026-04-08
-updated: 2026-04-11
+updated: 2026-04-13
 tags: ["entrepreneur", "sales", "go-to-market", "offers", "branding"]
 ---
 
@@ -32,6 +32,7 @@ Alex Hormozi is an entrepreneur and author known for building and scaling busine
 - Published 13-tactic retention system for recurring revenue; churn cohort model in [[retention-framework]].
 - Emphasizes [[value-per-second]] as the right metric for both product design and content strategy.
 - First brand deal: investment in [[skool-platform]].
+- **Wealth & pricing**: Argues most entrepreneurs stay poor by selling to poor people. Quantified US wealth distribution ($163T as $100 → top 1% holds $32) to ground the [[power-law-wealth]] business case. Advocates [[tiered-pricing-model]] (5–10× per tier, 20% uptake) and [[top-down-brand-positioning]] (start premium, anchor high). Coined [[selling-from-wallet]] as the core psychological barrier to high-ticket pricing. Articulates [[rich-vs-poor-buyer-mindset]]: rich buyers think ROI/ratio, not cost; they shop high-to-low; they want fast, easy, guaranteed.
 - **Storytelling & writing**: Wrote $100M Offers (~1,000 hours); 200K+ copies sold with no publisher, no ads, no pre-existing audience. Key frameworks: [[story-elements-framework]], [[seven-factors-newsworthiness]], [[stakes-and-struggle]], [[hemingway-editing]]. Edits to 3rd grade language; uses [[hemingway-editing]] process (self → 4–8 ideal readers → grammar editor). $100M Leads took 8 full drafts (600 pages → 200 pages).
 - Partner: [[leila-hormozi]] (co-founder Acquisition.com).
 
@@ -64,3 +65,4 @@ Alex Hormozi is an entrepreneur and author known for building and scaling busine
 - [[hormozi-millionaire-blueprint-2024]]
 - [[hormozi-mathematics-business]]
 - [[hormozi-bestseller-writing]]
+- [[hormozi-sell-to-rich]]

@@ -11,10 +11,14 @@
             "id": "c77c06758b044271",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "raw/articles/Alex Hormozi/If I Wanted to Create a Business That Runs Itself, Here's What I'd Do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "If I Wanted to Create a Business That Runs Itself, Here's What I'd Do"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pricing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,6 +185,24 @@
   },
   "active": "c77c06758b044271",
   "lastOpenFiles": [
+    "raw/articles/Alex Hormozi/Why you aren't making as much money as you want.md",
+    "raw/articles/Alex Hormozi/If I Wanted to Create a Business That Runs Itself, Here's What I'd Do.md",
+    "wiki/concepts/rich-vs-poor-buyer-mindset.md",
+    "wiki/concepts/selling-from-wallet.md",
+    "wiki/concepts/top-down-brand-positioning.md",
+    "wiki/concepts/tiered-pricing-model.md",
+    "wiki/concepts/power-law-wealth.md",
+    "wiki/sources/hormozi-sell-to-rich.md",
+    "Cong-Thuc-Tao-Cong-Dong-Chi-Tiet.md",
+    "Why you aren't making as much money as you want.md",
+    "raw/articles/1 Simple Exercise To Defeat Writer’s Block Forever.md",
+    "wiki/concepts/the-cliff.md",
+    "wiki/concepts/prep-the-page.md",
+    "wiki/sources/cole-prep-the-page.md",
+    "wiki/concepts/learning-intelligence-confidence.md",
+    "wiki/concepts/frustration-tolerance.md",
+    "wiki/concepts/effect-horizon.md",
+    "wiki/concepts/long-term-thinking.md",
     "wiki/concepts/full-stack-mind.md",
     "wiki/topics/inner-life.md",
     "ltv-cac-ratio.md",
@@ -190,24 +211,6 @@
     "wiki/concepts/scale-mess-debt.md",
     "wiki/concepts/rule-of-100.md",
     "wiki/concepts/more-better-new.md",
-    "wiki/concepts/four-hour-workday.md",
-    "wiki/concepts/aaa-method.md",
-    "wiki/concepts/15-khai-niem-nguon.md",
-    "wiki/concepts/9-dang-nguoi.md",
-    "wiki/concepts/7-bo-thi.md",
-    "wiki/sources/hormozi-watch-get-ahead-2026.md",
-    "wiki/sources/hormozi-13-years-marketing.md",
-    "wiki/concepts/close-rate-pricing-ladder.md",
-    "wiki/sources/hormozi-6-levels-making-money.md",
-    "wiki/concepts/conviction-framework.md",
-    "wiki/concepts/eye-of-sauron-method.md",
-    "wiki/sources/llm-wiki-karpathy.md",
-    "wiki/entities/vannevar-bush.md",
-    "wiki/concepts/memex.md",
-    "wiki/concepts/ltv-cac-ratio.md",
-    "wiki/concepts/ltv-to-cac.md",
-    "wiki/sources/wit-k07-quy-luat.md",
-    "wiki/concepts/five-line-story-framework.md",
     "raw/articles/WIT/_ocr_temp/nhan_thuc/BUỔI 21 - NGÀY 23.06.2025_NHẬN THỨC VỀ CON NGƯỜI_p52.png",
     "raw/articles/WIT/_ocr_temp/nhan_thuc/BUỔI 21 - NGÀY 23.06.2025_NHẬN THỨC VỀ CON NGƯỜI_p51.png",
     "raw/articles/WIT/_ocr_temp/nhan_thuc/BUỔI 21 - NGÀY 23.06.2025_NHẬN THỨC VỀ CON NGƯỜI_p50.png",

@@ -7,7 +7,6 @@ sources:
   - "[[hormozi-how-to-win]]"
 tags: ["learning", "performance", "mindset", "skills", "training"]
 ---
-
 # Learning, Intelligence, and Confidence — Hormozi Framework
 
 ## Three Definitions
