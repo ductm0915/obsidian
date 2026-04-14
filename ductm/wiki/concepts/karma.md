@@ -4,7 +4,6 @@ type: concept
 created: 2026-04-14
 tags: [vipassana, buddhism, karma, wit, inner-life, cause-effect]
 ---
-
 # Karma (Kamma in Pāli)
 
 **Karma** (Sanskrit) or **Kamma** (Pāli) is the law of cause and effect as applied to intentional actions — the principle that every volitional action (mental, verbal, or physical) generates a corresponding result (fruit/vipāka).
