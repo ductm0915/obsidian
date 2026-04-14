@@ -1,0 +1,390 @@
+---
+title: "Social Media Mastery"
+created: 2024-03-26 11:19:27
+updated: 2025-01-19 18:02:12
+---
+  * Outline khoá
+    * Overview (câu hỏi)
+      * The 0-1M sub Framework (câu hỏi)
+        * Nội dung (câu hỏi)
+          * **Step 1: Get Going**
+            * At step 1, your only objective is to get started with your creative side-hustle. It doesn’t matter how bad you are to begin with, you just need to create content and get yourself out there. Just choose a platform (YouTube, Twitter, Twitch, a blogging site, etc.) and start creating stuff.
+          * **Step 2: Get Good**
+            * At step 2, the objective is to get good at our creative thing, whether that’s making YouTube videos, writing blog posts, or recording podcasts. The way we do this is by first focusing on increasing the *quantity* of whatever it is we’re creating, as the more content we create the better we’ll naturally get at what we’re doing (i.e. our *quality* increases too). Over time, we can begin focusing more heavily on the quality, but only once we’ve had a certain level of output already.
+          * **Step 3: Get Smart**
+            * At step 3, we’ve probably made the decision that we want to treat our creativity more like a *business* than a hobby. So, the objective here is to understand and optimise our creative side-hustle by looking at the principles and tools that help businesses to grow, generate money, and build scalable teams. This is what it means to be a creatorpreneur and what we’re going to teach you in this course.
+          * ![[Roam/caocaogram-2026-04-14-10-44-40/Attachments/imgs/app/caocaogram/arKXb0jzvc.png]]
+        * Bài tập (câu hỏi)
+          * ### Have you started creating content yet? If not, why?
+            * Bạn bắt đầu làm nội dung chưa? Nếu chưa, vì sao?
+          * ### Do you actually enjoy being a creator? If not, why don’t you stop?
+            * Bạn có thực sự muốn trở thành người sáng tạo nội dung? Nếu không, tại sao bạn dừng lại?
+          * ### If you enjoy it, do you want to be a ‘casual’ content creator or a ‘serious’ content creator?
+            * Bạn muốn là một creator bình thường hay rất nghiêm túc?
+            * Bạn dự định tạo nội dung mới bao lâu một lần? Bạn có thể dành bao nhiêu thời gian cho việc sáng tạo nội dung?
+            * 🤔 Think about: How often do you plan to create new content? How much time can you dedicate to content creation?
+          * ### Do you want to treat your creativity more like a ‘hobby’ or a ‘business’? Where would you place yourself on the hobby-business spectrum below?
+            * Bạn muốn coi khả năng sáng tạo của mình giống như một 'sở thích' hay một 'công việc kinh doanh'? Bạn sẽ đặt mình ở vị trí nào trong phạm vi sở thích-kinh doanh dưới đây?
+          * ![[Roam/caocaogram-2026-04-14-10-44-40/Attachments/imgs/app/caocaogram/5nAu8kIkn-.png]]
+      * Your A - B (câu hỏi)
+        * Nội dung (câu hỏi)
+          * **Solopreneur** 
+            * a solopreneur is someone who’s happy to run their creative business alone and is happy to take their time to scale up their cashflow. Building a team doesn’t really interest the solopreneur. E.g. [Jack Edwards](https://www.youtube.com/channel/UCBj244LMgn9I1JfPNeLMyew).
+          * **Lifestyle Business** 
+            * someone who wants a lifestyle business is keen to make money and build a team while continuing to maximise fun, freedom, and flexibility. E.g. [MrWhoseTheBoss](https://www.youtube.com/c/Mrwhosetheboss).
+          * **Performance Business** 
+            * someone who wants a performance business live and breathe their creative side hustle. They’re willing to work 50+ hours a week, build a huge team, and often have a bold mission. E.g. [Mr Beast](https://www.youtube.com/c/MrBeast6000).
+          * ![[Roam/caocaogram-2026-04-14-10-44-40/Attachments/imgs/app/caocaogram/aqnPaKQd5l.png]]
+        * Bài tập (câu hỏi)
+          * ### Where would you place yourself on ‘The Creatorpreneur Spectrum’? Do you want to be a solopreneur, run a lifestyle business, or run a performance business?
+            * Bạn sẽ đặt mình ở vị trí nào trên 'The Creatorpreneur Spectrum'? Bạn muốn trở thành một nhà kinh doanh solo, điều hành một doanh nghiệp nhỏ xinh hay điều hành một doanh nghiệp lớn?
+              * 🤔 Think about:
+a. Are you more interested in working alone or with a big team? What does your ideal team look like?
+                * Bạn thích làm việc một mình hay với một nhóm lớn hơn? Đội ngũ lý tưởng của bạn trông như thế nào?
+              * b. Would you enjoy managing people? Or are you more interested in being a solo creator?
+                * Bạn có thích quản lý mọi người không? Hay bạn quan tâm hơn đến việc trở thành người sáng tạo solo?
+              * c. What impact are you trying to make with your creative side hustle?
+                * Bạn đang cố gắng tạo ra tác động gì với sự hối hả trong lĩnh vực sáng tạo của mình?
+          * ### Look at your 5 favourite creators. Where would you place them on ‘The Creatorpreneur Spectrum’? What are their business models? Which model sounds best to you?
+            * Nhìn vào 5 người sáng tạo yêu thích của bạn. Bạn sẽ đặt chúng ở đâu trên ‘The Creatorpreneur Spectrum’? Mô hình kinh doanh của họ là gì? Mô hình nào nghe có vẻ tốt nhất với bạn?
+          * ### What is your 3-year dream for your creative business?
+            * Ước mơ 3 năm cho công việc kinh doanh sáng tạo của bạn là gì?
+              * a. How much money are you making? And how are you making this money? Do you want to make millions of dollars or just enough to cover your expenses? Or is it something in-between?
+                * Bạn đang kiếm được bao nhiêu tiền? Và bạn kiếm được số tiền này như thế nào? Bạn muốn kiếm hàng triệu đô la hay chỉ đủ để trang trải chi phí của mình? Hay nó là một cái gì đó ở giữa?
+              * b. How much are you working? Is all your time spend working on this creative business? Or do you have another job too
+                * Bạn đang làm việc bao nhiêu? Bạn có dành toàn bộ thời gian cho công việc kinh doanh sáng tạo này không? Hay bạn cũng có công việc khác?
+              * c. How are you spending your time? What does your ‘ideal ordinary week’ look like? If you need to, open Google Calendar and fill in your ideal ordinary week or use the Notion template below.
+                * Bạn đang sử dụng thời gian của mình như thế nào? 'Tuần bình thường lý tưởng' của bạn trông như thế nào? Nếu bạn cần, hãy mở Lịch Google và điền vào tuần bình thường lý tưởng của bạn hoặc sử dụng mẫu Notion bên dưới
+              * d. How big is your audience?
+                * Khán giả của bạn lớn đến mức nào?
+              * e. What content are you making?
+                * Bạn đang làm nội dung gì?
+              * f. How big is your team? And what do they do?
+                * Đội của bạn lớn đến mức nào? Và họ làm gì?
+
+    * The Ultimate Content System (câu hỏi) [[Aliabdaal]] The Part-Time YouTuber OS
+      * Strategies
+        * Rich In The Niche (câu hỏi)
+          * Nội dung
+            * Hedgehog Concept (câu hỏi)
+              * **What am I deeply passionate about?**
+                * Tôi đam mê điều gì?
+              * **What can I be the best in the world at?**
+                * Tôi giỏi gì?
+              * **What drives my economic engine?**
+                * Mọi người cần gì?
+              * ![[Roam/caocaogram-2026-04-14-10-44-40/Attachments/imgs/app/caocaogram/zpyPWazo0G.png]]
+            * Core Focus (câu hỏi)
+              * Core Focus (from the book [Traction](https://geni.us/M0iQbjR)[ by Gino Wickman](https://geni.us/M0iQbjR)).
+                * **Why does our organisation exist? What’s its purpose, cause, or passion?**
+                  * A clear purpose, cause, or passion is short, simple, bold, comes from the heart, isn’t all about money, and it’s bigger than a goal. For example, for my company it’s “to help people live their best lives” lol.
+                * **What’s the niche?**
+                  * It’s may seem a bit odd that this is the second question, given this is exactly what we’re trying to answer. But, ‘niche’ here is more about answer *how* are you achieving your purpose? For example, for my company it’s “by creating inspiring, educational content”.
+                * Now if we combine our answers to question 1 and question 2 we should have our Core Focus (e.g. “we help people live their best life, through inspiring and educational content”). In other words, we’ve found the niche for our creative content.
+
+            * The House Model (câu hỏi)
+              * **The Foundation** → the foundation of a house almost never changes. In the same way, the ‘why’ or the purpose behind whatever it is we’re doing should also never change. For example, Apple have always marked themselves as “thinking differently”, despite huge changes to their company in the past few decades.
+                * Nền móng của một ngôi nhà hầu như không bao giờ thay đổi. Tương tự như vậy, câu hỏi tại sao hoặc mục đích đằng sau bất cứ điều gì chúng ta đang làm cũng không bao giờ thay đổi. 
+                * Ví dụ, Apple luôn tự đánh giá mình là người “suy nghĩ khác biệt”, bất chấp những thay đổi lớn đối với công ty của họ trong vài thập kỷ qua.
+              * **The House** → the house itself rarely changes form, but it’s not completely unusual for a house to get an extension or renovation. Similarly, ‘how’ we achieve our ‘why’ can change, but it’s not something we want to do too often. For example, Apple’s product ranges (the laptops, phones, iPads, and watches) is *how* they achieve their *why*. Those product ranges aren’t constantly changing as those are the things their customers expect.
+                * Bản thân ngôi nhà hiếm khi thay đổi hình thức, nhưng việc một ngôi nhà được mở rộng hoặc cải tạo không phải là điều hoàn toàn bất thường. Tương tự như vậy, “làm thế nào” chúng ta đạt được “tại sao” có thể thay đổi, nhưng đó không phải là điều chúng ta muốn làm quá thường xuyên. 
+                * Ví dụ: các dòng sản phẩm của Apple (máy tính xách tay, điện thoại, iPad và đồng hồ) là *làm thế nào* họ đạt được *lý do*. Những dòng sản phẩm đó không thay đổi liên tục vì đó là những điều khách hàng mong đợi
+              * **The Furniture** → finally, the furniture in a house may not change every day, but it’s not too much stress to add or remove furniture whenever we want. Likewise, when we’re figruing out ‘what’ to create or do, we’re pretty flexible as to the approach we take as long as we’re pretty aligned with the ‘how’ and the ‘why’.  For example, Apple will release new products a few times a year, but they’re almost always aligned with their existing product ranges.
+                * Cuối cùng, đồ đạc trong nhà có thể không thay đổi hàng ngày, nhưng việc thêm hoặc bớt đồ đạc bất cứ khi nào chúng ta muốn cũng không quá căng thẳng. Tương tự như vậy, khi chúng tôi tìm ra 'cái gì' để tạo hoặc làm, chúng tôi khá linh hoạt về cách tiếp cận mà chúng tôi thực hiện miễn là chúng tôi khá phù hợp với 'làm thế nào' và 'tại sao'. 
+                * Ví dụ: Apple sẽ phát hành sản phẩm mới vài lần trong năm nhưng chúng hầu như luôn phù hợp với dòng sản phẩm hiện có của họ.
+          * Bài tập
+            * Hedgehog Concept (câu hỏi)
+              * Tôi đam mê điều gì?
+                * Tôi đam mê điều gì?
+                  * Những gì khiến tôi mất thời gian?
+                  * Những gì tôi có thể nói hằng giờ?
+                  * Những gì tôi làm và say mê như một đứa trẻ?
+                  * Nếu được đảm bảo về mặt tài chính, tôi sẽ làm gì với thời gian của mình?
+              * Tôi có khả năng trở thành người giỏi nhất thế giới ở lĩnh vực nào?
+                * Bạn có khả năng trở thành người giỏi nhất thế giới ở lĩnh vực nào?
+                  * Đâu là kỹ năng tôi có?
+                  * Đâu là tài năng tôi có?
+                  * Mọi người thường nói tôi giỏi về?
+                  * Nếu ai đó viết tiểu sử về tôi, họ sẽ nêu ra những thành tựu gì?
+              * Điều gì khiến mọi người trả tiền?
+                * Điều gì khiến mọi người trả tiền?
+                  * Tôi có những kỹ năng nào (hoặc sự kết hợp của các kỹ năng) có thể giúp mình kiếm tiền?
+                  * Ai sẽ trả tiền cho tôi?
+                  * Họ có thể trả bao nhiêu?
+              * Sự trùng lặp giữa các câu trả lời cho ba câu hỏi này (tức là khái niệm con nhím của bạn) là gì?
+            * Core Focus (câu hỏi)
+              * Tại sao doanh nghiệp của tôi tồn tại? Mục đích, tầm nhìn sứ mệnh là gì?
+              * Tôi đạt được mục đích này bằng cách nào?
+            * The House Model (câu hỏi)
+              * Tại sao tôi đang làm việc này? Mục đích là gì?
+              * Làm thế nào tôi đạt được mục đích?
+              * Đâu là những bước cụ thể nào để đạt được mục đích này?
+              * Hãy xem những người sáng tạo yêu thích của mình, đánh giá họ bằng: Hedgehog Concept, Core  Focus hoặc The House Model để trả lời câu hỏi này.
+          * Tư liệu
+            * **Books**
+              * *[Traction* by Gino Wickman](https://geni.us/M0iQbjR)
+              * *[Start With Why* by Simon Sinek](https://geni.us/dQEVlGP)
+              * *[Good to Great* by Jim Collins](https://geni.us/OPqs2)
+            * **Videos**
+              * [Think Different - Apple Commercial](https://www.youtube.com/watch?v=5sMBhDv4sik)
+        * Ideal Audience (câu hỏi)
+          * Nội dung 
+            * Target Persona (dịch tiếng Việt)
+              * *Name: *
+              * Do they have a side hustle?
+              * Relationship status
+              * Do they have children?
+              * What hobbies do they have, if any?
+              * Where do they live?
+              * What stresses them out?
+              * What do they want out of life?
+              * What motivates them?
+              * Would they say life is “going ok” or “not going great” or “amazing.”
+              * What political or social issues activate them, if any? Do they volunteer?
+              * What is their family background?
+              * How do they identify racially, ethnically, nationally? What is their gender identity? Are they religious, spiritual?
+              * What communities are they part of? (Churches, book clubs, Discords/Slacks, sections of Twitter, etc)
+              * What kind of media do they consume? (Favorite magazines, news sites, TV shows, books)
+              * What are their most closely held values?
+              * What is something they’re struggling with right now?
+              * Can I help them with this struggle? (What could I do to help make their life easier?)
+              * How much do they know about what I want to write about?
+              * Where do they learn about this subject? (At work, or reading what periodicals, or participating in what communities?)
+              * How much does my subject I write about affect their life?
+              * What is their biggest pain point when it comes to my subject?
+              * What are their attitudes toward the things I want to write about?
+          * Bài tập
+            * Hoàn thiện bảng trên
+              * Lưu ý
+                * Mô tả chi tiết về chân dung khán giả lý tưởng mục tiêu của bạn, càng cụ thể càng tốt.
+            * Bây giờ hãy tóm tắt biểu đồ thành một đoạn mô tả gồm hai đoạn.
+            * Bạn nghĩ gì về họ, hãy viết xuống.
+          * Tài liệu
+            * [Template: My Target Audience](/ab27752961de40128921e06181ace72b) (dịch tiếng Việt)
+        * Modeling (câu hỏi)
+          * Nội dung (dịch tiếng Việt)
+            * **Identify our top competitors**
+              * Search across your creative platform (e.g. YouTube, Instagram, TikTok) for other creators successfully creating content in your planned niche.
+            * **Understand their strengths and weaknesses**
+              * Look at the content they are creating and not creating. Analyse their general content strategy, the cibe they’re giving off, the size of their audience, and their unique selling proposition (USP).
+            * **Map their journey**
+              * Analyse how each creator got to where they are today. In particular, try to find out how and when they started their creative journey and what content impacted their grow (both positively and negatively). I recommend using [socialblade.com](http://socialblade.com/) to get some of this information.
+            * **Analyse their presence**
+              * There’s probably going to be one main place each of our competitors sits on the internet (YouTube, Twitch, Twitter, etc.), but they’ll likely have some sort of presence on a bunch of other platforms and websites. Check these out and analyse what works well and what works less well for them on each of these platforms.
+            * **Study their products/services**
+              * Ultimately, we’re trying to make money. So, check out what stuff they’re selling or advertising and how much they’re selling those things for.
+            * ![[Roam/caocaogram-2026-04-14-10-44-40/Attachments/imgs/app/caocaogram/TfiJUKfgrg.png]]
+          * Bài tập
+            * Lập danh sách ít nhất 5 đối thủ cạnh tranh đang tạo nội dung trong lĩnh vực của bạn
+            * Hoàn thành phân tích đối thủ cạnh tranh cho từng đối thủ cạnh tranh đó.
+              * Here’s a template to help you complete your first one: [Competitor Analysis Template](https://www.notion.so/8d16e1c432e94199bc13410670e368db?pvs=21) (dịch tiếng Việt)
+          * Tài nguyên
+            * **Notion Templates**
+              * [Template: Competitor Analysis](https://www.notion.so/8d16e1c432e94199bc13410670e368db?pvs=21) (dịch tiếng Việt)
+            * **Websites**
+              * [Social Blade](https://socialblade.com/)
+        * Your UVP (câu hỏi)
+          * Nội dung (dịch tiếng Việt)
+            * **🦸 Unfair Advantage** (câu hỏi)
+              * An Unfair Advantage is a situation, circumstance, or condition that gives us a slight advantage over everyone else. And we can find our unfair advantage using the MILES framework, which gives us a list of 5 different areas where we potentially have an edge over other creator:
+                * **Money** - we’ve got more money.
+                * **Intelligence & Insights** - we’ve got greater book smart, street smarts, or people skills.
+                * **Location & Luck** - we live in an ideal location with plenty of opportunity for serendipity.
+                * **Education & Expertise** - we went to a better university or have better mentors.
+                * **Status** - we’ve got a greater level of influence, power, self-esteem, or confidence.
+            * 🎭 **Creativity** (câu hỏi)
+              * We can also get an edge by being the most creative person in the arena. This isn’t easy, especially when we’re just starting out, which is why it’s often a good idea to begin by *imitating* what other creators are doing before we can find our own unique style.
+              * “Good artists borrow, great artists steal” - Pablo Picasso
+              * The reason this works ie that inevitably, at some point, we’ll realise we can’t actually copy our favourite creators perfectly. Where we fail to copy is exactly where it gets interesting. In those gaps lies our own, unique way of doing things.
+            * 🧑‍💻 **Consistency** (câu hỏi)
+              * As the saying goes ‘content is king’. If we can create content that’s better than everyone else simply because we’ve put more time or energy into it, then we’re going to have an edge over the competition.
+            * 🤪 **Exceptional Authenticity** (câu hỏi)
+              * It’s unhealthy and stressful to think that we need to be ‘better’ than everyone else. Instead, it’s far more liberating to just try to be our *authentic* self, as nobody can compete with you being you. As Peter Thiel says, “competition is for losers”. So, don’t try to be the best, try to be the only.
+            * 🔗 **Killer Combinations** (câu hỏi)
+              * Being the best in our niche isn’t easy, but being the best in *multiple* niches isn’t so difficult. As Naval says, “it’s much easier to be top 5 percentile at three or four things than it is to be literally the number one at something”.
+            * **Primal Branding** (câu hỏi)
+              * The best creators build a community of believers that connect to who they are and what they’re trying to do. To build a ‘primal brand’ we need to clearly define:
+                * **Our values** - what we believe and stand for
+                * **Our rituals** - what repeated experiences are associated with our content e.g. catchphrases + actions
+                * **Our icons & tokens** - what items, objects, quirks, or character traits are uniquely associated with us.
+                * **Our origin story** - how did we get to where we are now and what obstacles did we overcome
+                * **Our language** - what words or phrases do we use
+                * **Our mentors** - who are our mentors and what have we learnt from them
+                * **Our superpowers** - what achievements, accomplishments, or special skills or talents do we possess
+                * **Our pagans / enemies / anti-believers -** identify who and what the brand is *not*
+                * **Our recurring characters** - who are the other people (family, friends, mentors, etc.) that feature frequently in our content
+            * ![[Roam/caocaogram-2026-04-14-10-44-40/Attachments/imgs/app/caocaogram/9Z-XwoCaz9.png]]
+          * Bài tập (câu hỏi)
+            * Đâu là lợi thế cạnh tranh không công bằng của bạn?
+              * Do you make more money than your competition?
+              * Bạn có nhiều tiền hơn?
+              * Bạn có hiểu biết nhiều hơn?
+              * Bạn sống ở nơi lý tưởng để "truy cập" tới những cơ hội?
+              * Bạn học hành ở nơi tốt, thầy tốt hơn?
+              * Bạn có địa vị, ảnh hưởng, quyền lực nào không?
+            * Làm thế nào để phát huy khả năng sáng tạo?
+              * Hãy xem những người sáng tạo bạn yêu thích và tìm ví dụ về tác phẩm của họ mà bạn thích.
+              * Điểm mạnh và điểm yếu trong công việc của họ là gì?
+              * Bạn có thể bắt chước những khía cạnh nào trong công việc của họ để nâng cao chất lượng và tính sáng tạo trong công việc của chính bạn?
+              * Làm cách nào bạn có thể kết hợp các khía cạnh khác nhau của tất cả những người sáng tạo khác nhau này để tạo ra nội dung nào đó mới/sáng tạo/thú vị?
+            * Làm thế nào để sáng tạo nhất quán?
+              * Mỗi ngày bạn dành bao lâu cho công việc sáng tạo của mình?
+              * Làm thế nào bạn có thể dành nhiều thời gian hơn cho công việc sáng tạo của mình? Có thể bạn nên theo dõi thời gian của mình trong tuần tới để có ý tưởng tốt hơn về cách bạn hiện đang sử dụng thời gian.
+            * Làm thế nào tạo sự cá nhân hoá "authentic"?
+              * Ba điều gì mang lại hạnh phúc nhất cho cuộc sống của bạn?
+              * Ba điều bạn thích nhất ở bản thân là gì?
+              * Ba điều bạn muốn thay đổi nhất ở bản thân là gì?
+              * Bạn đang làm gì trong cuộc sống mà bạn không thích?
+              * Năm giá trị cốt lõi nào hướng dẫn bạn trong cuộc sống hàng ngày?
+              * Bạn nghĩ điều gì khiến bạn trở nên độc đáo? Suy nghĩ của bạn? Kinh nghiệm của bạn? Nền tảng của bạn? Tham vọng của bạn? Thứ gì khác?
+              * Hãy nhờ một người bạn mô tả điều khiến bạn trở nên độc đáo. bạn có đồng ý với họ? Tại sao? Tại sao không?
+            * Bạn có thể kết hợp những kỹ năng nào để có được lợi thế cạnh tranh?
+              * Lập danh sách tất cả các kỹ năng và sở thích của bạn.
+              * Làm cách nào bạn có thể kết hợp những kỹ năng và sở thích khác nhau đó để mang đến điều gì đó độc đáo và thú vị cho khán giả của mình?
+              * Sự kết hợp giữa kỹ năng và sở thích nào mà người khác khó có thể bắt chước?
+            * Điều gì làm cho thương hiệu của bạn nổi bật?
+              * Giá trị - Bạn tin vào điều gì? Giá trị của bạn là gì?
+              * Nghi thức - Những trải nghiệm lặp đi lặp lại (tích cực hoặc tiêu cực) mà khán giả nhận được khi tương tác với nội dung bạn là gì?
+              * Biểu tượng - Hình ảnh, mùi vị và âm thanh nào gắn liền với nội dung sáng tạo của bạn?
+              * Câu chuyện nguồn gốc - Sự hay mê sáng tạo nội dung của bạn bắt nguồn từ đâu? Câu chuyện là gì?
+              * Ngôn ngữ - Những từ nào bạn sử dụng nhiều lần?
+              * Người cố vấn - Ai là người cố vấn của bạn và bạn đã học được gì từ họ?
+              * Siêu năng lực - Bạn sở hữu những thành tựu, **thành tích** hoặc kỹ năng hoặc tài năng đặc biệt nào?
+              * Những người chống niềm tin - Nhóm người không (và có thể sẽ không bao giờ) đồng cảm với nội dung của bạn là ai?
+              * Nhân vật lặp lại - Những người khác (gia đình, bạn bè, người cố vấn, v.v.) thường xuyên xuất hiện trong nội dung của bạn là ai?
+          * Tài nguyên
+            * **Notion Templates** (dịch)
+              * [Template: Defining my Brand](https://www.notion.so/Template-Defining-My-Brand-979a9af50b354beb9429bf1362856cad?pvs=21) 
+            * **Books**
+              * *[The Unfair Advantage* by Ash Ali & Hasan Kubba](https://geni.us/7RcjPbj)
+              * *[Steal Like an Artist* by Austin Kleon](https://geni.us/IAWAbOR)
+              * *[The Almanack of Naval Ravikant](https://geni.us/BttoBV)*
+              * *[Primal Branding* by Patrick Hanlon](https://geni.us/gfyw)
+            * **Video**
+              * [Competition is for Losers with Peter Thiel](https://www.youtube.com/watch?v=3Fx5Q8xGU8k)
+        * Content Plan
+          * “In preparing for battle I have always found that plans are useless but planning is indispensable” - Dwight D. Eisenhower
+          * Nội dung
+            * Lên kế hoạch KPI và tracking
+          * Bài tập
+            * Hoàn thiện các mẫu kế hoạch năm, quý
+              * [Template: Yearly + Quarterly Planning](https://www.notion.so/Template-Yearly-Quarterly-Planning-6aadb2ef509f48898800c37998d09f49?pvs=21)
+          * Tư liệu
+            * **Notion Templates** 
+              * [Template: Yearly + Quarterly Planning](https://www.notion.so/Template-Yearly-Quarterly-Planning-6aadb2ef509f48898800c37998d09f49?pvs=21)
+            * **Books**
+            * *[Traction* by Gina Wickman](https://geni.us/M0iQbjR)
+        * Tipping point
+          * Nội dung
+            * **Follow the Data**
+              * If we’re getting feedback from our audience that they want something a certain way or people are checking out our content on one thing over another thing we’re creating, then it may be best to adapt our content to whatever seems to be working best.
+            * **Follow the Money**
+              * Although money shouldn’t be our first priority as a creator, it’s still an important consideration as a ‘creatorpreneur’. If there’s certain content that’s generating more revenue for your creative side-hustle it may be worth doubling-down on that content.
+            * **Follow the Easiest Path**
+              * The ‘principle of least action’ is a physical law of the universe that tells us things happen in the way that requires the least effort. As creators, we should also try to follow this rule. After all, if we can grow faster and earn more by putting in less effort, we’ll find it easier to sustain our side-hustle in the long run.
+            * **Follow Your Heart**
+              * If we’re finding certain parts of our creative business a little boring think about pivoting away from that.
+            * **Follow Your Intuition**
+              * Nobody knows our audience and niche better than we do. If our intuition is telling us something isn’t right with our content or we’re not happy with the direction we’re heading, then it’s probably worth thinking about a pivot.
+            * ![[Roam/caocaogram-2026-04-14-10-44-40/Attachments/imgs/app/caocaogram/_-jTyFXiCO.png]]
+          * Bài tập
+            * Bạn có cảm thấy hạnh phúc với hướng đi hiện tại?
+            * Kênh của bạn sẽ trông như thế nào sau 5/3/10 năm tới? Bạn vẫn hài lòng với hướng đi bận rộn sáng tạo của mình với ý nghĩ đó chứ?
+            * Xem các nhận xét, phản hồi và các thông tin liên lạc khác mà bạn đã có với khán giả của mình. Có bất kỳ phần nào trong hoạt động kinh doanh sáng tạo của bạn mà họ đặc biệt thích thú không?
+            * Có những con đường tiềm năng mang lại nhiều lợi nhuận hơn cho hoạt động kinh doanh sáng tạo của bạn không? Điều này có quan trọng với bạn không?
+            * 20% công việc nào mang lại cho bạn 80% kết quả? Liệu việc tập trung vào 20% đó có giúp công việc sáng tạo của bạn dễ dàng thực hiện hơn và có nhiều khả năng phát triển hơn không?
+            * What does your heart and intuition tell you about the direction of your creative business?
+      * Systematis
+        * Systematis or Shut Up!
+          * ⏱️ **Shortens Lead Time**
+            * The time between thinking of a great idea and creating it is reduced.
+          * ☝ **Increases Throughput**
+            * We can create more stuff within a certain period of time.
+          * ⭕ **Improves Synergy**
+            * It’s easier to see how the various parts of what we do work together, meaning we can produce better results.
+          * 💥 **Enables Optimisation**
+            * Building and tracking a system means we can iterate and improve it.
+        * The Ultimate Content System
+          * Nội dung
+            * **Drawing out the process**
+              * We begin by drawing out the process for our main output. So, if we’re a YouTuber that would probably be video production. Or, if we’re a writer, that might be the blog writing process.
+              * When we’ve identified our main output, we then need to draw some boxes into a flow diagram that represents the process involved. Also try to roughly estimate how much time each step in the process takes.
+              * ![[Roam/caocaogram-2026-04-14-10-44-40/Attachments/imgs/app/caocaogram/8n1vHgTrFw.png]]
+            * **Creating a checklist**
+              * Now we’ve drawn out the process, we need to create a checklist for each step of all the things we need to do to get that thing done. So, for example, in the ‘film’ step of my video production process, my checklist may look as follows
+              * ![[Roam/caocaogram-2026-04-14-10-44-40/Attachments/imgs/app/caocaogram/K-YnzXo98P.png]]
+          * Bài tập
+            * Sản phẩm sáng tạo chính của bạn là gì? Sản xuất video? Viết blog? Tạo podcast? Thứ gì khác?
+            * Đối với nội dung chính của bạn viết ra bạn mất bao nhiêu thời gian để hoàn thành mỗi bước trong quy trình.
+            * Viết ra bạn mất bao nhiêu thời gian để hoàn thành mỗi bước trong quy trình.
+        * Optimise System
+          * Nội dung (dịch tiếng Việt)
+            * ❌ **Eliminate**
+              * It’s unlikely that everything we’re currently doing is strictly necessary to continue producing high quality creative content. If that’s the case, eliminate it.
+            * The way we should think about this is by using the 80/20 rule (or the ‘pareto principle’): find the 20% of what we do that’s delivering 80% of our output/results, and focus our attention on that.
+            * 🧊 **Remove Friction**
+              * Friction is any force or process that removes energy from a system over time. So, if we’ve got any friction in our system everything will slow down or we’ll have to continue putting in more energy/effort to keep it operating at the same speed. But, if we *remove* the friction, we’ll increase the system’s efficiency far more effectively.
+            * ⚙️ **Automate**
+              * Automation refers to a system or process that can operate without our intervention. This is the pinnacle of efficiency, because it means stuff is getting done without us having to be there.
+            * 🤓 **Delegate**
+              * Where possible, we should be hiring people to get them to do work for us so we can focus on the highest leverage work. Don’t worry about this too much for now as we’ll talk about all of this in depth in the OUTFLOW section.
+              * ![[Roam/caocaogram-2026-04-14-10-44-40/Attachments/imgs/app/caocaogram/Wwjv8k_WFo.png]]
+          * Bài tập
+            * Công việc sáng tạo của bạn sẽ như thế nào nếu nó được mô tả là dễ dàng?
+            * Công việc nào bạn hiện đang làm không thực sự cần thiết để tạo ra kết quả/kết quả tương tự cho hoạt động kinh doanh sáng tạo của bạn? Bạn có thể loại bỏ những điều đó không?
+            * 20% nhiệm vụ nào trong hệ thống của bạn mang lại 80% kết quả? Làm cách nào bạn có thể thiết kế lại hệ thống của mình để tập trung vào 20% nhiệm vụ đó?
+            * Bạn có thể tìm thấy rào cản nào trong hệ thống của mình?
+            * Bạn có thể làm gì để thoát khỏi sự khó chịu này và làm cho nó hiệu quả hơn?
+            * Có bất kỳ quy trình nào mà bạn có thể tự động hóa không?
+            * Có công việc nào bạn có thể ủy thác không? Hoặc, ít nhất, có công việc nào bạn muốn giao phó cho thành viên trong team?
+    * Money Machine
+      * Your MVP 
+        * ![[Roam/caocaogram-2026-04-14-10-44-40/Attachments/imgs/app/caocaogram/_xhyuPCTNc.png]]
+      * 10x Value
+        * From Stranger to Fan
+          * Nội dung
+            * From Stranger to Fan
+              * ![[Roam/caocaogram-2026-04-14-10-44-40/Attachments/imgs/app/caocaogram/pVWCKPZYCD.png]]
+              * ![[Roam/caocaogram-2026-04-14-10-44-40/Attachments/imgs/app/caocaogram/jGK9bBwD1V.png]]
+          * Bài tập
+            * Bạn đánh giá nội dung của mình như thế nào trên thang điểm từ 1 đến 10 (với 1 là 'kém' và 10 là 'đặc biệt')? Tại sao?
+            * Bạn có thể thực hiện những thay đổi nào đối với nội dung của mình để cải thiện chất lượng sản phẩm sáng tạo của mình?
+            * Bạn có thường xuyên bán hoặc quảng cáo thứ gì đó cho khán giả của mình không? Bạn đang tập trung vào việc cung cấp giá trị không thể tin được cho khán giả hay bạn chỉ đang cố gắng kiếm tiền?
+        * From Fan to Friend
+          * Nội dung
+            * **Continue delivering value** - just because they’re now on our email list doesn’t mean we want to stop offering as much free value as possible.
+            * **Ask them questions** - use this more engaged audience to ask them what their problems are, what content they want us to create, and brainstorm new product ideas.
+            * **Sell stuff to them** - when we’ve got a product to sell, our email list is a great place to begin promoting it. More on this later.
+            * ![[Roam/caocaogram-2026-04-14-10-44-40/Attachments/imgs/app/caocaogram/uh5karPWao.png]]
+          * Bài tập
+            * Bạn đã có danh sách email chưa? Nếu không, điều gì ngăn cản bạn?
+            * Hãy xem những người sáng tạo yêu thích của bạn, họ có danh sách email không? Nếu vậy, họ có chính sách khuyến khích bạn đăng ký không?
+            * Loại mồi câu nào dẫn nào sẽ hoạt động tốt nhất cho bạn? Một ebook? Một template? Một số loại nội dung độc quyền? Thứ gì khác? Động não một số ý tưởng.
+        * From Friend to Prospect
+          * Nội dung
+            * **The ‘Opt-in’ method** - this is where we send an email to our main email list asking them if they’d be interested in signing up to our other email list.
+            * **The ‘Opt-out’ method** - this is where we send an email to our main email list telling them they’ve be signed up to our other email list, but they can easily opt-out if they’re not interested.
+              * Before using this method, make sure you’re aware of all the existing data protection regulations in your country.
+            * **The Lead Magnet Method** - just like we did with our main email list, we can also use a lead magnet to get people to sign up directly to our prospect list e.g. a 7-day free email course where the final email is a CTA to buy one of your paid courses.
+            * **The Direct to Prospect Method** - finally, we can ask our audience directly on social media to sign up to our other email list e.g. we could post on Instagram something like, "Hey I'm working on a course about YouTube videos. Click here if you want to join the list"
+            * ![[Roam/caocaogram-2026-04-14-10-44-40/Attachments/imgs/app/caocaogram/iNTxZK8wlV.png]]
+          * Bài tập
+            * Tạo danh sách khách hàng tiềm năng bằng các công cụ tiếp thị qua email của bạn (ví dụ: ConvertKit, Mailchimp...).
+            * Sử dụng một trong những phương pháp bạn đã học trong bài học này để thu hút mọi người đăng ký vào danh sách khách hàng tiềm năng của bạn.
+      * Irresistible Offer
+        * What to sell
+          * Nội dung
+            * What to Sell
+              * **The Mass Survey** - we can use our newsletter, a survey or social media to ask our audience what they’d potentially buy from us. Asking our audience about their biggest challenges is a quick and easy way to discover pain points that we can solve by building a product:
+              * **Get on Calls** - set up Zoom, Skype, or telephone calls with our audience and ask them about their thoughts on the various products or services we’re thinking about making. The key is to listen carefully and reframe questions so they’re as open as possible e.g. instead of asking “would you buy a product which did X” ask how they currently solve X and whether they’re happy with that solution
+          * Bài tập
+            * Hãy hỏi khán giả của bạn xem thách thức lớn nhất của họ hiện tại là gì? Nếu bạn nghĩ đến một sản phẩm cụ thể, hãy hỏi họ xem đây có phải là sản phẩm họ sẽ mua từ bạn không.
+            * Hãy liên hệ với một số người đã trả lời câu hỏi trước đó và gọi điện cho họ. Tìm hiểu thêm về những điểm yếu của họ và cách họ hiện đang giải quyết những điểm yếu đó.
+            * Sử dụng tất cả thông tin này, hãy nghĩ đến một sản phẩm/dịch vụ có giá trị đối với khán giả của bạn.
+        * Making Sure People Will Buy From You
+          * Nội dung
+            * Level 1 - create a simple landing page and begin collecting emails from people who may be interested in buying our product.
+            * Level 2 - allow our audience to preorder the product or service we’re planning to create, so we actually start making some money. For example, this exactly what Nat Eliason did before building his course on Roam:
+          * Bài tập
+            * Decide whether you want to gauge interest in your product or service using the method outline in level 1 or in level 2, above.
+            * Begin gathering emails or preorders, using your preferred strategy.

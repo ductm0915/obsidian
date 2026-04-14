@@ -2,9 +2,11 @@
 title: "Vipassana 10-Day Course — Day 10 Discourse (S.N. Goenka)"
 type: source
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-14
 sources:
   - "raw/articles/Vipassana/English/10 Day Vipassana Course - Day 10 (English).md"
+  - "raw/articles/Vipassana/Vietnamese/Khóa thiền Vipassana 10 ngày - Day 10 (Thiền sư Goenka).md"
+language: bilingual
 tags:
   - vipassana
   - meditation
@@ -127,38 +129,83 @@ After 10 days, you are free. But if you choose Vipassana:
 
 ---
 
-## Bản gốc tiếng Việt (Trích đoạn quan trọng)
+## Tóm tắt tiếng Việt
 
-> *Các đoạn trích dưới đây được lấy trực tiếp từ bản ghi âm bài giảng của thiền sư S.N. Goenka — Ngày 10.*
+### Tổng quan
+
+Ngày 10 là buổi **ôn tập và tốt nghiệp** — Goenka điểm lại toàn bộ 10 ngày thực hành, làm rõ những điểm kỹ thuật quan trọng, và chuẩn bị thiền sinh quay về cuộc sống hàng ngày. Đây là ngày Noble Silence kết thúc — không phải để thiền sâu mà để hấp thụ, chuyển hóa trước khi rời khóa.
+
+Bốn chủ đề lớn của ngày 10:
+1. **Tam Bảo** — ý nghĩa đúng đắn của nương tựa Phật-Pháp-Tăng
+2. **Hai thước đo tiến bộ** — phục vụ người khác và lòng biết ơn
+3. **Tại sao Sīla là bắt buộc** — logic, không phải giáo điều
+4. **Tại sao không tụng niệm, không hình dung** — giải thích kỹ thuật
+
+### Tam Bảo — Hiểu đúng hơn hiểu sai
+
+> *"Tâm ma dì không phải thăm ma trong kinh điển không phải thăm ma quý vị nghe từ vị thầy. Thăm ma mà quý vị tự thực hành — Đây mới chính là Tama cho quý vị."*
+
+Goenka làm rõ: nương tựa Tam Bảo không phải là cải đạo hay chuyển từ tôn giáo này sang tôn giáo khác. Đức Phật không muốn thêm người tự xưng là Phật tử — Ngài muốn mọi người **thực hành** Sīla-Samādhi-Paññā, dù thuộc bất cứ truyền thống nào.
+
+> *"Atta dīpa — tự Nương tựa vào chính mình. Atta saraṇa — tự tạo ốc đảo cho riêng mình. Hãy phát triển Dhamma này trong chính mình."*
+
+Trong Tam Bảo, **Pháp (Dhamma) là quan trọng nhất** — cụ thể là Dhamma mà mỗi người tự thực hành trong bản thân, không phải Dhamma từ kinh sách hay nghe từ thầy.
+
+### Hai Thước Đo Tiến Bộ Thực Sự
+
+Nếu hai phẩm chất này không phát triển, người đó chỉ đang chơi trò chơi trí thức hoặc sùng tín — không liên quan gì đến Dhamma thực sự:
+
+**Phẩm chất 1 — Mong muốn phục vụ người khác không điều kiện:**
+> *"Chỉ cống hiến thôi, chỉ san sẻ những gì đã chứng nghiệm được. Người ta cảm thấy muốn phục vụ người khác, phân phát thăm ma đến cho người khác."*
+
+Nếu vẫn còn ích kỷ ("giải thoát cho tôi, người khác có dính dáng gì đến tôi") — sự thanh lọc tâm vẫn chưa thực sự bắt đầu. Bản ngã chưa bắt đầu tan biến.
+
+**Phẩm chất 2 — Lòng biết ơn:**
+> *"Phát triển lòng biết ơn rất quan trọng — ngay cả khi nhận được điều nhỏ bé từ ai đó, phải có lòng biết ơn."*
+
+Biết ơn Đức Phật không phải vì sùng bái con người của Ngài, mà vì món quà Dhamma. Biết ơn cả dòng truyền thừa các thiền sư đã bảo tồn phương pháp trong sự tinh khiết nguyên thủy suốt 25 thế kỷ.
+
+### Sīla — Điều Kiện Logic, Không Phải Giáo Điều
+
+> *"Bất cứ khi nào quý vị phạm một giới, quý vị phải phát sinh rất nhiều bất tịnh trong tâm. Khi giết hại, quý vị phải phát sinh sự giận dữ thù hận trước đã. Khi trộm cắp, quý vị phải phát sinh lòng tham lam trước đã. Quý vị đến đây để thực tập cách thanh lọc tâm. Nếu quý vị cứ tiếp tục làm ô uế tâm — làm sao quý vị có thể tiến bộ?"*
+
+Vào thời Đức Phật có 6 vị thiền sư nổi danh — chỉ có một người (ngoài Đức Phật) yêu cầu Sīla. Những người còn lại nói: "Bạn có thể phạm giới và vẫn được giải thoát." Họ chiều theo thân chủ. Nhưng đây là Dhamma bị ô nhiễm — không thể mang lại lợi ích thực sự.
+
+### Mười Pāramī (Mười Phẩm Hạnh)
+
+Để trở thành Sammā Sambuddha (bậc Chánh Đẳng Chánh Giác — hoàn toàn giải thoát và có thể phục vụ người khác), cần phát triển **10 pāramī** với số lượng khổng lồ qua vô lượng kiếp:
+
+| Pali | Tiếng Việt | Nghĩa |
+|------|-----------|-------|
+| Dāna | Thí | Bố thí, rộng lượng |
+| Sīla | Giới | Đạo đức, giữ giới |
+| Nekkhamma | Xuất ly | Từ bỏ, buông xả |
+| Paññā | Tuệ | Trí tuệ |
+| Viriya | Tinh tấn | Năng lượng, nỗ lực |
+| Khanti | Nhẫn | Kiên nhẫn, chịu đựng |
+| Sacca | Chân thật | Trung thực |
+| Adhiṭṭhāna | Quyết định | Quyết tâm, kiên định |
+| Mettā | Từ | Tâm từ, yêu thương |
+| Upekkhā | Xả | Tâm xả, bình thản |
+
+Để giải thoát cho cá nhân, cần phát triển các pāramī này với **số lượng ít hơn**. Để trở thành bậc Chánh Đẳng Chánh Giác phục vụ chúng sinh, cần **số lượng rất lớn** qua rất nhiều kiếp.
+
+### Dhamma Là Phổ Quát — Luật Tự Nhiên Chung Cho Tất Cả
+
+> *"Thăm ma là chung cho tất cả bởi vì chứng bệnh của chúng ta là chứng bệnh chung cho tất cả. Khi tâm trở thành bất tịnh ô nhiễm, ta cảm thấy khổ sở. Khổ đau này không dành riêng cho một giáo phái nào, một cộng đồng nào, một xứ sở nào hay một giới tính nào. Bệnh là bệnh phổ quát. Cho nên phương thuốc chữa trị cũng phải phổ quát chung cho tất cả."*
+
+Luật tự nhiên (Sanātana — Trường Cửu): có Phật hay không có Phật, luật này vẫn luôn có đó. Khi phát sinh tham sân si, bị trừng phạt ngay lập tức. Khi sống thuận theo luật, được tưởng thưởng ngay lập tức.
+
+### Duy Trì Sự Tinh Khiết Của Kỹ Thuật
+
+Sau 10 ngày, quý vị là chủ nhân của chính mình. Nếu chọn Vipassana:
+- Không trộn lẫn với bất cứ kỹ thuật nào khác
+- Chỉ làm việc với **cảm giác tự nhiên** — không thực tại được sáng tạo, không áp đặt
+- Duy trì qua **ngồi thiền buổi sáng và buổi tối hàng ngày**
+- Khi phiền não nổi lên trong cuộc sống — **quan sát hơi thở và cảm giác** thay vì đè nén hoặc bộc phát
+
+> *"Trong Vipassana, mọi sự hình dung đều bị cấm, mọi sự tụng niệm đều bị cấm, mọi sự tưởng tượng đều bị cấm. Ta quan sát hơi thở tự nhiên không ngừng biểu hiện — tất cả chỉ có thế thôi."*
 
 ---
 
-### Dhamma là phổ quát — Không thuộc giáo phái
-
-> "Thăm ma là chung cho tất cả bởi vì chứng bệnh của chúng ta là chứng bệnh chung cho tất cả. Khi tâm trở thành bất tịnh ô nhiễm, ta cảm thấy khổ sở. Khổ đau này không dành riêng cho một giáo phái nào, một cộng đồng nào, một xứ sở nào hay một giới tính nào. Bệnh là bệnh phổ quát. Cho nên phương thuốc chữa trị cũng phải phổ quát chung cho tất cả."
-
-**Ý nghĩa sư phạm:** Tuyên bố then chốt về tính phổ quát của Dhamma — Vipassana không phải là tôn giáo mà là luật tự nhiên, áp dụng cho tất cả mọi người.
-
----
-
-### Hai thước đo tiến bộ trên con đường Dhamma
-
-> "Hai phẩm chất bắt đầu phát triển nếu người ta thực hành đúng đắn. Phẩm chất thứ nhất: người ta cảm thấy cần phải phục vụ người khác mà không mong đợi được đền đáp. Phẩm chất thứ hai: phát triển lòng biết ơn — biết ơn những người đã bảo tồn phương pháp thiền này trong sự tinh khiết nguyên thủy."
-
-**Ý nghĩa sư phạm:** Goenka đưa ra hai KPI cụ thể để tự kiểm tra xem mình có thực sự tiến bộ hay không — phục vụ vô điều kiện và lòng biết ơn là bằng chứng của sự thanh lọc tâm.
-
----
-
-### Tự nương tựa vào chính mình
-
-> "Atta dīpa — tự Nương tựa vào chính mình. Atta saraṇa — tự tạo ốc đảo cho riêng mình. Hãy phát triển Dhamma này trong chính mình. Rồi Dhamma quý vị đã phát triển trong bản thân sẽ trở thành nơi nương tựa thực sự. Ngoài ra không còn chỗ nương tựa nào khác."
-
-**Ý nghĩa sư phạm:** Lời dặn dò cuối cùng và quan trọng nhất — không có ai, không có tổ chức, không có thần linh nào có thể giải thoát cho chúng ta. Chỉ có Dhamma mình tự phát triển mới là nơi nương tựa thực sự.
-
----
-
-### Sīla là nền tảng không thể thiếu
-
-> "Bất cứ khi nào quý vị phạm một giới, quý vị phải phát sinh rất nhiều bất tịnh trong tâm. Khi giết hại, quý vị phải phát sinh sự giận dữ thù hận trước đã. Khi trộm cắp, quý vị phải phát sinh lòng tham lam trước đã. Quý vị đến đây để thực tập cách thanh lọc tâm. Nếu quý vị cứ tiếp tục làm ô uế tâm — làm sao quý vị có thể tiến bộ?"
-
-**Ý nghĩa sư phạm:** Lý giải tại sao Sīla là điều kiện tiên quyết — không phải vì giáo điều mà vì logic: phạm giới = tạo bất tịnh mới = đi ngược lại mục tiêu thanh lọc tâm.
+*Bản gốc tiếng Việt từ transcript audio — có một số lỗi nhận dạng giọng nói đã được diễn giải theo ngữ cảnh.*

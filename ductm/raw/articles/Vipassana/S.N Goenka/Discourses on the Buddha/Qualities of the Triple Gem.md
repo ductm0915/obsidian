@@ -1,0 +1,23 @@
+By Mr. S. N. Goenka
+
+**Followers of the Buddha take refuge in the Triple Gem: the Buddha, Dhamma and Sangha. How did the Buddha himself define these three?** Gotama Buddha once defined a Buddha as follows: "A Buddha is one who, having discriminatory knowledge of the entire field of suffering, understands the arising and passing of all miseries, is completely free from mental defilements, is pristinely pure and will not be reborn."
+
+**A Buddha is always known by the following qualities:** He is an exalted one (bhagava) because, having vanquished all craving, aversion and delusion, he lives the life of a liberated person. He is a conqueror of enemies (araham) because he has annihilated all his enemies, in the form of mental impurities. Having become fully enlightened by his own rightful efforts (samma sambuddho), he is a perfectly enlightened being. He is perfect in both wisdom and conduct (vijja-carana-sampanno). He has gone to the ultimate truth (sugato) because he has become pure in body, speech and mind. He is the knower of worlds (loka-vidu) because he understands them through personal experience. He is the unsurpassed charioteer of tameable men (anuttaro purisa-damma-sarathi) He is teacher of gods and men (sattha deva-manussanam). Anyone who acquires these qualities will become a Buddha. And whoever is a Buddha will have these qualities.
+
+**Buddha is not the name of a person, community, or sect. There are many other appellations of Buddha, expressing his qualities, such as:** Lord (bhagava), conqueror (jina), valorous (mahavira), omniscient (sabbannu), truth-discoverer (tathagata), possessor of ten strengths (dasa-bala), one having exhausted all defilements (khinasavo), highly compassionate (maha-karuniko), free from passion (vita-rago), free from aversion (vita-doso), free from delusion (vita-moho), free from craving (vita-tanho), truth-perceiver (sacca-dassi), nibbana-perceiver (nibbana-dassi), Dhamma-bodied (Dhamma-kayo), and many more. All these names signify qualities, characteristics—the nature of Buddha. They are, therefore, universal. There is nothing sectarian about these terms. Such a person teaches Dhamma as follows: This is sila, this is samadhi, this is panna. After sila is perfected, samadhi proves highly beneficial. After samadhi is perfected, panna proves highly beneficial. After panna is perfected, the mind becomes free from all impurities.
+
+**Dhamma taught by a Buddha has the following attributes:**
+
+    It is well-explained (svakkhato).
+
+    It can be experienced in this life (sanditthiko).
+
+    It gives immediate results (akaliko).
+
+    It invites people to come and see (ehi-passiko).
+
+    Every successive step takes one towards the final goal of full liberation (opanayiko).
+
+   It is to be experienced by each person of average intelligence, for oneself (paccattam veditabbo vinnuhiti).
+
+**Dhamma is not sectarian. It is called by several other names:** Eternal dhamma (esa dhammo sanantano); noble eightfold path (ariyo atthangiko maggo); true dhamma (saddhammo); pure dhamma (visuddhi-dhammo); dhamma leading to full liberation (vimutti-dhammo); noble dhamma (ariyo-dhammo); stainless dhamma (sukka dhammo); foremost dhamma (aggo dhammo); ancient dhamma (purano dhammo). The Sangha characterized by the Buddha comprises those who, practicing Dhamma according to his teachings, have become stream-enterer, once-returner, non-returner or fully enlightened ones. This is not an assembly of ordinary people. Like Buddha and Dhamma, Sangha is characterized by universal qualities such as: Being worthy of invitation (ahuneyyo); worthy of hospitality (pahuneyyo); worthy of offerings (dakkhineyyo); worthy to be saluted with folded hands (anjali-karaniyo); field of merit par excellence (anuttaram punna-kkhettam); temperate, tranquil (danto, santo); free from passion, spotless (virajo, vimalo); composed, not diffused (nippapanco). When we take refuge in the Triple Gem, when we honour Buddha, Dhamma and Sangha, let us remember their qualities, and work diligently to develop these very qualities ourselves.

@@ -1,0 +1,144 @@
+**_(__This address by S. N. Goenka was delivered at the United Nations on the occasion of Vesakha, the full moon day of May, which is celebrated each year as the day marking the birth, the enlightenment and the passing away of Gotama the Buddha. In 2002, Goenkaji was touring North America during the month of Vesakha, teaching Dhamma and giving public addresses in 35 cities over a period of nearly four months.)_**
+
+Venerable monks and peace-loving friends:
+
+I thank the United Nations and the organizers of this magnificent _Vesakha_ celebration, especially the Myanmar and Sri Lankan delegations, for the opportunity offered to me to address this distinguished gathering. 
+
+One feels so sorry when one looks at what is happening in the world. Man has become the enemy of man. There is no personal enmity; people are being killed only because they belong to a particular sect or community, a particular ethnic group or country. Such is the level of cruelty that a person kills other human beings even if they are innocent, even if they are helpless women and children. Modern technology makes this tragic violence terrifyingly devastating-perhaps worse than ever before in human history. Therefore, more than ever before, a basic change is needed today to protect humanity from these inhuman, heinous crimes arising out of negative emotions. 
+
+The world is afflicted with the malady of hatred, anxiety and fear. It needs a remedy from an extraordinary physician. The Buddha was such an extraordinary physician, a great physician of peace and happiness. His teaching of peace and harmony is as relevant today as it was twenty-six centuries back, when he set in motion the Wheel of Dhamma, the Wheel of Peace. Indeed, it is much more relevant today. We have gathered here this afternoon to honor the teaching of this outstanding person in human history. Let us see how his teaching eliminates the negative emotions that are at the root of cruel violence, and how these can be changed to positive compassion. Most of the time, blind belief and strong attachment to one's views cause negativity, which in turn produces such atrocities. 
+
+I came in contact with the Buddha's teaching when I took my first Vipassana course in my motherland of Myanmar. I remember that before the course started, my teacher gave me a booklet to read. It began with a quotation from a discourse of the Buddha to the Kalamas. 
+
+## The Buddha advises: 
+
+Don't accept something:
+
+- because you have heard it many times;
+- because it has been believed traditionally for generations;
+- because it is believed by a large number of people;
+- because it is in accordance with your scriptures;
+- because it seems logical;
+- because it is in line with your own beliefs;
+- because it is proclaimed by your teacher, who has an attractive personality and for whom you have great respect.
+
+Accept it only after you have realized it yourself at the experiential level and have found it to be wholesome and beneficial to one and all. Then, not only accept it but also live up to it. 
+
+This message was like a magnetic pull. I was born and brought up in a different tradition, where I was taught to accept the words of the scriptures and the teacher without asking any questions. At the age of thirty-one, these were the very first words of the Buddha that I came across. I was thrilled to read them. 
+
+This was perhaps the first charter of freedom of thought in human history. It became clear to me that there is no scope for blind belief or blind faith in the teaching of the Enlightened One. I decided to give it a fair trial with an open mind, accepting the truth as I experienced it. As I walked on the path, the experience of each day convinced me that the path is rational, pragmatic and scientific. There is no need for any blind acceptance. There were no doubts, as I was told to accept a truth only after I had experienced it. I also found that every step on the path is universal and non-sectarian. This gave me great confidence. 
+
+At the end of the ten-day course, I found the teaching to be completely results-oriented. It proved so beneficial to me physically, mentally and spiritually. Therefore, at the end of the first course I accepted it wholeheartedly and thereafter, I continued to walk on the path as taught by the Enlightened One. 
+
+After about fifteen years, I was authorized by my teacher to teach Vipassana courses in India and throughout the world. Hundreds of thousands of people from different countries, belonging to different sects and various traditions, have achieved the same good results. The teaching attracts people from all walks of life because they find that it is totally non-sectarian and results-oriented. 
+
+## The Teaching: The Dhamma
+
+The qualities of the path given by the Buddha are:
+
+1. _Svakkhato_-It is simple and well-defined so that anyone can practice it without any confusion in the mind.
+2. _Sanditthiko_-Every step is based on the reality of this moment. There is no imagination, no speculation, no auto-suggestion or outer suggestion.
+3. _Akaliko_-Every step gives wholesome results here and now in this very life. No effort on the path goes waste.
+4. _Ehi-passiko_-The teaching invites you to come and see for yourself, to experience the truth yourself.
+5. _Opaneyyiko_-The path is straight; every step on it takes one nearer and nearer to the final goal of liberation from all misery.
+6. _Paccatta__m_ _veditabbo viññuhī'ti_-It is for every sensible and rational person from every community to experience the truth within oneself by oneself.
+
+As one continues to walk on the path and goes through the words of the Buddha, it becomes clearer and clearer that the teaching is not intended to convert people from one organized religion to another. The teaching itself is not an organized religion. It can be practiced by one and all. 
+
+When one reads the words of the Buddha and the commentaries and sub-commentaries, one is surprised to find that throughout the literature the words "Buddhism" and "Buddhist" are conspicuously missing. The Buddha never used these words. His followers also did not use these words for a number of centuries. He called his teaching the Dhamma-that means the Law, the Truth. He called his followers_Dhammi_, _Dhamma__tt__ho_, _Dhammiko_, _Dhammacari,_ _Dhammavihari,_ and so on. In Indian languages, the word for "Buddhism" or "Buddhist" is Bauddha-a word without equivalent in the vast _Pali_ literature. 
+
+If the word "Buddhism" is used for the Buddha's teaching, it becomes limited to a particular community, but Dhamma is limitless-_appama__n__o Dhammo_. It is not for one particular community or religion. It is for all. We all know that the word "Buddhism" has now gained currency and is convenient to use. Many who use the word also understand that they are using it for the universal Dhamma or Dharma. 
+
+## The Noble Eightfold Path
+
+Let us understand what is the Buddha's teaching. It is the Noble Eightfold Path. The path is noble in the sense that anyone who walks on this path diligently becomes a noble person, a saintly person, a pure-hearted person.   
+The Noble Eightfold Path is divided into three divisions. 
+
+The first is _sīla_-morality, which is summed up as: 
+
+_Sabba papassa akara__n__am_  
+-Abstain from all sinful actions-that is, all unwholesome actions, physical or vocal, which hurt other beings and disturb their peace and harmony. 
+
+The second part of the Path is _samadhi_-one-pointed concentration of wholesome mind, summed up as: 
+
+_Kusalassa upasampada_  
+-Perform wholesome actions with concentrated, wholesome mind. 
+
+The third part is _pañña_-wisdom or insight, summed up as:   
+_Sacittapariyodapana__m_  
+-Purify the totality of mind by developing insight.
+
+ These three trainings are the teaching of all the Buddhas of the past and will be the teaching of all the Buddhas of the future. That is why it is said, 
+
+_Eta__m_ _Buddhana sasana__m._   
+-This is the teaching of all the Buddhas. 
+
+## The Practical Teaching of the Buddha
+
+To live the life of morality is the teaching of every religion. It is the quintessence, the inner core of every spiritual teaching. However, the Buddha was not interested in merely giving sermons to live a moral life. He taught us to take the next important step of _samādhi_-mastery over the mind. For this one needs an object of concentration. There are many objects by which one can train the mind. The Buddha himself gave many objects, and of these, one of the most popular was one's own respiration. He called this _Ānāpānassati_-developing the faculty of awareness of inhalation and exhalation. Respiration is common to all human beings belonging to any community. Nobody can have an objection to the practice of awareness of respiration. How can one label breath as Muslim or Hindu, Christian or Jewish, Buddhist or Jain, Sikh or Parsi, Caucasian or African or Asian, male or female?
+
+_Ānāpānassati_ requires us to remain aware of the breath on the area below the nostrils and above the upper lip. It is one-pointed concentration at the middle of the upper lip-_uttaro__tt__hassa vemajjhappadese_. 
+
+As the mind gets concentrated on this small area, it becomes more and more sharp, more and more sensitive. After just three days of practice, one starts feeling physical sensations on this part of the body. And then, one turns to the next training of _paññā_, that is, wisdom or insight. 
+
+One observes sensations throughout the physical structure, from the top of the head to the tips of the toes. In doing so, one notices that the sensations are closely related to what happens in the mind. It becomes clear that every time one performs an unwholesome action, one has to generate some impurity or other in the mind. Before one kills, one has to generate immense hatred. Before one steals, one generates greed. To indulge in sexual misconduct, one has to generate immense passion. One cannot do any harm to others without first harming oneself-_Pubbe hanati attāna__m__, pacchā hanati so pare_. Negativities such as anger, hatred, greed, ill will, jealousy, egotism and fear make a person unhappy, miserable and violent. One becomes agitated. When one is agitated, one doesn't keep this agitation to oneself: one starts distributing it to others, one starts harming others in society. One realizes this law of nature within the framework of one's own mind and body. 
+
+Someone may seem outwardly happy while performing unwholesome actions but their real situation is like burning charcoal covered with a thick layer of ash-_bhasmacchannova pāvako_. One is burning inside because of the mental negativities, and yet one is totally ignorant of what is happening inside. 
+
+This is _avijjā_, _moha_ - ignorance. For the Buddha, ignorance is not lack of knowledge of some philosophical belief. It is lack of knowledge of what is happening within oneself. One doesn't understand how one becomes miserable because of this veil of ignorance. No one wants to remain miserable and yet one continues to be miserable because one continues to generate _ta__n__hā_-craving and aversion-all the time; one keeps on reacting to the sensations. When ignorance is removed, as one starts looking inside one realizes, "Look, I am generating misery for myself by generating _ta__n__hā_ in response to these sensations. When they are pleasant, I generate craving and when they are unpleasant, I generate aversion. Both make me miserable. And look, I have the solution now. When I understand the impermanent nature of sensations and maintain equanimity, there is no _ta__n__hā_, no craving and no aversion. The old habit pattern of the mind starts changing and I start coming out of misery."  
+This is _vijjā_ or wisdom according to the Buddha. It has nothing to do with any philosophical or sectarian belief. It is the truth about one's happiness and misery, which all people can experience within if they take steps on the path. The Four Noble Truths are not philosophical dogma. They are actual realities pertaining to myself that I start realizing within myself. They are Noble Truths only when one experiences them, and thus, starts becoming a noble person. 
+
+When one is working with sensations, one is working at the depth of the mind. Whatever arises in the mind is accompanied by sensations within the body-_Vedanā- samosara__n__ā sabbe dhammā_. Even the most transient thought that arises within the mind is accompanied by a sensation within the body-_Vedanā-samosara__n__ā sa__n__kappavitakkā._ This was a great discovery of the Buddha.
+
+Another great discovery of the Buddha was that we generate _ta__n__hā_ in response to the sensations. This was not known to the other teachers before the time of the Buddha, at the time of Buddha or after the Buddha. The teachers before the Buddha and at the time of the Buddha kept advising people not to react to the sensory objects that come in contact with the sense doors-eyes with visual object, nose with smell, ears with sound, and so on. They taught, "When sensory objects come in contact with your senses, don't react by judging them as good or bad; don't react with craving or aversion." 
+
+This teaching was already in existence. But the Buddha said that, actually, you are not reacting to these objects. He gave the example of a black bull and a white bull (one representing the sense doors and the other the sense objects) tied together with a rope. Neither the black nor the white bull is the bondage; the rope is the bondage. The Buddha said that the rope of _ta__n__hā_ is the bondage, and that one generates_ta__n__hā_ (craving or aversion) in response to _vedanā_ (sensations)-_vedanā paccayā ta__n__hā_. This was the great discovery of the Enlightened One. He became an enlightened person because of this discovery. 
+
+There were many other people saying that one should not react to the objects of the senses. But they didn't become Buddhas. There were teachers who taught that one should not generate _lobha_ (craving) and _dosa_ (aversion). 
+
+The Buddha explained that _lobha_ and _dosa_ would last as long as there was _moha_. He, therefore, advised us to come out of _moha_. And what is _moha_? _Moha_ is ignorance. _Moha_ is avijjā. You don't know what is happening inside. You don't know the real cause of _lobha_ and _dosa_. You are ignorant. How will you come out of ignorance? Strike at the root of the problem and come out of misery by working with sensations. 
+
+As long as you are not aware of sensations, you keep fighting with outside objects, thinking, "This is ugly" or "This is not ugly." You keep working on the surface. You are thinking of the black bull or the white bull as the cause of the bondage. In fact, the bondage is the craving and aversion that one generates in response to sensations. An alcoholic thinks that he is addicted to alcohol. He is actually addicted to the sensations he feels when he drinks alcohol. 
+
+When one observes sensations objectively, one starts coming out of ignorance. By understanding the impermanent nature of sensations, one generates _paññā_ in response to _vedanā_. This is the law of nature. Dhamma _niyāmatā_ is the law behind the natural order of phenomena. Whether there is a Buddha or no Buddha, Dhamma _niyāmatā_ remains eternal. The Buddha said:
+
+_“Uppādā vā tathāgatāna__m_ _anuppādā vā tathāgatāna__m__,_ _t__hitāva sā dhātu dhamma__tt__hitatā dhammaniyāmatā idappaccayatā. Ta__m_ _tathāgato abhisambujjhati abhisameti. Abhisambujjhitvā abhisametvā ācikkhati deseti paññāpeti pa__tthapeti vivarati vibhajati uttānīkaroti. 'Passathā'ti cāha.”_  
+-He said, "I have experienced this law of nature, the Law of Dependent Origination, within myself; and having experienced and understood it I declare it, teach it, clarify it, establish it and show it to others. Only after having seen it for myself, I declare it."
+
+This is the bold declaration of a supreme scientist. Just as whether there is a Newton or no Newton, the law of gravity remains true. Newton discovered it and explained it to the world. Similarly, Galileo or no Galileo, the fact that the earth revolves around the sun remains true. 
+
+The feeling of sensation is the crucial junction from where one can take two paths going in opposite directions. If one keeps on reacting blindly to pleasant and unpleasant sensations, one multiplies one's misery. If one learns to maintain equanimity in the face of pleasant and unpleasant sensations, one starts changing the habit pattern at the deepest level and starts coming out of misery. The sensations are the root. As long as one neglects the root, the poisonous tree will grow again even if the trunk is cut. The Buddha said:
+
+_“Yathāpi mūle anupaddave da__lhe, chinnopi rukkho punareva rūhati  
+Evampi ta__n__hānusaye anūhate, nibbattati dukkhamida__m_ _punappuna__m__”._   
+-Just as a tree with roots intact and secure, though cut down, sprouts again;   
+-even so, while latent craving is not rooted out, misery springs up again and again. 
+
+Thus, this super-scientist discovered that to become fully liberated from mental defilements, one has to work at the root of the mind. Each individual must cut asunder the roots of _ta__n__hānusaya_. 
+
+When the entire forest is withered, each tree has to be nurtured, its roots cleared of disease, and then watered. Then, the entire forest will bloom again. Similarly, for the betterment of society, each individual has to improve. For society to become peaceful, each individual has to become peaceful. The individual is the key. 
+
+For the world to become peaceful, each country or society has to become peaceful. Here, I would again like to quote a very important exhortation from the Buddha to the Vajjian republic of Licchavis. The Buddha gave the following practical instructions, which would make the Licchavis unassailable:
+
+- As long as they maintain their unity and meet regularly, they will remain invincible.
+- As long as they meet together in unity, rise in unity and perform their duties in unity, they will remain invincible.
+- As long as they do not transgress their ancient principles of good governance and their system of justice, they will remain invincible.
+- As long as they revere, respect, venerate, and honor their elders and pay regard to their words, they will remain invincible.
+- As long as they protect their women and children, they will remain invincible.
+- As long as they venerate the objects of worship inside and outside their republic, and maintain monetary support for them, they will remain invincible.
+
+There were many sects in those days too, with their own temples and places of worship. Wisdom lies in keeping all people happy and satisfied. They should not be subjected to harassment, which compels them to become enemies of the state. Their places of worship should receive adequate protection. As long as the rulers provide protection and support to saintly people, they will remain invincible. 
+
+This wise counsel of the Buddha is also applicable today to maintain peace and harmony in the world. We cannot ignore issues related to religion if we are to be successful in bringing peace to the world. 
+
+It is the duty of every government to protect its people from external attacks, to do everything possible to make its people and territory secure. While this is done, it must be borne in mind that such measures give only short-term benefits. Goodwill and compassion alone can remove the hatred that lies at the root of all such acts performed by anyone belonging to any sect. In India, the United States and other countries where Vipassana courses are held in prisons, we already see how people change. The roots of terrorism lie in the minds of terrorists. We have seen how some hardened, violent criminals have been transformed in our prison courses. Anger, fear, vengefulness and hatred start dissolving, creating a peaceful and compassionate mind. We first ask some members of the prison staff to learn Vipassana and only then give courses for the inmates. This gives wonderful results. 
+
+In the Buddha's teaching, we will find a bridge that can connect various sects. The three fundamental divisions of the Buddha's teachings-morality, concentration of mind and purification of mind-are the essence of every religion and spiritual path. _Sīla_, _samādhi_ and _paññā_ are the common denominators of all religions. There can be no conflict over these three basic factors necessary for living a beneficial life. The whole emphasis of the Buddha's teaching is on the practice of these three in order to apply Dhamma in real life. This is the inner core of every religion. Instead of giving importance to this core, we keep on quarreling about the outer shell, which may be different in different religions. 
+
+History has proved that whenever the universal, non-sectarian teaching of the Buddha has gone to any place or community, it has never clashed with the traditional culture. Instead, like sugar dissolving in milk, the teachings have been gently assimilated to sweeten and enhance society. We all know how much the sweetness of peace and tranquility is needed in the bitter world today. May the teaching of the Enlightened One bring peace and happiness to more and more individuals, thus making more and more societies around the world peaceful and happy. 
+
+May all beings be happy. 
+
+May all beings be peaceful. 
+
+May all beings be liberated.

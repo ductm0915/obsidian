@@ -684,3 +684,8 @@ Ingest 7 raw articles: 5 bài giảng Goenka chưa có trong wiki (Smith College
 - [[sila-samadhi-panna]] — Added Noble Eightfold Path 8-factor breakdown; added goenka-progress-vipassana as source
 
 **Updated:** [[index]] (tổng 487 pages, 166 sources)
+
+## [2026-04-14] ingest | Yuval Noah Harari — Homo Deus Meets the Dhamma (Clear Mountain Monastery)
+Transcript của cuộc trò chuyện giữa Yuval Noah Harari và Clear Mountain Monastery (Seattle). Ingest 1 source page, 1 entity, 4 concepts mới, cập nhật 2 pages hiện có.
+- Created: [[harari-dhamma-ai-nexus]], [[yuval-noah-harari]], [[intelligence-vs-consciousness]], [[suffering-as-rejection]], [[hackable-humans]], [[information-diet]]
+- Updated: [[four-noble-truths]] (Harari's experiential angle + new source), [[vipassana]] (Harari entity + AI connections section)

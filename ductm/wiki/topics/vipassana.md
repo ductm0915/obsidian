@@ -5,6 +5,7 @@ created: 2026-04-13
 updated: 2026-04-14
 newsletter_series: "VNL 2012–2025 (46 issues ingested 2026-04-14)"
 sources:
+  - "[[harari-dhamma-ai-nexus]]"
   - "[[vipassana-day-1]]"
   - "[[vipassana-day-2]]"
   - "[[vipassana-day-3]]"
@@ -273,9 +274,10 @@ Giải thoát (từng bước, rồi hoàn toàn)
 
 ---
 
-## Key Entity
+## Key Entities
 
 - [[sn-goenka]] — S.N. Goenka, teacher who revived and spread Vipassana globally
+- [[yuval-noah-harari]] — Historian, author, long-term Vipassana practitioner; bridges Goenka tradition with AI/modernity discourse
 
 ---
 
@@ -295,6 +297,12 @@ Giải thoát (từng bước, rồi hoàn toàn)
 ### Liên quan đến Framework Sống
 - [[anti-vision]] — Running from negative futures (WIT) vs. Vipassana's "observe misery, don't run"
 - [[seven-wealth-dimensions]] — WIT's spiritual wealth dimension aligns với Vipassana path
+
+### Liên quan đến AI / Thế Giới Hiện Đại
+- [[intelligence-vs-consciousness]] — Harari: AI có intelligence nhưng không rõ có consciousness; Vipassana train consciousness
+- [[hackable-humans]] — Thiền như antivirus trong kỷ nguyên AI biết ta hơn ta biết ta
+- [[information-diet]] — Noble Silence là extreme form; information fast như bước đầu
+- [[suffering-as-rejection]] — Harari's modern definition hoàn toàn khớp với Vipassana's equanimity teaching
 
 ---
 

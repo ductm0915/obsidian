@@ -91,6 +91,7 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[hormozi-brutally-honest-truths]] — 15 mindset principles: fear vs. regret, persistence creates timing, envy vs. effort, hard conversations, the hard way is easy, shame vs. guilt (2026-04-13).
 - [[hormozi-charlie-munger-8-lessons]] — Hormozi tribute to Munger: 8 lessons (inversion, Three L's, simplicity, UESMO, enough-is-enough, brand-as-moat, live-within-means, learn-from-others) (2026-04-14).
 - [[hormozi-charlie-munger-8-laws]] — Munger's 8 laws in inverted frame + Hormozi's 9th: pressure management, negative visualization, measuring-stick problem, reliability compounding (2026-04-14).
+- [[harari-dhamma-ai-nexus]] — Yuval Noah Harari tại Clear Mountain Monastery: hành trình Vipassana, AI vs. consciousness, information diet, hackable humans, meditation as antivirus (2026-04-14).
 
 ### Vipassana — Course Discourses
 - [[vipassana-day-1]] — **[Song ngữ EN+VI]** Day 1 Discourse: Anapana introduction, wild mind diagnosis, surgical metaphor, practical rules and Noble Silence (2026-04-14).
@@ -228,6 +229,7 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[august-bradley]] — Creator of PPV (Pillars, Pipelines, Vaults) framework; instructor at notionlifedesign.com; runs PPV Pro since 2020.
 - [[sam-ovens]] — New Zealand entrepreneur; founder of Consulting.com ($30M+/year); co-founder of [[skool-platform]]; systems thinker, full-stack mind, elimination-first productivity.
 - [[sn-goenka]] — S.N. Goenka (1924–2013): Vipassana teacher, brought Sayagyi U Ba Khin's technique from Myanmar to global scale; founder of Dhamma Giri network.
+- [[yuval-noah-harari]] — Historian, author (*Sapiens/Homo Deus/Nexus*), long-term Goenka Vipassana practitioner; bridges meditation with AI/consciousness discourse.
 
 ### WIT Entities
 - [[hong-trieu-bao]] — Thầy Hồng Triệu Bảo, founder WIT; framework 7 giàu toàn diện, 15 khái niệm nguồn, 4 lĩnh vực cuộc đời.
@@ -494,6 +496,10 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 
 ### Vipassana Concepts (Additional)
 - [[metta-bhavana]] — Mettā Bhāvanā: loving-kindness meditation taught on Day 11; natural overflow of a purified Vipassana mind (2026-04-14).
+- [[intelligence-vs-consciousness]] — Harari: intelligence = pursue goals; consciousness = capacity to suffer/reject reality; AI has intelligence but not necessarily consciousness (2026-04-14).
+- [[suffering-as-rejection]] — Suffering = rejection of reality; pain ≠ suffering; thermostat analogy; directly maps to Vipassana equanimity teaching (2026-04-14).
+- [[hackable-humans]] — AI can know us better than we know ourselves; meditation as antivirus; social media exploits weaknesses (2026-04-14).
+- [[information-diet]] — Information as food for mind: quantity + quality + digestion; label proposal; no one-size-fits-all; information fasts (2026-04-14).
 - [[noble-silence]] — Noble Silence (Ārya Mauna): rule of complete external and internal silence during Days 1–10 of Vipassana retreat (2026-04-14).
 - [[karma]] — Karma/Kamma: law of intentional cause and effect; in Vipassana mapped to sankara chains; in WIT mapped to Three Karma Trees (2026-04-14).
 - [[triple-gem]] — Triple Gem (Ti-Sarana): Buddha, Dhamma, Sangha as three refuges; Goenka's non-sectarian reading: exemplar, universal law, community (2026-04-14).

@@ -2,10 +2,12 @@
 title: "Vipassana Day 6 — Five Hindrances & The Addiction of Craving"
 type: source
 created: 2026-04-13
+updated: 2026-04-14
 author: "S.N. Goenka"
-language: Vietnamese
-source_file: "raw/articles/Vipassana/Vietnamese/Khóa thiền Vipassana 10 ngày - Day 6 (Thiền sư Goenka).md"
-tags: [vipassana, five-hindrances, craving, addiction, four-elements, kalapa, sankara]
+language: bilingual
+sources:
+  - "raw/articles/Vipassana/Vietnamese/Khóa thiền Vipassana 10 ngày - Day 6 (Thiền sư Goenka).md"
+tags: [vipassana, five-hindrances, craving, addiction, four-elements, kalapa, sankara, day-6]
 topic: vipassana
 ---
 
@@ -14,7 +16,7 @@ topic: vipassana
 ## Source Metadata
 
 - **Speaker:** S.N. Goenka
-- **Language:** Vietnamese (bản tiếng Việt)
+- **Language:** Vietnamese source only (bản tiếng Việt — không có bản tiếng Anh)
 - **Context:** Mid-course discourse — delivered after the hardest transition point (Day 5-6)
 - **Significance:** Only Day 6 that exists (no English equivalent); covers the five hindrances, the "craving addiction" model, and four-elements physics
 
@@ -157,6 +159,102 @@ The meditator's job is simple but demanding: **do not react** to any sensation d
 - [[hedonic-adaptation]] — Goenka's "bottomless barrel" craving model = hedonic treadmill
 - [[desire-vs-fulfillment]] — Sam Ovens / Hormozi frameworks on want vs. satisfaction
 - [[frustration-tolerance]] (Sam Ovens) — Relates to sitting with the five hindrances
+
+---
+
+## Tóm tắt tiếng Việt (Vietnamese Summary)
+
+Ngày thứ sáu Goenka mở đầu bằng câu chuyện ba người con trai và chai dầu — một câu chuyện dạy rằng Dhamma không phải bi quan mà là lạc quan và thực tế. Nội dung chính của ngày này bao gồm: mô hình "nghiện cảm giác" (khám phá đột phá nhất của Ngày 6), vật lý bốn nguyên tố (mahābhūta) như là khuôn khổ để hiểu mọi cảm giác trong thiền, năm chướng ngại (pañca nīvaraṇa) và những nghịch lý bi hài mà thiền sinh vô tình phạm phải, và cuối cùng là cơ chế giải phóng đơn giản nhất: ngừng thêm củi vào ngọn lửa.
+
+### Bối cảnh: Ngày thứ sáu là ngày khó
+
+> "Ngày thứ sáu là một ngày rất quan trọng. Tôi vui mừng vì quý vị đã quyết định vượt qua được trở ngại này. Như tôi đã nói, ngày thứ hai và ngày thứ sáu là những ngày mà người có đầu óc yếu đuối khó mà vượt qua."
+
+Vào cuối ngày thứ năm, bài pháp thoại nói nhiều về khổ đau — "khổ khi sinh ra, khổ vì bệnh, khổ vì già, khổ vì chết" — nhiều người nghĩ đây là "Dhamma rất bi quan" và muốn bỏ đi. Goenka giải thích: không phải bi quan — chỉ cần xem tiếp có lối thoát không.
+
+### Câu chuyện ba người con trai và chai dầu
+
+Một người mẹ sai ba người con trai đi mua dầu. Cả ba đều ngã, chai dầu đổ mất một nửa:
+
+- **Con trai thứ nhất:** "Mẹ ơi, con đã đổ mất nửa chai dầu!" — rất bi quan.
+- **Con trai thứ hai:** "Mẹ nhìn xem — con vớt vát được nửa chai dầu!" — lạc quan thuần túy.
+- **Con trai thứ ba (đứa bé Vipassana):** "Con vớt được nửa chai, nhưng con đã đổ mất nửa — đây là sự thực. Bây giờ con phải làm việc đến chiều tối để kiếm thêm tiền mua dầu đổ đầy chai này." — vừa lạc quan vừa thực tế vừa chịu khó làm việc.
+
+> "Như vậy Dhamma không những chỉ là lạc quan — mà còn thực tế, còn đầy tính chịu khó làm việc. Mỗi cá nhân đều phải làm việc. Luôn luôn lạc quan, không có chút mảy may bi quan nào trong tâm."
+
+### Mô hình nghiện cảm giác — Cái thùng không đáy
+
+Đây là phát kiến quan trọng nhất của Ngày 6. Goenka trình bày chuỗi leo thang ham muốn:
+
+> "Có người đang sống ở căn nhà có 1 phòng ngủ, hắn hoàn toàn hạnh phúc. Bỗng nhiên trong tâm trí hiện lên ý tưởng: 'Căn nhà một phòng ngủ này nhỏ hẹp, ta phải có một căn nhà lớn có ít nhất 3 phòng ngủ.' Được rồi, có nhà 3 phòng ngủ rồi... 'Bây giờ cần trang bị mọi tiện nghi...' Có đủ đồ đạc rồi vẫn không thỏa mãn: 'Tôi phải có ô tô, Toyota, rồi Rolls-Royce, rồi máy bay trực thăng, rồi phi cơ riêng, rồi phi thuyền để đi lên mặt trăng...' Ngay đến bầu trời cũng không còn giới hạn nữa — đó là cái thùng không đáy, không bao giờ đầy."
+
+Khám phá then chốt:
+
+> "Khi ta nói người nào đó nghiện rượu, thật ra nói như vậy là sai ở bề ngoài. Thực ra là người ta nhận được một cảm giác khi uống rượu vào — người uống cảm thấy một cảm giác nào đó và muốn có lại cảm giác đó nên người ấy lại phải uống lại. Cảm giác rất quan trọng như thế. Đây là khám phá của Đức Phật."
+
+> "Trừ phi quý vị học được cách quan sát cảm giác của mình, quý vị không thể nào thoát khỏi bất cứ sự nghiện ngập nào. Nghiện rượu, nghiện thuốc phiện không là gì cả so với nhiều sự ham muốn và sự ghét bỏ của mình."
+
+### Vật lý bốn nguyên tố và bốn loại thức ăn
+
+Goenka giải thích bốn nguyên tố (mahābhūta) không phải như khái niệm triết học mà như hướng dẫn thực hành — những gì thiền sinh thực sự cảm nhận trong cơ thể:
+
+- **Đất (Pathavī):** Toàn bộ phạm vi trọng lượng — từ nặng nề đến nhẹ nhàng, từ cứng đến mềm
+- **Nước (Āpo):** Tính kết dính, kết hợp — cảm giác ướt, dính, kết chặt
+- **Lửa (Tejo):** Toàn bộ phạm vi nhiệt độ — từ cực lạnh đến cực nóng
+- **Gió (Vāyo):** Toàn bộ phạm vi chuyển động — từ chuyển động rất chậm đến rất nhanh, rung động
+
+> "Khi quý vị cố gắng quan sát nguyên tố đất, đừng tìm hạt bụi — chẳng có lợi gì cả. Cảm giác cảm nhận được gì từ đặc tính ấy? Quan sát toàn bộ lãnh vực trọng lượng, từ cảm giác nặng nề đến cảm giác nhẹ nhất — đó là đặc tính của nguyên tố đất."
+
+Bốn loại "thức ăn" (āhāra) tạo ra các kalāpa (vi tử):
+1. **Thức ăn vật chất** — thức ăn cay → kalāpa nguyên tố lửa → cảm giác nóng bỏng khi ngồi thiền
+2. **Khí quyển** — khí hậu nóng hay lạnh tạo ra loại kalāpa khác nhau
+3. **Tâm trạng hiện tại** — giận dữ → kalāpa lửa bùng cháy; sợ hãi → kalāpa gió rung chuyển
+4. **Sankara cũ** — tồn kho phản ứng tích lũy từ quá khứ trỗi lên
+
+### Năm chướng ngại — Những kẻ thù của thiền sinh
+
+> "Có năm kẻ thù lớn của những ai thực hành thiền Vipassana. Chúng như những tấm màn dài không cho phép ta nhìn thấy những gì đằng sau tấm màn — không thể thấy sự thật bên trong mình vì những trở ngại này."
+
+**Nghịch lý bi hài của hai chướng ngại đầu:**
+
+Thiền sinh đến để thoát khỏi ham muốn và ghét bỏ — nhưng trong khi ngồi thiền lại vô tình làm gia tăng gấp bội cả hai:
+
+*Ham muốn:*
+> "Tôi muốn có cảm giác dần dần khắp cơ thể. Tôi muốn có nguồn điện khắp người. Chả có cảm giác nào cho tôi cả!" — quý vị đến đây để thoát khỏi sự ham muốn nhưng nhân danh phương pháp thiền, nhân danh Vipassana, lại bắt đầu ham muốn ham muốn ham muốn.
+
+*Ghét bỏ:*
+> "Thầy cứ nói mọi sự đều là anicca — vô thường — có thể đúng như thế, nhưng cái đau này là vĩnh viễn! Nó không phải là vô thường! Tôi đã bao nhiêu lần nói với cái đau này: 'Ngươi là vô thường, ngươi là vô thường' — nhưng cái đau vẫn không hết. Cái đau này là vĩnh viễn!" — chán ghét, chán ghét, chán ghét. Kẻ thù này đã khống chế, và quý vị đang làm gia tăng gấp bội tâm ghét bỏ — trong khi đến đây để thoát ra khỏi sự ghét bỏ.
+
+**Chướng ngại thứ ba — Buồn ngủ:**
+> "Đêm qua quý vị ngủ rất ngon, nhưng ngay lúc ngồi thiền, quý vị cảm thấy rất buồn ngủ, hết sức buồn ngủ. Đây là một kẻ thù lớn, càng khống chế quý vị. Hãy thở mạnh lên — nếu thở mạnh không giúp ích, hãy đứng dậy và tập hơi thở mạnh, hoặc bước ra ngoài đi bộ 10 phút."
+
+**Chướng ngại thứ tư — Dao động/Bồn chồn:**
+Cảm thấy muốn làm chút việc này, chút việc kia, không thể ngồi yên. Ngay cả khi đang trong giờ thiền, bỗng thấy mình đứng dậy và đi ra ngoài — đó là sự phản kháng từ bên trong, không cho phép hành thiền đúng đắn.
+
+**Chướng ngại thứ năm — Nghi ngờ:**
+Ba loại nghi ngờ: nghi ngờ phương pháp ("quan sát hơi thở để làm gì?"), nghi ngờ thiền sư ("loại minh sư gì mà không có đầu xù tóc rối, không có râu dài, không có dấu hiệu siêu nhiên nào cả"), và nghi ngờ bản thân ("tôi không thích hợp với phương pháp này, đây không đúng lúc cho tôi").
+
+> "Khi bị nghi ngờ khống chế, quý vị không thể tu tập được."
+
+### Cơ chế giải phóng — Quan sát như nhân chứng thầm lặng
+
+> "Có khổ đau, nhưng cũng có cách thoát ra khỏi khổ đau. Hãy quan sát — hãy học cách quan sát bất cứ những gì xảy ra. Quý vị là nhân chứng thầm lặng. Đừng phản ứng. Cứ như ngồi bên cạnh bờ sông — dòng sông có đó, quý vị không dính dáng gì đến dòng sông cả, dòng sông trôi chảy tự nhiên. Ngồi ở bờ sông, quý vị chỉ quan sát."
+
+> "Hãy quan sát như một nhà khoa học nghiên cứu trong phòng thí nghiệm — nhà khoa học đun nóng dung dịch hóa chất trong ống nghiệm, hóa chất bốc hơi rồi kết tụ lại thành chất lỏng. Nhà khoa học chỉ quan sát: khi hóa chất bốc thành hơi, ông ta không than khóc 'của tôi mất đâu rồi'; khi chất ấy hóa lỏng trở lại, ông ta không vui mừng nhảy lên. Ông chỉ hiểu rõ tiến trình của nó."
+
+### Trích dẫn quan trọng (tiếng Việt)
+
+> "Không những chỉ lạc quan mà còn thực tế, còn đầy tính chịu khó làm việc. Mỗi cá nhân đều phải làm việc — luôn luôn lạc quan, không có chút mảy may bi quan nào trong tâm."
+
+> "Thật ra người ta nghiện rượu thì nói như vậy là sai ở bề ngoài. Thực ra người ta nhận được một cảm giác khi uống rượu, và muốn có lại cảm giác đó — nên người ấy lại phải uống lại. Đây là khám phá của Đức Phật."
+
+> "Trừ phi quý vị học được cách quan sát cảm giác của mình, quý vị không thể nào thoát khỏi bất cứ sự nghiện ngập nào. Nghiện rượu, nghiện thuốc phiện không là gì cả so với nhiều sự ham muốn và sự ghét bỏ của mình."
+
+> "Thầy cứ nói mọi sự đều là anicca — vô thường — có thể đúng như thế, nhưng cái đau này là vĩnh viễn! Tôi đã bao nhiêu lần nói với cái đau này: 'Ngươi là vô thường' — nhưng cái đau vẫn không hết. Cái đau này là vĩnh viễn!" [Giọng của thiền sinh đang bị kẻ thù chướng ngại khống chế]
+
+> "Bất kể cái gì quý vị thấy trong các kalāpa — dù nguyên tố đất ưu thế, hay lửa ưu thế, hay gió ưu thế — người hành thiền lão luyện sẽ không bị ảnh hưởng: 'Để tôi xem chúng tồn tại được bao lâu.' Không phản ứng lại — chỉ quan sát. Và những cảm giác này là sự biểu hiện của các nguyên tố khác nhau — chúng lại sinh và sớm hay muộn rồi cũng sẽ diệt đi."
+
+> "Có khổ đau — nhưng cũng có cách thoát ra khỏi khổ đau. Hãy quan sát, hãy học cách quan sát bất cứ những gì xảy ra. Quý vị là nhân chứng thầm lặng. Đừng phản ứng."
 
 ---
 

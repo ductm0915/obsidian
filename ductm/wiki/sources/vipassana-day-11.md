@@ -2,21 +2,35 @@
 title: "Vipassana Day 11 — Graduation Discourse: Sustaining the Practice"
 type: source
 created: 2026-04-13
-author: "S.N. Goenka"
-language: Vietnamese
-source_file: "raw/articles/Vipassana/Vietnamese/Khóa thiền Vipassana 10 ngày - Day 11 (Thiền sư Goenka).md"
-tags: [vipassana, graduation, daily-practice, home-practice, community, sustainability, seeds-parable]
+updated: 2026-04-14
+sources:
+  - "raw/articles/Vipassana/English/10 Day Vipassana Course - Day 11 (English).md"
+  - "raw/articles/Vipassana/Vietnamese/Khóa thiền Vipassana 10 ngày - Day 11 (Thiền sư Goenka).md"
+language: bilingual
+tags:
+  - vipassana
+  - graduation
+  - daily-practice
+  - home-practice
+  - community
+  - sustainability
+  - seeds-parable
+  - metta
+  - day-11
 topic: vipassana
 ---
 
 # Vipassana Day 11 — Graduation Discourse: Sustaining the Practice
 
+**Speaker:** [[sn-goenka|S.N. Goenka]]
+**Series:** 10-Day Vipassana Meditation Course
+**Day:** 11 (departure morning)
+
 ## Source Metadata
 
-- **Speaker:** S.N. Goenka
-- **Language:** Vietnamese (bản tiếng Việt)
-- **Context:** Final discourse — morning of Day 11, departure day
-- **Significance:** The *only* complete Day 11 source (English Day 11 = Mettā chanting only); contains Goenka's complete operational guide for taking Vipassana into daily life
+- **English source:** Day 11 English file = Mettā chanting only (music/timestamps, no discourse text)
+- **Vietnamese source:** Complete graduation discourse in Vietnamese — the primary source for this page
+- **Significance:** The complete operational guide for taking Vipassana into daily life after the retreat
 
 ---
 
@@ -204,68 +218,128 @@ This is the operationalized form of [[sila-samadhi-panna]] — Paññā → puri
 
 ---
 
-## Bản gốc tiếng Việt (Trích đoạn quan trọng)
+## Tóm tắt tiếng Việt
 
-> **Lưu ý:** File này là transcript auto-generated từ audio tiếng Việt — có một số lỗi nhận dạng giọng nói. Nội dung gốc được bảo toàn nguyên vẹn.
+### Tổng quan
 
-### Mở đầu — Từ tuân phục bắt buộc đến tự do lựa chọn
+Ngày 11 là buổi sáng chia tay — bài giảng tốt nghiệp của Goenka. Đây là buổi học quan trọng nhất về **cách duy trì thực hành sau khi rời khóa**. Không có bản tiếng Anh của bài giảng này (file tiếng Anh chỉ có nhạc tụng Mettā) — toàn bộ nội dung được rút từ bản ghi âm tiếng Việt.
 
-> "sự Tuấn phục này chỉ kéo dài có 10 ngày giờ đây quý vị được tự do không còn bị lệ thuộc thăm em luôn luôn làm cho mọi người biết tự nương tựa Nơi chính mình"
+Năm chủ đề chính:
+1. **Chuyển từ tuân phục bắt buộc sang tự nguyện** — bản chất của tự do Dhamma
+2. **Ví dụ biết bơi** — tại sao thực hành là điều duy nhất có giá trị
+3. **Kiến trúc thực hành hàng ngày** — lịch tối thiểu chính xác
+4. **Năm hạt giống Dhamma** — bốn loại học trò và kết quả tương ứng
+5. **Mettā như học phí hàng ngày** — chia sẻ công đức là sự hồi đáp
 
-> "nhưng sau khi đã thực hành trong 10 ngày quý vị biết rõ là nếu chỉ chấp nhận ở mức độ trí thức không thôi cũng chẳng có lợi ích gì cả chấp nhận khía cạnh sùng kính hay tình cảm cũng chẳng giúp ích được gì cả ta phải chấp nhận ở mức độ thực tế thăm phải được chấp nhận ở mức độ thực tế ở mức độ chứng nghiệm thăm phải được áp dụng trong cuộc sống tha ma phải được thực hành"
+### Chuyển Từ Tuân Phục Sang Tự Do
 
-> "10 ngày trước đây quý vị Tuân phục Vì được yêu cầu như thế khi bị phải tuân phục để thử qua phương pháp thiền này giờ đây với sự tự do Với sự hiểu biết rõ ràng quý vị sẽ Tuân phục sẽ thuần phục tha ma thưa quý vị sẽ Tuân phục Suốt đời"
+> *"Sự Tuân phục này chỉ kéo dài có 10 ngày. Giờ đây quý vị được tự do. Thăm ma luôn luôn làm cho mọi người biết tự nương tựa nơi chính mình."*
 
-### Ví dụ thuyền trưởng vs. giáo sư (Trái tim của bài giảng)
+10 ngày trước, tuân phục vì được yêu cầu — để thử phương pháp một cách công bằng. Bây giờ, với sự tự do và hiểu biết rõ ràng, quý vị sẽ tự nguyện tuân phục Dhamma **suốt đời**.
 
-> "một giáo sư đại học trẻ Tuổi phỏng vấn rất cao rất rộng rất nhiều bằng cấp nhưng chưa được Tôi Luyện trong trường đời anh ta đang đi du lịch trên một chút Thuyền cũng trên du thuyền đó có một người Thủy Thủ già"
+Ba tiêu chuẩn để chấp nhận bất cứ điều gì:
+1. Có hợp lý, thực tiễn, người thông minh bình thường có thể chấp nhận không?
+2. Có thực sự mang lại lợi ích cho tôi không?
+3. Có hại đến chúng sinh khác không?
 
-> "một hôm đang lúc người thủy thủ ra khỏi phòng vị giáo sư Hỏi ông ta đây bác bác đã học để chất học chưa... tôi không được đến bất cứ trường học hay bất cứ trường Cao đẳng nào tôi không được học hành gì cả bác ơi Như vậy là bác đã uổng phí đi một phần tư cuộc đời của bác rồi"
+Nhưng quan trọng hơn: *chấp nhận ở mức độ trí thức không đủ. Phải chấp nhận ở mức độ thực tế, ở mức độ chứng nghiệm — phải áp dụng trong cuộc sống.*
 
-> "ngày kế tiếp là ngày đến phiên của ông già ông ta hớt hải chạy đến hỏi thứ giáo sư thương ngày này đã học môn bơi lội học chưa... không Tôi không biết bơi thư giáo sư thơ này ở quần phí cả cuộc đời của mình rồi tàu này đang bị đắm chiếc tàu này đang chìm xuống nước những ai biết bơi có thể tới được bờ bên kia nhưng ai không biết bơi sẽ chết chìm Tôi cảm thấy rất tiếc cho giáo sư"
+### Ví Dụ Biết Bơi — Trái Tim Của Bài Giảng
 
-> "phần thực tiễn của tha ma là môn bơi lội học này hãy học cách bơi trong biển khổ này Hãy thoát khỏi khổ đau"
+Một giáo sư đại học trẻ tuổi, rất nhiều bằng cấp, đi du lịch trên tàu cùng một thủy thủ già mù chữ. Ngày nào giáo sư cũng hỏi và chế nhạo:
+- "Bác chưa học địa chất học — uổng phí 1/4 cuộc đời rồi"
+- "Bác chưa học hải dương học — uổng phí 1/2 cuộc đời rồi"
+- "Bác chưa học khí tượng học — uổng phí 3/4 cuộc đời rồi"
 
-### Hàng rào bảo vệ cây Dhamma non (Sīla-Samādhi-Paññā)
+Đến ngày thứ tư, ông già hớt hải chạy đến:
 
-> "nhưng nếu quý vị dựng một hàng rào quanh cây con bất cứ những gì tôi đang thực hành nằm bên trong hàng rào cái gì nằm bên trong hàng rào Sala tôi giữ sheila giới luật làm sao mà chống đối được có cái gì sai trái với luật không ai có thể chống đối được"
+> *"Thưa giáo sư — ngày này giáo sư đã học môn bơi lội học chưa? Tàu này đang chìm. Ai biết bơi có thể tới được bờ bên kia. Ai không biết bơi sẽ chết chìm. Tôi cảm thấy rất tiếc cho giáo sư."*
 
-> "trong hàng rào là samashi phát triển sự định tâm làm chủ được tâm và cũng như thế làm sao có thể chống đối Smart này với một đối tượng không tông phái một đối tượng phổ quát chung cho mọi người chỉ hơi thở của tôi chỉ hơi thở không thôi Hơi Thở đơn thuần quý vị sẽ gặp sự chống đối nào"
+> *"Phần thực tiễn của Dhamma là môn bơi lội học này. Hãy học cách bơi trong biển khổ này. Hãy thoát khỏi khổ đau."*
 
-> "còn bất cứ thứ gì khác đều nằm ngoài hàng rào tôi không quan tâm đến những chuyện đó điều tôi đã học là sheila smarty ban nhà và cái tôi đang thực hành là sheila smartripper có thế quý vị sẽ được an toàn"
+Bài học: Có thể đọc về bơi lội, nghe giảng về bơi lội — nhưng nếu không chịu nhảy xuống nước thì không bao giờ bơi được. Dhamma cũng vậy — lý thuyết và sùng tín không cứu được khi tàu chìm.
 
-### Hướng dẫn thực hành hàng ngày — Yêu cầu tối thiểu
+### Hàng Rào Bảo Vệ Cây Dhamma Non
 
-> "mỗi ngày vào mỗi buổi sáng và buổi tối hai lần trong 24 giờ mỗi lần 1 giờ quý vị phải tưới cây này nếu không nó sẽ héo úa một giờ vào mỗi buổi sáng và một giờ vào mỗi buổi tối chửi theo thời khóa biểu riêng của quý vị"
+Khi về nhà, người thân và bạn bè sẽ tò mò, hỏi han, có thể phản đối. Hãy dựng **hàng rào** quanh cây con:
 
-> "chẳng bao lâu quý vị xác nhận ra rằng nhờ rảnh ra 2 giờ cho vipassana mỗi ngày quý vị chẳng mất gì cả những ai nhưng không ngồi thiền nữa họ nhưng trong vòng vài ngày đầu hay vài tháng đầu tiên nhân những ai tiếp tục ngồi trong một năm Họ sẽ tiếp tục hành thiền suốt đời"
+> *"Cái gì nằm bên trong hàng rào? Sīla — tôi giữ giới luật. Làm sao có thể chống đối được? Có cái gì sai trái với giới luật? Không ai có thể chống đối được. Samādhi — phát triển sự định tâm, làm chủ tâm mình. Làm sao có thể chống đối? Với đối tượng không tông phái, phổ quát — chỉ hơi thở của tôi thôi. Ai có thể chống đối được? Paññā — phát triển trí tuệ bằng cách diệt trừ những bất tịnh của mình. Ai có thể chống đối được?"*
 
-> "5 phút trước khi ngủ và 5 phút sau khi thức giấc rất hữu ích khoảng thời gian này mang lại nhiều kết quả tốt đẹp"
+Bất cứ thứ gì khác nằm ngoài hàng rào — không cần quan tâm. Điều quý vị đang thực hành là Sīla-Samādhi-Paññā — với thế quý vị sẽ được an toàn.
 
-### Câu chuyện U Ba Khin — Thiền tăng năng lực làm việc
+### Kiến Trúc Thực Hành Hàng Ngày
 
-> "ông bắt đầu mở các khóa thiền vipassana mỗi tháng Ông mở khóa 10 ngày các công chức chính phủ ngay từ phó giám đốc tổng nha kế toán đến người có vị trí thấp nhất trong văn phòng đã bắt đầu chứng nghiệm được Dòng Sông Hàn của ta mạnh và một thay đổi lớn đã xảy ra"
+**Yêu cầu tối thiểu:**
 
-> "tăm thích lương bổng là một cư sĩ dễ nhiên ông cũng cần có lương bổng có những người ta sẽ được nhiều sự toại nguyện khi phục vụ khi quý vị làm việc với lòng ích kỷ quý vị làm việc với sự ham muốn tích lũy thêm cho bản thân... khi tâm trở nên trong sạch bản tính ích kỷ không còn nữa"
+| Thời điểm | Thời lượng | Ghi chú |
+|-----------|-----------|---------|
+| Sáng sớm | 1 giờ | Cùng giờ, cùng chỗ nếu được |
+| Buổi tối | 1 giờ | Cùng giờ, cùng chỗ nếu được |
+| Trước khi ngủ | 5 phút | Ý thức anicca khi nằm |
+| Sau khi thức dậy | 5 phút | Ý thức anicca trước khi đứng dậy |
 
-### Câu chuyện 5 hạt giống — Nhân gấp bội Dhamma
+> *"Mỗi ngày vào mỗi buổi sáng và buổi tối, hai lần trong 24 giờ, mỗi lần 1 giờ — quý vị phải tưới cây này. Nếu không nó sẽ héo úa."*
 
-> "người con dâu lớn tuổi nhất bắt đầu nghĩ rằng ông già này là thảm hóa điên năm hoạt giống không đáng để luận tâm... khi ông ta trở lại ta lấy từ kho đưa cho ông ta nằm hả khác"
+**Nghịch lý thời gian — Ví dụ U Ba Khin:**
 
-> "người con dâu thứ tư dọn dẹp có đất trong vườn và trồng 5 hạt giống này chúng sinh ra 5 cây mỗi cây bằng cả trăm hạt 500 hàng mùa tới... trong 4 năm qua hàng tấn hạt các kho chứa đầy ắp"
+Goenka kể về thầy của mình: U Ba Khin bắt đầu sự nghiệp là thư ký cấp thấp tại Tổng nha Kế toán Miến Điện. Nhờ thiền Vipassana, năng lực làm việc tăng vọt đến mức trở thành Tổng Giám đốc Kế toán đầu tiên của Miến Điện — và cuối cùng làm Bộ trưởng của **bốn bộ cùng một lúc**. Khi chính phủ muốn trả thêm lương kiêm nhiệm, ông từ chối:
 
-> "cũng trao 5 hạt giống thăm mà không những quý vị tiếp tục dùng chúng mà còn làm cho chúng sanh sôi nảy nở xanh sôi nảy nở xanh sôi nảy nở và tôi sẽ không mang theo chùm chìa khóa với tôi cứ vị giữa chùm chìa khóa ấy... Hãy mở cổng Thiên Đàng nội tâm và tận hưởng nó"
+> *"Nếu khả năng làm việc của tôi gia tăng — tại sao tôi lại đòi thêm lương bổng?"*
 
-### Học phí hàng ngày — Mettā như sự hồi đáp
+Cam kết 2 giờ Vipassana mỗi ngày không phải là mất thời gian — mà là tận dụng tối đa thời gian. Khả năng làm việc tăng lên, công việc cùng số lượng nhưng hoàn thành nhanh hơn với chất lượng tốt hơn.
 
-> "bất cứ những gì quý vị Hiến tặng ở đây ai ai cũng Hiến tặng không thứ này thì thấy khác chứ thầy nhiều tùy theo khả năng từng người để giúp cho những tuyển sinh khóa tới vì lợi ích của tuyển sinh để có thêm phương tiện cho tiền sinh khóa tới"
+**Thực hành mắt mở (micro-sessions):**
 
-> "theo truyền thống này sáng và tối sáng và tối khi quý vị thiền một tiếng đồng hồ một tiếng đồng hồ mà sau đó bị bắt đầu chia sẻ công đức của mình cho mọi chúng sanh nguyện cho tất cả chúng sanh được hạnh phúc hiện cho tất cả chúng sanh được an vui"
+> *"Bất cứ lúc nào quý vị rảnh rỗi — dù chỉ trong 5 hay 10 phút — cứ để mắt mở tự nhiên, hướng vào nội tâm, nhận biết anicca-anicca-anicca."*
 
-> "quý vị có thể nhớ tới người thầy của quý vị cho dù quý vị không nhớ cũng không sao cả khi quí vị nói luyện cho tất cả chúng sanh được hạnh phúc tôi cũng là một người trong số những chúng sanh đó và masta tâm từ của quý vị sẽ đến với tôi đây là phí của quý vị mỗi ngày"
+Áp dụng khi: chờ đợi ở đâu đó, giữa các cuộc họp, ngồi trên xe. Không đóng mắt nơi công cộng — không cần phô trương. Khi đang làm việc thì tập trung hoàn toàn vào công việc. Khi rảnh thì quay vào bên trong.
 
-### Kết thúc — Lời tạm biệt
+**Thiền nhóm hàng tuần:**
 
-> "hãy tiếp tục tăng tiến trong Tama hãy tiếp tục thăng tiến trong Tama Tama huyền diệu biết bao người ta chỉ có được tham mot tinh khiết Nếu đã từng làm điều rất thật về quá khứ Nếu người ta rất may mắn"
+> *"Bất cứ nơi nào có hơn một người hành thiền Vipassana — ấn định một nơi, một giờ, một ngày nào đó mỗi tuần — ít nhất một lần — hãy ngồi thiền chung với nhau."*
 
-> "khổ đau đầy rẫy khắp nơi con người đang đau khổ Làm thế nào để giúp họ thoát khỏi khổ đau hay tiếp tục thăng tiến trong tham mà tiếp tục thăng tiến trong ta mạng à"
+Sóng Dhamma của người thiền mạnh tạo bầu không khí giúp người thiền yếu đi sâu hơn mình có thể tự làm.
+
+**Khóa hàng năm:**
+- Tối thiểu: một khóa 10 ngày mỗi năm
+- Nếu không tham gia được: tự tổ chức khóa tự tu theo lịch và phương pháp đã học
+- Có thể thông báo cho thầy về ngày giờ và địa điểm tự tu — có thể có lợi ích
+
+### Năm Hạt Giống Dhamma
+
+Một ông cụ giàu có phân phát 5 hạt giống cho bốn người con dâu và đi xa 4 năm:
+
+| Người con dâu | Hành động | Kết quả |
+|--------------|----------|---------|
+| Người thứ nhất | Vứt đi ("ông già điên") | Không có gì |
+| Người thứ hai | Ăn đi ("để có năng lực siêu nhiên") | Không có gì |
+| Người thứ ba | Cất giữ cẩn thận 4 năm | Chỉ còn nguyên 5 hạt cũ |
+| **Người thứ tư** | **Gieo trồng, chăm sóc, nhân rộng** | **Kho chứa đầy ắp** |
+
+Ông già trao **chùm chìa khóa** (quyền quản lý cả gia sản) cho người con dâu thứ tư.
+
+> *"Cũng vậy — tôi trao cho quý vị 5 hạt giống Dhamma. Không những quý vị tiếp tục dùng chúng mà còn làm cho chúng sinh sôi nảy nở. Tôi trao chùm chìa khóa cho quý vị. Hãy mở cổng thiên đàng nội tâm và tận hưởng nó."*
+
+5 hạt giống = kỹ thuật Vipassana. Bốn loại học trò:
+1. **Từ chối** ("không phải cho tôi") → không có lợi ích
+2. **Gắn bó hời hợt** ("tìm cảm giác") → không có lợi ích bền vững
+3. **Bảo tồn trí thức** ("tôi biết Vipassana") → tĩnh, không tăng trưởng
+4. **Thực hành hàng ngày + chia sẻ** → lợi ích nhân rộng cho bản thân và người khác
+
+### Mettā — Học Phí Hàng Ngày
+
+Goenka kết thúc bằng một mô hình "thanh toán" độc đáo:
+
+> *"Phí thù lao của tôi: sáng và tối, sau khi thiền một tiếng đồng hồ — hãy chia sẻ công đức của mình cho mọi chúng sanh. Nguyện cho tất cả chúng sanh được hạnh phúc, được an vui. Khi quý vị nói 'tất cả chúng sanh' — tôi cũng là một trong số đó. Và metta-tâm từ của quý vị sẽ đến với tôi. Đây là phí của quý vị mỗi ngày."*
+
+Bạn không trả bằng tiền. Bạn "trả" bằng cách lan tỏa Mettā (tâm từ) đến tất cả chúng sinh — bao gồm cả người thầy. Đây là cách ngăn thực hành trở nên ích kỷ; là sự hoàn chỉnh của mỗi buổi thiền, tái định hướng tâm về phía phục vụ.
+
+### Lời Tạm Biệt
+
+> *"Hãy tiếp tục thăng tiến trong Dhamma. Hãy tiếp tục thăng tiến trong Dhamma. Dhamma huyền diệu biết bao — người ta chỉ có được Dhamma tinh khiết nếu đã từng làm điều rất tốt trong quá khứ. Nếu người ta rất may mắn."*
+
+> *"Khổ đau đầy rẫy khắp nơi. Con người đang đau khổ. Làm thế nào để giúp họ thoát khỏi khổ đau? Hãy tiếp tục thăng tiến trong Dhamma."*
+
+---
+
+*Bản gốc tiếng Việt từ transcript audio — có một số lỗi nhận dạng giọng nói đã được diễn giải theo ngữ cảnh.*

@@ -1,0 +1,91 @@
+---
+title: "Nghiêm Huệ Đầu Tư"
+created: 2024-08-21 10:27:31
+updated: 2024-10-09 10:03:31
+---
+  * Hành động [[October 9st, 2024]]
+    * Khoá thời gian biểu lại 
+      * https://docs.google.com/spreadsheets/d/141uNYs-MRpnWaN54tDrl00UNRQSVufp44oQcF4cZZVg/edit?gid=361276413#gid=361276413
+      * https://docs.google.com/spreadsheets/d/1uhFWmE212wEhnYXnlDufzD3EKsK0Q88IaQvZjnr5H10/edit#gid=361276413
+    * Thời gian cần đảm bảo
+      * 1 giờ học (từ giờ đến 30.10 học hết)
+        * Khoá học
+          * https://www.skool.com/freedom/classroom/3ac5b82e?md=f9064e395c94446f9f02a4ce96d6d2e9
+        * Học xong ghi chép lại
+      * 1 giờ đọc sách (từ giờ đến 30.10 đọc hết)
+        * Sách
+          * 100M leads (10 ngày)
+          * Săn đón khách tiềm năng (10 ngày)
+        * Học xong ghi chép lại
+      * 4 giờ làm việc tập trung 100%
+        * 1 giờ làm việc hằng ngày
+          * [[Setter]] 50'
+            * [[Facebook Daily Cao]] 30'
+              * Mục tiêu: Tạo ra những điểm chạm
+              * Điểm chạm
+                * Gửi lời chúc mừng sinh nhật tất cả những bạn hôm nay
+                  * Chúc mừng sinh nhật anh A. Chúc anh tuổi mới mạnh khoẻ, bản lĩnh, vững vàng trước mọi tình huống và đạt thành công trong sự nghiệp ^^
+                  * Em chúc mừng sinh nhật chị B. Chúc chị tuổi mới ngày càng xinh đẹp, khoẻ mạnh, tràn ngập niềm vui và gặt hái thành công trong cuộc sống ạ <3
+                  * Chúc mừng sinh nhật anh! Chúc anh sức khỏe và thành công hơn nữa để chinh phục các mục tiêu sắp tới nhé!
+                * Xác nhận kết bạn với bạn bè tiềm năng tất cả những bạn hôm nay
+                  * “Hi anh/chị A, rất vui được kết nối với anh/chị ạ!”
+                  * “Em thấy hình như chị cũng làm trong mảng…”
+                * Rep story với 20 người 
+                  * Khách hiện tại
+                  * Khách tiềm năng
+                * Tương tác (bình luận) với 20 người trên bảng tin 
+                  * Bình luận, thả tim
+                * Mời 20 thành viên mỗi ngày tham gia nhóm Học Viện Số 
+                  * Số lượng: 20 người/ngày
+                  * Nguồn: bạn bè trên facebook, thành viên chung trong các nhóm đào tạo
+            * Nhóm [[Xây Dựng Học Viện Số]] 10'
+              * Duyệt thành viên (hết các thành viên trong ngày 8:00-17:00) 
+                * Nhắn tin chào mừng, kết nối và gửi thông tin với thành viên được duyệt:
+                  * Hi A, Thảo vừa chấp nhận bạn vào group Học Viện Số!
+                  * Bạn có thể xem thêm chương trình tại cộng đồng tại đây:
+                  * https://www.skool.com/thenewrich
+                * Nhắn tin nhắc nhở với những thành viên chưa trả lời câu hỏi để được duyệt vào cộng đồng
+                  * “Hi bạn, mình thấy bạn truy cập vào nhóm Học Viện Số. Bạn vui lòng trả lời đầy đủ các câu hỏi để được phê duyệt nhé!”
+            * Nhóm [[Skool]] 10'
+              * Duyệt thành viên
+              * Remove thành viên scam
+              * Remove bài viết không hợp tiêu chuẩn
+          * [[10X]] 10'
+            * Hỗ trợ học viên trả phí
+              * Học viên mới [[Active]] 5'
+                * Tạo nhóm
+                  * Khi thấy thành viên mới ở nhóm: https://www.skool.com/freedom
+                  * Add FB: Học Viên, Thảo Trần, Mai Linh, Trần Mạnh Đức
+                  * Chia sẻ về vai trò thành viên
+                    * ....
+                  * Các thành viên coach say hi với học viên
+                  * Đặt tên: CC 10X + Tên Học viên
+                  * Add HV vào group: CC 10X Social Coaching https://www.facebook.com/messages/t/7519526058095281
+                * Onboarding
+                  * Gửi tin nhắn cho họ
+                    * Welcome anh/ chị tới 10X! Trước tiên chị học khoá này để hiểu về nguyên tắc, cam kết và cách thức học tập nhé ạ !❤️‍🔥
+                    * https://www.skool.com/freedom/classroom/e1c185cc?md=aa390107759746679a6722d5bce0d881
+                  * Sau một ngày remind họ
+                    * Bước 1: Điền form (anh chị nhớ đọc kỹ phần nguyên tắc rules) https://successoceans.sg.larksuite.com/share/base/form/shrlgiM63KVeG2tyZMtsApOSN2E.
+                    * Bước 2: Xem video hướng dẫn học tập tại đây: https://www.skool.com/freedom/kick-off, xác nhận dưới bài viết là “Đã Hoàn Thành".
+                    * Bước 3: Học khoá Lên Kế Hoạch (rất quan trọng) này, ghi chép rõ bước hành động: https://youtube.com/live/FAgtb3Ps7Yk?feature=share.
+                    * Bước 4: Sau khi hoàn thiện báo lại tại nhóm này, Thảo và Đức sẽ có một buổi định hướng riêng cho anh chị, lịch đặt có tại đây: https://calendly.com/thenewrichvn/10x (chỉ đặt lịch khi đã hoàn thiện 3 bước trên).
+              * Học viên [[Cancelling]] 5'
+                * Hỏi thăm gián tiếp
+
+                * Hỏi thẻ anh chị gặp vấn đề gì cần em hỗ trợ không ạ?
+        * 1 giờ làm việc của ngày, tuần hôm đó (có thể linh động)
+          * Gửi tài liệu
+        * 1 giờ xác thực khách chất lượng, follow khách mới, khách cũ (có thể linh động)
+        * 1 giờ call tư vấn, kết nối, on boarding (có thể linh động)
+      * Ưu tiên làm: 6:00 -12:00 có thể hoàn thiện hết!
+    * Cách di chuyển đến lịch hẹn
+      * Xác thực bằng đặt câu hỏi
+        * ART
+        * Bốn yếu tố
+      * Tiêu thụ nội dung thay vì giải thích
+        * Facebook Profile
+        * Skool Roadmap
+      * Follow up mỗi ngày 
+        * Học coi đến đâu
+        * Hẹn lịch tư vấn

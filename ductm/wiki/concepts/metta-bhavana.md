@@ -41,3 +41,37 @@ Goenka describes mettā as the "daily fee" — the gift practitioners give to th
 - [[equanimity-with-sensation]] — The prior state that makes Mettā genuine
 - [[sn-goenka]] — Teacher of this tradition
 - [[vipassana]] — Parent topic hub
+
+---
+
+## Tóm tắt tiếng Việt (Tâm Từ Bi)
+
+**Mettā Bhāvanā** (Pāli: thiền Tâm Từ) là thực hành cuối cùng được dạy trong khóa thiền 10 ngày của thiền sư S.N. Goenka — được thực hành vào Ngày 11 như buổi "tốt nghiệp."
+
+### Cơ chế cốt lõi
+
+Sau 10 ngày thanh lọc tâm qua thực hành Vipassana (quan sát cảm giác với tâm xả), thiền sinh chia sẻ sự bình an tích lũy được ra bên ngoài:
+
+> *"Cầu cho tất cả chúng sinh được hạnh phúc, cầu cho tất cả chúng sinh được bình an."*
+
+Tâm đã được thanh lọc tỏa ra Mettā ra ngoài — không phải như một lời cầu nguyện suông, mà như sự tràn đầy tự nhiên của sự trong sạch nội tâm.
+
+### Phân biệt quan trọng
+
+| Thực hành | Hướng | Bản chất |
+|-----------|-------|----------|
+| **Vipassana** | Hướng vào trong | Thanh lọc — loại bỏ cấu uế |
+| **Mettā** | Hướng ra ngoài | Chiếu tỏa — chia sẻ sự trong sạch |
+
+Nếu không có sự thanh lọc trước, Mettā chỉ là lời nói rỗng. Với sự thanh lọc (qua Vipassana), Mettā trở thành sự truyền tải năng lượng thực sự.
+
+### Mettā như "Phí Hàng Ngày"
+
+Goenka mô tả Mettā như "phí hàng ngày" — món quà mà thiền sinh tặng cho thế giới mỗi ngày, bù lại cho những gì họ nhận được từ thực hành Vipassana. Nó được thực hành vào cuối mỗi buổi ngồi thiền.
+
+### Thực hành hàng ngày
+
+- Thực hành cuối mỗi buổi ngồi thiền (5–10 phút)
+- Bắt đầu từ chính mình, lan rộng ra người thân, và cuối cùng đến tất cả chúng sinh
+- Không yêu cầu bất kỳ hình thức tôn giáo cụ thể nào
+- Là phần không thể thiếu của lộ trình: Sīla → Samādhi → Paññā → **Mettā**

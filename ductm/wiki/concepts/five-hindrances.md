@@ -2,8 +2,10 @@
 title: "Pañca Nīvaraṇa — Five Hindrances to Meditation"
 type: concept
 created: 2026-04-13
+updated: 2026-04-14
 tags: [vipassana, five-hindrances, meditation-obstacles, nivarana, craving, aversion, sloth, restlessness, doubt]
 topic: vipassana
+language: bilingual
 ---
 
 # Pañca Nīvaraṇa (Five Hindrances)
@@ -101,3 +103,50 @@ Goenka provides a measurable indicator of progress:
 **Cross-Framework:**
 - [[frustration-tolerance]] (Sam Ovens) — Hindrance #4 (restlessness) + #2 (aversion) = low frustration tolerance; training Vipassana directly addresses this
 - [[emotional-regulation]] — Hindrances are the emotional patterns that regulation aims to manage
+
+---
+
+## Tóm tắt tiếng Việt (Năm Chướng Ngại)
+
+**Pañca Nīvaraṇa** (Pāli: "năm chướng ngại/màn che") là năm trạng thái tâm lý cản trở sự phát triển của định (samādhi) và tuệ (paññā) trong thiền định. Chúng không phải là chướng ngại bên ngoài mà là các thói quen phản ứng nội tâm nổi lên và che khuất sự thấy biết rõ ràng.
+
+### Năm Chướng Ngại
+
+| # | Pāli | Tiếng Việt | Biểu hiện trong khóa tu |
+|---|------|------------|--------------------------|
+| 1 | **Kāmacchanda** | Ham muốn khoái lạc | Muốn có cảm giác dễ chịu; thèm muốn trải nghiệm của người khác |
+| 2 | **Byāpāda** | Sân hận / Chán ghét | Chống lại cơn đau; căm ghét trải nghiệm hiện tại |
+| 3 | **Thīna-middha** | Buồn ngủ / Uể oải | Cơn buồn ngủ không thể cưỡng lại; tâm tối tăm nặng nề |
+| 4 | **Uddhacca-kukkucca** | Dao động / Lo lắng | Bồn chồn không thể yên; ám ảnh phải cử động; tâm không định |
+| 5 | **Vicikicchā** | Nghi ngờ | Nghi thầy, nghi pháp, hoặc nghi khả năng của chính mình |
+
+### Nghịch Lý Bi Hài — "Chướng ngại ngay trong con đường thoát chướng ngại"
+
+Goenka chỉ ra một nghịch lý quan trọng: thiền sinh đến để **thoát khỏi** tham và sân, nhưng trong lúc thực hành hai chướng ngại này lại được **khuếch đại**:
+
+- **Chướng ngại #1 (Ham muốn)**: "Tôi muốn có cảm giác vi tế như người kia!" → Ham muốn trong danh nghĩa giải thoát
+- **Chướng ngại #2 (Sân hận)**: "Cái đau này là vĩnh viễn!" → Căm ghét cơn đau ngay trong buổi tập được thiết kế để giải thoát khỏi sân hận
+
+**Lời dạy:** Chướng ngại giống như "những kẻ chiếm đóng" trong ngôi nhà của tâm. Khi thực hành Vipassana, chúng không muốn rời đi và chủ động kháng cự.
+
+### Thuốc Giải
+
+| Chướng ngại | Thuốc giải | Hướng dẫn của Goenka |
+|-------------|------------|----------------------|
+| Ham muốn khoái lạc | Chấp nhận thực tại hiện tại đúng như nó là | "Cái gì không có ở đây thì đừng muốn nó" |
+| Sân hận / Chán ghét | Nhận ra tính vô thường của cảm giác đau | "Để tôi xem nó tồn tại được bao lâu" |
+| Buồn ngủ / Uể oải | Thở mạnh; đi bộ thiền hành 10 phút | "Thở mạnh lên; sau đó tiếp tục" |
+| Dao động / Lo lắng | Quay lại đối tượng thiền | "Bạn đang ở đúng chỗ rồi — tiếp tục" |
+| Nghi ngờ | Tiếp tục làm việc | Nghi ngờ cũng chỉ là một cảm giác — quan sát nó |
+
+### Ẩn Dụ Ánh Sáng
+
+> *"Khi quý vị thực hành Vipassana, những tật xấu này phải ra đi — cũng như khi bật công tắc đèn lên, ánh sáng đến, bóng tối phải ra đi."*
+
+Không cần phải **chiến đấu** với chướng ngại. Chỉ cần tạo ra phẩm chất đối nghịch (tỉnh giác, tâm xả). Chướng ngại tự tan biến khi có sự quan sát liên tục với chánh niệm — như bóng tối không thể tồn tại cùng ánh sáng.
+
+### Liên hệ thực tiễn với cuộc sống
+
+- **Năng suất**: Chướng ngại #3 (buồn ngủ) và #4 (dao động) là lý do tại sao deep work thất bại
+- **Cảm xúc**: Chướng ngại #1 và #2 là nguồn gốc của mọi rối loạn cảm xúc
+- **Quyết định**: Chướng ngại #5 (nghi ngờ) là "analysis paralysis" ở tầng sâu nhất

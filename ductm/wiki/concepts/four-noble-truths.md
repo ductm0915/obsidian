@@ -2,9 +2,10 @@
 title: "Four Noble Truths"
 type: concept
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-14
 sources:
   - "[[vipassana-day-5]]"
+  - "[[harari-dhamma-ai-nexus]]"
 tags:
   - vipassana
   - buddhism
@@ -81,15 +82,27 @@ Goenka dùng pain khi ngồi 1 tiếng như ví dụ sống động:
 
 ---
 
+## Góc Nhìn Của Harari
+
+[[yuval-noah-harari]] tiếp cận Tứ Diệu Đế như **framework thực nghiệm**, không phải tín điều:
+
+- *"This is not a credo. This is not something I believe... It's about actually practicing it, witnessing it."*
+- Noble Truth 1: khi ngồi thiền đau lưng + tâm agitated = "you are in the presence of the first noble truth. If I can only be with that — this is liberation."
+- Noble Truth 2: chứng kiến trực tiếp moment craving nảy sinh → misery nảy sinh (sau 40-50 phút meditation khi nghĩ "sắp xong rồi...")
+- → Kết nối với [[suffering-as-rejection]]: khổ = tâm từ chối thực tại
+
 ## Connects To
 
 - [[dependent-origination]] — cơ chế chi tiết của Samudaya
 - [[sankara-mental-volition]] — nguyên nhân gốc rễ (Avijja → Sankara)
 - [[body-sensation-junction]] — vị trí then chốt trong Magga
 - [[equanimity-with-sensation]] — kỹ năng cốt lõi của Magga
+- [[suffering-as-rejection]] — Harari's definition: suffering = rejection of reality
 - [[sn-goenka]] — người giảng dạy
+- [[yuval-noah-harari]] — diễn giải experiential từ góc nhìn thiền sinh lâu năm
 - [[vipassana]] — topic hub
 
 ## References
 
 - [[vipassana-day-5]] — primary source
+- [[harari-dhamma-ai-nexus]] — Harari's experiential angle

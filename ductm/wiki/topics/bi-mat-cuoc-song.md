@@ -13,7 +13,6 @@ tags:
   - bmcs
   - vietnamese
 ---
-
 # Bí Mật Cuộc Sống (BMCS) — Tổng Hợp
 
 Chương trình 90 ngày do Mạnh Đức (DucTm) thiết kế và điều hành. Mục tiêu: giúp người học thiết kế toàn bộ cuộc sống của mình — từ tầm nhìn đến kế hoạch đến hệ thống thực thi — thay vì chỉ cải thiện một khía cạnh riêng lẻ.

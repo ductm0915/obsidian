@@ -1,0 +1,57 @@
+The simple and pure teaching of the Buddha, meant for the welfare of the many, started spreading in the towns and villages of North India. The Buddha explained that because of blind beliefs and blind dogmas, one is unable to understand the reality of Dhamma. Consequently, one is unable to practice true Dhamma and reap the benefits which accrue by following true Dhamma. The instructions given by the Buddha to the inhabitants of Kesamutti – the Kālāmās, when he visited their village, were accepted by many; because there was no chance of beguilement in these instructions.
+
+The Buddha said in clear words - Come, Kālāmās! Do not accept anything merely because –
+
+It has been heard repeatedly;
+
+It is traditional, and it is accepted through legends;
+
+It is in accordance with our scripture;
+
+It is in accordance with the logic;
+
+It is based on reasoning;
+
+Its presentation is pleasant and attractive;
+
+It is according to our notion and belief;
+
+The speaker's personality is very attractive (This reference is especially     indicated towards His own personality);
+
+The speaker is venerated by us (This reference also is especially indicated towards His own personality).
+
+Therefore, do not accept anything said by someone or any heresy based on blind belief or blind faith.
+
+The truth which you know by your own experience, that these qualities are skillful, blameless, and our welfare and happiness lies in practicing these qualities, you should accept only this much.
+
+When you have known the truth by your own experience and realized that these qualities are skillful, then do not stop after merely knowing but practice them. When you practice them, then only they lead to your welfare.
+
+The Buddha's instructions were not only accepted by those Kālāmās, but it also encouraged many people to walk on the path leading to the truth.
+
+It is my own experience. I was born and brought up in a staunch Hindu family. I was a leader of the Indians in Burma and particularly of the Hindus. I considered the Buddha as highly venerable. I visited their temple and bowed to him also. This was done only because the Buddha was also an incarnation of the Vishnu, thereby meaning that he was an incarnation of the God. But, besides this, there was a strong belief prevalent in society that the instructions given by him as this incarnation were only meant for the wicked people and that by practicing these precepts (preaching) they fall down to hell. Hence, we should never walk on the path shown by him.
+
+When owing to some special reason, I had to join a course at the Vipassana Centre of Venerable Sayagyi U Ba Khin; I did so with above doubts. At the centre, while waiting for some time, I happened to see a book on Kālāma Sutta. I picked up the book and read it. After going through it, I was convinced that there was no place for Gurudom here in the name of Dhamma. I realized that this person does not give importance merely to acceptance and consequently is not spreading blind belief. On the other hand, he gives importance to understanding the truth by one's own experience. I did not find any beguilement of Gurudom in his instructions. So, with this assurance, I decided to sit in the course.
+
+In this way, we can understand that many people carrying various kinds of doubts and prejudices, after perceiving the truth of the Buddha's teaching, became his followers.
+
+Considering such a great expansion of land of North India with its vast population, where many rites and rituals based on many kinds of blind folded beliefs and dogmas were prevalent, the Buddha's instructions still brought about changes in some of these wrong beliefs. For example, the removal of the doubts in the mind of Sigāla, son of a rich man, in respect of bowing to six directions was explained in a previous issue dated 30 September 2012.
+
+When food is offered to some deity, a question arises that if this food could reach a deity of far off region and whose existence is even doubtful then why should people going away from their homes on journey carry food with them? The food may be offered to them at home itself. When the truth of this became clear, the people came out of this dogma also.
+
+Similarly, so many people living in the vast regions of North India were entangled in blind beliefs. Out of them, some have got rid of these blind beliefs, while some could not free themselves even till today and are still entrapped in these blind beliefs.
+
+## Blind beliefs destroy the ability to think
+
+When a person drowns himself in blind beliefs, then he does not even make use of his common sense. If he uses it then the selfish priest authenticates these blind beliefs with justifications drawn from the scriptures and threatens him that his sophistry will lead him to hell. All the logic which dismantles the blind belief is termed as sophistry. A frightened human being is unable to even understand such a small truth that if the sins were all washed away by taking a bath in a river, then it could be decisively taken that the welfare of all the aquatic living beings like fish, frogs, tortoises, crocodiles, etc after their present life is ensured. In case the thieves, dacoits, murderers, wicked and licentious persons wash away their sins in the river, then certainly they should be considered as eligible to take birth in heaven. When such wrong beliefs become prevalent then misdeeds are encouraged instead of good deeds. A human being spoils both his present as also his future. In comparison, when the Dhamma is established in its pristine purity, then a person improves both his present life as also his future life.
+
+Dhamme ca ye ariyappavedite ratā, Anuttarā te vacasā manasā kammunā ca. Te santisoraccasamādhisaṇṭhitā, Vajanti lokaṃ dubhayaṃ tathāvidhā.
+
+-- Those who practice the dhamma path shown by the noble ones, they perform wholesome mental, vocal and bodily actions, they get established in calmness, gentleness and concentration. As a result of it after their death, their going forth in the two abodes is assured i.e. either as a god or as a human being.
+
+## Bathing in the river in hot climate
+
+In a country where the climate is hot, it is understandable that one takes bath once, twice or thrice in the nearby river or pond, because the body perspires a lot and bathing is helpful in keeping the body healthy and clean. But linking this activity with the Dhamma, and turning it into a ritual, and getting it established as a wrong belief that this bathing will wash away the sins, leads only to polluting the pure Dhamma based on the principle of Kamma i.e. action and its appropriate result.
+
+A weak person is affected by this inferiority complex that he cannot eradicate the defilements accumulated due to his past misdeed with the strength of his meditation. His inferiority complex is further strengthened by priests who have made Dhamma a source of their livelihood. Such priests give false assurances to their host that by taking bath here, so and so female deity of this river or so and so male deity of this pond will become happy and will release one from all sinful misdeeds. This assurance seems very pleasant and attractive to a weak person with agitated mind and the person accepts this ritual as pure Dhamma. This blind belief spreads easily in society and after passing through many generations takes strong roots. An Enlightened person grown in perfect wisdom gives deliverance to society from this blind belief and encourages people to practice pure Dhamma based on wholesome actions.
+
+Come, Students! Let us also come out of the net of such blind beliefs and blind dogmas and adopt the healthy tradition of Dhamma as a part of our life and work for our welfare and happiness!

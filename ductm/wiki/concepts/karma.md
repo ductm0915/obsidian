@@ -43,3 +43,42 @@ The WIT framework also connects karma to the **Law of Reincarnation** ([[quy-lua
 - [[dependent-origination]] — The 12-link chain where karma operates
 - [[four-noble-truths]] — The diagnostic framework for karma as suffering
 - [[vipassana]] — Practice that breaks karmic chains
+
+---
+
+## Tóm tắt tiếng Việt (Nghiệp — Kamma)
+
+**Nghiệp** (Sanskrit: Karma; Pāli: Kamma) là quy luật nhân quả áp dụng cho các hành động có chủ ý — nguyên tắc rằng mọi hành động có chủ tâm (về tâm, lời, thân) đều tạo ra kết quả tương ứng (quả/vipāka).
+
+### Định nghĩa theo Vipassana / Goenka
+
+Trong giáo lý của Goenka, nghiệp **không phải là thuyết định mệnh** — mà là quá trình chủ động, từng khoảnh khắc, mà tâm tạo ra trải nghiệm của chính nó:
+
+> *"Mỗi lần phản ứng với tham hay sân, bạn đang gieo một hạt nghiệp mới. Mỗi lần quan sát với tâm xả, bạn ngắt vòng lặp."*
+
+Nghiệp vận hành qua **tập khí** (saṅkhāra — các phản ứng tâm lý):
+- Tập khí sinh ra hành động
+- Hành động để lại tập khí mới
+- Tập khí mới sinh ra hành động tiếp theo
+- Chuỗi này = vòng lặp nghiệp
+
+### Cách thoát khỏi vòng lặp nghiệp
+
+| Con đường | Phương pháp |
+|-----------|-------------|
+| **Vipassana** | Quan sát tập khí (cảm giác thân) mà không phản ứng — phá vòng lặp tại gốc |
+| **WIT** | Nhận diện và chuyển hóa các mẫu nghiệp qua công việc ý thức |
+
+### Ba Loại Nghiệp (theo WIT — Ba Cây Nghiệp)
+
+1. **Thân nghiệp** — nghiệp của hành động thân thể
+2. **Khẩu nghiệp** — nghiệp của lời nói
+3. **Ý nghiệp** — nghiệp của tư duy và ý định ← **cái gốc của tất cả**
+
+Ý nghiệp là quan trọng nhất: một hành động thân hay lời nói không có chủ ý (vô tình) tạo ít nghiệp hơn so với hành động được cố ý lên kế hoạch.
+
+### Ứng dụng thực tiễn hàng ngày
+
+- **Quan sát trước khi phản ứng**: mỗi khoảnh khắc dừng lại để quan sát là một khoảnh khắc không tạo thêm nghiệp tiêu cực
+- **"Hạt giống và quả"**: hành vi hiện tại đang gieo hạt cho tương lai — không có thần linh nào phán xét, chỉ có luật tự nhiên vận hành
+- **Nhân quả không chậm trễ**: nghiệp bắt đầu ngay trong tâm — sân hận tạo khổ ngay lập tức, không đợi đến "kiếp sau"
