@@ -648,3 +648,39 @@ Ingest toàn bộ kho lưu trữ Bản Tin Vipassana bản tiếng Việt. 47 PD
 - [[vnl-2025-01]], [[vnl-2025-02]], [[vnl-2025-03]], [[vnl-2025-04]], [[vnl-2025-05]] (Tập 35/1)
 
 **Updated:** [[vipassana]] (thêm 46 source refs + VNL section), [[index]] (tổng 471 pages, 159 sources)
+
+## [2026-04-14] ingest | 5 Goenka Articles + 2 Hormozi/Munger Articles
+Ingest 7 raw articles: 5 bài giảng Goenka chưa có trong wiki (Smith College 1991, Progress in Vipassana, Davos Religion 2000, Global Pagoda 2006, Rites & Rituals Q&A) + 2 bài Hormozi về Charlie Munger.
+
+**Nguồn Goenka:**
+- `raw/articles/Vipassana/S.N Goenka/Keeping our Own Minds Healthy.md`
+- `raw/articles/Vipassana/S.N Goenka/Progress in Vipassana Meditation.md`
+- `raw/articles/Vipassana/S.N Goenka/Religion.md`
+- `raw/articles/Vipassana/S.N Goenka/Vipassana The Practical Path to Unity in Diversity.md`
+- `raw/articles/Vipassana/S.N Goenka/Vipassana and Rites & Rituals.md`
+
+**Nguồn Hormozi:**
+- `raw/articles/Alex Hormozi/Charlie Munger Changed My Life 8 Lessons.md`
+- `raw/articles/Alex Hormozi/The 8 Laws of Business I Learned From Charlie Munger.md`
+
+**Created (source pages):**
+- [[goenka-keeping-minds-healthy]] — Occupational hazard of healing, vibration absorption, 10-min reset protocol
+- [[goenka-progress-vipassana]] — Historical lineage, Noble Eightfold Path 8-factor mapping, three types of Pragya
+- [[goenka-religion]] — Inner core vs. outer shell framework, Davos 2000
+- [[goenka-unity-in-diversity]] — Buddha as super-scientist, kalapas, Asoka, U Ba Khin, only-conversion
+- [[goenka-rites-rituals]] — Ganges metaphor, samayika/kayotsarga/pratikramana/sandhya etymology
+- [[hormozi-charlie-munger-8-lessons]] — UESMO, inversion, Three L's, brand-as-moat, learning taxonomy
+- [[hormozi-charlie-munger-8-laws]] — Inverted 8 laws + 9th (negative visualization, pressure management)
+
+**Created (concept pages):**
+- [[inversion-thinking]] — Munger/Einstein "invert, always invert"; threat-detection bias exploit
+- [[uesmo-framework]] — Unique, Expensive, Sticky, Managed by Owner; Munger's perfect business
+- [[negative-visualization]] — Stoic premeditatio malorum; expectation-reality gap; maps to anicca
+- [[inner-core-outer-shell]] — Religion's two aspects; fundamentalism diagnosis; Vipassana as pure core
+- [[occupational-absorption]] — Caregiver vibration absorption; latent seed activation; 10-min reset
+
+**Updated (concept pages):**
+- [[mental-models]] — Added Munger's specific frameworks: inversion, UESMO, Three L's, brand-as-moat; updated sources
+- [[sila-samadhi-panna]] — Added Noble Eightfold Path 8-factor breakdown; added goenka-progress-vipassana as source
+
+**Updated:** [[index]] (tổng 487 pages, 166 sources)

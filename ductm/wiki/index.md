@@ -9,11 +9,12 @@ updated: 2026-04-08
 
 Master catalog of all pages in this wiki. Organized by category. The LLM reads this first when answering queries to find relevant pages.
 
-**Total pages:** 471  
-**Total sources ingested:** 159  
+**Total pages:** 487  
+**Total sources ingested:** 166  
 **Last updated:** 2026-04-14  
 **Bilingual update:** 2026-04-14 — All 30 Vipassana files (11 course days EN+VI, 8 Goenka lectures EN+VI summary, 3 Days Vietnamese-only) fully ingested with bilingual content  
-**Newsletter update:** 2026-04-14 — 46 Bản Tin Vipassana (VNL) issues ingested: 2012-12, 2021 (7 issues), 2022 (12), 2023 (12), 2024 (9), 2025 (5)
+**Newsletter update:** 2026-04-14 — 46 Bản Tin Vipassana (VNL) issues ingested: 2012-12, 2021 (7 issues), 2022 (12), 2023 (12), 2024 (9), 2025 (5)  
+**Ingest batch 2026-04-14:** 5 Goenka standalone lectures + 2 Hormozi/Munger articles → 7 source pages + 5 new concept pages + 2 concept updates
 
 ---
 
@@ -88,6 +89,8 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[hormozi-self-running-business]] — 5-step framework for owner-independent businesses: self-inventory, managing vs doing, decision infrastructure, marketing systems, LMA test (2026-04-13).
 - [[hormozi-win-with-ai-2026]] — AI adoption urgency, workflow-vs-role thinking, BYOA model, train-AI-like-employee, barbell strategy, phase shift metaphor (2026-04-13).
 - [[hormozi-brutally-honest-truths]] — 15 mindset principles: fear vs. regret, persistence creates timing, envy vs. effort, hard conversations, the hard way is easy, shame vs. guilt (2026-04-13).
+- [[hormozi-charlie-munger-8-lessons]] — Hormozi tribute to Munger: 8 lessons (inversion, Three L's, simplicity, UESMO, enough-is-enough, brand-as-moat, live-within-means, learn-from-others) (2026-04-14).
+- [[hormozi-charlie-munger-8-laws]] — Munger's 8 laws in inverted frame + Hormozi's 9th: pressure management, negative visualization, measuring-stick problem, reliability compounding (2026-04-14).
 
 ### Vipassana — Course Discourses
 - [[vipassana-day-1]] — **[Song ngữ EN+VI]** Day 1 Discourse: Anapana introduction, wild mind diagnosis, surgical metaphor, practical rules and Noble Silence (2026-04-14).
@@ -111,6 +114,11 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[goenka-buddhas-path]] — **[EN + Tóm tắt VI]** Buddha's Path is to Experience Reality (Bangkok 1989): four foundations, causal chain, kalāpa physics, anusaya kilesa as sleeping volcanoes (2026-04-14).
 - [[goenka-dhamma-spread]] — **[EN + Tóm tắt VI]** May Dhamma Spread! (Yangon 2012): dana model, universal Sīla-Samādhi-Paññā formula, Myanmar gratitude, migraine story as by-product (2026-04-14).
 - [[goenka-yoga-vipassana]] — **[EN + Tóm tắt VI]** Yoga as seen in the light of Vipassana (Bombay 1990): Patanjali Yoga Sutra = Vipassana; 8 jhanas + honey bee metaphor; sampajanna as key innovation; anusaya kilesa (2026-04-14).
+- [[goenka-keeping-minds-healthy]] — **[EN + Tóm tắt VI]** Keeping Our Own Minds Healthy (Smith College 1991): occupational absorption, vibration resonance, 10-min Vipassana reset, pure mind as powerful healer (2026-04-14).
+- [[goenka-progress-vipassana]] — **[EN + Tóm tắt VI]** Progress in Vipassana Meditation: historical lineage from Buddha to present, Noble Eightfold Path 8-factor mapping, three types of Pragya, Vipassana etymology (2026-04-14).
+- [[goenka-religion]] — **[EN + Tóm tắt VI]** Religion (Davos 2000): inner core (morality/love) vs. outer shell (rites/dogmas); fundamentalism diagnosis; Vipassana as pure inner core (2026-04-14).
+- [[goenka-unity-in-diversity]] — **[EN + Tóm tắt VI]** Vipassana: The Practical Path to Unity in Diversity (Global Pagoda 2006): Buddha as super-scientist, kalapas, Asoka's golden age, U Ba Khin integrity model, only-conversion Vipassana makes (2026-04-14).
+- [[goenka-rites-rituals]] — **[EN + Tóm tắt VI]** Vipassana and Rites & Rituals: Ganges water metaphor, etymology of samayika/kayotsarga/pratikramana/sandhya, why rites cannot coexist with Vipassana during course (2026-04-14).
 
 ### Vipassana — Bản Tin (VNL Newsletter)
 - [[vnl-2012-12]] — Tập 22, Số 13 (12/2012): mettā, danh sách Center Teacher toàn cầu, trách nhiệm lan truyền Dhamma, Quỹ Global Vipassana Pagoda (2026-04-14).
@@ -505,10 +513,17 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[arahant-path]] — Arahant Path: the four stages to full liberation; Vipassana as the practical vehicle (2026-04-14).
 - [[continuity-of-practice]] — Continuity of Practice: 2h/day every day compounds more than episodic intensity; key Goenka instruction (Days 7, 11) (2026-04-14).
 
+### Vipassana Concepts (Additional — Round 2)
+- [[inner-core-outer-shell]] — Inner Core vs. Outer Shell: Goenka's framework; all religions share an inner core of morality/love; outer shell = rites/dogmas; fundamentalism = shell dominates (2026-04-14).
+- [[occupational-absorption]] — Occupational Absorption: caregivers absorb client suffering through vibration resonance; the latent-seed activation mechanism; 10-min Vipassana reset protocol (2026-04-14).
+
 ### Business / Hormozi (Additional)
 - [[hormozi-money-levels]] — Hormozi 6 Levels of Making Money: compensation structures from W2 to tax-collector/risk-seller; risk borne = upside earned (2026-04-14).
 - [[hormozi-integrity-framework]] — Hormozi Integrity Framework: integrity = zero gap between stated and demonstrated behavior; the foundation of business trust (2026-04-14).
 - [[hormozi-personal-development]] — Hormozi Personal Development: doing = being; my-fault philosophy; anger as fuel; cringe-status play (2026-04-14).
+- [[inversion-thinking]] — Inversion Thinking: Munger/Einstein's "invert, always invert"; exploit threat-detection bias to solve problems from the failure direction (2026-04-14).
+- [[uesmo-framework]] — UESMO: Munger's perfect business criteria — Unique, Expensive, Sticky, Managed by Owner; brand as the U (2026-04-14).
+- [[negative-visualization]] — Negative Visualization: Stoic premeditatio malorum; imagine worst 1000x to close expectation-reality gap; maps to anicca in Vipassana (2026-04-14).
 
 ### WIT (Additional)
 - [[wit-phung-su-khong-ky-vong]] — Phụng Sự Không Kỳ Vọng: Service Without Expectation; one of WIT's highest leadership virtues; mirrors Goenka's Day 10 Dhamma yardstick (2026-04-14).

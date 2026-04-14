@@ -93,7 +93,28 @@ Framework Sila-Samadhi-Panna không chỉ áp dụng trong thiền — mà là *
 - [[sankara-mental-volition]] — điều Panna đang eradicate
 - [[vipassana]] — topic hub
 
+## Noble Eightfold Path — Full 8-Factor Mapping
+
+From [[goenka-progress-vipassana]], the 8 factors map onto the 3-tier structure:
+
+**Sīla (3 factors):**
+1. Sammā Vācā — Right Verbal Action
+2. Sammā Kammanta — Right Physical Action
+3. Sammā Ājīva — Right Livelihood
+
+**Samādhi (3 factors):**
+4. Sammā Vāyāma — Right Exertion
+5. Sammā Sati — Right Attentiveness
+6. Sammā Samādhi — Right Concentration
+
+**Paññā (2 factors):**
+7. Sammā Saṅkappa — Right Aspiration
+8. Sammā Diṭṭhi — Right Understanding (= Right Experiencing)
+
+Note: Paññā has only 2 factors because "Right Understanding" is fundamentally *Right Experiencing* — it cannot be separated from direct realization.
+
 ## Nguồn
 
 - [[vipassana-day-2]] — Giới thiệu đầy đủ ba tầng
 - [[vipassana-day-10]] — Review và tổng kết sâu về vai trò của mỗi tầng
+- [[goenka-progress-vipassana]] — Bản đồ chi tiết 8 yếu tố Con Đường Tám Nhánh; lịch sử Vipassana từ Đức Phật đến ngày nay
