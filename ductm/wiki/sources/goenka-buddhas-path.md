@@ -5,7 +5,7 @@ created: 2026-04-13
 updated: 2026-04-14
 author: "S.N. Goenka"
 language: English (with Vietnamese summary)
-source_file: "raw/articles/Vipassana/S.N Goenka/Buddha's Path is to Experience Reality.md"
+source_file: "raw/articles/Vipassana/S.N Goenka/Discourses on Vipassana in Daily Life/Buddha's Path is to Experience Reality.md"
 tags: [vipassana, anicca, vedana, sankara, four-foundations, kalapa, conscious-unconscious, anusaya]
 topic: vipassana
 ---

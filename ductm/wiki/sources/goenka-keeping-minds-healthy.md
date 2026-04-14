@@ -5,7 +5,7 @@ created: 2026-04-14
 updated: 2026-04-14
 author: "S.N. Goenka"
 language: English (with Vietnamese summary)
-source_file: "raw/articles/Vipassana/S.N Goenka/Keeping our Own Minds Healthy.md"
+source_file: "raw/articles/Vipassana/S.N Goenka/Discourses on Vipassana in Daily Life/Keeping our Own Minds Healthy.md"
 tags: [vipassana, goenka, health-care, occupational-hazard, pure-mind, practitioners]
 topic: vipassana
 ---

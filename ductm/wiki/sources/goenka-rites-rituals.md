@@ -5,7 +5,7 @@ created: 2026-04-14
 updated: 2026-04-14
 author: "S.N. Goenka"
 language: English (with Vietnamese summary)
-source_file: "raw/articles/Vipassana/S.N Goenka/Vipassana and Rites & Rituals.md"
+source_file: "raw/articles/Vipassana/S.N Goenka/Discourses on Vipassana in Daily Life/Vipassana and Rites & Rituals.md"
 tags: [vipassana, goenka, rites-rituals, samayika, pratikramana, inner-core-outer-shell, jain]
 topic: vipassana
 ---

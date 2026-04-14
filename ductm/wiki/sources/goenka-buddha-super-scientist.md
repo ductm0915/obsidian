@@ -1,11 +1,12 @@
 ---
-title: "Buddha the Super-Scientist of Peace — S.N. Goenka (UN, 2002)"
+title: "Buddha The Super-Scientist of Peace — S.N. Goenka (UN Vesakha 2002)"
 type: source
 created: 2026-04-14
 updated: 2026-04-14
 author: "S.N. Goenka"
-source_file: "raw/articles/Vipassana/S.N Goenka/Discourses on the Buddha/Buddha The Super-Scientist of Peace.md"
-tags: [vipassana, buddha, dhamma, sila-samadhi-panna, un, peace, vedana, tanha, dependent-origination]
+language: English (with Vietnamese summary)
+source_file: "raw/articles/Vipassana/S.N Goenka/Discourses on Vipassana in Society/Buddha The Super-Scientist of Peace.md"
+tags: [vipassana, buddha, science, peace, experiential, mind-matter]
 topic: vipassana
 ---
 
@@ -87,12 +88,64 @@ The words "Buddhism" and "Buddhist" do not appear in the vast Pali literature. T
 
 ## Cross-References
 
-- [[sn-goenka]] — Speaker
-- [[four-noble-truths]] — Central framework of the teaching
-- [[sila-samadhi-panna]] — The three-division structure of the path
-- [[noble-eightfold-path]] — The practical path
-- [[vedana]] — Sensation as the missing link
-- [[dependent-origination]] — The law discovered by the Buddha
-- [[universal-dhamma]] — Dhamma as non-sectarian
-- [[anicca-impermanence]] — Understanding impermanence breaks the reaction cycle
+**Wiki Concepts:**
+- [[equanimity-with-sensation]] — The path at the junction: observe without generating taṇhā
+- [[anicca-impermanence]] — Understanding impermanent nature of sensations generates wisdom
+- [[asava]] — Bio-chemical āsava flows and their relationship to mind impurities
+- [[karma]] — Dependent origination as the law of cause and effect
+- [[five-hindrances]] — Negativities that create violent behavior
+- [[metta-bhavana]] — Goodwill/compassion as the long-term solution to hatred
+
+**Connected Sources:**
+- [[goenka-anger]] — Same mechanism; anger as one case of vedanā-paccayā-taṇhā
+- [[goenka-freedom-addiction]] — Addiction as āsava; same root mechanism
+- [[goenka-inner-world-peace]] — Companion UN address on inner-outer peace connection
 - [[goenka-art-of-living]] — Full elaboration of sīla-samādhi-paññā
+- [[vipassana-day-9]] — Taṇhā at the root; saṅkhāra dissolution
+
+**Cross-Framework Links:**
+- [[dhamma-and-society]] — Universal application to social violence
+- [[goenka-peace-oneself-world]] — Inner peace as prerequisite for world peace
+
+---
+
+## Tóm tắt tiếng Việt
+
+### Tổng quan bài giảng
+
+Bài này được trình bày tại Liên Hợp Quốc vào dịp Lễ Vesak năm 2002, trong bối cảnh vài tháng sau vụ tấn công 11/9. Goenka đặt ra luận điểm toàn diện nhất của mình về Đức Phật với tư cách là "siêu khoa học gia của hòa bình" — không phải người sáng lập tôn giáo mà là nhà khoa học đã khám phá các quy luật tự nhiên của tâm trí thông qua điều tra trực tiếp cá nhân.
+
+### Lý thuyết cốt lõi
+
+**Tiêu chuẩn Kālāma:** Đức Phật dạy đừng chấp nhận điều gì vì nghe nhiều lần, vì truyền thống, vì logic, vì thầy nói — mà chỉ chấp nhận sau khi tự mình nhận ra ở cấp độ trải nghiệm. Goenka gọi đây là "sắc lệnh tự do tư tưởng đầu tiên trong lịch sử nhân loại."
+
+**Khám phá trung tâm — vedanā paccayā taṇhā:** Đây là khám phá quan trọng nhất của Đức Phật. Các thầy khác dạy đừng phản ứng với đối tượng giác quan. Nhưng Đức Phật phát hiện ra chúng ta thực sự phản ứng với **cảm giác** mà những đối tượng đó tạo ra bên trong — không phải với chính đối tượng. Ẩn dụ con bò đen và bạch: không phải con bò là sự trói buộc — mà là sợi dây thừng taṇhā.
+
+**Ẩn dụ cây và rễ:** Cắt thân cây mà để rễ nguyên vẹn, cây sẽ mọc lại. Chỉ làm việc ở cấp độ cảm giác (vedanā) mới cắt được rễ taṇhānusaya (ẩn phục tham ái).
+
+**Hai con đường tại ngã rẽ của cảm giác:** Phản ứng mù quáng → nhân lên khổ đau. Quan sát bình tĩnh → thay đổi mô hình thói quen, thoát khỏi khổ đau.
+
+### Trích dẫn quan trọng (dịch tiếng Việt)
+
+1. *"Đây là tuyên bố táo bạo của một nhà khoa học tối thượng. Cũng như cho dù có Newton hay không, quy luật hấp dẫn vẫn đúng."*
+
+2. *"Sợi dây của taṇhā là sự trói buộc, và người ta tạo ra taṇhā để phản ứng với vedanā. Đây là khám phá vĩ đại của người Giác Ngộ."*
+
+3. *"Cảm giác là điểm giao thoa quan trọng nơi người ta có thể đi theo hai con đường theo hai hướng đối lập."*
+
+4. *"Đối với Đức Phật, vô minh không phải là thiếu kiến thức về niềm tin triết học — đó là thiếu kiến thức về những gì đang xảy ra bên trong mình."*
+
+### Ứng dụng thực tiễn
+
+- **Tiêu chuẩn Kālāma trong thực tế:** Bất cứ khi nào chấp nhận một điều gì đó về tâm trí, hỏi: "Tôi có thực sự biết điều này qua kinh nghiệm trực tiếp không?"
+- **Nhận ra đối tượng thực sự của phản ứng:** Khi bực bội, nhận ra không phải người đó bạn phản ứng — mà là cảm giác khó chịu trong thân.
+- **Ứng dụng vào bạo lực:** Biện pháp an ninh chỉ mang lại lợi ích ngắn hạn; chỉ thiện chí và từ bi mới loại bỏ gốc rễ của hận thù.
+
+### Liên kết khái niệm
+
+- [[equanimity-with-sensation]] — Con đường tại điểm giao thoa: quan sát mà không tạo ra taṇhā
+- [[anicca-impermanence]] — Hiểu tính vô thường của cảm giác tạo ra trí tuệ
+- [[asava]] — Dòng chảy sinh hóa āsava và mối quan hệ với bất tịnh tâm
+- [[metta-bhavana]] — Thiện chí/từ bi là giải pháp lâu dài cho hận thù
+- [[goenka-anger]] — Cùng cơ chế; sân hận như một trường hợp của vedanā-paccayā-taṇhā
+- [[goenka-freedom-addiction]] — Nghiện ngập như āsava; cùng cơ chế gốc rễ

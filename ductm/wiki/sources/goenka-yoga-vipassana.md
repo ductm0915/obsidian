@@ -5,7 +5,7 @@ created: 2026-04-13
 updated: 2026-04-14
 author: "S.N. Goenka"
 language: English (with Vietnamese summary)
-source_file: "raw/articles/Vipassana/S.N Goenka/Yoga - as seen in the light of Vipassana.md"
+source_file: "raw/articles/Vipassana/S.N Goenka/Discourses on Vipassana in Daily Life/Yoga - as seen in the light of Vipassana.md"
 tags:
   - vipassana
   - yoga

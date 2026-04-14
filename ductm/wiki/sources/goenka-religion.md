@@ -5,7 +5,7 @@ created: 2026-04-14
 updated: 2026-04-14
 author: "S.N. Goenka"
 language: English (with Vietnamese summary)
-source_file: "raw/articles/Vipassana/S.N Goenka/Religion.md"
+source_file: "raw/articles/Vipassana/S.N Goenka/Discourses on Vipassana in Daily Life/Religion.md"
 tags: [vipassana, goenka, religion, inner-core, outer-shell, morality, fundamentalism, unity]
 topic: vipassana
 ---

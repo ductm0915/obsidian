@@ -5,7 +5,7 @@ created: 2026-04-13
 updated: 2026-04-14
 author: "S.N. Goenka"
 language: English (with Vietnamese summary)
-source_file: "raw/articles/Vipassana/S.N Goenka/Living the Life of Dhamma.md"
+source_file: "raw/articles/Vipassana/S.N Goenka/Discourses on Vipassana in Daily Life/Living the Life of Dhamma.md"
 tags: [vipassana, dhamma, sila, samadhi, panna, non-violence, jain, universal-law, tapa]
 topic: vipassana
 ---

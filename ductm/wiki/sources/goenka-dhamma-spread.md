@@ -5,7 +5,7 @@ created: 2026-04-13
 updated: 2026-04-14
 author: "S.N. Goenka"
 language: English (with Vietnamese summary)
-source_file: "raw/articles/Vipassana/S.N Goenka/May Dhamma spread!.md"
+source_file: "raw/articles/Vipassana/S.N Goenka/Discourses on Vipassana in Daily Life/May Dhamma spread!.md"
 tags:
   - vipassana
   - goenka

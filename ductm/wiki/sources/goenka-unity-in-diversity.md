@@ -5,7 +5,7 @@ created: 2026-04-14
 updated: 2026-04-14
 author: "S.N. Goenka"
 language: English (with Vietnamese summary)
-source_file: "raw/articles/Vipassana/S.N Goenka/Vipassana The Practical Path to Unity in Diversity.md"
+source_file: "raw/articles/Vipassana/S.N Goenka/Discourses on Vipassana in Daily Life/Vipassana The Practical Path to Unity in Diversity.md"
 tags: [vipassana, goenka, unity-in-diversity, global-pagoda, asoka, sayagyi-u-ba-khin, non-sectarian, kalapas]
 topic: vipassana
 ---
