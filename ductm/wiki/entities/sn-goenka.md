@@ -2,7 +2,7 @@
 title: "S.N. Goenka"
 type: entity
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-14
 sources:
   - "[[vipassana-day-1]]"
   - "[[vipassana-day-2]]"
@@ -23,6 +23,14 @@ sources:
   - "[[goenka-buddhas-path]]"
   - "[[goenka-dhamma-spread]]"
   - "[[goenka-yoga-vipassana]]"
+  - "[[goenka-first-vipassana-course-india]]"
+  - "[[goenka-all-gratitude-to-myanmar]]"
+  - "[[goenka-vipassana-comes-to-west]]"
+  - "[[goenka-sayagyi-dhamma-mission]]"
+  - "[[goenka-buddha-super-scientist]]"
+  - "[[goenka-inner-peace-world-peace]]"
+  - "[[goenka-freedom-from-addiction]]"
+  - "[[goenka-defend-republic]]"
 tags:
   - vipassana
   - buddhism
@@ -66,6 +74,15 @@ Goenka's signature contribution (theo lời ông, đây cũng là đóng góp c�
 
 > *"Oh builder of the house! Now you are seen."* (First words of Buddha at Enlightenment)
 
+## Lineage
+
+Goenka's Vipassana lineage traces back to the Buddha through Myanmar:
+- **The Buddha** (Siddhattha Gotama, c. 5th century BCE) → oral tradition preserved in Tipiṭaka
+- **[[ledi-sayadaw]]** (1846–1923) — democratized Vipassana for lay practitioners
+- **[[saya-thetgyi]]** (1873–1945) — lay farmer and anāgāmī; first lay teacher trained by Ledi Sayadaw
+- **[[sayagyi-u-ba-khin]]** (1899–1971) — Goenka's direct teacher; Myanmar Accountant General; founded IMC Rangoon 1952
+- **S.N. Goenka** (1924–2013) — brought Vipassana from Myanmar to India (1969) and then to the world
+
 ## References
 
 **10-Day Course Discourses:**
@@ -81,7 +98,22 @@ Goenka's signature contribution (theo lời ông, đây cũng là đóng góp c�
 - [[goenka-dhamma-spread]] — Yangon 2012; dana model, universal formula, Myanmar gratitude
 - [[goenka-yoga-vipassana]] — Bombay 1990; Patanjali Yoga Sutra = Vipassana; 8 jhanas; sampajanna
 
+**Discourse Collections (72 articles):**
+- Discourses on Dhamma (8): [[goenka-dhamma-is-to-be-practised]], [[goenka-dharma-sectarianism]], [[goenka-morality-concentration-wisdom]], [[goenka-essence-of-dhamma]], [[goenka-teaching-of-pure-dhamma]], [[goenka-true-meaning-of-dharma]], [[goenka-universal-path-of-dhamma]], [[goenka-what-is-true-dhamma]]
+- Discourses on Mettā (2): [[goenka-compassionate-goodwill]], [[goenka-essence-of-compassion]]
+- Discourses on Paññā (3): [[goenka-experiential-wisdom-panna]], [[goenka-practicing-purification-of-the-mind]], [[goenka-essence-of-wisdom]]
+- Discourses on Samādhi (7): [[goenka-awareness-of-natural-respiration]], [[goenka-how-to-discipline-the-mind]], [[goenka-living-the-life-of-morality-samadhi]], [[goenka-samma-samadhi]], [[goenka-importance-of-natural-respiration]], [[goenka-importance-of-self-observation]], [[goenka-walk-the-path-yourself]]
+- Discourses on Sīla (3): [[goenka-dhamma-and-non-violence]], [[goenka-living-the-life-of-morality-sila]], [[goenka-sila-foundation-of-dhamma]]
+- Discourses on Tipiṭaka (4): [[goenka-tipitaka-devanagari-presentation]], [[goenka-discovering-buddha-in-tipitaka]], [[goenka-gem-set-in-gold]], [[goenka-research-and-pali-learning]]
+- Spread of Vipassana (9): [[goenka-come-people-of-the-world]], [[goenka-dhamma-decision]], [[goenka-all-gratitude-to-myanmar]], [[goenka-first-vipassana-course-india]], [[goenka-first-course-english]], [[goenka-sayagyi-dhamma-mission]], [[goenka-returning-gem-dhamma]], [[goenka-buddha-teacher-disciple-tradition]], [[goenka-vipassana-comes-to-west]]
+- Vipassana in Society (16): [[goenka-applying-dhamma-in-life]], [[goenka-buddha-super-scientist]], [[goenka-discourse-nasik-jail]], [[goenka-freedom-from-addiction]], [[goenka-hatred-never-ceases]], [[goenka-defend-republic]], [[goenka-inner-peace-world-peace]], [[goenka-interview-jimmy-young]], [[goenka-message-prisoners]], [[goenka-peace-within-oneself]], [[goenka-relief-earthquake]], [[goenka-role-dhamma-society]], [[goenka-universal-spirituality]], [[goenka-vipassana-betterment-society]], [[goenka-vipassana-optimism-realism-workism]], [[goenka-universal-path-dhamma]]
+- Discourses on the Buddha (7): [[goenka-for-happiness-welfare-many]], [[goenka-qualities-triple-gem]], [[goenka-setting-wheel-dhamma]], [[goenka-buddha-noble-physician]], [[goenka-fully-enlightened-tipitaka]], [[goenka-middle-path]], [[goenka-was-buddha-pessimist]]
+- Discourses on the Noble Truths (4): [[goenka-four-noble-truths-discourse]], [[goenka-this-is-dukkha]], [[goenka-way-to-end-dukkha]], [[goenka-why-dukkha]]
+- Discourses on the Teachings of the Buddha (8): [[goenka-dhamma-cakka]], [[goenka-buddhas-teaching-for-all]], [[goenka-two-meditation-techniques]], [[goenka-essence-buddhas-teaching]], [[goenka-first-discourse-buddha]], [[goenka-practical-teaching-buddha]], [[goenka-simple-teaching-buddha]], [[goenka-teaching-pure-dhamma]]
+
 **Topic & Concepts:**
 - [[vipassana]] — Topic hub
 - [[four-noble-truths]], [[dependent-origination]], [[sankara-mental-volition]], [[body-sensation-junction]]
 - [[equanimity-with-sensation]], [[anicca-impermanence]], [[bhavana-maya-panna]]
+- [[sila-samadhi-panna]], [[universal-dhamma]], [[saddhamma]], [[pariyatti-patipatti]]
+- [[anusaya-kilesa]], [[asava]], [[satipatthana]], [[brahmavihara]], [[adhitthana]]

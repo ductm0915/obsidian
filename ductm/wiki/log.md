@@ -689,3 +689,30 @@ Ingest 7 raw articles: 5 bài giảng Goenka chưa có trong wiki (Smith College
 Transcript của cuộc trò chuyện giữa Yuval Noah Harari và Clear Mountain Monastery (Seattle). Ingest 1 source page, 1 entity, 4 concepts mới, cập nhật 2 pages hiện có.
 - Created: [[harari-dhamma-ai-nexus]], [[yuval-noah-harari]], [[intelligence-vs-consciousness]], [[suffering-as-rejection]], [[hackable-humans]], [[information-diet]]
 - Updated: [[four-noble-truths]] (Harari's experiential angle + new source), [[vipassana]] (Harari entity + AI connections section)
+
+## [2026-04-14] ingest | S.N. Goenka Discourse Collections — 72 articles from 13 thematic series
+Batch ingest of 72 S.N. Goenka discourse articles organized into 13 thematic discourse collections. 5 parallel agents processed the articles; consolidation pass updated shared wiki files. Also ingested: Yuval Noah Harari + Alex Hormozi Charlie Munger articles (already processed in earlier session, now committed together).
+
+**Sources created (72 Goenka discourse pages):**
+- Discourses on Dhamma (8): [[goenka-dhamma-is-to-be-practised]], [[goenka-dharma-sectarianism]], [[goenka-morality-concentration-wisdom]], [[goenka-essence-of-dhamma]], [[goenka-teaching-of-pure-dhamma]], [[goenka-true-meaning-of-dharma]], [[goenka-universal-path-of-dhamma]], [[goenka-what-is-true-dhamma]]
+- Discourses on Mettā (2): [[goenka-compassionate-goodwill]], [[goenka-essence-of-compassion]]
+- Discourses on Paññā (3): [[goenka-experiential-wisdom-panna]], [[goenka-practicing-purification-of-the-mind]], [[goenka-essence-of-wisdom]]
+- Discourses on Samādhi (7): [[goenka-awareness-of-natural-respiration]], [[goenka-how-to-discipline-the-mind]], [[goenka-living-the-life-of-morality-samadhi]], [[goenka-samma-samadhi]], [[goenka-importance-of-natural-respiration]], [[goenka-importance-of-self-observation]], [[goenka-walk-the-path-yourself]]
+- Discourses on Sīla (3): [[goenka-dhamma-and-non-violence]], [[goenka-living-the-life-of-morality-sila]], [[goenka-sila-foundation-of-dhamma]]
+- Discourses on Tipiṭaka (4): [[goenka-tipitaka-devanagari-presentation]], [[goenka-discovering-buddha-in-tipitaka]], [[goenka-gem-set-in-gold]], [[goenka-research-and-pali-learning]]
+- Come People of the World (1): [[goenka-come-people-of-the-world]]
+- Spread of Vipassana (8): [[goenka-dhamma-decision]], [[goenka-all-gratitude-to-myanmar]], [[goenka-first-vipassana-course-india]], [[goenka-first-course-english]], [[goenka-sayagyi-dhamma-mission]], [[goenka-returning-gem-dhamma]], [[goenka-buddha-teacher-disciple-tradition]], [[goenka-vipassana-comes-to-west]]
+- Vipassana in Society (16): [[goenka-applying-dhamma-in-life]], [[goenka-buddha-super-scientist]], [[goenka-discourse-nasik-jail]], [[goenka-freedom-from-addiction]], [[goenka-hatred-never-ceases]], [[goenka-defend-republic]], [[goenka-inner-peace-world-peace]], [[goenka-interview-jimmy-young]], [[goenka-message-prisoners]], [[goenka-peace-within-oneself]], [[goenka-relief-earthquake]], [[goenka-role-dhamma-society]], [[goenka-universal-spirituality]], [[goenka-vipassana-betterment-society]], [[goenka-vipassana-optimism-realism-workism]], [[goenka-universal-path-dhamma]]
+- Discourses on the Buddha (7): [[goenka-for-happiness-welfare-many]], [[goenka-qualities-triple-gem]], [[goenka-setting-wheel-dhamma]], [[goenka-buddha-noble-physician]], [[goenka-fully-enlightened-tipitaka]], [[goenka-middle-path]], [[goenka-was-buddha-pessimist]]
+- Discourses on the Noble Truths (4): [[goenka-four-noble-truths-discourse]], [[goenka-this-is-dukkha]], [[goenka-way-to-end-dukkha]], [[goenka-why-dukkha]]
+- Discourses on the Teachings of the Buddha (8): [[goenka-dhamma-cakka]], [[goenka-buddhas-teaching-for-all]], [[goenka-two-meditation-techniques]], [[goenka-essence-buddhas-teaching]], [[goenka-first-discourse-buddha]], [[goenka-practical-teaching-buddha]], [[goenka-simple-teaching-buddha]], [[goenka-teaching-pure-dhamma]]
+
+**Entities created (3):**
+- [[sayagyi-u-ba-khin]] — Goenka's direct teacher; Myanmar Accountant General; IMC founder 1952
+- [[ledi-sayadaw]] — Democratizer of Vipassana for laypeople; root of modern lay lineage
+- [[saya-thetgyi]] — Lay farmer, anāgāmī, trained U Ba Khin
+
+**Concepts created (7):**
+- [[brahmavihara]], [[pariyatti-patipatti]], [[anusaya-kilesa]], [[asava]], [[satipatthana]], [[saddhamma]], [[adhitthana]]
+
+**Updated:** [[sn-goenka]] (added full lineage + 72 new source references), [[index]] (total 583 pages, 239 sources)

@@ -9,12 +9,13 @@ updated: 2026-04-08
 
 Master catalog of all pages in this wiki. Organized by category. The LLM reads this first when answering queries to find relevant pages.
 
-**Total pages:** 487  
-**Total sources ingested:** 166  
+**Total pages:** 583  
+**Total sources ingested:** 239  
 **Last updated:** 2026-04-14  
 **Bilingual update:** 2026-04-14 — All 30 Vipassana files (11 course days EN+VI, 8 Goenka lectures EN+VI summary, 3 Days Vietnamese-only) fully ingested with bilingual content  
 **Newsletter update:** 2026-04-14 — 46 Bản Tin Vipassana (VNL) issues ingested: 2012-12, 2021 (7 issues), 2022 (12), 2023 (12), 2024 (9), 2025 (5)  
-**Ingest batch 2026-04-14:** 5 Goenka standalone lectures + 2 Hormozi/Munger articles → 7 source pages + 5 new concept pages + 2 concept updates
+**Ingest batch 2026-04-14:** 5 Goenka standalone lectures + 2 Hormozi/Munger articles → 7 source pages + 5 new concept pages + 2 concept updates  
+**Ingest batch 2026-04-14 (Discourse Collections):** 72 new Goenka discourse articles from 13 thematic collections → 72 source pages + 3 new entity pages + 7 new concept pages
 
 ---
 
@@ -121,6 +122,103 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[goenka-unity-in-diversity]] — **[EN + Tóm tắt VI]** Vipassana: The Practical Path to Unity in Diversity (Global Pagoda 2006): Buddha as super-scientist, kalapas, Asoka's golden age, U Ba Khin integrity model, only-conversion Vipassana makes (2026-04-14).
 - [[goenka-rites-rituals]] — **[EN + Tóm tắt VI]** Vipassana and Rites & Rituals: Ganges water metaphor, etymology of samayika/kayotsarga/pratikramana/sandhya, why rites cannot coexist with Vipassana during course (2026-04-14).
 
+### Vipassana — S.N. Goenka Discourse Collections
+
+**Discourses on Dhamma:**
+- [[goenka-dhamma-is-to-be-practised]] — Zee TV: Dhamma is worthless without practice; coat/water/food/medicine analogies; purification of mind = Dhamma (2026-04-14).
+- [[goenka-dharma-sectarianism]] — Hyderabad 1993: reclaiming "Dharma" from sectarian corruption; *dhāretī ti dharma*; the sensation chain; Vipassana in Ṛg Veda (2026-04-14).
+- [[goenka-morality-concentration-wisdom]] — Why the Buddha's teaching spread without opposition; three pillars; three kinds of wisdom; King Pukkusāti story (2026-04-14).
+- [[goenka-essence-of-dhamma]] — Zee TV: why intellectual understanding fails; two levels of mind purification; Vipassana's historical journey via Burma (2026-04-14).
+- [[goenka-teaching-of-pure-dhamma]] — 60 Dhamma ambassadors; Dhamma as law of nature; practical results over sermonizing (2026-04-14).
+- [[goenka-true-meaning-of-dharma]] — *Saddhamma* vs. sectarian Dharma; parallels with Guru Nanak's Sikh teachings; *haumai* as root of karma (2026-04-14).
+- [[goenka-universal-path-of-dhamma]] — *Ariya* as qualitative term; full analysis of sīla division of Noble Eightfold Path; doctor story; business ethics (2026-04-14).
+- [[goenka-what-is-true-dhamma]] — Nasik 1998: *parita citta* vs. subconscious; Vinoba Bhave meeting; Maharashtra's 700-year Vipassana history (2026-04-14).
+
+**Discourses on Mettā (Loving Kindness):**
+- [[goenka-compassionate-goodwill]] — Brahmaviharas as fruits of sīla/samādhi/paññā, not independent practices; ego as root obstacle (2026-04-14).
+- [[goenka-essence-of-compassion]] — True compassion requires purified mind; habit of blind reaction vs. saṅkhāras; preconditions for genuine mettā (2026-04-14).
+
+**Discourses on Paññā (Wisdom):**
+- [[goenka-experiential-wisdom-panna]] — Dormant defilements (*anusaya kilesa*); stages of liberation (sotāpatti → arahant); addiction as attachment to sensations (2026-04-14).
+- [[goenka-practicing-purification-of-the-mind]] — Hyderabad 1993: step-by-step breath observation; four parts of mind; biochemical vicious circle (*āśrava*); six sense doors; kalāpas (2026-04-14).
+- [[goenka-essence-of-wisdom]] — The jeweller analogy for wisdom; four foundations of mindfulness; *vedanānupassanā* as central; kalāpas; paññā strengthening sīla (2026-04-14).
+
+**Discourses on Samādhi (Concentration / Anapana):**
+- [[goenka-awareness-of-natural-respiration]] — Mind wanders only in past/future; natural breath as present-moment anchor; the purification "explosion" metaphor (2026-04-14).
+- [[goenka-how-to-discipline-the-mind]] — Traditional concentration methods vs. Vipassana's breath; the breath-defilement link as universal natural law (2026-04-14).
+- [[goenka-living-the-life-of-morality-samadhi]] — Dhamma vs. sectarianism; five precepts; the Duryodhan problem; immediate natural punishment (2026-04-14).
+- [[goenka-samma-samadhi]] — Technical definition of right concentration; cat/soldier/LSD counterexamples; why natural breath meets all criteria (2026-04-14).
+- [[goenka-importance-of-natural-respiration]] — The two fields of the body; breath as the bridge; the two-banks-of-the-river analogy (2026-04-14).
+- [[goenka-importance-of-self-observation]] — Why no word/image may be added to breath; Kabir's ajapā jāpa; Patanjali's "in seeing only seeing"; yathābhūta (2026-04-14).
+- [[goenka-walk-the-path-yourself]] — Personal responsibility for liberation; taming the monkey-mind; the Sāvatthi parable of the Rajagaha path (2026-04-14).
+
+**Discourses on Sīla (Morality):**
+- [[goenka-dhamma-and-non-violence]] — Jain celebration discourse; Mahavira's ahimsa = sīla-samādhi-paññā; you harm yourself first (2026-04-14).
+- [[goenka-living-the-life-of-morality-sila]] — Sīla series: five precepts; immediate natural punishment; morality as prerequisite for Dhamma (2026-04-14).
+- [[goenka-sila-foundation-of-dhamma]] — Why Vipassana must be learned at a center; ocean-bed metaphor; horse-cart problem; noble silence (2026-04-14).
+
+**Discourses on Tipiṭaka — Pāli:**
+- [[goenka-tipitaka-devanagari-presentation]] — Vedanā as the missing link; Goenka's personal story (Gita → Vipassana); Chattha Sangayana; Tipiṭaka publication project (2026-04-14).
+- [[goenka-discovering-buddha-in-tipitaka]] — Rūpakāya vs. Dhamma-kāya; nine Tathāgata epithets; six qualities of the Dhamma; corrects three major misconceptions (2026-04-14).
+- [[goenka-gem-set-in-gold]] — Pariyatti as gem, patipatti as gold setting; Goenka's "golden age" with Sayagyi; proposal for Pāli study at Dhammagiri (2026-04-14).
+- [[goenka-research-and-pali-learning]] — Short concentrated statement: patipatti is always the main aim; pariyatti must serve it (2026-04-14).
+
+**Come People of the World:**
+- [[goenka-come-people-of-the-world]] — Hindi dohas recited during 10-day courses; Days 1–11 in Roman script + English translation; non-sectarian Dhamma invitation (2026-04-14).
+
+**Discourses on Spread of Vipassana:**
+- [[goenka-dhamma-decision]] — Goenka's refusal to travel illegally to Nepal; sīla as prerequisite for Dhamma work; U Ba Khin as moral exemplar (2026-04-14).
+- [[goenka-all-gratitude-to-myanmar]] — Historical essay tracing India-Myanmar Dhamma transmission from Ledi Sayadaw's democratization to Goenka's return in 1969 (2026-04-14).
+- [[goenka-first-vipassana-course-india]] — Personal memoir of first Vipassana course in India (July 3–13, 1969, Bombay, 14 students) (2026-04-14).
+- [[goenka-first-course-english]] — First all-English course at Shanti Kutir, Dalhousie; the tantric skull/kukri incident; U Ba Khin's mettā enabling English fluency (2026-04-14).
+- [[goenka-sayagyi-dhamma-mission]] — Opening address at Dhamma Joti centenary seminar, Burma; full lineage from Buddha to U Ba Khin; adhiṭṭhāna resolved to exact day (2026-04-14).
+- [[goenka-returning-gem-dhamma]] — Short vignette of Goenka's departure from Rangoon Airport in 1969; the customs official and "the jewel of the Dhamma" (2026-04-14).
+- [[goenka-buddha-teacher-disciple-tradition]] — Dhamma Cakka Pavattana Day discourse; eternal universality vs. sectarianism; three benchmarks of genuine Vipassana practice (2026-04-14).
+- [[goenka-vipassana-comes-to-west]] — 1979: Indian citizenship obtained in 72 hours for first Western courses; unauthorized US centre; three-violations definition of adulterated Vipassana (2026-04-14).
+
+**Discourses on Vipassana in Society:**
+- [[goenka-applying-dhamma-in-life]] — Igatpuri 1995: Dhamma as universal law; harming others = harming yourself first; experiential > intellectual (2026-04-14).
+- [[goenka-buddha-super-scientist]] — UN Vesakha 2002: Kālāma Sutta as "first charter of free thought"; vedanā paccayā taṇhā as key discovery; black bull/white bull/rope analogy (2026-04-14).
+- [[goenka-discourse-nasik-jail]] — Nasik Jail 1996: the "double jail"; 20+ Q&A with prisoners; Angulimala story; self-knowledge as liberation (2026-04-14).
+- [[goenka-freedom-from-addiction]] — Dhamma Giri 1989: āsava as biochemical loop; the unconscious-conscious barrier; 10-15 minute urge observation technique (2026-04-14).
+- [[goenka-hatred-never-ceases]] — Post-9/11 message 2001: mettā even for perpetrators; three characteristics made undeniable; Quranic parallel to Dhamma teaching (2026-04-14).
+- [[goenka-defend-republic]] — The Buddha's seven instructions to the Vajji republic; internal discord > external enemies; caste/sectarianism as "lethal poison" (2026-04-14).
+- [[goenka-inner-peace-world-peace]] — UN Millennium World Peace Summit August 2000; redefines "conversion"; Ashoka Rock Edict 12; religion unites or it is nothing (2026-04-14).
+- [[goenka-interview-jimmy-young]] — BBC Radio 2, 2002: 5.5M listeners; Goenka's personal migraine story; Vinoba Bhave's prison challenge (2026-04-14).
+- [[goenka-message-prisoners]] — Tihar Prison 1994: mental prison > physical prison; pure mind naturally fills with infinite mettā (2026-04-14).
+- [[goenka-peace-within-oneself]] — Sarnath Buddha Conference 1998: anusaya (root impurities); Triple Gems as qualities not persons; sugar-in-milk metaphor (2026-04-14).
+- [[goenka-relief-earthquake]] — Gujarat earthquake 2001: kālika dāna before Dhamma dāna; Meena Asher's equanimous death under rubble; art of dying (2026-04-14).
+- [[goenka-role-dhamma-society]] — Igatpuri 1995: Ashokan dhammamatyas as model; elite-first strategy; youth receptivity; scriptures illuminated by practice (2026-04-14).
+- [[goenka-universal-spirituality]] — UN Millennium Summit 2000: shell vs. essence of religion; yoga + Vipassana as India's two universal gifts (2026-04-14).
+- [[goenka-vipassana-betterment-society]] — IIT Delhi 1994: Tihar 1,000-person course; four-part mind mechanism; all religions = same results; beliefs about God irrelevant (2026-04-14).
+- [[goenka-vipassana-optimism-realism-workism]] — Three-boy oil-bottle parable; craving as addiction to sensation not object; observer-at-riverbank stance (2026-04-14).
+- [[goenka-universal-path-dhamma]] — Zee TV (Daily Life version): detailed sīla exposition; *ariya* as qualitative; right livelihood including weapon trade; volition as true yardstick (2026-04-14).
+
+**Discourses on the Buddha:**
+- [[goenka-for-happiness-welfare-many]] — Refutes charge that the Buddha left home selfishly; Bodhisatta motivation; the historic exhortation to 60 arahants (2026-04-14).
+- [[goenka-qualities-triple-gem]] — Systematic Pali breakdown of all qualities of Buddha, Dhamma, and Sangha (2026-04-14).
+- [[goenka-setting-wheel-dhamma]] — 1968 Dhamma letter on Āsādha-pūrṇimā; three Dhamma births; the wheel metaphor (2026-04-14).
+- [[goenka-buddha-noble-physician]] — Vipassana & Ayurveda conference 2005; Four Noble Truths as medical diagnosis; 12-fold verification for Buddhahood (2026-04-14).
+- [[goenka-fully-enlightened-tipitaka]] — Preface to Tipitaka introduction 1995; three types of paññā; Goenka's personal journey (2026-04-14).
+- [[goenka-middle-path]] — Two extremes in ancient India; six years of self-mortification; discovery of the Noble Eightfold Path (2026-04-14).
+- [[goenka-was-buddha-pessimist]] — Refutation of "pessimism" charge; nirodha as complete uprooting; etymology of ariya/noble; four stages of liberation (2026-04-14).
+
+**Discourses on the Noble Truths:**
+- [[goenka-four-noble-truths-discourse]] — Compact overview; Indra's pillar analogy; refutes two common misconceptions (2026-04-14).
+- [[goenka-this-is-dukkha]] — Panoramic view of universal suffering; sensory pleasure as containing shadow of pain; burning house argument (2026-04-14).
+- [[goenka-way-to-end-dukkha]] — Step-by-step Vipassana method; craving/aversion arise at sensation level; layer-by-layer eradication (2026-04-14).
+- [[goenka-why-dukkha]] — Kāmataṇhā amplified by envy; four vivid Indian vignettes; competition as infectious disease; equanimity during work (2026-04-14).
+
+**Discourses on the Teachings of the Buddha:**
+- [[goenka-dhamma-cakka]] — The "golden trap" of intellectualism; pariyatti/patipatti/pativedha framework; three types of paññā (2026-04-14).
+- [[goenka-buddhas-teaching-for-all]] — Teaching for householders, not just monks; three social reforms (animal sacrifice, slavery, caste); Emperor Asoka (2026-04-14).
+- [[goenka-two-meditation-techniques]] — Vipassana and Mettā Bhāvanā; Kisā Gotamī and Paṭācārā case studies; full Pali mettā radiation text; seven benefits (2026-04-14).
+- [[goenka-essence-buddhas-teaching]] — Yangon University 1991; sīla/samādhi/paññā as the essence; Newton/Einstein analogy for Dependent Origination; vibration discovery (2026-04-14).
+- [[goenka-first-discourse-buddha]] — Most detailed account of Dhammacakkappavattana Sutta; full Noble Eightfold Path; 12-fold Noble Truths; Kondañña's attainment (2026-04-14).
+- [[goenka-practical-teaching-buddha]] — Sixty Dhamma ambassadors; three types of wisdom in missionary context; King Pukkusāti of Gandhāra (2026-04-14).
+- [[goenka-simple-teaching-buddha]] — Kālāma Sutta as Goenka's entry point; how blind beliefs destroy rational thinking; ritual bathing as case study (2026-04-14).
+- [[goenka-teaching-pure-dhamma]] — *Atta hi attano nātho*; Dhammapada verses on mind as source of speech/action (2026-04-14).
+
 ### Vipassana — Bản Tin (VNL Newsletter)
 - [[vnl-2012-12]] — Tập 22, Số 13 (12/2012): mettā, danh sách Center Teacher toàn cầu, trách nhiệm lan truyền Dhamma, Quỹ Global Vipassana Pagoda (2026-04-14).
 - [[vnl-2021-01]] — Tập 31, Số 01 (01/2021): kỷ niệm 50 năm ngày mất Sayagyi U Ba Khin, thư Goenka 1969 trước khóa đầu tiên, thiện hữu Dhamma như khởi điểm (2026-04-14).
@@ -195,8 +293,6 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[wit-k07-hon-nhan]] — Nhận Thức Đủ Đầy Về Hôn Nhân: 4 buổi; chữ ký người thân, dòng tộc là vốn, WIT Home (2026-04-12).
 - [[wit-k07-tc-kd-dt]] — Thấu Hiểu Tài Chính · Kinh Doanh · Đầu Tư: 3 buổi; 6 tài khoản, tài khoản trống hồ tâm, hút tiền (2026-04-12).
 - [[wit-pd-thiet-lap-du-an]] — PD K00 Nâng Tầm Thiết Lập Dự Án: 5 buổi trực tiếp Thầy Bảo; stub — image PDF, chưa OCR (2026-04-12).
-- [[goenka-yoga-vipassana]] — Yoga — As Seen in the Light of Vipassana: S.N. Goenka (Bombay 1990); yoga redefined as purification of mind, not body (2026-04-14).
-- [[goenka-dhamma-spread]] — May Dhamma Spread!: S.N. Goenka (Yangon 2012); Dhamma as universal law, non-sectarian, open to all (2026-04-14).
 - [[miner-nepq-black-book]] — NEPQ Black Book of Questions: Jeremy Miner's complete question bank for Neuro-Emotional Persuasion Questioning methodology (2026-04-14).
 
 ## Entities
@@ -229,6 +325,9 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 - [[august-bradley]] — Creator of PPV (Pillars, Pipelines, Vaults) framework; instructor at notionlifedesign.com; runs PPV Pro since 2020.
 - [[sam-ovens]] — New Zealand entrepreneur; founder of Consulting.com ($30M+/year); co-founder of [[skool-platform]]; systems thinker, full-stack mind, elimination-first productivity.
 - [[sn-goenka]] — S.N. Goenka (1924–2013): Vipassana teacher, brought Sayagyi U Ba Khin's technique from Myanmar to global scale; founder of Dhamma Giri network.
+- [[sayagyi-u-ba-khin]] — Sayagyi U Ba Khin (1899–1971): Myanmar Accountant General; Goenka's direct teacher; founded IMC Rangoon 1952; held adhiṭṭhāna that Vipassana would return to India.
+- [[ledi-sayadaw]] — Ledi Sayadaw (1846–1923): Myanmar monk who democratized Vipassana for laypeople; root of the entire modern lay Vipassana lineage.
+- [[saya-thetgyi]] — Saya Thetgyi (1873–1945): Myanmar lay farmer and anāgāmī; trained by Ledi Sayadaw; taught Sayagyi U Ba Khin.
 - [[yuval-noah-harari]] — Historian, author (*Sapiens/Homo Deus/Nexus*), long-term Goenka Vipassana practitioner; bridges meditation with AI/consciousness discourse.
 
 ### WIT Entities
@@ -522,6 +621,15 @@ Master catalog of all pages in this wiki. Organized by category. The LLM reads t
 ### Vipassana Concepts (Additional — Round 2)
 - [[inner-core-outer-shell]] — Inner Core vs. Outer Shell: Goenka's framework; all religions share an inner core of morality/love; outer shell = rites/dogmas; fundamentalism = shell dominates (2026-04-14).
 - [[occupational-absorption]] — Occupational Absorption: caregivers absorb client suffering through vibration resonance; the latent-seed activation mechanism; 10-min Vipassana reset protocol (2026-04-14).
+
+### Vipassana Concepts (Discourse Collections Batch)
+- [[brahmavihara]] — Brahmavihāra: four sublime states (mettā/karuṇā/muditā/upekkhā) as fruits of sīla-samādhi-paññā, not standalone practices; ego as root obstacle (2026-04-14).
+- [[pariyatti-patipatti]] — Pariyatti (study) and Paṭipatti (practice): two halves of Dhamma; the "gem set in gold" — practice is the setting that gives study its value; pativedha as realization (2026-04-14).
+- [[anusaya-kilesa]] — Anusaya Kilesa: dormant root-level defilements in the deep unconscious; like sleeping volcanoes; only Vipassana paññā can eradicate them at the root (2026-04-14).
+- [[asava]] — Āsava: mental fermentations/outflows; the biochemical feedback loop of craving; Vipassana breaks the cycle by equanimous observation (2026-04-14).
+- [[satipatthana]] — Satipaṭṭhāna: four foundations of mindfulness (body/sensations/mind/mental objects); vedanānupassanā is the gateway foundation for liberation (2026-04-14).
+- [[saddhamma]] — Saddhamma: "True Dhamma"; the Buddha's adjective for universal, experiential, non-sectarian Dhamma, contrasted with sectarian sampradāya (2026-04-14).
+- [[adhitthana]] — Adhiṭṭhāna: strong determination; sittings of strong determination in Vipassana courses; Goenka's founding story and U Ba Khin's "Dhamma wish" fulfilled (2026-04-14).
 
 ### Business / Hormozi (Additional)
 - [[hormozi-money-levels]] — Hormozi 6 Levels of Making Money: compensation structures from W2 to tax-collector/risk-seller; risk borne = upside earned (2026-04-14).
